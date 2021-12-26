@@ -1,3 +1,7 @@
+# local package
+-e .
+
+# external requirements
 appdirs==1.4.4
 argh==0.26.2
 arrow==0.13.1
