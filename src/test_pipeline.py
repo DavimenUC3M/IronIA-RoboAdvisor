@@ -89,7 +89,7 @@ def test_rolling(weights_dict,test,budget=1,verbose=True):
 
     return returns 
 
-def test_pipeline(train,test,samples=0,min_weight=0,add_leftovers=False,method="CVaR",market_neutral=False,risk=0.05,budget=100000,gamma=0.5,rs=40,verbose=True):
+def test_pipeline(train,test,samples=0,min_weight=0,add_leftovers=True,method="CVaR",market_neutral=False,risk=0.05,budget=100000,gamma=0.5,rs=40,verbose=True):
     
     if samples !=0:
         train_ = train.sample(n=samples,axis=1,random_state=rs)
@@ -150,7 +150,7 @@ def test_pipeline(train,test,samples=0,min_weight=0,add_leftovers=False,method="
 
 
 def Hierarchical_Computing(train,test,n_steps=2,min_weight=0,add_leftovers=True,split_size=100,print_every=50,
-                           market_neutral=False,method="CVaR",budget=100,risk=0.005,gamma=0.1,verbose=True):
+                           market_neutral=False,method="CVaR",budget=100,risk=0.005,gamma=0.2,verbose=True):
     
     for step in range(0,n_steps):
           
