@@ -1,0 +1,14 @@
+Method,Expected annual return %,Number of funds,Test return %,Variance
+Random_di1,-,1,13.94,104.99
+Random_di30,-,30,13.59,4.22
+CVaR_r0.5,8.3,25,18.87,-
+CVaR_r5,10.5,20,20.21,-
+CVaR_r30,12,19,20.98,-
+CVaR_r50,12.4,19,21.52,-
+CDaR_r0.5,8.1,28,19.59,-
+CDaR_r5,10.2,21,20.1,-
+CDaR_r30,11.9,19,21,-
+CDaR_r50,12.3,20,21.45,-
+max_sharpe,6.6,13,10.07,-
+MAD,-,8,22.42,-
+ML,-,9,10.79,-

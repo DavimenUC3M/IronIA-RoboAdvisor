@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Json database key
+
+data/ironia-data-dfc6335a0abe.json
