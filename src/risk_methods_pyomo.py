@@ -21,9 +21,9 @@ def pyomo(portfolio,rsk_metric,risk=0.05,verbose=True): # rsk_metric = CVaR, CDa
     prices_df_main = portfolio.copy()
     N = len(prices_df_main.columns)
 
-    betas = np.random.normal(0, 0.01, N)
+    #betas = np.random.normal(0, 0.01, N)
 
-    with open('working_dates.txt') as f:
+    with open('data/working_dates.txt') as f:
         contents = f.read()
 
     dates_ = contents.split("\n")[1:-1] #Working dates for train
@@ -118,15 +118,15 @@ def pyomo(portfolio,rsk_metric,risk=0.05,verbose=True): # rsk_metric = CVaR, CDa
             return -sum(rate_return_df.loc[date][i] *model.x[i] for i in model.Weights ) <= model.w[0]
         model.cons2_ML = Constraint(model.Y,rule = c5_MaxLoss)  
 
-    K = 0.001
-    def market_neutral_upper(model): 
-        return sum(model.x[i]*betas[i] for i in model.Weights) <= K
-    model.cons2 = Constraint(rule=market_neutral_upper)
+    # K = 0.001
+    # def market_neutral_upper(model): 
+    #     return sum(model.x[i]*betas[i] for i in model.Weights) <= K
+    # model.cons2 = Constraint(rule=market_neutral_upper)
 
-    def market_neutral_lower(model): 
-        return sum(model.x[i]*betas[i] for i in model.Weights) >= -K
+    # def market_neutral_lower(model): 
+    #     return sum(model.x[i]*betas[i] for i in model.Weights) >= -K
 
-    model.cons3 = Constraint(rule=market_neutral_lower)
+    # model.cons3 = Constraint(rule=market_neutral_lower)
 
     Results = SolverFactory('cplex').solve(model)
 
