@@ -1,0 +1,2032 @@
+,name,full_name,base,base_name,second,second_name
+0,USD/AED,USD/AED - US Dollar UAE Dirham,USD,US Dollar,AED,UAE Dirham
+1,AED/JPY,AED/JPY - UAE Dirham Japanese Yen,AED,UAE Dirham,JPY,Japanese Yen
+2,AED/PKR,AED/PKR - UAE Dirham Pakistani Rupee,AED,UAE Dirham,PKR,Pakistani Rupee
+3,CAD/AED,CAD/AED - Canadian Dollar UAE Dirham,CAD,Canadian Dollar,AED,UAE Dirham
+4,CHF/AED,CHF/AED - Swiss Franc UAE Dirham,CHF,Swiss Franc,AED,UAE Dirham
+5,DKK/AED,DKK/AED - Danish Krone UAE Dirham,DKK,Danish Krone,AED,UAE Dirham
+6,EUR/AED,EUR/AED - Euro UAE Dirham,EUR,Euro,AED,UAE Dirham
+7,GBP/AED,GBP/AED - British Pound UAE Dirham,GBP,British Pound,AED,UAE Dirham
+8,JPY/AED,JPY/AED - Japanese Yen UAE Dirham,JPY,Japanese Yen,AED,UAE Dirham
+9,AED/ARS,AED/ARS - UAE Dirham Argentinian Peso,AED,UAE Dirham,ARS,Argentinian Peso
+10,AED/AUD,AED/AUD - UAE Dirham Australian Dollar,AED,UAE Dirham,AUD,Australian Dollar
+11,AED/BRL,AED/BRL - UAE Dirham Brazil Real,AED,UAE Dirham,BRL,Brazil Real
+12,AED/CAD,AED/CAD - UAE Dirham Canadian Dollar,AED,UAE Dirham,CAD,Canadian Dollar
+13,AED/CHF,AED/CHF - UAE Dirham Swiss Franc,AED,UAE Dirham,CHF,Swiss Franc
+14,AED/CLP,AED/CLP - UAE Dirham Chilean Peso,AED,UAE Dirham,CLP,Chilean Peso
+15,AED/CNY,AED/CNY - UAE Dirham Chinese Yuan,AED,UAE Dirham,CNY,Chinese Yuan
+16,AED/CZK,AED/CZK - UAE Dirham Czech Koruna,AED,UAE Dirham,CZK,Czech Koruna
+17,AED/DKK,AED/DKK - UAE Dirham Danish Krone,AED,UAE Dirham,DKK,Danish Krone
+18,AED/EUR,AED/EUR - UAE Dirham Euro,AED,UAE Dirham,EUR,Euro
+19,AED/GBP,AED/GBP - UAE Dirham British Pound,AED,UAE Dirham,GBP,British Pound
+20,AED/HKD,AED/HKD - UAE Dirham Hong Kong Dollar,AED,UAE Dirham,HKD,Hong Kong Dollar
+21,AED/HUF,AED/HUF - UAE Dirham Hungarian Forint,AED,UAE Dirham,HUF,Hungarian Forint
+22,AED/ILS,AED/ILS - UAE Dirham Israeli Shekel,AED,UAE Dirham,ILS,Israeli Shekel
+23,AED/INR,AED/INR - UAE Dirham Indian Rupee,AED,UAE Dirham,INR,Indian Rupee
+24,AED/ISK,AED/ISK - UAE Dirham Icelandic Kr,AED,UAE Dirham,ISK,Icelandic Kr
+25,AED/KRW,AED/KRW - UAE Dirham Korean Won,AED,UAE Dirham,KRW,Korean Won
+26,AED/MAD,AED/MAD - UAE Dirham Moroccan Dirham,AED,UAE Dirham,MAD,Moroccan Dirham
+27,AED/MXN,AED/MXN - UAE Dirham Mexican Peso,AED,UAE Dirham,MXN,Mexican Peso
+28,AED/NOK,AED/NOK - UAE Dirham Norwegian Krone,AED,UAE Dirham,NOK,Norwegian Krone
+29,AED/NZD,AED/NZD - UAE Dirham New Zealand Dollar,AED,UAE Dirham,NZD,New Zealand Dollar
+30,AED/PHP,AED/PHP - UAE Dirham Philippine Peso,AED,UAE Dirham,PHP,Philippine Peso
+31,AED/PLN,AED/PLN - UAE Dirham Polish Zloty,AED,UAE Dirham,PLN,Polish Zloty
+32,AED/RUB,AED/RUB - UAE Dirham Russian Ruble,AED,UAE Dirham,RUB,Russian Ruble
+33,AED/SAR,AED/SAR - UAE Dirham Saudi Riyal,AED,UAE Dirham,SAR,Saudi Riyal
+34,AED/SEK,AED/SEK - UAE Dirham Swedish Krona,AED,UAE Dirham,SEK,Swedish Krona
+35,AED/SGD,AED/SGD - UAE Dirham Singapore Dollar,AED,UAE Dirham,SGD,Singapore Dollar
+36,AED/THB,AED/THB - UAE Dirham Thai Baht,AED,UAE Dirham,THB,Thai Baht
+37,AED/TRY,AED/TRY - UAE Dirham Turkish Lira,AED,UAE Dirham,TRY,Turkish Lira
+38,AED/USD,AED/USD - UAE Dirham US Dollar,AED,UAE Dirham,USD,US Dollar
+39,AED/VES,AED/VES - UAE Dirham Venezuelan Bolivar,AED,UAE Dirham,VES,Venezuelan Bolivar
+40,AED/XAF,AED/XAF - UAE Dirham Central African Franc,AED,UAE Dirham,XAF,Central African Franc
+41,AED/XCD,AED/XCD - UAE Dirham East Caribbean Dollar,AED,UAE Dirham,XCD,East Caribbean Dollar
+42,AED/ZAR,AED/ZAR - UAE Dirham South African Rand,AED,UAE Dirham,ZAR,South African Rand
+43,AED/BBD,AED/BBD - UAE Dirham Barbadian Dollar,AED,UAE Dirham,BBD,Barbadian Dollar
+44,AED/BHD,AED/BHD - UAE Dirham Baharain Dinar,AED,UAE Dirham,BHD,Baharain Dinar
+45,AED/JOD,AED/JOD - UAE Dirham Jordan Dinar,AED,UAE Dirham,JOD,Jordan Dinar
+46,AED/NAD,AED/NAD - UAE Dirham Namibian Dollar,AED,UAE Dirham,NAD,Namibian Dollar
+47,AED/OMR,AED/OMR - UAE Dirham Omani Rial,AED,UAE Dirham,OMR,Omani Rial
+48,AED/QAR,AED/QAR - UAE Dirham Qatari Riyal,AED,UAE Dirham,QAR,Qatari Riyal
+49,AED/JMD,AED/JMD - UAE Dirham Jamaican Dollar,AED,UAE Dirham,JMD,Jamaican Dollar
+50,AED/KES,AED/KES - UAE Dirham Kenyan Shilling,AED,UAE Dirham,KES,Kenyan Shilling
+51,AED/LKR,AED/LKR - UAE Dirham Sri Lankan Rupee,AED,UAE Dirham,LKR,Sri Lankan Rupee
+52,AED/RON,AED/RON - UAE Dirham Romanian Leu,AED,UAE Dirham,RON,Romanian Leu
+53,AED/LBP,AED/LBP - UAE Dirham Lebanese Pound,AED,UAE Dirham,LBP,Lebanese Pound
+54,AED/NPR,AED/NPR - UAE Dirham Nepalese Rupee,AED,UAE Dirham,NPR,Nepalese Rupee
+55,AED/PAB,AED/PAB - UAE Dirham Panamanian Balboa,AED,UAE Dirham,PAB,Panamanian Balboa
+56,AED/EGP,AED/EGP - UAE Dirham Egyptian Pound,AED,UAE Dirham,EGP,Egyptian Pound
+57,AED/IDR,AED/IDR - UAE Dirham Indonesian Rupiah,AED,UAE Dirham,IDR,Indonesian Rupiah
+58,AED/TWD,AED/TWD - UAE Dirham Taiwan Dollar,AED,UAE Dirham,TWD,Taiwan Dollar
+59,AED/MYR,AED/MYR - UAE Dirham Malaysian Ringgit,AED,UAE Dirham,MYR,Malaysian Ringgit
+60,AED/XOF,AED/XOF - UAE Dirham West African CFA franc,AED,UAE Dirham,XOF,West African CFA franc
+61,ARS/AED,ARS/AED - Argentinian Peso UAE Dirham,ARS,Argentinian Peso,AED,UAE Dirham
+62,AUD/AED,AUD/AED - Australian Dollar UAE Dirham,AUD,Australian Dollar,AED,UAE Dirham
+63,BRL/AED,BRL/AED - Brazil Real UAE Dirham,BRL,Brazil Real,AED,UAE Dirham
+64,CNY/AED,CNY/AED - Chinese Yuan UAE Dirham,CNY,Chinese Yuan,AED,UAE Dirham
+65,HKD/AED,HKD/AED - Hong Kong Dollar UAE Dirham,HKD,Hong Kong Dollar,AED,UAE Dirham
+66,ILS/AED,ILS/AED - Israeli Shekel UAE Dirham,ILS,Israeli Shekel,AED,UAE Dirham
+67,MXN/AED,MXN/AED - Mexican Peso UAE Dirham,MXN,Mexican Peso,AED,UAE Dirham
+68,NOK/AED,NOK/AED - Norwegian Krone UAE Dirham,NOK,Norwegian Krone,AED,UAE Dirham
+69,NZD/AED,NZD/AED - New Zealand Dollar UAE Dirham,NZD,New Zealand Dollar,AED,UAE Dirham
+70,PLN/AED,PLN/AED - Polish Zloty UAE Dirham,PLN,Polish Zloty,AED,UAE Dirham
+71,RUB/AED,RUB/AED - Russian Ruble UAE Dirham,RUB,Russian Ruble,AED,UAE Dirham
+72,SAR/AED,SAR/AED - Saudi Riyal UAE Dirham,SAR,Saudi Riyal,AED,UAE Dirham
+73,SEK/AED,SEK/AED - Swedish Krona UAE Dirham,SEK,Swedish Krona,AED,UAE Dirham
+74,SGD/AED,SGD/AED - Singapore Dollar UAE Dirham,SGD,Singapore Dollar,AED,UAE Dirham
+75,THB/AED,THB/AED - Thai Baht UAE Dirham,THB,Thai Baht,AED,UAE Dirham
+76,TRY/AED,TRY/AED - Turkish Lira UAE Dirham,TRY,Turkish Lira,AED,UAE Dirham
+77,TWD/AED,TWD/AED - Taiwan Dollar UAE Dirham,TWD,Taiwan Dollar,AED,UAE Dirham
+78,VES/AED,VES/AED - Venezuelan Bolivar UAE Dirham,VES,Venezuelan Bolivar,AED,UAE Dirham
+79,ZAR/AED,ZAR/AED - South African Rand UAE Dirham,ZAR,South African Rand,AED,UAE Dirham
+80,AED/KWD,AED/KWD - UAE Dirham Kuwaiti Dinar,AED,UAE Dirham,KWD,Kuwaiti Dinar
+81,EGP/AED,EGP/AED - Egyptian Pound UAE Dirham,EGP,Egyptian Pound,AED,UAE Dirham
+82,KWD/AED,KWD/AED - Kuwaiti Dinar UAE Dirham,KWD,Kuwaiti Dinar,AED,UAE Dirham
+83,JOD/AED,JOD/AED - Jordan Dinar UAE Dirham,JOD,Jordan Dinar,AED,UAE Dirham
+84,EUR/AFN,EUR/AFN - Euro Afghanistan Afghani,EUR,Euro,AFN,Afghanistan Afghani
+85,USD/AFN,USD/AFN - US Dollar Afghanistan Afghani,USD,US Dollar,AFN,Afghanistan Afghani
+86,AFN/USD,AFN/USD - Afghanistan Afghani US Dollar,AFN,Afghanistan Afghani,USD,US Dollar
+87,EUR/ALL,EUR/ALL - Euro Albanian Lek,EUR,Euro,ALL,Albanian Lek
+88,GBP/ALL,GBP/ALL - British Pound Albanian Lek,GBP,British Pound,ALL,Albanian Lek
+89,USD/ALL,USD/ALL - US Dollar Albanian Lek,USD,US Dollar,ALL,Albanian Lek
+90,USD/AMD,USD/AMD - US Dollar Armenian Dram,USD,US Dollar,AMD,Armenian Dram
+91,EUR/AMD,EUR/AMD - Euro Armenian Dram,EUR,Euro,AMD,Armenian Dram
+92,RUB/AMD,RUB/AMD - Russian Ruble Armenian Dram,RUB,Russian Ruble,AMD,Armenian Dram
+93,AMD/RUB,AMD/RUB - Armenian Dram Russian Ruble,AMD,Armenian Dram,RUB,Russian Ruble
+94,EUR/ANG,EUR/ANG - Euro Antilles Guilder,EUR,Euro,ANG,Antilles Guilder
+95,USD/ANG,USD/ANG - US Dollar Antilles Guilder,USD,US Dollar,ANG,Antilles Guilder
+96,USD/AOA,USD/AOA - US Dollar Angolan kwanza,USD,US Dollar,AOA,Angolan kwanza
+97,EUR/AOA,EUR/AOA - Euro Angolan kwanza,EUR,Euro,AOA,Angolan kwanza
+98,ARS/BRL,ARS/BRL - Argentinian Peso Brazil Real,ARS,Argentinian Peso,BRL,Brazil Real
+99,ARS/HKD,ARS/HKD - Argentinian Peso Hong Kong Dollar,ARS,Argentinian Peso,HKD,Hong Kong Dollar
+100,ARS/JPY,ARS/JPY - Argentinian Peso Japanese Yen,ARS,Argentinian Peso,JPY,Japanese Yen
+101,ARS/MXN,ARS/MXN - Argentinian Peso Mexican Peso,ARS,Argentinian Peso,MXN,Mexican Peso
+102,AUD/ARS,AUD/ARS - Australian Dollar Argentinian Peso,AUD,Australian Dollar,ARS,Argentinian Peso
+103,BRL/ARS,BRL/ARS - Brazil Real Argentinian Peso,BRL,Brazil Real,ARS,Argentinian Peso
+104,CAD/ARS,CAD/ARS - Canadian Dollar Argentinian Peso,CAD,Canadian Dollar,ARS,Argentinian Peso
+105,CHF/ARS,CHF/ARS - Swiss Franc Argentinian Peso,CHF,Swiss Franc,ARS,Argentinian Peso
+106,EUR/ARS,EUR/ARS - Euro Argentinian Peso,EUR,Euro,ARS,Argentinian Peso
+107,GBP/ARS,GBP/ARS - British Pound Argentinian Peso,GBP,British Pound,ARS,Argentinian Peso
+108,HKD/ARS,HKD/ARS - Hong Kong Dollar Argentinian Peso,HKD,Hong Kong Dollar,ARS,Argentinian Peso
+109,JPY/ARS,JPY/ARS - Japanese Yen Argentinian Peso,JPY,Japanese Yen,ARS,Argentinian Peso
+110,SGD/ARS,SGD/ARS - Singapore Dollar Argentinian Peso,SGD,Singapore Dollar,ARS,Argentinian Peso
+111,USD/ARS,USD/ARS - US Dollar Argentinian Peso,USD,US Dollar,ARS,Argentinian Peso
+112,ARS/AUD,ARS/AUD - Argentinian Peso Australian Dollar,ARS,Argentinian Peso,AUD,Australian Dollar
+113,ARS/CAD,ARS/CAD - Argentinian Peso Canadian Dollar,ARS,Argentinian Peso,CAD,Canadian Dollar
+114,ARS/CHF,ARS/CHF - Argentinian Peso Swiss Franc,ARS,Argentinian Peso,CHF,Swiss Franc
+115,ARS/CLP,ARS/CLP - Argentinian Peso Chilean Peso,ARS,Argentinian Peso,CLP,Chilean Peso
+116,ARS/CNY,ARS/CNY - Argentinian Peso Chinese Yuan,ARS,Argentinian Peso,CNY,Chinese Yuan
+117,ARS/CZK,ARS/CZK - Argentinian Peso Czech Koruna,ARS,Argentinian Peso,CZK,Czech Koruna
+118,ARS/DKK,ARS/DKK - Argentinian Peso Danish Krone,ARS,Argentinian Peso,DKK,Danish Krone
+119,ARS/EUR,ARS/EUR - Argentinian Peso Euro,ARS,Argentinian Peso,EUR,Euro
+120,ARS/GBP,ARS/GBP - Argentinian Peso British Pound,ARS,Argentinian Peso,GBP,British Pound
+121,ARS/HUF,ARS/HUF - Argentinian Peso Hungarian Forint,ARS,Argentinian Peso,HUF,Hungarian Forint
+122,ARS/ILS,ARS/ILS - Argentinian Peso Israeli Shekel,ARS,Argentinian Peso,ILS,Israeli Shekel
+123,ARS/INR,ARS/INR - Argentinian Peso Indian Rupee,ARS,Argentinian Peso,INR,Indian Rupee
+124,ARS/ISK,ARS/ISK - Argentinian Peso Icelandic Kr,ARS,Argentinian Peso,ISK,Icelandic Kr
+125,ARS/KRW,ARS/KRW - Argentinian Peso Korean Won,ARS,Argentinian Peso,KRW,Korean Won
+126,ARS/MAD,ARS/MAD - Argentinian Peso Moroccan Dirham,ARS,Argentinian Peso,MAD,Moroccan Dirham
+127,ARS/NOK,ARS/NOK - Argentinian Peso Norwegian Krone,ARS,Argentinian Peso,NOK,Norwegian Krone
+128,ARS/NZD,ARS/NZD - Argentinian Peso New Zealand Dollar,ARS,Argentinian Peso,NZD,New Zealand Dollar
+129,ARS/PHP,ARS/PHP - Argentinian Peso Philippine Peso,ARS,Argentinian Peso,PHP,Philippine Peso
+130,ARS/PKR,ARS/PKR - Argentinian Peso Pakistani Rupee,ARS,Argentinian Peso,PKR,Pakistani Rupee
+131,ARS/PLN,ARS/PLN - Argentinian Peso Polish Zloty,ARS,Argentinian Peso,PLN,Polish Zloty
+132,ARS/RUB,ARS/RUB - Argentinian Peso Russian Ruble,ARS,Argentinian Peso,RUB,Russian Ruble
+133,ARS/SAR,ARS/SAR - Argentinian Peso Saudi Riyal,ARS,Argentinian Peso,SAR,Saudi Riyal
+134,ARS/SEK,ARS/SEK - Argentinian Peso Swedish Krona,ARS,Argentinian Peso,SEK,Swedish Krona
+135,ARS/SGD,ARS/SGD - Argentinian Peso Singapore Dollar,ARS,Argentinian Peso,SGD,Singapore Dollar
+136,ARS/THB,ARS/THB - Argentinian Peso Thai Baht,ARS,Argentinian Peso,THB,Thai Baht
+137,ARS/TRY,ARS/TRY - Argentinian Peso Turkish Lira,ARS,Argentinian Peso,TRY,Turkish Lira
+138,ARS/USD,ARS/USD - Argentinian Peso US Dollar,ARS,Argentinian Peso,USD,US Dollar
+139,ARS/VES,ARS/VES - Argentinian Peso Venezuelan Bolivar,ARS,Argentinian Peso,VES,Venezuelan Bolivar
+140,ARS/XAF,ARS/XAF - Argentinian Peso Central African Franc,ARS,Argentinian Peso,XAF,Central African Franc
+141,ARS/XCD,ARS/XCD - Argentinian Peso East Caribbean Dollar,ARS,Argentinian Peso,XCD,East Caribbean Dollar
+142,ARS/ZAR,ARS/ZAR - Argentinian Peso South African Rand,ARS,Argentinian Peso,ZAR,South African Rand
+143,ARS/BBD,ARS/BBD - Argentinian Peso Barbadian Dollar,ARS,Argentinian Peso,BBD,Barbadian Dollar
+144,ARS/BHD,ARS/BHD - Argentinian Peso Baharain Dinar,ARS,Argentinian Peso,BHD,Baharain Dinar
+145,ARS/JOD,ARS/JOD - Argentinian Peso Jordan Dinar,ARS,Argentinian Peso,JOD,Jordan Dinar
+146,ARS/NAD,ARS/NAD - Argentinian Peso Namibian Dollar,ARS,Argentinian Peso,NAD,Namibian Dollar
+147,ARS/OMR,ARS/OMR - Argentinian Peso Omani Rial,ARS,Argentinian Peso,OMR,Omani Rial
+148,ARS/QAR,ARS/QAR - Argentinian Peso Qatari Riyal,ARS,Argentinian Peso,QAR,Qatari Riyal
+149,ARS/JMD,ARS/JMD - Argentinian Peso Jamaican Dollar,ARS,Argentinian Peso,JMD,Jamaican Dollar
+150,ARS/KES,ARS/KES - Argentinian Peso Kenyan Shilling,ARS,Argentinian Peso,KES,Kenyan Shilling
+151,ARS/LKR,ARS/LKR - Argentinian Peso Sri Lankan Rupee,ARS,Argentinian Peso,LKR,Sri Lankan Rupee
+152,ARS/RON,ARS/RON - Argentinian Peso Romanian Leu,ARS,Argentinian Peso,RON,Romanian Leu
+153,ARS/LBP,ARS/LBP - Argentinian Peso Lebanese Pound,ARS,Argentinian Peso,LBP,Lebanese Pound
+154,ARS/NPR,ARS/NPR - Argentinian Peso Nepalese Rupee,ARS,Argentinian Peso,NPR,Nepalese Rupee
+155,ARS/PAB,ARS/PAB - Argentinian Peso Panamanian Balboa,ARS,Argentinian Peso,PAB,Panamanian Balboa
+156,ARS/EGP,ARS/EGP - Argentinian Peso Egyptian Pound,ARS,Argentinian Peso,EGP,Egyptian Pound
+157,ARS/IDR,ARS/IDR - Argentinian Peso Indonesian Rupiah,ARS,Argentinian Peso,IDR,Indonesian Rupiah
+158,ARS/MYR,ARS/MYR - Argentinian Peso Malaysian Ringgit,ARS,Argentinian Peso,MYR,Malaysian Ringgit
+159,ARS/XOF,ARS/XOF - Argentinian Peso West African CFA franc,ARS,Argentinian Peso,XOF,West African CFA franc
+160,ARS/TWD,ARS/TWD - Argentinian Peso Taiwan Dollar,ARS,Argentinian Peso,TWD,Taiwan Dollar
+161,CNY/ARS,CNY/ARS - Chinese Yuan Argentinian Peso,CNY,Chinese Yuan,ARS,Argentinian Peso
+162,DKK/ARS,DKK/ARS - Danish Krone Argentinian Peso,DKK,Danish Krone,ARS,Argentinian Peso
+163,ILS/ARS,ILS/ARS - Israeli Shekel Argentinian Peso,ILS,Israeli Shekel,ARS,Argentinian Peso
+164,MXN/ARS,MXN/ARS - Mexican Peso Argentinian Peso,MXN,Mexican Peso,ARS,Argentinian Peso
+165,NOK/ARS,NOK/ARS - Norwegian Krone Argentinian Peso,NOK,Norwegian Krone,ARS,Argentinian Peso
+166,NZD/ARS,NZD/ARS - New Zealand Dollar Argentinian Peso,NZD,New Zealand Dollar,ARS,Argentinian Peso
+167,PLN/ARS,PLN/ARS - Polish Zloty Argentinian Peso,PLN,Polish Zloty,ARS,Argentinian Peso
+168,RUB/ARS,RUB/ARS - Russian Ruble Argentinian Peso,RUB,Russian Ruble,ARS,Argentinian Peso
+169,SAR/ARS,SAR/ARS - Saudi Riyal Argentinian Peso,SAR,Saudi Riyal,ARS,Argentinian Peso
+170,SEK/ARS,SEK/ARS - Swedish Krona Argentinian Peso,SEK,Swedish Krona,ARS,Argentinian Peso
+171,THB/ARS,THB/ARS - Thai Baht Argentinian Peso,THB,Thai Baht,ARS,Argentinian Peso
+172,TRY/ARS,TRY/ARS - Turkish Lira Argentinian Peso,TRY,Turkish Lira,ARS,Argentinian Peso
+173,TWD/ARS,TWD/ARS - Taiwan Dollar Argentinian Peso,TWD,Taiwan Dollar,ARS,Argentinian Peso
+174,VES/ARS,VES/ARS - Venezuelan Bolivar Argentinian Peso,VES,Venezuelan Bolivar,ARS,Argentinian Peso
+175,ZAR/ARS,ZAR/ARS - South African Rand Argentinian Peso,ZAR,South African Rand,ARS,Argentinian Peso
+176,ARS/PYG,ARS/PYG - Argentinian Peso Paraguayan Guarani,ARS,Argentinian Peso,PYG,Paraguayan Guarani
+177,ARS/UYU,ARS/UYU - Argentinian Peso Uruguayan Peso,ARS,Argentinian Peso,UYU,Uruguayan Peso
+178,ARS/COP,ARS/COP - Argentinian Peso Colombian Peso,ARS,Argentinian Peso,COP,Colombian Peso
+179,ARS/PEN,ARS/PEN - Argentinian Peso Peru Sol,ARS,Argentinian Peso,PEN,Peru Sol
+180,ARS/BOB,ARS/BOB - Argentinian Peso Bolivian Boliviano,ARS,Argentinian Peso,BOB,Bolivian Boliviano
+181,CLP/ARS,CLP/ARS - Chilean Peso Argentinian Peso,CLP,Chilean Peso,ARS,Argentinian Peso
+182,PYG/ARS,PYG/ARS - Paraguayan Guarani Argentinian Peso,PYG,Paraguayan Guarani,ARS,Argentinian Peso
+183,UYU/ARS,UYU/ARS - Uruguayan Peso Argentinian Peso,UYU,Uruguayan Peso,ARS,Argentinian Peso
+184,COP/ARS,COP/ARS - Colombian Peso Argentinian Peso,COP,Colombian Peso,ARS,Argentinian Peso
+185,PEN/ARS,PEN/ARS - Peru Sol Argentinian Peso,PEN,Peru Sol,ARS,Argentinian Peso
+186,BOB/ARS,BOB/ARS - Bolivian Boliviano Argentinian Peso,BOB,Bolivian Boliviano,ARS,Argentinian Peso
+187,AUD/USD,AUD/USD - Australian Dollar US Dollar,AUD,Australian Dollar,USD,US Dollar
+188,EUR/AUD,EUR/AUD - Euro Australian Dollar,EUR,Euro,AUD,Australian Dollar
+189,AUD/CAD,AUD/CAD - Australian Dollar Canadian Dollar,AUD,Australian Dollar,CAD,Canadian Dollar
+190,AUD/CHF,AUD/CHF - Australian Dollar Swiss Franc,AUD,Australian Dollar,CHF,Swiss Franc
+191,AUD/JPY,AUD/JPY - Australian Dollar Japanese Yen,AUD,Australian Dollar,JPY,Japanese Yen
+192,AUD/NZD,AUD/NZD - Australian Dollar New Zealand Dollar,AUD,Australian Dollar,NZD,New Zealand Dollar
+193,GBP/AUD,GBP/AUD - British Pound Australian Dollar,GBP,British Pound,AUD,Australian Dollar
+194,AUD/PLN,AUD/PLN - Australian Dollar Polish Zloty,AUD,Australian Dollar,PLN,Polish Zloty
+195,AUD/NOK,AUD/NOK - Australian Dollar Norwegian Krone,AUD,Australian Dollar,NOK,Norwegian Krone
+196,AUD/ZAR,AUD/ZAR - Australian Dollar South African Rand,AUD,Australian Dollar,ZAR,South African Rand
+197,AUD/SGD,AUD/SGD - Australian Dollar Singapore Dollar,AUD,Australian Dollar,SGD,Singapore Dollar
+198,AUD/THB,AUD/THB - Australian Dollar Thai Baht,AUD,Australian Dollar,THB,Thai Baht
+199,AUD/SEK,AUD/SEK - Australian Dollar Swedish Krona,AUD,Australian Dollar,SEK,Swedish Krona
+200,AUD/CZK,AUD/CZK - Australian Dollar Czech Koruna,AUD,Australian Dollar,CZK,Czech Koruna
+201,AUD/DKK,AUD/DKK - Australian Dollar Danish Krone,AUD,Australian Dollar,DKK,Danish Krone
+202,AUD/HKD,AUD/HKD - Australian Dollar Hong Kong Dollar,AUD,Australian Dollar,HKD,Hong Kong Dollar
+203,AUD/BRL,AUD/BRL - Australian Dollar Brazil Real,AUD,Australian Dollar,BRL,Brazil Real
+204,AUD/CNY,AUD/CNY - Australian Dollar Chinese Yuan,AUD,Australian Dollar,CNY,Chinese Yuan
+205,AUD/EUR,AUD/EUR - Australian Dollar Euro,AUD,Australian Dollar,EUR,Euro
+206,AUD/FJD,AUD/FJD - Australian Dollar Fiji Dollar,AUD,Australian Dollar,FJD,Fiji Dollar
+207,AUD/GBP,AUD/GBP - Australian Dollar British Pound,AUD,Australian Dollar,GBP,British Pound
+208,AUD/HUF,AUD/HUF - Australian Dollar Hungarian Forint,AUD,Australian Dollar,HUF,Hungarian Forint
+209,AUD/IDR,AUD/IDR - Australian Dollar Indonesian Rupiah,AUD,Australian Dollar,IDR,Indonesian Rupiah
+210,AUD/ILS,AUD/ILS - Australian Dollar Israeli Shekel,AUD,Australian Dollar,ILS,Israeli Shekel
+211,AUD/INR,AUD/INR - Australian Dollar Indian Rupee,AUD,Australian Dollar,INR,Indian Rupee
+212,AUD/KRW,AUD/KRW - Australian Dollar Korean Won,AUD,Australian Dollar,KRW,Korean Won
+213,AUD/MXN,AUD/MXN - Australian Dollar Mexican Peso,AUD,Australian Dollar,MXN,Mexican Peso
+214,AUD/MYR,AUD/MYR - Australian Dollar Malaysian Ringgit,AUD,Australian Dollar,MYR,Malaysian Ringgit
+215,AUD/PKR,AUD/PKR - Australian Dollar Pakistani Rupee,AUD,Australian Dollar,PKR,Pakistani Rupee
+216,AUD/TWD,AUD/TWD - Australian Dollar Taiwan Dollar,AUD,Australian Dollar,TWD,Taiwan Dollar
+217,BRL/AUD,BRL/AUD - Brazil Real Australian Dollar,BRL,Brazil Real,AUD,Australian Dollar
+218,CAD/AUD,CAD/AUD - Canadian Dollar Australian Dollar,CAD,Canadian Dollar,AUD,Australian Dollar
+219,CHF/AUD,CHF/AUD - Swiss Franc Australian Dollar,CHF,Swiss Franc,AUD,Australian Dollar
+220,JPY/AUD,JPY/AUD - Japanese Yen Australian Dollar,JPY,Japanese Yen,AUD,Australian Dollar
+221,NZD/AUD,NZD/AUD - New Zealand Dollar Australian Dollar,NZD,New Zealand Dollar,AUD,Australian Dollar
+222,SGD/AUD,SGD/AUD - Singapore Dollar Australian Dollar,SGD,Singapore Dollar,AUD,Australian Dollar
+223,USD/AUD,USD/AUD - US Dollar Australian Dollar,USD,US Dollar,AUD,Australian Dollar
+224,AUD/CLP,AUD/CLP - Australian Dollar Chilean Peso,AUD,Australian Dollar,CLP,Chilean Peso
+225,AUD/ISK,AUD/ISK - Australian Dollar Icelandic Kr,AUD,Australian Dollar,ISK,Icelandic Kr
+226,AUD/MAD,AUD/MAD - Australian Dollar Moroccan Dirham,AUD,Australian Dollar,MAD,Moroccan Dirham
+227,AUD/PHP,AUD/PHP - Australian Dollar Philippine Peso,AUD,Australian Dollar,PHP,Philippine Peso
+228,AUD/RUB,AUD/RUB - Australian Dollar Russian Ruble,AUD,Australian Dollar,RUB,Russian Ruble
+229,AUD/SAR,AUD/SAR - Australian Dollar Saudi Riyal,AUD,Australian Dollar,SAR,Saudi Riyal
+230,AUD/TRY,AUD/TRY - Australian Dollar Turkish Lira,AUD,Australian Dollar,TRY,Turkish Lira
+231,AUD/VES,AUD/VES - Australian Dollar Venezuelan Bolivar,AUD,Australian Dollar,VES,Venezuelan Bolivar
+232,AUD/XAF,AUD/XAF - Australian Dollar Central African Franc,AUD,Australian Dollar,XAF,Central African Franc
+233,AUD/XCD,AUD/XCD - Australian Dollar East Caribbean Dollar,AUD,Australian Dollar,XCD,East Caribbean Dollar
+234,AUD/BBD,AUD/BBD - Australian Dollar Barbadian Dollar,AUD,Australian Dollar,BBD,Barbadian Dollar
+235,AUD/BHD,AUD/BHD - Australian Dollar Baharain Dinar,AUD,Australian Dollar,BHD,Baharain Dinar
+236,AUD/JOD,AUD/JOD - Australian Dollar Jordan Dinar,AUD,Australian Dollar,JOD,Jordan Dinar
+237,AUD/NAD,AUD/NAD - Australian Dollar Namibian Dollar,AUD,Australian Dollar,NAD,Namibian Dollar
+238,AUD/OMR,AUD/OMR - Australian Dollar Omani Rial,AUD,Australian Dollar,OMR,Omani Rial
+239,AUD/QAR,AUD/QAR - Australian Dollar Qatari Riyal,AUD,Australian Dollar,QAR,Qatari Riyal
+240,AUD/JMD,AUD/JMD - Australian Dollar Jamaican Dollar,AUD,Australian Dollar,JMD,Jamaican Dollar
+241,AUD/KES,AUD/KES - Australian Dollar Kenyan Shilling,AUD,Australian Dollar,KES,Kenyan Shilling
+242,AUD/LKR,AUD/LKR - Australian Dollar Sri Lankan Rupee,AUD,Australian Dollar,LKR,Sri Lankan Rupee
+243,AUD/RON,AUD/RON - Australian Dollar Romanian Leu,AUD,Australian Dollar,RON,Romanian Leu
+244,AUD/LBP,AUD/LBP - Australian Dollar Lebanese Pound,AUD,Australian Dollar,LBP,Lebanese Pound
+245,AUD/NPR,AUD/NPR - Australian Dollar Nepalese Rupee,AUD,Australian Dollar,NPR,Nepalese Rupee
+246,AUD/PAB,AUD/PAB - Australian Dollar Panamanian Balboa,AUD,Australian Dollar,PAB,Panamanian Balboa
+247,AUD/EGP,AUD/EGP - Australian Dollar Egyptian Pound,AUD,Australian Dollar,EGP,Egyptian Pound
+248,AUD/XOF,AUD/XOF - Australian Dollar West African CFA franc,AUD,Australian Dollar,XOF,West African CFA franc
+249,CNY/AUD,CNY/AUD - Chinese Yuan Australian Dollar,CNY,Chinese Yuan,AUD,Australian Dollar
+250,DKK/AUD,DKK/AUD - Danish Krone Australian Dollar,DKK,Danish Krone,AUD,Australian Dollar
+251,HKD/AUD,HKD/AUD - Hong Kong Dollar Australian Dollar,HKD,Hong Kong Dollar,AUD,Australian Dollar
+252,ILS/AUD,ILS/AUD - Israeli Shekel Australian Dollar,ILS,Israeli Shekel,AUD,Australian Dollar
+253,MXN/AUD,MXN/AUD - Mexican Peso Australian Dollar,MXN,Mexican Peso,AUD,Australian Dollar
+254,NOK/AUD,NOK/AUD - Norwegian Krone Australian Dollar,NOK,Norwegian Krone,AUD,Australian Dollar
+255,PLN/AUD,PLN/AUD - Polish Zloty Australian Dollar,PLN,Polish Zloty,AUD,Australian Dollar
+256,SAR/AUD,SAR/AUD - Saudi Riyal Australian Dollar,SAR,Saudi Riyal,AUD,Australian Dollar
+257,SEK/AUD,SEK/AUD - Swedish Krona Australian Dollar,SEK,Swedish Krona,AUD,Australian Dollar
+258,THB/AUD,THB/AUD - Thai Baht Australian Dollar,THB,Thai Baht,AUD,Australian Dollar
+259,TRY/AUD,TRY/AUD - Turkish Lira Australian Dollar,TRY,Turkish Lira,AUD,Australian Dollar
+260,TWD/AUD,TWD/AUD - Taiwan Dollar Australian Dollar,TWD,Taiwan Dollar,AUD,Australian Dollar
+261,VES/AUD,VES/AUD - Venezuelan Bolivar Australian Dollar,VES,Venezuelan Bolivar,AUD,Australian Dollar
+262,ZAR/AUD,ZAR/AUD - South African Rand Australian Dollar,ZAR,South African Rand,AUD,Australian Dollar
+263,RUB/AUD,RUB/AUD - Russian Ruble Australian Dollar,RUB,Russian Ruble,AUD,Australian Dollar
+264,KRW/AUD,KRW/AUD - Korean Won Australian Dollar,KRW,Korean Won,AUD,Australian Dollar
+265,AUD/HRK,AUD/HRK - Australian Dollar Croatian Kuna,AUD,Australian Dollar,HRK,Croatian Kuna
+266,AUD/BYN,AUD/BYN - Australian Dollar Belarusian Ruble,AUD,Australian Dollar,BYN,Belarusian Ruble
+267,AUD/UAH,AUD/UAH - Australian Dollar Ukrainian Hryvnia,AUD,Australian Dollar,UAH,Ukrainian Hryvnia
+268,IDR/AUD,IDR/AUD - Indonesian Rupiah Australian Dollar,IDR,Indonesian Rupiah,AUD,Australian Dollar
+269,AUD/RUB,AUD/RUB - Australian Dollar Russian Ruble,AUD,Australian Dollar,RUB,Russian Ruble
+270,USD/AZN,USD/AZN - US Dollar Azerbaijani Manat,USD,US Dollar,AZN,Azerbaijani Manat
+271,EUR/AZN,EUR/AZN - Euro Azerbaijani Manat,EUR,Euro,AZN,Azerbaijani Manat
+272,AZN/RUB,AZN/RUB - Azerbaijani Manat Russian Ruble,AZN,Azerbaijani Manat,RUB,Russian Ruble
+273,RUB/AZN,RUB/AZN - Russian Ruble Azerbaijani Manat,RUB,Russian Ruble,AZN,Azerbaijani Manat
+274,AZN/RUB,AZN/RUB - Azerbaijani Manat Russian Ruble,AZN,Azerbaijani Manat,RUB,Russian Ruble
+275,EUR/BAM,EUR/BAM - Euro Bosnia Herzegovina Mark,EUR,Euro,BAM,Bosnia Herzegovina Mark
+276,EUR/BBD,EUR/BBD - Euro Barbadian Dollar,EUR,Euro,BBD,Barbadian Dollar
+277,GBP/BBD,GBP/BBD - British Pound Barbadian Dollar,GBP,British Pound,BBD,Barbadian Dollar
+278,USD/BBD,USD/BBD - US Dollar Barbadian Dollar,USD,US Dollar,BBD,Barbadian Dollar
+279,BRL/BBD,BRL/BBD - Brazil Real Barbadian Dollar,BRL,Brazil Real,BBD,Barbadian Dollar
+280,CAD/BBD,CAD/BBD - Canadian Dollar Barbadian Dollar,CAD,Canadian Dollar,BBD,Barbadian Dollar
+281,CNY/BBD,CNY/BBD - Chinese Yuan Barbadian Dollar,CNY,Chinese Yuan,BBD,Barbadian Dollar
+282,CHF/BBD,CHF/BBD - Swiss Franc Barbadian Dollar,CHF,Swiss Franc,BBD,Barbadian Dollar
+283,DKK/BBD,DKK/BBD - Danish Krone Barbadian Dollar,DKK,Danish Krone,BBD,Barbadian Dollar
+284,HKD/BBD,HKD/BBD - Hong Kong Dollar Barbadian Dollar,HKD,Hong Kong Dollar,BBD,Barbadian Dollar
+285,ILS/BBD,ILS/BBD - Israeli Shekel Barbadian Dollar,ILS,Israeli Shekel,BBD,Barbadian Dollar
+286,MXN/BBD,MXN/BBD - Mexican Peso Barbadian Dollar,MXN,Mexican Peso,BBD,Barbadian Dollar
+287,NOK/BBD,NOK/BBD - Norwegian Krone Barbadian Dollar,NOK,Norwegian Krone,BBD,Barbadian Dollar
+288,NZD/BBD,NZD/BBD - New Zealand Dollar Barbadian Dollar,NZD,New Zealand Dollar,BBD,Barbadian Dollar
+289,PLN/BBD,PLN/BBD - Polish Zloty Barbadian Dollar,PLN,Polish Zloty,BBD,Barbadian Dollar
+290,SAR/BBD,SAR/BBD - Saudi Riyal Barbadian Dollar,SAR,Saudi Riyal,BBD,Barbadian Dollar
+291,SEK/BBD,SEK/BBD - Swedish Krona Barbadian Dollar,SEK,Swedish Krona,BBD,Barbadian Dollar
+292,SGD/BBD,SGD/BBD - Singapore Dollar Barbadian Dollar,SGD,Singapore Dollar,BBD,Barbadian Dollar
+293,TRY/BBD,TRY/BBD - Turkish Lira Barbadian Dollar,TRY,Turkish Lira,BBD,Barbadian Dollar
+294,TWD/BBD,TWD/BBD - Taiwan Dollar Barbadian Dollar,TWD,Taiwan Dollar,BBD,Barbadian Dollar
+295,VES/BBD,VES/BBD - Venezuelan Bolivar Barbadian Dollar,VES,Venezuelan Bolivar,BBD,Barbadian Dollar
+296,ZAR/BBD,ZAR/BBD - South African Rand Barbadian Dollar,ZAR,South African Rand,BBD,Barbadian Dollar
+297,EUR/BDT,EUR/BDT - Euro Bangladeshi Taka,EUR,Euro,BDT,Bangladeshi Taka
+298,GBP/BDT,GBP/BDT - British Pound Bangladeshi Taka,GBP,British Pound,BDT,Bangladeshi Taka
+299,USD/BDT,USD/BDT - US Dollar Bangladeshi Taka,USD,US Dollar,BDT,Bangladeshi Taka
+300,CHF/BGN,CHF/BGN - Swiss Franc Bulgarian Lev,CHF,Swiss Franc,BGN,Bulgarian Lev
+301,DKK/BGN,DKK/BGN - Danish Krone Bulgarian Lev,DKK,Danish Krone,BGN,Bulgarian Lev
+302,EUR/BGN,EUR/BGN - Euro Bulgarian Lev,EUR,Euro,BGN,Bulgarian Lev
+303,GBP/BGN,GBP/BGN - British Pound Bulgarian Lev,GBP,British Pound,BGN,Bulgarian Lev
+304,USD/BGN,USD/BGN - US Dollar Bulgarian Lev,USD,US Dollar,BGN,Bulgarian Lev
+305,ILS/BGN,ILS/BGN - Israeli Shekel Bulgarian Lev,ILS,Israeli Shekel,BGN,Bulgarian Lev
+306,RUB/BGN,RUB/BGN - Russian Ruble Bulgarian Lev,RUB,Russian Ruble,BGN,Bulgarian Lev
+307,BGN/RUB,BGN/RUB - Bulgarian Lev Russian Ruble,BGN,Bulgarian Lev,RUB,Russian Ruble
+308,BGN/RUB,BGN/RUB - Bulgarian Lev Russian Ruble,BGN,Bulgarian Lev,RUB,Russian Ruble
+309,BHD/EUR,BHD/EUR - Baharain Dinar Euro,BHD,Baharain Dinar,EUR,Euro
+310,BHD/PKR,BHD/PKR - Baharain Dinar Pakistani Rupee,BHD,Baharain Dinar,PKR,Pakistani Rupee
+311,EUR/BHD,EUR/BHD - Euro Baharain Dinar,EUR,Euro,BHD,Baharain Dinar
+312,GBP/BHD,GBP/BHD - British Pound Baharain Dinar,GBP,British Pound,BHD,Baharain Dinar
+313,USD/BHD,USD/BHD - US Dollar Baharain Dinar,USD,US Dollar,BHD,Baharain Dinar
+314,BRL/BHD,BRL/BHD - Brazil Real Baharain Dinar,BRL,Brazil Real,BHD,Baharain Dinar
+315,CAD/BHD,CAD/BHD - Canadian Dollar Baharain Dinar,CAD,Canadian Dollar,BHD,Baharain Dinar
+316,CNY/BHD,CNY/BHD - Chinese Yuan Baharain Dinar,CNY,Chinese Yuan,BHD,Baharain Dinar
+317,CHF/BHD,CHF/BHD - Swiss Franc Baharain Dinar,CHF,Swiss Franc,BHD,Baharain Dinar
+318,DKK/BHD,DKK/BHD - Danish Krone Baharain Dinar,DKK,Danish Krone,BHD,Baharain Dinar
+319,HKD/BHD,HKD/BHD - Hong Kong Dollar Baharain Dinar,HKD,Hong Kong Dollar,BHD,Baharain Dinar
+320,ILS/BHD,ILS/BHD - Israeli Shekel Baharain Dinar,ILS,Israeli Shekel,BHD,Baharain Dinar
+321,NOK/BHD,NOK/BHD - Norwegian Krone Baharain Dinar,NOK,Norwegian Krone,BHD,Baharain Dinar
+322,NZD/BHD,NZD/BHD - New Zealand Dollar Baharain Dinar,NZD,New Zealand Dollar,BHD,Baharain Dinar
+323,PLN/BHD,PLN/BHD - Polish Zloty Baharain Dinar,PLN,Polish Zloty,BHD,Baharain Dinar
+324,SAR/BHD,SAR/BHD - Saudi Riyal Baharain Dinar,SAR,Saudi Riyal,BHD,Baharain Dinar
+325,SEK/BHD,SEK/BHD - Swedish Krona Baharain Dinar,SEK,Swedish Krona,BHD,Baharain Dinar
+326,SGD/BHD,SGD/BHD - Singapore Dollar Baharain Dinar,SGD,Singapore Dollar,BHD,Baharain Dinar
+327,THB/BHD,THB/BHD - Thai Baht Baharain Dinar,THB,Thai Baht,BHD,Baharain Dinar
+328,TRY/BHD,TRY/BHD - Turkish Lira Baharain Dinar,TRY,Turkish Lira,BHD,Baharain Dinar
+329,TWD/BHD,TWD/BHD - Taiwan Dollar Baharain Dinar,TWD,Taiwan Dollar,BHD,Baharain Dinar
+330,VES/BHD,VES/BHD - Venezuelan Bolivar Baharain Dinar,VES,Venezuelan Bolivar,BHD,Baharain Dinar
+331,ZAR/BHD,ZAR/BHD - South African Rand Baharain Dinar,ZAR,South African Rand,BHD,Baharain Dinar
+332,BHD/INR,BHD/INR - Baharain Dinar Indian Rupee,BHD,Baharain Dinar,INR,Indian Rupee
+333,EUR/BIF,EUR/BIF - Euro Burundian Franc,EUR,Euro,BIF,Burundian Franc
+334,GBP/BIF,GBP/BIF - British Pound Burundian Franc,GBP,British Pound,BIF,Burundian Franc
+335,USD/BIF,USD/BIF - US Dollar Burundian Franc,USD,US Dollar,BIF,Burundian Franc
+336,BND/GBP,BND/GBP - Brunei Dollar British Pound,BND,Brunei Dollar,GBP,British Pound
+337,EUR/BND,EUR/BND - Euro Brunei Dollar,EUR,Euro,BND,Brunei Dollar
+338,GBP/BND,GBP/BND - British Pound Brunei Dollar,GBP,British Pound,BND,Brunei Dollar
+339,USD/BND,USD/BND - US Dollar Brunei Dollar,USD,US Dollar,BND,Brunei Dollar
+340,EUR/BOB,EUR/BOB - Euro Bolivian Boliviano,EUR,Euro,BOB,Bolivian Boliviano
+341,USD/BOB,USD/BOB - US Dollar Bolivian Boliviano,USD,US Dollar,BOB,Bolivian Boliviano
+342,BRL/BOB,BRL/BOB - Brazil Real Bolivian Boliviano,BRL,Brazil Real,BOB,Bolivian Boliviano
+343,BOB/BRL,BOB/BRL - Bolivian Boliviano Brazil Real,BOB,Bolivian Boliviano,BRL,Brazil Real
+344,CLP/BOB,CLP/BOB - Chilean Peso Bolivian Boliviano,CLP,Chilean Peso,BOB,Bolivian Boliviano
+345,BOB/CLP,BOB/CLP - Bolivian Boliviano Chilean Peso,BOB,Bolivian Boliviano,CLP,Chilean Peso
+346,PYG/BOB,PYG/BOB - Paraguayan Guarani Bolivian Boliviano,PYG,Paraguayan Guarani,BOB,Bolivian Boliviano
+347,BOB/PYG,BOB/PYG - Bolivian Boliviano Paraguayan Guarani,BOB,Bolivian Boliviano,PYG,Paraguayan Guarani
+348,BOB/UYU,BOB/UYU - Bolivian Boliviano Uruguayan Peso,BOB,Bolivian Boliviano,UYU,Uruguayan Peso
+349,COP/BOB,COP/BOB - Colombian Peso Bolivian Boliviano,COP,Colombian Peso,BOB,Bolivian Boliviano
+350,BOB/COP,BOB/COP - Bolivian Boliviano Colombian Peso,BOB,Bolivian Boliviano,COP,Colombian Peso
+351,PEN/BOB,PEN/BOB - Peru Sol Bolivian Boliviano,PEN,Peru Sol,BOB,Bolivian Boliviano
+352,BOB/PEN,BOB/PEN - Bolivian Boliviano Peru Sol,BOB,Bolivian Boliviano,PEN,Peru Sol
+353,UYU/BOB,UYU/BOB - Uruguayan Peso Bolivian Boliviano,UYU,Uruguayan Peso,BOB,Bolivian Boliviano
+354,BOB/MXN,BOB/MXN - Bolivian Boliviano Mexican Peso,BOB,Bolivian Boliviano,MXN,Mexican Peso
+355,MXN/BOB,MXN/BOB - Mexican Peso Bolivian Boliviano,MXN,Mexican Peso,BOB,Bolivian Boliviano
+356,VES/BOB,VES/BOB - Venezuelan Bolivar Bolivian Boliviano,VES,Venezuelan Bolivar,BOB,Bolivian Boliviano
+357,BOB/VES,BOB/VES - Bolivian Boliviano Venezuelan Bolivar,BOB,Bolivian Boliviano,VES,Venezuelan Bolivar
+358,BOB/USD,BOB/USD - Bolivian Boliviano US Dollar,BOB,Bolivian Boliviano,USD,US Dollar
+359,BRL/CAD,BRL/CAD - Brazil Real Canadian Dollar,BRL,Brazil Real,CAD,Canadian Dollar
+360,BRL/CHF,BRL/CHF - Brazil Real Swiss Franc,BRL,Brazil Real,CHF,Swiss Franc
+361,BRL/CLP,BRL/CLP - Brazil Real Chilean Peso,BRL,Brazil Real,CLP,Chilean Peso
+362,BRL/DKK,BRL/DKK - Brazil Real Danish Krone,BRL,Brazil Real,DKK,Danish Krone
+363,BRL/HKD,BRL/HKD - Brazil Real Hong Kong Dollar,BRL,Brazil Real,HKD,Hong Kong Dollar
+364,BRL/JPY,BRL/JPY - Brazil Real Japanese Yen,BRL,Brazil Real,JPY,Japanese Yen
+365,BRL/MXN,BRL/MXN - Brazil Real Mexican Peso,BRL,Brazil Real,MXN,Mexican Peso
+366,BRL/SGD,BRL/SGD - Brazil Real Singapore Dollar,BRL,Brazil Real,SGD,Singapore Dollar
+367,BRL/USD,BRL/USD - Brazil Real US Dollar,BRL,Brazil Real,USD,US Dollar
+368,CAD/BRL,CAD/BRL - Canadian Dollar Brazil Real,CAD,Canadian Dollar,BRL,Brazil Real
+369,CHF/BRL,CHF/BRL - Swiss Franc Brazil Real,CHF,Swiss Franc,BRL,Brazil Real
+370,EUR/BRL,EUR/BRL - Euro Brazil Real,EUR,Euro,BRL,Brazil Real
+371,GBP/BRL,GBP/BRL - British Pound Brazil Real,GBP,British Pound,BRL,Brazil Real
+372,JPY/BRL,JPY/BRL - Japanese Yen Brazil Real,JPY,Japanese Yen,BRL,Brazil Real
+373,SGD/BRL,SGD/BRL - Singapore Dollar Brazil Real,SGD,Singapore Dollar,BRL,Brazil Real
+374,USD/BRL,USD/BRL - US Dollar Brazil Real,USD,US Dollar,BRL,Brazil Real
+375,BRL/CNY,BRL/CNY - Brazil Real Chinese Yuan,BRL,Brazil Real,CNY,Chinese Yuan
+376,BRL/CZK,BRL/CZK - Brazil Real Czech Koruna,BRL,Brazil Real,CZK,Czech Koruna
+377,BRL/EGP,BRL/EGP - Brazil Real Egyptian Pound,BRL,Brazil Real,EGP,Egyptian Pound
+378,BRL/EUR,BRL/EUR - Brazil Real Euro,BRL,Brazil Real,EUR,Euro
+379,BRL/GBP,BRL/GBP - Brazil Real British Pound,BRL,Brazil Real,GBP,British Pound
+380,BRL/HUF,BRL/HUF - Brazil Real Hungarian Forint,BRL,Brazil Real,HUF,Hungarian Forint
+381,BRL/IDR,BRL/IDR - Brazil Real Indonesian Rupiah,BRL,Brazil Real,IDR,Indonesian Rupiah
+382,BRL/ILS,BRL/ILS - Brazil Real Israeli Shekel,BRL,Brazil Real,ILS,Israeli Shekel
+383,BRL/INR,BRL/INR - Brazil Real Indian Rupee,BRL,Brazil Real,INR,Indian Rupee
+384,BRL/ISK,BRL/ISK - Brazil Real Icelandic Kr,BRL,Brazil Real,ISK,Icelandic Kr
+385,BRL/JMD,BRL/JMD - Brazil Real Jamaican Dollar,BRL,Brazil Real,JMD,Jamaican Dollar
+386,BRL/JOD,BRL/JOD - Brazil Real Jordan Dinar,BRL,Brazil Real,JOD,Jordan Dinar
+387,BRL/KES,BRL/KES - Brazil Real Kenyan Shilling,BRL,Brazil Real,KES,Kenyan Shilling
+388,BRL/KRW,BRL/KRW - Brazil Real Korean Won,BRL,Brazil Real,KRW,Korean Won
+389,BRL/LBP,BRL/LBP - Brazil Real Lebanese Pound,BRL,Brazil Real,LBP,Lebanese Pound
+390,BRL/LKR,BRL/LKR - Brazil Real Sri Lankan Rupee,BRL,Brazil Real,LKR,Sri Lankan Rupee
+391,BRL/MAD,BRL/MAD - Brazil Real Moroccan Dirham,BRL,Brazil Real,MAD,Moroccan Dirham
+392,BRL/MYR,BRL/MYR - Brazil Real Malaysian Ringgit,BRL,Brazil Real,MYR,Malaysian Ringgit
+393,BRL/NAD,BRL/NAD - Brazil Real Namibian Dollar,BRL,Brazil Real,NAD,Namibian Dollar
+394,BRL/NOK,BRL/NOK - Brazil Real Norwegian Krone,BRL,Brazil Real,NOK,Norwegian Krone
+395,BRL/NPR,BRL/NPR - Brazil Real Nepalese Rupee,BRL,Brazil Real,NPR,Nepalese Rupee
+396,BRL/NZD,BRL/NZD - Brazil Real New Zealand Dollar,BRL,Brazil Real,NZD,New Zealand Dollar
+397,BRL/OMR,BRL/OMR - Brazil Real Omani Rial,BRL,Brazil Real,OMR,Omani Rial
+398,BRL/PAB,BRL/PAB - Brazil Real Panamanian Balboa,BRL,Brazil Real,PAB,Panamanian Balboa
+399,BRL/PHP,BRL/PHP - Brazil Real Philippine Peso,BRL,Brazil Real,PHP,Philippine Peso
+400,BRL/PKR,BRL/PKR - Brazil Real Pakistani Rupee,BRL,Brazil Real,PKR,Pakistani Rupee
+401,BRL/PLN,BRL/PLN - Brazil Real Polish Zloty,BRL,Brazil Real,PLN,Polish Zloty
+402,BRL/QAR,BRL/QAR - Brazil Real Qatari Riyal,BRL,Brazil Real,QAR,Qatari Riyal
+403,BRL/RON,BRL/RON - Brazil Real Romanian Leu,BRL,Brazil Real,RON,Romanian Leu
+404,BRL/RUB,BRL/RUB - Brazil Real Russian Ruble,BRL,Brazil Real,RUB,Russian Ruble
+405,BRL/SAR,BRL/SAR - Brazil Real Saudi Riyal,BRL,Brazil Real,SAR,Saudi Riyal
+406,BRL/SEK,BRL/SEK - Brazil Real Swedish Krona,BRL,Brazil Real,SEK,Swedish Krona
+407,BRL/THB,BRL/THB - Brazil Real Thai Baht,BRL,Brazil Real,THB,Thai Baht
+408,BRL/TRY,BRL/TRY - Brazil Real Turkish Lira,BRL,Brazil Real,TRY,Turkish Lira
+409,BRL/VES,BRL/VES - Brazil Real Venezuelan Bolivar,BRL,Brazil Real,VES,Venezuelan Bolivar
+410,BRL/XAF,BRL/XAF - Brazil Real Central African Franc,BRL,Brazil Real,XAF,Central African Franc
+411,BRL/XCD,BRL/XCD - Brazil Real East Caribbean Dollar,BRL,Brazil Real,XCD,East Caribbean Dollar
+412,BRL/XOF,BRL/XOF - Brazil Real West African CFA franc,BRL,Brazil Real,XOF,West African CFA franc
+413,BRL/ZAR,BRL/ZAR - Brazil Real South African Rand,BRL,Brazil Real,ZAR,South African Rand
+414,BRL/TWD,BRL/TWD - Brazil Real Taiwan Dollar,BRL,Brazil Real,TWD,Taiwan Dollar
+415,CNY/BRL,CNY/BRL - Chinese Yuan Brazil Real,CNY,Chinese Yuan,BRL,Brazil Real
+416,DKK/BRL,DKK/BRL - Danish Krone Brazil Real,DKK,Danish Krone,BRL,Brazil Real
+417,HKD/BRL,HKD/BRL - Hong Kong Dollar Brazil Real,HKD,Hong Kong Dollar,BRL,Brazil Real
+418,ILS/BRL,ILS/BRL - Israeli Shekel Brazil Real,ILS,Israeli Shekel,BRL,Brazil Real
+419,MXN/BRL,MXN/BRL - Mexican Peso Brazil Real,MXN,Mexican Peso,BRL,Brazil Real
+420,NOK/BRL,NOK/BRL - Norwegian Krone Brazil Real,NOK,Norwegian Krone,BRL,Brazil Real
+421,NZD/BRL,NZD/BRL - New Zealand Dollar Brazil Real,NZD,New Zealand Dollar,BRL,Brazil Real
+422,PLN/BRL,PLN/BRL - Polish Zloty Brazil Real,PLN,Polish Zloty,BRL,Brazil Real
+423,SAR/BRL,SAR/BRL - Saudi Riyal Brazil Real,SAR,Saudi Riyal,BRL,Brazil Real
+424,SEK/BRL,SEK/BRL - Swedish Krona Brazil Real,SEK,Swedish Krona,BRL,Brazil Real
+425,THB/BRL,THB/BRL - Thai Baht Brazil Real,THB,Thai Baht,BRL,Brazil Real
+426,TRY/BRL,TRY/BRL - Turkish Lira Brazil Real,TRY,Turkish Lira,BRL,Brazil Real
+427,TWD/BRL,TWD/BRL - Taiwan Dollar Brazil Real,TWD,Taiwan Dollar,BRL,Brazil Real
+428,VES/BRL,VES/BRL - Venezuelan Bolivar Brazil Real,VES,Venezuelan Bolivar,BRL,Brazil Real
+429,ZAR/BRL,ZAR/BRL - South African Rand Brazil Real,ZAR,South African Rand,BRL,Brazil Real
+430,BRL/PYG,BRL/PYG - Brazil Real Paraguayan Guarani,BRL,Brazil Real,PYG,Paraguayan Guarani
+431,BRL/UYU,BRL/UYU - Brazil Real Uruguayan Peso,BRL,Brazil Real,UYU,Uruguayan Peso
+432,BRL/COP,BRL/COP - Brazil Real Colombian Peso,BRL,Brazil Real,COP,Colombian Peso
+433,BRL/PEN,BRL/PEN - Brazil Real Peru Sol,BRL,Brazil Real,PEN,Peru Sol
+434,CLP/BRL,CLP/BRL - Chilean Peso Brazil Real,CLP,Chilean Peso,BRL,Brazil Real
+435,PYG/BRL,PYG/BRL - Paraguayan Guarani Brazil Real,PYG,Paraguayan Guarani,BRL,Brazil Real
+436,UYU/BRL,UYU/BRL - Uruguayan Peso Brazil Real,UYU,Uruguayan Peso,BRL,Brazil Real
+437,COP/BRL,COP/BRL - Colombian Peso Brazil Real,COP,Colombian Peso,BRL,Brazil Real
+438,PEN/BRL,PEN/BRL - Peru Sol Brazil Real,PEN,Peru Sol,BRL,Brazil Real
+439,RUB/BRL,RUB/BRL - Russian Ruble Brazil Real,RUB,Russian Ruble,BRL,Brazil Real
+440,INR/BRL,INR/BRL - Indian Rupee Brazil Real,INR,Indian Rupee,BRL,Brazil Real
+441,USD/BRL,USD/BRL - US Dollar Brazil Real,USD,US Dollar,BRL,Brazil Real
+442,BRL/RUB,BRL/RUB - Brazil Real Russian Ruble,BRL,Brazil Real,RUB,Russian Ruble
+443,USD/BRLT,USD/BRLT - US Dollar Brazilian Real Tourism,USD,US Dollar,BRLT,Brazilian Real Tourism
+444,BSD/GBP,BSD/GBP - Bahamas Dollar British Pound,BSD,Bahamas Dollar,GBP,British Pound
+445,EUR/BSD,EUR/BSD - Euro Bahamas Dollar,EUR,Euro,BSD,Bahamas Dollar
+446,GBP/BSD,GBP/BSD - British Pound Bahamas Dollar,GBP,British Pound,BSD,Bahamas Dollar
+447,USD/BSD,USD/BSD - US Dollar Bahamas Dollar,USD,US Dollar,BSD,Bahamas Dollar
+448,BWP/ZAR,BWP/ZAR - Botswana Pula South African Rand,BWP,Botswana Pula,ZAR,South African Rand
+449,EUR/BWP,EUR/BWP - Euro Botswana Pula,EUR,Euro,BWP,Botswana Pula
+450,GBP/BWP,GBP/BWP - British Pound Botswana Pula,GBP,British Pound,BWP,Botswana Pula
+451,USD/BWP,USD/BWP - US Dollar Botswana Pula,USD,US Dollar,BWP,Botswana Pula
+452,ZAR/BWP,ZAR/BWP - South African Rand Botswana Pula,ZAR,South African Rand,BWP,Botswana Pula
+453,EUR/BYN,EUR/BYN - Euro Belarusian Ruble,EUR,Euro,BYN,Belarusian Ruble
+454,USD/BYN,USD/BYN - US Dollar Belarusian Ruble,USD,US Dollar,BYN,Belarusian Ruble
+455,GBP/BYN,GBP/BYN - British Pound Belarusian Ruble,GBP,British Pound,BYN,Belarusian Ruble
+456,RUB/BYN,RUB/BYN - Russian Ruble Belarusian Ruble,RUB,Russian Ruble,BYN,Belarusian Ruble
+457,CHF/BYN,CHF/BYN - Swiss Franc Belarusian Ruble,CHF,Swiss Franc,BYN,Belarusian Ruble
+458,CAD/BYN,CAD/BYN - Canadian Dollar Belarusian Ruble,CAD,Canadian Dollar,BYN,Belarusian Ruble
+459,NZD/BYN,NZD/BYN - New Zealand Dollar Belarusian Ruble,NZD,New Zealand Dollar,BYN,Belarusian Ruble
+460,JPY/BYN,JPY/BYN - Japanese Yen Belarusian Ruble,JPY,Japanese Yen,BYN,Belarusian Ruble
+461,CNY/BYN,CNY/BYN - Chinese Yuan Belarusian Ruble,CNY,Chinese Yuan,BYN,Belarusian Ruble
+462,BYN/USD,BYN/USD - Belarusian Ruble US Dollar,BYN,Belarusian Ruble,USD,US Dollar
+463,BYN/EUR,BYN/EUR - Belarusian Ruble Euro,BYN,Belarusian Ruble,EUR,Euro
+464,BYN/RUB,BYN/RUB - Belarusian Ruble Russian Ruble,BYN,Belarusian Ruble,RUB,Russian Ruble
+465,BYN/RUB,BYN/RUB - Belarusian Ruble Russian Ruble,BYN,Belarusian Ruble,RUB,Russian Ruble
+466,EUR/BZD,EUR/BZD - Euro Belize Dollar,EUR,Euro,BZD,Belize Dollar
+467,USD/BZD,USD/BZD - US Dollar Belize Dollar,USD,US Dollar,BZD,Belize Dollar
+468,USD/CAD,USD/CAD - US Dollar Canadian Dollar,USD,US Dollar,CAD,Canadian Dollar
+469,CAD/CHF,CAD/CHF - Canadian Dollar Swiss Franc,CAD,Canadian Dollar,CHF,Swiss Franc
+470,EUR/CAD,EUR/CAD - Euro Canadian Dollar,EUR,Euro,CAD,Canadian Dollar
+471,CAD/JPY,CAD/JPY - Canadian Dollar Japanese Yen,CAD,Canadian Dollar,JPY,Japanese Yen
+472,GBP/CAD,GBP/CAD - British Pound Canadian Dollar,GBP,British Pound,CAD,Canadian Dollar
+473,NZD/CAD,NZD/CAD - New Zealand Dollar Canadian Dollar,NZD,New Zealand Dollar,CAD,Canadian Dollar
+474,CAD/PLN,CAD/PLN - Canadian Dollar Polish Zloty,CAD,Canadian Dollar,PLN,Polish Zloty
+475,CAD/DKK,CAD/DKK - Canadian Dollar Danish Krone,CAD,Canadian Dollar,DKK,Danish Krone
+476,CAD/NOK,CAD/NOK - Canadian Dollar Norwegian Krone,CAD,Canadian Dollar,NOK,Norwegian Krone
+477,CAD/SGD,CAD/SGD - Canadian Dollar Singapore Dollar,CAD,Canadian Dollar,SGD,Singapore Dollar
+478,CAD/SEK,CAD/SEK - Canadian Dollar Swedish Krona,CAD,Canadian Dollar,SEK,Swedish Krona
+479,CAD/HKD,CAD/HKD - Canadian Dollar Hong Kong Dollar,CAD,Canadian Dollar,HKD,Hong Kong Dollar
+480,CAD/CNY,CAD/CNY - Canadian Dollar Chinese Yuan,CAD,Canadian Dollar,CNY,Chinese Yuan
+481,CAD/EUR,CAD/EUR - Canadian Dollar Euro,CAD,Canadian Dollar,EUR,Euro
+482,CAD/GBP,CAD/GBP - Canadian Dollar British Pound,CAD,Canadian Dollar,GBP,British Pound
+483,CAD/IDR,CAD/IDR - Canadian Dollar Indonesian Rupiah,CAD,Canadian Dollar,IDR,Indonesian Rupiah
+484,CAD/ILS,CAD/ILS - Canadian Dollar Israeli Shekel,CAD,Canadian Dollar,ILS,Israeli Shekel
+485,CAD/INR,CAD/INR - Canadian Dollar Indian Rupee,CAD,Canadian Dollar,INR,Indian Rupee
+486,CAD/KRW,CAD/KRW - Canadian Dollar Korean Won,CAD,Canadian Dollar,KRW,Korean Won
+487,CAD/KWD,CAD/KWD - Canadian Dollar Kuwaiti Dinar,CAD,Canadian Dollar,KWD,Kuwaiti Dinar
+488,CAD/MXN,CAD/MXN - Canadian Dollar Mexican Peso,CAD,Canadian Dollar,MXN,Mexican Peso
+489,CAD/MYR,CAD/MYR - Canadian Dollar Malaysian Ringgit,CAD,Canadian Dollar,MYR,Malaysian Ringgit
+490,CAD/NZD,CAD/NZD - Canadian Dollar New Zealand Dollar,CAD,Canadian Dollar,NZD,New Zealand Dollar
+491,CAD/PKR,CAD/PKR - Canadian Dollar Pakistani Rupee,CAD,Canadian Dollar,PKR,Pakistani Rupee
+492,CAD/THB,CAD/THB - Canadian Dollar Thai Baht,CAD,Canadian Dollar,THB,Thai Baht
+493,CAD/TWD,CAD/TWD - Canadian Dollar Taiwan Dollar,CAD,Canadian Dollar,TWD,Taiwan Dollar
+494,CAD/USD,CAD/USD - Canadian Dollar US Dollar,CAD,Canadian Dollar,USD,US Dollar
+495,CAD/ZAR,CAD/ZAR - Canadian Dollar South African Rand,CAD,Canadian Dollar,ZAR,South African Rand
+496,CHF/CAD,CHF/CAD - Swiss Franc Canadian Dollar,CHF,Swiss Franc,CAD,Canadian Dollar
+497,IDR/CAD,IDR/CAD - Indonesian Rupiah Canadian Dollar,IDR,Indonesian Rupiah,CAD,Canadian Dollar
+498,JPY/CAD,JPY/CAD - Japanese Yen Canadian Dollar,JPY,Japanese Yen,CAD,Canadian Dollar
+499,SGD/CAD,SGD/CAD - Singapore Dollar Canadian Dollar,SGD,Singapore Dollar,CAD,Canadian Dollar
+500,CAD/CLP,CAD/CLP - Canadian Dollar Chilean Peso,CAD,Canadian Dollar,CLP,Chilean Peso
+501,CAD/CZK,CAD/CZK - Canadian Dollar Czech Koruna,CAD,Canadian Dollar,CZK,Czech Koruna
+502,CAD/EGP,CAD/EGP - Canadian Dollar Egyptian Pound,CAD,Canadian Dollar,EGP,Egyptian Pound
+503,CAD/HUF,CAD/HUF - Canadian Dollar Hungarian Forint,CAD,Canadian Dollar,HUF,Hungarian Forint
+504,CAD/ISK,CAD/ISK - Canadian Dollar Icelandic Kr,CAD,Canadian Dollar,ISK,Icelandic Kr
+505,CAD/JMD,CAD/JMD - Canadian Dollar Jamaican Dollar,CAD,Canadian Dollar,JMD,Jamaican Dollar
+506,CAD/JOD,CAD/JOD - Canadian Dollar Jordan Dinar,CAD,Canadian Dollar,JOD,Jordan Dinar
+507,CAD/KES,CAD/KES - Canadian Dollar Kenyan Shilling,CAD,Canadian Dollar,KES,Kenyan Shilling
+508,CAD/LBP,CAD/LBP - Canadian Dollar Lebanese Pound,CAD,Canadian Dollar,LBP,Lebanese Pound
+509,CAD/LKR,CAD/LKR - Canadian Dollar Sri Lankan Rupee,CAD,Canadian Dollar,LKR,Sri Lankan Rupee
+510,CAD/MAD,CAD/MAD - Canadian Dollar Moroccan Dirham,CAD,Canadian Dollar,MAD,Moroccan Dirham
+511,CAD/NAD,CAD/NAD - Canadian Dollar Namibian Dollar,CAD,Canadian Dollar,NAD,Namibian Dollar
+512,CAD/NPR,CAD/NPR - Canadian Dollar Nepalese Rupee,CAD,Canadian Dollar,NPR,Nepalese Rupee
+513,CAD/OMR,CAD/OMR - Canadian Dollar Omani Rial,CAD,Canadian Dollar,OMR,Omani Rial
+514,CAD/PAB,CAD/PAB - Canadian Dollar Panamanian Balboa,CAD,Canadian Dollar,PAB,Panamanian Balboa
+515,CAD/PHP,CAD/PHP - Canadian Dollar Philippine Peso,CAD,Canadian Dollar,PHP,Philippine Peso
+516,CAD/QAR,CAD/QAR - Canadian Dollar Qatari Riyal,CAD,Canadian Dollar,QAR,Qatari Riyal
+517,CAD/RON,CAD/RON - Canadian Dollar Romanian Leu,CAD,Canadian Dollar,RON,Romanian Leu
+518,CAD/RUB,CAD/RUB - Canadian Dollar Russian Ruble,CAD,Canadian Dollar,RUB,Russian Ruble
+519,CAD/SAR,CAD/SAR - Canadian Dollar Saudi Riyal,CAD,Canadian Dollar,SAR,Saudi Riyal
+520,CAD/TRY,CAD/TRY - Canadian Dollar Turkish Lira,CAD,Canadian Dollar,TRY,Turkish Lira
+521,CAD/VES,CAD/VES - Canadian Dollar Venezuelan Bolivar,CAD,Canadian Dollar,VES,Venezuelan Bolivar
+522,CAD/XAF,CAD/XAF - Canadian Dollar Central African Franc,CAD,Canadian Dollar,XAF,Central African Franc
+523,CAD/XCD,CAD/XCD - Canadian Dollar East Caribbean Dollar,CAD,Canadian Dollar,XCD,East Caribbean Dollar
+524,CAD/XOF,CAD/XOF - Canadian Dollar West African CFA franc,CAD,Canadian Dollar,XOF,West African CFA franc
+525,CNY/CAD,CNY/CAD - Chinese Yuan Canadian Dollar,CNY,Chinese Yuan,CAD,Canadian Dollar
+526,DKK/CAD,DKK/CAD - Danish Krone Canadian Dollar,DKK,Danish Krone,CAD,Canadian Dollar
+527,HKD/CAD,HKD/CAD - Hong Kong Dollar Canadian Dollar,HKD,Hong Kong Dollar,CAD,Canadian Dollar
+528,ILS/CAD,ILS/CAD - Israeli Shekel Canadian Dollar,ILS,Israeli Shekel,CAD,Canadian Dollar
+529,MXN/CAD,MXN/CAD - Mexican Peso Canadian Dollar,MXN,Mexican Peso,CAD,Canadian Dollar
+530,NOK/CAD,NOK/CAD - Norwegian Krone Canadian Dollar,NOK,Norwegian Krone,CAD,Canadian Dollar
+531,PLN/CAD,PLN/CAD - Polish Zloty Canadian Dollar,PLN,Polish Zloty,CAD,Canadian Dollar
+532,SAR/CAD,SAR/CAD - Saudi Riyal Canadian Dollar,SAR,Saudi Riyal,CAD,Canadian Dollar
+533,SEK/CAD,SEK/CAD - Swedish Krona Canadian Dollar,SEK,Swedish Krona,CAD,Canadian Dollar
+534,TRY/CAD,TRY/CAD - Turkish Lira Canadian Dollar,TRY,Turkish Lira,CAD,Canadian Dollar
+535,TWD/CAD,TWD/CAD - Taiwan Dollar Canadian Dollar,TWD,Taiwan Dollar,CAD,Canadian Dollar
+536,VES/CAD,VES/CAD - Venezuelan Bolivar Canadian Dollar,VES,Venezuelan Bolivar,CAD,Canadian Dollar
+537,ZAR/CAD,ZAR/CAD - South African Rand Canadian Dollar,ZAR,South African Rand,CAD,Canadian Dollar
+538,RUB/CAD,RUB/CAD - Russian Ruble Canadian Dollar,RUB,Russian Ruble,CAD,Canadian Dollar
+539,KRW/CAD,KRW/CAD - Korean Won Canadian Dollar,KRW,Korean Won,CAD,Canadian Dollar
+540,CAD/UAH,CAD/UAH - Canadian Dollar Ukrainian Hryvnia,CAD,Canadian Dollar,UAH,Ukrainian Hryvnia
+541,CAD/COP,CAD/COP - Canadian Dollar Colombian Peso,CAD,Canadian Dollar,COP,Colombian Peso
+542,CAD/RUB,CAD/RUB - Canadian Dollar Russian Ruble,CAD,Canadian Dollar,RUB,Russian Ruble
+543,USD/CHF,USD/CHF - US Dollar Swiss Franc,USD,US Dollar,CHF,Swiss Franc
+544,EUR/CHF,EUR/CHF - Euro Swiss Franc,EUR,Euro,CHF,Swiss Franc
+545,GBP/CHF,GBP/CHF - British Pound Swiss Franc,GBP,British Pound,CHF,Swiss Franc
+546,CHF/JPY,CHF/JPY - Swiss Franc Japanese Yen,CHF,Swiss Franc,JPY,Japanese Yen
+547,NZD/CHF,NZD/CHF - New Zealand Dollar Swiss Franc,NZD,New Zealand Dollar,CHF,Swiss Franc
+548,CHF/PLN,CHF/PLN - Swiss Franc Polish Zloty,CHF,Swiss Franc,PLN,Polish Zloty
+549,CHF/HUF,CHF/HUF - Swiss Franc Hungarian Forint,CHF,Swiss Franc,HUF,Hungarian Forint
+550,CHF/SGD,CHF/SGD - Swiss Franc Singapore Dollar,CHF,Swiss Franc,SGD,Singapore Dollar
+551,CHF/HKD,CHF/HKD - Swiss Franc Hong Kong Dollar,CHF,Swiss Franc,HKD,Hong Kong Dollar
+552,CHF/NOK,CHF/NOK - Swiss Franc Norwegian Krone,CHF,Swiss Franc,NOK,Norwegian Krone
+553,CHF/ZAR,CHF/ZAR - Swiss Franc South African Rand,CHF,Swiss Franc,ZAR,South African Rand
+554,CHF/TRY,CHF/TRY - Swiss Franc Turkish Lira,CHF,Swiss Franc,TRY,Turkish Lira
+555,CHF/DKK,CHF/DKK - Swiss Franc Danish Krone,CHF,Swiss Franc,DKK,Danish Krone
+556,CHF/SEK,CHF/SEK - Swiss Franc Swedish Krona,CHF,Swiss Franc,SEK,Swedish Krona
+557,CHF/CZK,CHF/CZK - Swiss Franc Czech Koruna,CHF,Swiss Franc,CZK,Czech Koruna
+558,CHF/CNY,CHF/CNY - Swiss Franc Chinese Yuan,CHF,Swiss Franc,CNY,Chinese Yuan
+559,CHF/EUR,CHF/EUR - Swiss Franc Euro,CHF,Swiss Franc,EUR,Euro
+560,CHF/GBP,CHF/GBP - Swiss Franc British Pound,CHF,Swiss Franc,GBP,British Pound
+561,CHF/IDR,CHF/IDR - Swiss Franc Indonesian Rupiah,CHF,Swiss Franc,IDR,Indonesian Rupiah
+562,CHF/ILS,CHF/ILS - Swiss Franc Israeli Shekel,CHF,Swiss Franc,ILS,Israeli Shekel
+563,CHF/INR,CHF/INR - Swiss Franc Indian Rupee,CHF,Swiss Franc,INR,Indian Rupee
+564,CHF/KRW,CHF/KRW - Swiss Franc Korean Won,CHF,Swiss Franc,KRW,Korean Won
+565,CHF/MXN,CHF/MXN - Swiss Franc Mexican Peso,CHF,Swiss Franc,MXN,Mexican Peso
+566,CHF/MYR,CHF/MYR - Swiss Franc Malaysian Ringgit,CHF,Swiss Franc,MYR,Malaysian Ringgit
+567,CHF/NZD,CHF/NZD - Swiss Franc New Zealand Dollar,CHF,Swiss Franc,NZD,New Zealand Dollar
+568,CHF/THB,CHF/THB - Swiss Franc Thai Baht,CHF,Swiss Franc,THB,Thai Baht
+569,CHF/TWD,CHF/TWD - Swiss Franc Taiwan Dollar,CHF,Swiss Franc,TWD,Taiwan Dollar
+570,CHF/USD,CHF/USD - Swiss Franc US Dollar,CHF,Swiss Franc,USD,US Dollar
+571,DKK/CHF,DKK/CHF - Danish Krone Swiss Franc,DKK,Danish Krone,CHF,Swiss Franc
+572,ISK/CHF,ISK/CHF - Icelandic Kr Swiss Franc,ISK,Icelandic Kr,CHF,Swiss Franc
+573,JPY/CHF,JPY/CHF - Japanese Yen Swiss Franc,JPY,Japanese Yen,CHF,Swiss Franc
+574,NOK/CHF,NOK/CHF - Norwegian Krone Swiss Franc,NOK,Norwegian Krone,CHF,Swiss Franc
+575,SEK/CHF,SEK/CHF - Swedish Krona Swiss Franc,SEK,Swedish Krona,CHF,Swiss Franc
+576,SGD/CHF,SGD/CHF - Singapore Dollar Swiss Franc,SGD,Singapore Dollar,CHF,Swiss Franc
+577,TRY/CHF,TRY/CHF - Turkish Lira Swiss Franc,TRY,Turkish Lira,CHF,Swiss Franc
+578,CNY/CHF,CNY/CHF - Chinese Yuan Swiss Franc,CNY,Chinese Yuan,CHF,Swiss Franc
+579,CHF/CLP,CHF/CLP - Swiss Franc Chilean Peso,CHF,Swiss Franc,CLP,Chilean Peso
+580,CHF/EGP,CHF/EGP - Swiss Franc Egyptian Pound,CHF,Swiss Franc,EGP,Egyptian Pound
+581,CHF/ISK,CHF/ISK - Swiss Franc Icelandic Kr,CHF,Swiss Franc,ISK,Icelandic Kr
+582,CHF/JMD,CHF/JMD - Swiss Franc Jamaican Dollar,CHF,Swiss Franc,JMD,Jamaican Dollar
+583,CHF/JOD,CHF/JOD - Swiss Franc Jordan Dinar,CHF,Swiss Franc,JOD,Jordan Dinar
+584,CHF/KES,CHF/KES - Swiss Franc Kenyan Shilling,CHF,Swiss Franc,KES,Kenyan Shilling
+585,CHF/LBP,CHF/LBP - Swiss Franc Lebanese Pound,CHF,Swiss Franc,LBP,Lebanese Pound
+586,CHF/LKR,CHF/LKR - Swiss Franc Sri Lankan Rupee,CHF,Swiss Franc,LKR,Sri Lankan Rupee
+587,CHF/MAD,CHF/MAD - Swiss Franc Moroccan Dirham,CHF,Swiss Franc,MAD,Moroccan Dirham
+588,CHF/NAD,CHF/NAD - Swiss Franc Namibian Dollar,CHF,Swiss Franc,NAD,Namibian Dollar
+589,CHF/NPR,CHF/NPR - Swiss Franc Nepalese Rupee,CHF,Swiss Franc,NPR,Nepalese Rupee
+590,CHF/OMR,CHF/OMR - Swiss Franc Omani Rial,CHF,Swiss Franc,OMR,Omani Rial
+591,CHF/PAB,CHF/PAB - Swiss Franc Panamanian Balboa,CHF,Swiss Franc,PAB,Panamanian Balboa
+592,CHF/PHP,CHF/PHP - Swiss Franc Philippine Peso,CHF,Swiss Franc,PHP,Philippine Peso
+593,CHF/PKR,CHF/PKR - Swiss Franc Pakistani Rupee,CHF,Swiss Franc,PKR,Pakistani Rupee
+594,CHF/QAR,CHF/QAR - Swiss Franc Qatari Riyal,CHF,Swiss Franc,QAR,Qatari Riyal
+595,CHF/RON,CHF/RON - Swiss Franc Romanian Leu,CHF,Swiss Franc,RON,Romanian Leu
+596,CHF/RUB,CHF/RUB - Swiss Franc Russian Ruble,CHF,Swiss Franc,RUB,Russian Ruble
+597,CHF/SAR,CHF/SAR - Swiss Franc Saudi Riyal,CHF,Swiss Franc,SAR,Saudi Riyal
+598,CHF/VES,CHF/VES - Swiss Franc Venezuelan Bolivar,CHF,Swiss Franc,VES,Venezuelan Bolivar
+599,CHF/XAF,CHF/XAF - Swiss Franc Central African Franc,CHF,Swiss Franc,XAF,Central African Franc
+600,CHF/XCD,CHF/XCD - Swiss Franc East Caribbean Dollar,CHF,Swiss Franc,XCD,East Caribbean Dollar
+601,HKD/CHF,HKD/CHF - Hong Kong Dollar Swiss Franc,HKD,Hong Kong Dollar,CHF,Swiss Franc
+602,ILS/CHF,ILS/CHF - Israeli Shekel Swiss Franc,ILS,Israeli Shekel,CHF,Swiss Franc
+603,MXN/CHF,MXN/CHF - Mexican Peso Swiss Franc,MXN,Mexican Peso,CHF,Swiss Franc
+604,PLN/CHF,PLN/CHF - Polish Zloty Swiss Franc,PLN,Polish Zloty,CHF,Swiss Franc
+605,SAR/CHF,SAR/CHF - Saudi Riyal Swiss Franc,SAR,Saudi Riyal,CHF,Swiss Franc
+606,TWD/CHF,TWD/CHF - Taiwan Dollar Swiss Franc,TWD,Taiwan Dollar,CHF,Swiss Franc
+607,VES/CHF,VES/CHF - Venezuelan Bolivar Swiss Franc,VES,Venezuelan Bolivar,CHF,Swiss Franc
+608,ZAR/CHF,ZAR/CHF - South African Rand Swiss Franc,ZAR,South African Rand,CHF,Swiss Franc
+609,RUB/CHF,RUB/CHF - Russian Ruble Swiss Franc,RUB,Russian Ruble,CHF,Swiss Franc
+610,KRW/CHF,KRW/CHF - Korean Won Swiss Franc,KRW,Korean Won,CHF,Swiss Franc
+611,CHF/UAH,CHF/UAH - Swiss Franc Ukrainian Hryvnia,CHF,Swiss Franc,UAH,Ukrainian Hryvnia
+612,CHF/RUB,CHF/RUB - Swiss Franc Russian Ruble,CHF,Swiss Franc,RUB,Russian Ruble
+613,USD/CHF,USD/CHF - US Dollar Swiss Franc,USD,US Dollar,CHF,Swiss Franc
+614,IDR/CHF,IDR/CHF - Indonesian Rupiah Swiss Franc,IDR,Indonesian Rupiah,CHF,Swiss Franc
+615,CHF/RUB,CHF/RUB - Swiss Franc Russian Ruble,CHF,Swiss Franc,RUB,Russian Ruble
+616,EUR/CLP,EUR/CLP - Euro Chilean Peso,EUR,Euro,CLP,Chilean Peso
+617,GBP/CLP,GBP/CLP - British Pound Chilean Peso,GBP,British Pound,CLP,Chilean Peso
+618,USD/CLP,USD/CLP - US Dollar Chilean Peso,USD,US Dollar,CLP,Chilean Peso
+619,CNY/CLP,CNY/CLP - Chinese Yuan Chilean Peso,CNY,Chinese Yuan,CLP,Chilean Peso
+620,CLP/KRW,CLP/KRW - Chilean Peso Korean Won,CLP,Chilean Peso,KRW,Korean Won
+621,CLP/IDR,CLP/IDR - Chilean Peso Indonesian Rupiah,CLP,Chilean Peso,IDR,Indonesian Rupiah
+622,DKK/CLP,DKK/CLP - Danish Krone Chilean Peso,DKK,Danish Krone,CLP,Chilean Peso
+623,HKD/CLP,HKD/CLP - Hong Kong Dollar Chilean Peso,HKD,Hong Kong Dollar,CLP,Chilean Peso
+624,HUF/CLP,HUF/CLP - Hungarian Forint Chilean Peso,HUF,Hungarian Forint,CLP,Chilean Peso
+625,ILS/CLP,ILS/CLP - Israeli Shekel Chilean Peso,ILS,Israeli Shekel,CLP,Chilean Peso
+626,INR/CLP,INR/CLP - Indian Rupee Chilean Peso,INR,Indian Rupee,CLP,Chilean Peso
+627,ISK/CLP,ISK/CLP - Icelandic Kr Chilean Peso,ISK,Icelandic Kr,CLP,Chilean Peso
+628,JPY/CLP,JPY/CLP - Japanese Yen Chilean Peso,JPY,Japanese Yen,CLP,Chilean Peso
+629,MXN/CLP,MXN/CLP - Mexican Peso Chilean Peso,MXN,Mexican Peso,CLP,Chilean Peso
+630,NOK/CLP,NOK/CLP - Norwegian Krone Chilean Peso,NOK,Norwegian Krone,CLP,Chilean Peso
+631,NZD/CLP,NZD/CLP - New Zealand Dollar Chilean Peso,NZD,New Zealand Dollar,CLP,Chilean Peso
+632,PHP/CLP,PHP/CLP - Philippine Peso Chilean Peso,PHP,Philippine Peso,CLP,Chilean Peso
+633,PKR/CLP,PKR/CLP - Pakistani Rupee Chilean Peso,PKR,Pakistani Rupee,CLP,Chilean Peso
+634,PLN/CLP,PLN/CLP - Polish Zloty Chilean Peso,PLN,Polish Zloty,CLP,Chilean Peso
+635,RUB/CLP,RUB/CLP - Russian Ruble Chilean Peso,RUB,Russian Ruble,CLP,Chilean Peso
+636,SAR/CLP,SAR/CLP - Saudi Riyal Chilean Peso,SAR,Saudi Riyal,CLP,Chilean Peso
+637,SEK/CLP,SEK/CLP - Swedish Krona Chilean Peso,SEK,Swedish Krona,CLP,Chilean Peso
+638,SGD/CLP,SGD/CLP - Singapore Dollar Chilean Peso,SGD,Singapore Dollar,CLP,Chilean Peso
+639,THB/CLP,THB/CLP - Thai Baht Chilean Peso,THB,Thai Baht,CLP,Chilean Peso
+640,TRY/CLP,TRY/CLP - Turkish Lira Chilean Peso,TRY,Turkish Lira,CLP,Chilean Peso
+641,TWD/CLP,TWD/CLP - Taiwan Dollar Chilean Peso,TWD,Taiwan Dollar,CLP,Chilean Peso
+642,VES/CLP,VES/CLP - Venezuelan Bolivar Chilean Peso,VES,Venezuelan Bolivar,CLP,Chilean Peso
+643,ZAR/CLP,ZAR/CLP - South African Rand Chilean Peso,ZAR,South African Rand,CLP,Chilean Peso
+644,CLP/PYG,CLP/PYG - Chilean Peso Paraguayan Guarani,CLP,Chilean Peso,PYG,Paraguayan Guarani
+645,CLP/UYU,CLP/UYU - Chilean Peso Uruguayan Peso,CLP,Chilean Peso,UYU,Uruguayan Peso
+646,CLP/COP,CLP/COP - Chilean Peso Colombian Peso,CLP,Chilean Peso,COP,Colombian Peso
+647,CLP/PEN,CLP/PEN - Chilean Peso Peru Sol,CLP,Chilean Peso,PEN,Peru Sol
+648,PYG/CLP,PYG/CLP - Paraguayan Guarani Chilean Peso,PYG,Paraguayan Guarani,CLP,Chilean Peso
+649,UYU/CLP,UYU/CLP - Uruguayan Peso Chilean Peso,UYU,Uruguayan Peso,CLP,Chilean Peso
+650,COP/CLP,COP/CLP - Colombian Peso Chilean Peso,COP,Colombian Peso,CLP,Chilean Peso
+651,PEN/CLP,PEN/CLP - Peru Sol Chilean Peso,PEN,Peru Sol,CLP,Chilean Peso
+652,CLP/MXN,CLP/MXN - Chilean Peso Mexican Peso,CLP,Chilean Peso,MXN,Mexican Peso
+653,CLP/VES,CLP/VES - Chilean Peso Venezuelan Bolivar,CLP,Chilean Peso,VES,Venezuelan Bolivar
+654,CLP/USD,CLP/USD - Chilean Peso US Dollar,CLP,Chilean Peso,USD,US Dollar
+655,USD/CNH,USD/CNH - US Dollar Chinese Yuan Offshore,USD,US Dollar,CNH,Chinese Yuan Offshore
+656,CNY/CNH,CNY/CNH - Chinese Yuan Chinese Yuan Offshore,CNY,Chinese Yuan,CNH,Offshore
+657,CNY/DKK,CNY/DKK - Chinese Yuan Danish Krone,CNY,Chinese Yuan,DKK,Danish Krone
+658,CNY/HKD,CNY/HKD - Chinese Yuan Hong Kong Dollar,CNY,Chinese Yuan,HKD,Hong Kong Dollar
+659,CNY/JPY,CNY/JPY - Chinese Yuan Japanese Yen,CNY,Chinese Yuan,JPY,Japanese Yen
+660,CNY/ZAR,CNY/ZAR - Chinese Yuan South African Rand,CNY,Chinese Yuan,ZAR,South African Rand
+661,DKK/CNY,DKK/CNY - Danish Krone Chinese Yuan,DKK,Danish Krone,CNY,Chinese Yuan
+662,EUR/CNY,EUR/CNY - Euro Chinese Yuan,EUR,Euro,CNY,Chinese Yuan
+663,GBP/CNY,GBP/CNY - British Pound Chinese Yuan,GBP,British Pound,CNY,Chinese Yuan
+664,HKD/CNY,HKD/CNY - Hong Kong Dollar Chinese Yuan,HKD,Hong Kong Dollar,CNY,Chinese Yuan
+665,IDR/CNY,IDR/CNY - Indonesian Rupiah Chinese Yuan,IDR,Indonesian Rupiah,CNY,Chinese Yuan
+666,INR/CNY,INR/CNY - Indian Rupee Chinese Yuan,INR,Indian Rupee,CNY,Chinese Yuan
+667,JPY/CNY,JPY/CNY - Japanese Yen Chinese Yuan,JPY,Japanese Yen,CNY,Chinese Yuan
+668,KRW/CNY,KRW/CNY - Korean Won Chinese Yuan,KRW,Korean Won,CNY,Chinese Yuan
+669,MYR/CNY,MYR/CNY - Malaysian Ringgit Chinese Yuan,MYR,Malaysian Ringgit,CNY,Chinese Yuan
+670,NZD/CNY,NZD/CNY - New Zealand Dollar Chinese Yuan,NZD,New Zealand Dollar,CNY,Chinese Yuan
+671,SGD/CNY,SGD/CNY - Singapore Dollar Chinese Yuan,SGD,Singapore Dollar,CNY,Chinese Yuan
+672,THB/CNY,THB/CNY - Thai Baht Chinese Yuan,THB,Thai Baht,CNY,Chinese Yuan
+673,TWD/CNY,TWD/CNY - Taiwan Dollar Chinese Yuan,TWD,Taiwan Dollar,CNY,Chinese Yuan
+674,USD/CNY,USD/CNY - US Dollar Chinese Yuan,USD,US Dollar,CNY,Chinese Yuan
+675,ZAR/CNY,ZAR/CNY - South African Rand Chinese Yuan,ZAR,South African Rand,CNY,Chinese Yuan
+676,CNY/CZK,CNY/CZK - Chinese Yuan Czech Koruna,CNY,Chinese Yuan,CZK,Czech Koruna
+677,CNY/EGP,CNY/EGP - Chinese Yuan Egyptian Pound,CNY,Chinese Yuan,EGP,Egyptian Pound
+678,CNY/EUR,CNY/EUR - Chinese Yuan Euro,CNY,Chinese Yuan,EUR,Euro
+679,CNY/GBP,CNY/GBP - Chinese Yuan British Pound,CNY,Chinese Yuan,GBP,British Pound
+680,CNY/HUF,CNY/HUF - Chinese Yuan Hungarian Forint,CNY,Chinese Yuan,HUF,Hungarian Forint
+681,CNY/IDR,CNY/IDR - Chinese Yuan Indonesian Rupiah,CNY,Chinese Yuan,IDR,Indonesian Rupiah
+682,CNY/ILS,CNY/ILS - Chinese Yuan Israeli Shekel,CNY,Chinese Yuan,ILS,Israeli Shekel
+683,CNY/INR,CNY/INR - Chinese Yuan Indian Rupee,CNY,Chinese Yuan,INR,Indian Rupee
+684,CNY/ISK,CNY/ISK - Chinese Yuan Icelandic Kr,CNY,Chinese Yuan,ISK,Icelandic Kr
+685,CNY/JMD,CNY/JMD - Chinese Yuan Jamaican Dollar,CNY,Chinese Yuan,JMD,Jamaican Dollar
+686,CNY/JOD,CNY/JOD - Chinese Yuan Jordan Dinar,CNY,Chinese Yuan,JOD,Jordan Dinar
+687,CNY/KES,CNY/KES - Chinese Yuan Kenyan Shilling,CNY,Chinese Yuan,KES,Kenyan Shilling
+688,CNY/KRW,CNY/KRW - Chinese Yuan Korean Won,CNY,Chinese Yuan,KRW,Korean Won
+689,CNY/LBP,CNY/LBP - Chinese Yuan Lebanese Pound,CNY,Chinese Yuan,LBP,Lebanese Pound
+690,CNY/LKR,CNY/LKR - Chinese Yuan Sri Lankan Rupee,CNY,Chinese Yuan,LKR,Sri Lankan Rupee
+691,CNY/MAD,CNY/MAD - Chinese Yuan Moroccan Dirham,CNY,Chinese Yuan,MAD,Moroccan Dirham
+692,CNY/MXN,CNY/MXN - Chinese Yuan Mexican Peso,CNY,Chinese Yuan,MXN,Mexican Peso
+693,CNY/MYR,CNY/MYR - Chinese Yuan Malaysian Ringgit,CNY,Chinese Yuan,MYR,Malaysian Ringgit
+694,CNY/NAD,CNY/NAD - Chinese Yuan Namibian Dollar,CNY,Chinese Yuan,NAD,Namibian Dollar
+695,CNY/NOK,CNY/NOK - Chinese Yuan Norwegian Krone,CNY,Chinese Yuan,NOK,Norwegian Krone
+696,CNY/NPR,CNY/NPR - Chinese Yuan Nepalese Rupee,CNY,Chinese Yuan,NPR,Nepalese Rupee
+697,CNY/NZD,CNY/NZD - Chinese Yuan New Zealand Dollar,CNY,Chinese Yuan,NZD,New Zealand Dollar
+698,CNY/OMR,CNY/OMR - Chinese Yuan Omani Rial,CNY,Chinese Yuan,OMR,Omani Rial
+699,CNY/PAB,CNY/PAB - Chinese Yuan Panamanian Balboa,CNY,Chinese Yuan,PAB,Panamanian Balboa
+700,CNY/PHP,CNY/PHP - Chinese Yuan Philippine Peso,CNY,Chinese Yuan,PHP,Philippine Peso
+701,CNY/PKR,CNY/PKR - Chinese Yuan Pakistani Rupee,CNY,Chinese Yuan,PKR,Pakistani Rupee
+702,CNY/PLN,CNY/PLN - Chinese Yuan Polish Zloty,CNY,Chinese Yuan,PLN,Polish Zloty
+703,CNY/QAR,CNY/QAR - Chinese Yuan Qatari Riyal,CNY,Chinese Yuan,QAR,Qatari Riyal
+704,CNY/RON,CNY/RON - Chinese Yuan Romanian Leu,CNY,Chinese Yuan,RON,Romanian Leu
+705,CNY/RUB,CNY/RUB - Chinese Yuan Russian Ruble,CNY,Chinese Yuan,RUB,Russian Ruble
+706,CNY/SAR,CNY/SAR - Chinese Yuan Saudi Riyal,CNY,Chinese Yuan,SAR,Saudi Riyal
+707,CNY/SEK,CNY/SEK - Chinese Yuan Swedish Krona,CNY,Chinese Yuan,SEK,Swedish Krona
+708,CNY/SGD,CNY/SGD - Chinese Yuan Singapore Dollar,CNY,Chinese Yuan,SGD,Singapore Dollar
+709,CNY/THB,CNY/THB - Chinese Yuan Thai Baht,CNY,Chinese Yuan,THB,Thai Baht
+710,CNY/TRY,CNY/TRY - Chinese Yuan Turkish Lira,CNY,Chinese Yuan,TRY,Turkish Lira
+711,CNY/USD,CNY/USD - Chinese Yuan US Dollar,CNY,Chinese Yuan,USD,US Dollar
+712,CNY/VES,CNY/VES - Chinese Yuan Venezuelan Bolivar,CNY,Chinese Yuan,VES,Venezuelan Bolivar
+713,CNY/XAF,CNY/XAF - Chinese Yuan Central African Franc,CNY,Chinese Yuan,XAF,Central African Franc
+714,CNY/XCD,CNY/XCD - Chinese Yuan East Caribbean Dollar,CNY,Chinese Yuan,XCD,East Caribbean Dollar
+715,CNY/TWD,CNY/TWD - Chinese Yuan Taiwan Dollar,CNY,Chinese Yuan,TWD,Taiwan Dollar
+716,ILS/CNY,ILS/CNY - Israeli Shekel Chinese Yuan,ILS,Israeli Shekel,CNY,Chinese Yuan
+717,MXN/CNY,MXN/CNY - Mexican Peso Chinese Yuan,MXN,Mexican Peso,CNY,Chinese Yuan
+718,NOK/CNY,NOK/CNY - Norwegian Krone Chinese Yuan,NOK,Norwegian Krone,CNY,Chinese Yuan
+719,PHP/CNY,PHP/CNY - Philippine Peso Chinese Yuan,PHP,Philippine Peso,CNY,Chinese Yuan
+720,PLN/CNY,PLN/CNY - Polish Zloty Chinese Yuan,PLN,Polish Zloty,CNY,Chinese Yuan
+721,RUB/CNY,RUB/CNY - Russian Ruble Chinese Yuan,RUB,Russian Ruble,CNY,Chinese Yuan
+722,SAR/CNY,SAR/CNY - Saudi Riyal Chinese Yuan,SAR,Saudi Riyal,CNY,Chinese Yuan
+723,SEK/CNY,SEK/CNY - Swedish Krona Chinese Yuan,SEK,Swedish Krona,CNY,Chinese Yuan
+724,TRY/CNY,TRY/CNY - Turkish Lira Chinese Yuan,TRY,Turkish Lira,CNY,Chinese Yuan
+725,VES/CNY,VES/CNY - Venezuelan Bolivar Chinese Yuan,VES,Venezuelan Bolivar,CNY,Chinese Yuan
+726,CNY/UAH,CNY/UAH - Chinese Yuan Ukrainian Hryvnia,CNY,Chinese Yuan,UAH,Ukrainian Hryvnia
+727,KWD/CNY,KWD/CNY - Kuwaiti Dinar Chinese Yuan,KWD,Kuwaiti Dinar,CNY,Chinese Yuan
+728,CNY/RUB,CNY/RUB - Chinese Yuan Russian Ruble,CNY,Chinese Yuan,RUB,Russian Ruble
+729,CNY/MNT,CNY/MNT - Chinese Yuan Mongolian Tugrik,CNY,Chinese Yuan,MNT,Mongolian Tugrik
+730,DKK/COP,DKK/COP - Danish Krone Colombian Peso,DKK,Danish Krone,COP,Colombian Peso
+731,EUR/COP,EUR/COP - Euro Colombian Peso,EUR,Euro,COP,Colombian Peso
+732,GBP/COP,GBP/COP - British Pound Colombian Peso,GBP,British Pound,COP,Colombian Peso
+733,USD/COP,USD/COP - US Dollar Colombian Peso,USD,US Dollar,COP,Colombian Peso
+734,PYG/COP,PYG/COP - Paraguayan Guarani Colombian Peso,PYG,Paraguayan Guarani,COP,Colombian Peso
+735,COP/PYG,COP/PYG - Colombian Peso Paraguayan Guarani,COP,Colombian Peso,PYG,Paraguayan Guarani
+736,UYU/COP,UYU/COP - Uruguayan Peso Colombian Peso,UYU,Uruguayan Peso,COP,Colombian Peso
+737,COP/UYU,COP/UYU - Colombian Peso Uruguayan Peso,COP,Colombian Peso,UYU,Uruguayan Peso
+738,COP/PEN,COP/PEN - Colombian Peso Peru Sol,COP,Colombian Peso,PEN,Peru Sol
+739,PEN/COP,PEN/COP - Peru Sol Colombian Peso,PEN,Peru Sol,COP,Colombian Peso
+740,COP/MXN,COP/MXN - Colombian Peso Mexican Peso,COP,Colombian Peso,MXN,Mexican Peso
+741,MXN/COP,MXN/COP - Mexican Peso Colombian Peso,MXN,Mexican Peso,COP,Colombian Peso
+742,VES/COP,VES/COP - Venezuelan Bolivar Colombian Peso,VES,Venezuelan Bolivar,COP,Colombian Peso
+743,COP/VES,COP/VES - Colombian Peso Venezuelan Bolivar,COP,Colombian Peso,VES,Venezuelan Bolivar
+744,COP/USD,COP/USD - Colombian Peso US Dollar,COP,Colombian Peso,USD,US Dollar
+745,ILS/COP,ILS/COP - Israeli Shekel Colombian Peso,ILS,Israeli Shekel,COP,Colombian Peso
+746,EUR/CRC,EUR/CRC - Euro Costa Rican Colon,EUR,Euro,CRC,Costa Rican Colon
+747,GBP/CRC,GBP/CRC - British Pound Costa Rican Colon,GBP,British Pound,CRC,Costa Rican Colon
+748,USD/CRC,USD/CRC - US Dollar Costa Rican Colon,USD,US Dollar,CRC,Costa Rican Colon
+749,EUR/CUP,EUR/CUP - Euro Cuban Peso,EUR,Euro,CUP,Cuban Peso
+750,USD/CUP,USD/CUP - US Dollar Cuban Peso,USD,US Dollar,CUP,Cuban Peso
+751,EUR/CVE,EUR/CVE - Euro Cape Verdean Escudo,EUR,Euro,CVE,Cape Verdean Escudo
+752,NZD/CZK,NZD/CZK - New Zealand Dollar Czech Koruna,NZD,New Zealand Dollar,CZK,Czech Koruna
+753,DKK/CZK,DKK/CZK - Danish Krone Czech Koruna,DKK,Danish Krone,CZK,Czech Koruna
+754,PLN/CZK,PLN/CZK - Polish Zloty Czech Koruna,PLN,Polish Zloty,CZK,Czech Koruna
+755,USD/CZK,USD/CZK - US Dollar Czech Koruna,USD,US Dollar,CZK,Czech Koruna
+756,CZK/HUF,CZK/HUF - Czech Koruna Hungarian Forint,CZK,Czech Koruna,HUF,Hungarian Forint
+757,GBP/CZK,GBP/CZK - British Pound Czech Koruna,GBP,British Pound,CZK,Czech Koruna
+758,CZK/JPY,CZK/JPY - Czech Koruna Japanese Yen,CZK,Czech Koruna,JPY,Japanese Yen
+759,EUR/CZK,EUR/CZK - Euro Czech Koruna,EUR,Euro,CZK,Czech Koruna
+760,CZK/SEK,CZK/SEK - Czech Koruna Swedish Krona,CZK,Czech Koruna,SEK,Swedish Krona
+761,SEK/CZK,SEK/CZK - Swedish Krona Czech Koruna,SEK,Swedish Krona,CZK,Czech Koruna
+762,HKD/CZK,HKD/CZK - Hong Kong Dollar Czech Koruna,HKD,Hong Kong Dollar,CZK,Czech Koruna
+763,ILS/CZK,ILS/CZK - Israeli Shekel Czech Koruna,ILS,Israeli Shekel,CZK,Czech Koruna
+764,INR/CZK,INR/CZK - Indian Rupee Czech Koruna,INR,Indian Rupee,CZK,Czech Koruna
+765,ISK/CZK,ISK/CZK - Icelandic Kr Czech Koruna,ISK,Icelandic Kr,CZK,Czech Koruna
+766,JPY/CZK,JPY/CZK - Japanese Yen Czech Koruna,JPY,Japanese Yen,CZK,Czech Koruna
+767,MXN/CZK,MXN/CZK - Mexican Peso Czech Koruna,MXN,Mexican Peso,CZK,Czech Koruna
+768,NOK/CZK,NOK/CZK - Norwegian Krone Czech Koruna,NOK,Norwegian Krone,CZK,Czech Koruna
+769,PHP/CZK,PHP/CZK - Philippine Peso Czech Koruna,PHP,Philippine Peso,CZK,Czech Koruna
+770,PKR/CZK,PKR/CZK - Pakistani Rupee Czech Koruna,PKR,Pakistani Rupee,CZK,Czech Koruna
+771,RUB/CZK,RUB/CZK - Russian Ruble Czech Koruna,RUB,Russian Ruble,CZK,Czech Koruna
+772,SAR/CZK,SAR/CZK - Saudi Riyal Czech Koruna,SAR,Saudi Riyal,CZK,Czech Koruna
+773,SGD/CZK,SGD/CZK - Singapore Dollar Czech Koruna,SGD,Singapore Dollar,CZK,Czech Koruna
+774,THB/CZK,THB/CZK - Thai Baht Czech Koruna,THB,Thai Baht,CZK,Czech Koruna
+775,TRY/CZK,TRY/CZK - Turkish Lira Czech Koruna,TRY,Turkish Lira,CZK,Czech Koruna
+776,TWD/CZK,TWD/CZK - Taiwan Dollar Czech Koruna,TWD,Taiwan Dollar,CZK,Czech Koruna
+777,VES/CZK,VES/CZK - Venezuelan Bolivar Czech Koruna,VES,Venezuelan Bolivar,CZK,Czech Koruna
+778,ZAR/CZK,ZAR/CZK - South African Rand Czech Koruna,ZAR,South African Rand,CZK,Czech Koruna
+779,CZK/ILS,CZK/ILS - Czech Koruna Israeli Shekel,CZK,Czech Koruna,ILS,Israeli Shekel
+780,CZK/PLN,CZK/PLN - Czech Koruna Polish Zloty,CZK,Czech Koruna,PLN,Polish Zloty
+781,CZK/RUB,CZK/RUB - Czech Koruna Russian Ruble,CZK,Czech Koruna,RUB,Russian Ruble
+782,CZK/RUB,CZK/RUB - Czech Koruna Russian Ruble,CZK,Czech Koruna,RUB,Russian Ruble
+783,EUR/DJF,EUR/DJF - Euro Djiboutian Franc,EUR,Euro,DJF,Djiboutian Franc
+784,GBP/DJF,GBP/DJF - British Pound Djiboutian Franc,GBP,British Pound,DJF,Djiboutian Franc
+785,USD/DJF,USD/DJF - US Dollar Djiboutian Franc,USD,US Dollar,DJF,Djiboutian Franc
+786,USD/DKK,USD/DKK - US Dollar Danish Krone,USD,US Dollar,DKK,Danish Krone
+787,EUR/DKK,EUR/DKK - Euro Danish Krone,EUR,Euro,DKK,Danish Krone
+788,NZD/DKK,NZD/DKK - New Zealand Dollar Danish Krone,NZD,New Zealand Dollar,DKK,Danish Krone
+789,DKK/HUF,DKK/HUF - Danish Krone Hungarian Forint,DKK,Danish Krone,HUF,Hungarian Forint
+790,DKK/PLN,DKK/PLN - Danish Krone Polish Zloty,DKK,Danish Krone,PLN,Polish Zloty
+791,DKK/SEK,DKK/SEK - Danish Krone Swedish Krona,DKK,Danish Krone,SEK,Swedish Krona
+792,NOK/DKK,NOK/DKK - Norwegian Krone Danish Krone,NOK,Norwegian Krone,DKK,Danish Krone
+793,DKK/JPY,DKK/JPY - Danish Krone Japanese Yen,DKK,Danish Krone,JPY,Japanese Yen
+794,DKK/SGD,DKK/SGD - Danish Krone Singapore Dollar,DKK,Danish Krone,SGD,Singapore Dollar
+795,DKK/ZAR,DKK/ZAR - Danish Krone South African Rand,DKK,Danish Krone,ZAR,South African Rand
+796,DKK/THB,DKK/THB - Danish Krone Thai Baht,DKK,Danish Krone,THB,Thai Baht
+797,GBP/DKK,GBP/DKK - British Pound Danish Krone,GBP,British Pound,DKK,Danish Krone
+798,DKK/HKD,DKK/HKD - Danish Krone Hong Kong Dollar,DKK,Danish Krone,HKD,Hong Kong Dollar
+799,DKK/INR,DKK/INR - Danish Krone Indian Rupee,DKK,Danish Krone,INR,Indian Rupee
+800,DKK/MXN,DKK/MXN - Danish Krone Mexican Peso,DKK,Danish Krone,MXN,Mexican Peso
+801,DKK/MYR,DKK/MYR - Danish Krone Malaysian Ringgit,DKK,Danish Krone,MYR,Malaysian Ringgit
+802,DKK/NOK,DKK/NOK - Danish Krone Norwegian Krone,DKK,Danish Krone,NOK,Norwegian Krone
+803,DKK/PHP,DKK/PHP - Danish Krone Philippine Peso,DKK,Danish Krone,PHP,Philippine Peso
+804,DKK/TWD,DKK/TWD - Danish Krone Taiwan Dollar,DKK,Danish Krone,TWD,Taiwan Dollar
+805,DKK/UAH,DKK/UAH - Danish Krone Ukrainian Hryvnia,DKK,Danish Krone,UAH,Ukrainian Hryvnia
+806,HKD/DKK,HKD/DKK - Hong Kong Dollar Danish Krone,HKD,Hong Kong Dollar,DKK,Danish Krone
+807,JPY/DKK,JPY/DKK - Japanese Yen Danish Krone,JPY,Japanese Yen,DKK,Danish Krone
+808,MXN/DKK,MXN/DKK - Mexican Peso Danish Krone,MXN,Mexican Peso,DKK,Danish Krone
+809,MYR/DKK,MYR/DKK - Malaysian Ringgit Danish Krone,MYR,Malaysian Ringgit,DKK,Danish Krone
+810,PLN/DKK,PLN/DKK - Polish Zloty Danish Krone,PLN,Polish Zloty,DKK,Danish Krone
+811,SEK/DKK,SEK/DKK - Swedish Krona Danish Krone,SEK,Swedish Krona,DKK,Danish Krone
+812,SGD/DKK,SGD/DKK - Singapore Dollar Danish Krone,SGD,Singapore Dollar,DKK,Danish Krone
+813,UAH/DKK,UAH/DKK - Ukrainian Hryvnia Danish Krone,UAH,Ukrainian Hryvnia,DKK,Danish Krone
+814,ZAR/DKK,ZAR/DKK - South African Rand Danish Krone,ZAR,South African Rand,DKK,Danish Krone
+815,DKK/EGP,DKK/EGP - Danish Krone Egyptian Pound,DKK,Danish Krone,EGP,Egyptian Pound
+816,DKK/EUR,DKK/EUR - Danish Krone Euro,DKK,Danish Krone,EUR,Euro
+817,DKK/GBP,DKK/GBP - Danish Krone British Pound,DKK,Danish Krone,GBP,British Pound
+818,DKK/IDR,DKK/IDR - Danish Krone Indonesian Rupiah,DKK,Danish Krone,IDR,Indonesian Rupiah
+819,DKK/ILS,DKK/ILS - Danish Krone Israeli Shekel,DKK,Danish Krone,ILS,Israeli Shekel
+820,DKK/JMD,DKK/JMD - Danish Krone Jamaican Dollar,DKK,Danish Krone,JMD,Jamaican Dollar
+821,DKK/JOD,DKK/JOD - Danish Krone Jordan Dinar,DKK,Danish Krone,JOD,Jordan Dinar
+822,DKK/KES,DKK/KES - Danish Krone Kenyan Shilling,DKK,Danish Krone,KES,Kenyan Shilling
+823,DKK/KRW,DKK/KRW - Danish Krone Korean Won,DKK,Danish Krone,KRW,Korean Won
+824,DKK/LBP,DKK/LBP - Danish Krone Lebanese Pound,DKK,Danish Krone,LBP,Lebanese Pound
+825,DKK/LKR,DKK/LKR - Danish Krone Sri Lankan Rupee,DKK,Danish Krone,LKR,Sri Lankan Rupee
+826,DKK/MAD,DKK/MAD - Danish Krone Moroccan Dirham,DKK,Danish Krone,MAD,Moroccan Dirham
+827,DKK/NAD,DKK/NAD - Danish Krone Namibian Dollar,DKK,Danish Krone,NAD,Namibian Dollar
+828,DKK/NPR,DKK/NPR - Danish Krone Nepalese Rupee,DKK,Danish Krone,NPR,Nepalese Rupee
+829,DKK/NZD,DKK/NZD - Danish Krone New Zealand Dollar,DKK,Danish Krone,NZD,New Zealand Dollar
+830,DKK/OMR,DKK/OMR - Danish Krone Omani Rial,DKK,Danish Krone,OMR,Omani Rial
+831,DKK/PAB,DKK/PAB - Danish Krone Panamanian Balboa,DKK,Danish Krone,PAB,Panamanian Balboa
+832,DKK/PKR,DKK/PKR - Danish Krone Pakistani Rupee,DKK,Danish Krone,PKR,Pakistani Rupee
+833,DKK/QAR,DKK/QAR - Danish Krone Qatari Riyal,DKK,Danish Krone,QAR,Qatari Riyal
+834,DKK/RON,DKK/RON - Danish Krone Romanian Leu,DKK,Danish Krone,RON,Romanian Leu
+835,DKK/RUB,DKK/RUB - Danish Krone Russian Ruble,DKK,Danish Krone,RUB,Russian Ruble
+836,DKK/SAR,DKK/SAR - Danish Krone Saudi Riyal,DKK,Danish Krone,SAR,Saudi Riyal
+837,DKK/TRY,DKK/TRY - Danish Krone Turkish Lira,DKK,Danish Krone,TRY,Turkish Lira
+838,DKK/USD,DKK/USD - Danish Krone US Dollar,DKK,Danish Krone,USD,US Dollar
+839,DKK/VES,DKK/VES - Danish Krone Venezuelan Bolivar,DKK,Danish Krone,VES,Venezuelan Bolivar
+840,DKK/XAF,DKK/XAF - Danish Krone Central African Franc,DKK,Danish Krone,XAF,Central African Franc
+841,DKK/XCD,DKK/XCD - Danish Krone East Caribbean Dollar,DKK,Danish Krone,XCD,East Caribbean Dollar
+842,ILS/DKK,ILS/DKK - Israeli Shekel Danish Krone,ILS,Israeli Shekel,DKK,Danish Krone
+843,INR/DKK,INR/DKK - Indian Rupee Danish Krone,INR,Indian Rupee,DKK,Danish Krone
+844,PHP/DKK,PHP/DKK - Philippine Peso Danish Krone,PHP,Philippine Peso,DKK,Danish Krone
+845,RUB/DKK,RUB/DKK - Russian Ruble Danish Krone,RUB,Russian Ruble,DKK,Danish Krone
+846,SAR/DKK,SAR/DKK - Saudi Riyal Danish Krone,SAR,Saudi Riyal,DKK,Danish Krone
+847,THB/DKK,THB/DKK - Thai Baht Danish Krone,THB,Thai Baht,DKK,Danish Krone
+848,TRY/DKK,TRY/DKK - Turkish Lira Danish Krone,TRY,Turkish Lira,DKK,Danish Krone
+849,TWD/DKK,TWD/DKK - Taiwan Dollar Danish Krone,TWD,Taiwan Dollar,DKK,Danish Krone
+850,VES/DKK,VES/DKK - Venezuelan Bolivar Danish Krone,VES,Venezuelan Bolivar,DKK,Danish Krone
+851,DKK/RUB,DKK/RUB - Danish Krone Russian Ruble,DKK,Danish Krone,RUB,Russian Ruble
+852,EUR/DOP,EUR/DOP - Euro Dominican Peso,EUR,Euro,DOP,Dominican Peso
+853,GBP/DOP,GBP/DOP - British Pound Dominican Peso,GBP,British Pound,DOP,Dominican Peso
+854,USD/DOP,USD/DOP - US Dollar Dominican Peso,USD,US Dollar,DOP,Dominican Peso
+855,EUR/DZD,EUR/DZD - Euro Algerian Dinar,EUR,Euro,DZD,Algerian Dinar
+856,GBP/DZD,GBP/DZD - British Pound Algerian Dinar,GBP,British Pound,DZD,Algerian Dinar
+857,USD/DZD,USD/DZD - US Dollar Algerian Dinar,USD,US Dollar,DZD,Algerian Dinar
+858,EGP/PKR,EGP/PKR - Egyptian Pound Pakistani Rupee,EGP,Egyptian Pound,PKR,Pakistani Rupee
+859,EUR/EGP,EUR/EGP - Euro Egyptian Pound,EUR,Euro,EGP,Egyptian Pound
+860,GBP/EGP,GBP/EGP - British Pound Egyptian Pound,GBP,British Pound,EGP,Egyptian Pound
+861,USD/EGP,USD/EGP - US Dollar Egyptian Pound,USD,US Dollar,EGP,Egyptian Pound
+862,HKD/EGP,HKD/EGP - Hong Kong Dollar Egyptian Pound,HKD,Hong Kong Dollar,EGP,Egyptian Pound
+863,ILS/EGP,ILS/EGP - Israeli Shekel Egyptian Pound,ILS,Israeli Shekel,EGP,Egyptian Pound
+864,INR/EGP,INR/EGP - Indian Rupee Egyptian Pound,INR,Indian Rupee,EGP,Egyptian Pound
+865,MXN/EGP,MXN/EGP - Mexican Peso Egyptian Pound,MXN,Mexican Peso,EGP,Egyptian Pound
+866,NOK/EGP,NOK/EGP - Norwegian Krone Egyptian Pound,NOK,Norwegian Krone,EGP,Egyptian Pound
+867,NZD/EGP,NZD/EGP - New Zealand Dollar Egyptian Pound,NZD,New Zealand Dollar,EGP,Egyptian Pound
+868,PHP/EGP,PHP/EGP - Philippine Peso Egyptian Pound,PHP,Philippine Peso,EGP,Egyptian Pound
+869,PLN/EGP,PLN/EGP - Polish Zloty Egyptian Pound,PLN,Polish Zloty,EGP,Egyptian Pound
+870,RUB/EGP,RUB/EGP - Russian Ruble Egyptian Pound,RUB,Russian Ruble,EGP,Egyptian Pound
+871,SAR/EGP,SAR/EGP - Saudi Riyal Egyptian Pound,SAR,Saudi Riyal,EGP,Egyptian Pound
+872,SEK/EGP,SEK/EGP - Swedish Krona Egyptian Pound,SEK,Swedish Krona,EGP,Egyptian Pound
+873,SGD/EGP,SGD/EGP - Singapore Dollar Egyptian Pound,SGD,Singapore Dollar,EGP,Egyptian Pound
+874,THB/EGP,THB/EGP - Thai Baht Egyptian Pound,THB,Thai Baht,EGP,Egyptian Pound
+875,TRY/EGP,TRY/EGP - Turkish Lira Egyptian Pound,TRY,Turkish Lira,EGP,Egyptian Pound
+876,TWD/EGP,TWD/EGP - Taiwan Dollar Egyptian Pound,TWD,Taiwan Dollar,EGP,Egyptian Pound
+877,VES/EGP,VES/EGP - Venezuelan Bolivar Egyptian Pound,VES,Venezuelan Bolivar,EGP,Egyptian Pound
+878,ZAR/EGP,ZAR/EGP - South African Rand Egyptian Pound,ZAR,South African Rand,EGP,Egyptian Pound
+879,EGP/EUR,EGP/EUR - Egyptian Pound Euro,EGP,Egyptian Pound,EUR,Euro
+880,EGP/GBP,EGP/GBP - Egyptian Pound British Pound,EGP,Egyptian Pound,GBP,British Pound
+881,EGP/JPY,EGP/JPY - Egyptian Pound Japanese Yen,EGP,Egyptian Pound,JPY,Japanese Yen
+882,EGP/SAR,EGP/SAR - Egyptian Pound Saudi Riyal,EGP,Egyptian Pound,SAR,Saudi Riyal
+883,EGP/USD,EGP/USD - Egyptian Pound US Dollar,EGP,Egyptian Pound,USD,US Dollar
+884,JPY/EGP,JPY/EGP - Japanese Yen Egyptian Pound,JPY,Japanese Yen,EGP,Egyptian Pound
+885,EUR/ETB,EUR/ETB - Euro Ethiopian Birr,EUR,Euro,ETB,Ethiopian Birr
+886,GBP/ETB,GBP/ETB - British Pound Ethiopian Birr,GBP,British Pound,ETB,Ethiopian Birr
+887,USD/ETB,USD/ETB - US Dollar Ethiopian Birr,USD,US Dollar,ETB,Ethiopian Birr
+888,EUR/USD,EUR/USD - Euro US Dollar,EUR,Euro,USD,US Dollar
+889,EUR/GBP,EUR/GBP - Euro British Pound,EUR,Euro,GBP,British Pound
+890,EUR/JPY,EUR/JPY - Euro Japanese Yen,EUR,Euro,JPY,Japanese Yen
+891,EUR/NOK,EUR/NOK - Euro Norwegian Krone,EUR,Euro,NOK,Norwegian Krone
+892,EUR/PLN,EUR/PLN - Euro Polish Zloty,EUR,Euro,PLN,Polish Zloty
+893,EUR/NZD,EUR/NZD - Euro New Zealand Dollar,EUR,Euro,NZD,New Zealand Dollar
+894,EUR/SEK,EUR/SEK - Euro Swedish Krona,EUR,Euro,SEK,Swedish Krona
+895,EUR/ILS,EUR/ILS - Euro Israeli Shekel,EUR,Euro,ILS,Israeli Shekel
+896,EUR/TRY,EUR/TRY - Euro Turkish Lira,EUR,Euro,TRY,Turkish Lira
+897,EUR/THB,EUR/THB - Euro Thai Baht,EUR,Euro,THB,Thai Baht
+898,EUR/ZAR,EUR/ZAR - Euro South African Rand,EUR,Euro,ZAR,South African Rand
+899,EUR/MXN,EUR/MXN - Euro Mexican Peso,EUR,Euro,MXN,Mexican Peso
+900,EUR/SGD,EUR/SGD - Euro Singapore Dollar,EUR,Euro,SGD,Singapore Dollar
+901,EUR/HUF,EUR/HUF - Euro Hungarian Forint,EUR,Euro,HUF,Hungarian Forint
+902,EUR/HKD,EUR/HKD - Euro Hong Kong Dollar,EUR,Euro,HKD,Hong Kong Dollar
+903,EUR/KRW,EUR/KRW - Euro Korean Won,EUR,Euro,KRW,Korean Won
+904,EUR/FJD,EUR/FJD - Euro Fiji Dollar,EUR,Euro,FJD,Fiji Dollar
+905,EUR/GHS,EUR/GHS - Euro Ghanaian Cedi,EUR,Euro,GHS,Ghanaian Cedi
+906,EUR/GMD,EUR/GMD - Euro Gambian Dalasi,EUR,Euro,GMD,Gambian Dalasi
+907,EUR/GNF,EUR/GNF - Euro Guinean Franc,EUR,Euro,GNF,Guinean Franc
+908,EUR/GTQ,EUR/GTQ - Euro Guatemalan Quetzal,EUR,Euro,GTQ,Guatemalan Quetzal
+909,EUR/HNL,EUR/HNL - Euro Honduran Lempira,EUR,Euro,HNL,Honduran Lempira
+910,EUR/HRK,EUR/HRK - Euro Croatian Kuna,EUR,Euro,HRK,Croatian Kuna
+911,EUR/HTG,EUR/HTG - Euro Haitian Gourde,EUR,Euro,HTG,Haitian Gourde
+912,EUR/IDR,EUR/IDR - Euro Indonesian Rupiah,EUR,Euro,IDR,Indonesian Rupiah
+913,EUR/INR,EUR/INR - Euro Indian Rupee,EUR,Euro,INR,Indian Rupee
+914,EUR/IQD,EUR/IQD - Euro Iraqi Dinar,EUR,Euro,IQD,Iraqi Dinar
+915,EUR/IRR,EUR/IRR - Euro Iranian Rial,EUR,Euro,IRR,Iranian Rial
+916,EUR/ISK,EUR/ISK - Euro Icelandic Kr,EUR,Euro,ISK,Icelandic Kr
+917,EUR/JMD,EUR/JMD - Euro Jamaican Dollar,EUR,Euro,JMD,Jamaican Dollar
+918,EUR/JOD,EUR/JOD - Euro Jordan Dinar,EUR,Euro,JOD,Jordan Dinar
+919,EUR/KES,EUR/KES - Euro Kenyan Shilling,EUR,Euro,KES,Kenyan Shilling
+920,EUR/KHR,EUR/KHR - Euro Cambodian Riel,EUR,Euro,KHR,Cambodian Riel
+921,EUR/KWD,EUR/KWD - Euro Kuwaiti Dinar,EUR,Euro,KWD,Kuwaiti Dinar
+922,EUR/KYD,EUR/KYD - Euro Cayman Islands Dollar,EUR,Euro,KYD,Cayman Islands Dollar
+923,EUR/KZT,EUR/KZT - Euro Kazakh Tenge,EUR,Euro,KZT,Kazakh Tenge
+924,EUR/LAK,EUR/LAK - Euro Lao Kip,EUR,Euro,LAK,Lao Kip
+925,EUR/LBP,EUR/LBP - Euro Lebanese Pound,EUR,Euro,LBP,Lebanese Pound
+926,EUR/LKR,EUR/LKR - Euro Sri Lankan Rupee,EUR,Euro,LKR,Sri Lankan Rupee
+927,EUR/LSL,EUR/LSL - Euro Lesotho loti,EUR,Euro,LSL,Lesotho loti
+928,EUR/LYD,EUR/LYD - Euro Libyan Dinar,EUR,Euro,LYD,Libyan Dinar
+929,EUR/MAD,EUR/MAD - Euro Moroccan Dirham,EUR,Euro,MAD,Moroccan Dirham
+930,EUR/MDL,EUR/MDL - Euro Moldovan Leu,EUR,Euro,MDL,Moldovan Leu
+931,EUR/MGA,EUR/MGA - Euro Malagasy Ariary,EUR,Euro,MGA,Malagasy Ariary
+932,EUR/MKD,EUR/MKD - Euro Macedonian Denar,EUR,Euro,MKD,Macedonian Denar
+933,EUR/MMK,EUR/MMK - Euro Myanmar kyat,EUR,Euro,MMK,Myanmar kyat
+934,EUR/MOP,EUR/MOP - Euro Macanese Pataca,EUR,Euro,MOP,Macanese Pataca
+935,EUR/MRU,EUR/MRU - Euro Mauritanian ouguiya,EUR,Euro,MRU,Mauritanian ouguiya
+936,EUR/MUR,EUR/MUR - Euro Mauritian Rupee,EUR,Euro,MUR,Mauritian Rupee
+937,EUR/MWK,EUR/MWK - Euro Malawian Kwacha,EUR,Euro,MWK,Malawian Kwacha
+938,EUR/MYR,EUR/MYR - Euro Malaysian Ringgit,EUR,Euro,MYR,Malaysian Ringgit
+939,EUR/NAD,EUR/NAD - Euro Namibian Dollar,EUR,Euro,NAD,Namibian Dollar
+940,EUR/NGN,EUR/NGN - Euro Nigerian Naira,EUR,Euro,NGN,Nigerian Naira
+941,EUR/NIO,EUR/NIO - Euro Nicaraguan Córdoba,EUR,Euro,NIO,Nicaraguan Córdoba
+942,EUR/NPR,EUR/NPR - Euro Nepalese Rupee,EUR,Euro,NPR,Nepalese Rupee
+943,EUR/OMR,EUR/OMR - Euro Omani Rial,EUR,Euro,OMR,Omani Rial
+944,EUR/PAB,EUR/PAB - Euro Panamanian Balboa,EUR,Euro,PAB,Panamanian Balboa
+945,EUR/PEN,EUR/PEN - Euro Peru Sol,EUR,Euro,PEN,Peru Sol
+946,EUR/PGK,EUR/PGK - Euro Papua New Guinean Kina,EUR,Euro,PGK,Papua New Guinean Kina
+947,EUR/PHP,EUR/PHP - Euro Philippine Peso,EUR,Euro,PHP,Philippine Peso
+948,EUR/PKR,EUR/PKR - Euro Pakistani Rupee,EUR,Euro,PKR,Pakistani Rupee
+949,EUR/PYG,EUR/PYG - Euro Paraguayan Guarani,EUR,Euro,PYG,Paraguayan Guarani
+950,EUR/QAR,EUR/QAR - Euro Qatari Riyal,EUR,Euro,QAR,Qatari Riyal
+951,EUR/RON,EUR/RON - Euro Romanian Leu,EUR,Euro,RON,Romanian Leu
+952,EUR/RSD,EUR/RSD - Euro Serbian Dinar,EUR,Euro,RSD,Serbian Dinar
+953,EUR/RUB,EUR/RUB - Euro Russian Ruble,EUR,Euro,RUB,Russian Ruble
+954,EUR/RWF,EUR/RWF - Euro Rwandan Franc,EUR,Euro,RWF,Rwandan Franc
+955,EUR/SAR,EUR/SAR - Euro Saudi Riyal,EUR,Euro,SAR,Saudi Riyal
+956,EUR/SCR,EUR/SCR - Euro Seychelles Rupee,EUR,Euro,SCR,Seychelles Rupee
+957,EUR/SDG,EUR/SDG - Euro Sudanese Pound,EUR,Euro,SDG,Sudanese Pound
+958,EUR/SDR,EUR/SDR - Euro Special Drawing Rights,EUR,Euro,SDR,Special Drawing Rights
+959,EUR/SOS,EUR/SOS - Euro Somali Shilling,EUR,Euro,SOS,Somali Shilling
+960,EUR/STN,EUR/STN - Euro São Tomé/Príncipe Dobra,EUR,Euro,STN,São Tomé/Príncipe Dobra
+961,EUR/SVC,EUR/SVC - Euro El Salvador Colon,EUR,Euro,SVC,El Salvador Colon
+962,EUR/SYP,EUR/SYP - Euro Syrian Pound,EUR,Euro,SYP,Syrian Pound
+963,EUR/SZL,EUR/SZL - Euro Swazi Lilangeni,EUR,Euro,SZL,Swazi Lilangeni
+964,EUR/TND,EUR/TND - Euro Tunisian Dinar,EUR,Euro,TND,Tunisian Dinar
+965,EUR/TTD,EUR/TTD - Euro Trinidad Dollar,EUR,Euro,TTD,Trinidad Dollar
+966,EUR/TWD,EUR/TWD - Euro Taiwan Dollar,EUR,Euro,TWD,Taiwan Dollar
+967,EUR/TZS,EUR/TZS - Euro Tanzanian Shilling,EUR,Euro,TZS,Tanzanian Shilling
+968,EUR/UAH,EUR/UAH - Euro Ukrainian Hryvnia,EUR,Euro,UAH,Ukrainian Hryvnia
+969,EUR/UGX,EUR/UGX - Euro Ugandan Shilling,EUR,Euro,UGX,Ugandan Shilling
+970,EUR/UYU,EUR/UYU - Euro Uruguayan Peso,EUR,Euro,UYU,Uruguayan Peso
+971,EUR/UZS,EUR/UZS - Euro Uzbekistani Sum,EUR,Euro,UZS,Uzbekistani Sum
+972,EUR/VES,EUR/VES - Euro Venezuelan Bolivar,EUR,Euro,VES,Venezuelan Bolivar
+973,EUR/VND,EUR/VND - Euro Vietnamese Dong,EUR,Euro,VND,Vietnamese Dong
+974,EUR/XAF,EUR/XAF - Euro Central African Franc,EUR,Euro,XAF,Central African Franc
+975,EUR/XOF,EUR/XOF - Euro West African CFA franc,EUR,Euro,XOF,West African CFA franc
+976,EUR/XPF,EUR/XPF - Euro French Pacific Franc,EUR,Euro,XPF,French Pacific Franc
+977,EUR/ZMW,EUR/ZMW - Euro Zambia Kwacha,EUR,Euro,ZMW,Zambia Kwacha
+978,GBP/EUR,GBP/EUR - British Pound Euro,GBP,British Pound,EUR,Euro
+979,GHS/EUR,GHS/EUR - Ghanaian Cedi Euro,GHS,Ghanaian Cedi,EUR,Euro
+980,JPY/EUR,JPY/EUR - Japanese Yen Euro,JPY,Japanese Yen,EUR,Euro
+981,NZD/EUR,NZD/EUR - New Zealand Dollar Euro,NZD,New Zealand Dollar,EUR,Euro
+982,SGD/EUR,SGD/EUR - Singapore Dollar Euro,SGD,Singapore Dollar,EUR,Euro
+983,USD/EUR,USD/EUR - US Dollar Euro,USD,US Dollar,EUR,Euro
+984,EUR/XCD,EUR/XCD - Euro East Caribbean Dollar,EUR,Euro,XCD,East Caribbean Dollar
+985,HKD/EUR,HKD/EUR - Hong Kong Dollar Euro,HKD,Hong Kong Dollar,EUR,Euro
+986,ILS/EUR,ILS/EUR - Israeli Shekel Euro,ILS,Israeli Shekel,EUR,Euro
+987,MXN/EUR,MXN/EUR - Mexican Peso Euro,MXN,Mexican Peso,EUR,Euro
+988,NOK/EUR,NOK/EUR - Norwegian Krone Euro,NOK,Norwegian Krone,EUR,Euro
+989,PLN/EUR,PLN/EUR - Polish Zloty Euro,PLN,Polish Zloty,EUR,Euro
+990,RUB/EUR,RUB/EUR - Russian Ruble Euro,RUB,Russian Ruble,EUR,Euro
+991,SAR/EUR,SAR/EUR - Saudi Riyal Euro,SAR,Saudi Riyal,EUR,Euro
+992,SEK/EUR,SEK/EUR - Swedish Krona Euro,SEK,Swedish Krona,EUR,Euro
+993,TRY/EUR,TRY/EUR - Turkish Lira Euro,TRY,Turkish Lira,EUR,Euro
+994,TWD/EUR,TWD/EUR - Taiwan Dollar Euro,TWD,Taiwan Dollar,EUR,Euro
+995,VES/EUR,VES/EUR - Venezuelan Bolivar Euro,VES,Venezuelan Bolivar,EUR,Euro
+996,ZAR/EUR,ZAR/EUR - South African Rand Euro,ZAR,South African Rand,EUR,Euro
+997,MAD/EUR,MAD/EUR - Moroccan Dirham Euro,MAD,Moroccan Dirham,EUR,Euro
+998,KRW/EUR,KRW/EUR - Korean Won Euro,KRW,Korean Won,EUR,Euro
+999,EUR/MZN,EUR/MZN - Euro Mozambican Metical,EUR,Euro,MZN,Mozambican Metical
+1000,INR/EUR,INR/EUR - Indian Rupee Euro,INR,Indian Rupee,EUR,Euro
+1001,JOD/EUR,JOD/EUR - Jordan Dinar Euro,JOD,Jordan Dinar,EUR,Euro
+1002,KWD/EUR,KWD/EUR - Kuwaiti Dinar Euro,KWD,Kuwaiti Dinar,EUR,Euro
+1003,EUR/TJS,EUR/TJS - Euro Tajikistani somoni,EUR,Euro,TJS,Tajikistani somoni
+1004,EUR/RUB,EUR/RUB - Euro Russian Ruble,EUR,Euro,RUB,Russian Ruble
+1005,HUF/EUR,HUF/EUR - Hungarian Forint Euro,HUF,Hungarian Forint,EUR,Euro
+1006,GEL/EUR,GEL/EUR - Georgian lari Euro,GEL,Georgian lari,EUR,Euro
+1007,EUR/GEL,EUR/GEL - Euro Georgian lari,EUR,Euro,GEL,Georgian lari
+1008,IDR/EUR,IDR/EUR - Indonesian Rupiah Euro,IDR,Indonesian Rupiah,EUR,Euro
+1009,EUR/RUB,EUR/RUB - Euro Russian Ruble,EUR,Euro,RUB,Russian Ruble
+1010,FJD/USD,FJD/USD - Fiji Dollar US Dollar,FJD,Fiji Dollar,USD,US Dollar
+1011,GBP/FJD,GBP/FJD - British Pound Fiji Dollar,GBP,British Pound,FJD,Fiji Dollar
+1012,USD/FJD,USD/FJD - US Dollar Fiji Dollar,USD,US Dollar,FJD,Fiji Dollar
+1013,GBP/USD,GBP/USD - British Pound US Dollar,GBP,British Pound,USD,US Dollar
+1014,GBP/JPY,GBP/JPY - British Pound Japanese Yen,GBP,British Pound,JPY,Japanese Yen
+1015,GBP/NZD,GBP/NZD - British Pound New Zealand Dollar,GBP,British Pound,NZD,New Zealand Dollar
+1016,GBP/SGD,GBP/SGD - British Pound Singapore Dollar,GBP,British Pound,SGD,Singapore Dollar
+1017,GBP/ILS,GBP/ILS - British Pound Israeli Shekel,GBP,British Pound,ILS,Israeli Shekel
+1018,GBP/PLN,GBP/PLN - British Pound Polish Zloty,GBP,British Pound,PLN,Polish Zloty
+1019,GBP/NOK,GBP/NOK - British Pound Norwegian Krone,GBP,British Pound,NOK,Norwegian Krone
+1020,GBP/THB,GBP/THB - British Pound Thai Baht,GBP,British Pound,THB,Thai Baht
+1021,GBP/ZAR,GBP/ZAR - British Pound South African Rand,GBP,British Pound,ZAR,South African Rand
+1022,GBP/TRY,GBP/TRY - British Pound Turkish Lira,GBP,British Pound,TRY,Turkish Lira
+1023,GBP/SEK,GBP/SEK - British Pound Swedish Krona,GBP,British Pound,SEK,Swedish Krona
+1024,GBP/HKD,GBP/HKD - British Pound Hong Kong Dollar,GBP,British Pound,HKD,Hong Kong Dollar
+1025,GBP/HUF,GBP/HUF - British Pound Hungarian Forint,GBP,British Pound,HUF,Hungarian Forint
+1026,GBP/GMD,GBP/GMD - British Pound Gambian Dalasi,GBP,British Pound,GMD,Gambian Dalasi
+1027,GBP/GTQ,GBP/GTQ - British Pound Guatemalan Quetzal,GBP,British Pound,GTQ,Guatemalan Quetzal
+1028,GBP/HNL,GBP/HNL - British Pound Honduran Lempira,GBP,British Pound,HNL,Honduran Lempira
+1029,GBP/HRK,GBP/HRK - British Pound Croatian Kuna,GBP,British Pound,HRK,Croatian Kuna
+1030,GBP/HTG,GBP/HTG - British Pound Haitian Gourde,GBP,British Pound,HTG,Haitian Gourde
+1031,GBP/IDR,GBP/IDR - British Pound Indonesian Rupiah,GBP,British Pound,IDR,Indonesian Rupiah
+1032,GBP/INR,GBP/INR - British Pound Indian Rupee,GBP,British Pound,INR,Indian Rupee
+1033,GBP/IQD,GBP/IQD - British Pound Iraqi Dinar,GBP,British Pound,IQD,Iraqi Dinar
+1034,GBP/IRR,GBP/IRR - British Pound Iranian Rial,GBP,British Pound,IRR,Iranian Rial
+1035,GBP/ISK,GBP/ISK - British Pound Icelandic Kr,GBP,British Pound,ISK,Icelandic Kr
+1036,GBP/JMD,GBP/JMD - British Pound Jamaican Dollar,GBP,British Pound,JMD,Jamaican Dollar
+1037,GBP/JOD,GBP/JOD - British Pound Jordan Dinar,GBP,British Pound,JOD,Jordan Dinar
+1038,GBP/KES,GBP/KES - British Pound Kenyan Shilling,GBP,British Pound,KES,Kenyan Shilling
+1039,GBP/KRW,GBP/KRW - British Pound Korean Won,GBP,British Pound,KRW,Korean Won
+1040,GBP/KWD,GBP/KWD - British Pound Kuwaiti Dinar,GBP,British Pound,KWD,Kuwaiti Dinar
+1041,GBP/KZT,GBP/KZT - British Pound Kazakh Tenge,GBP,British Pound,KZT,Kazakh Tenge
+1042,GBP/LBP,GBP/LBP - British Pound Lebanese Pound,GBP,British Pound,LBP,Lebanese Pound
+1043,GBP/LKR,GBP/LKR - British Pound Sri Lankan Rupee,GBP,British Pound,LKR,Sri Lankan Rupee
+1044,GBP/MAD,GBP/MAD - British Pound Moroccan Dirham,GBP,British Pound,MAD,Moroccan Dirham
+1045,GBP/MUR,GBP/MUR - British Pound Mauritian Rupee,GBP,British Pound,MUR,Mauritian Rupee
+1046,GBP/MWK,GBP/MWK - British Pound Malawian Kwacha,GBP,British Pound,MWK,Malawian Kwacha
+1047,GBP/MXN,GBP/MXN - British Pound Mexican Peso,GBP,British Pound,MXN,Mexican Peso
+1048,GBP/MYR,GBP/MYR - British Pound Malaysian Ringgit,GBP,British Pound,MYR,Malaysian Ringgit
+1049,GBP/NGN,GBP/NGN - British Pound Nigerian Naira,GBP,British Pound,NGN,Nigerian Naira
+1050,GBP/NIO,GBP/NIO - British Pound Nicaraguan Córdoba,GBP,British Pound,NIO,Nicaraguan Córdoba
+1051,GBP/OMR,GBP/OMR - British Pound Omani Rial,GBP,British Pound,OMR,Omani Rial
+1052,GBP/PEN,GBP/PEN - British Pound Peru Sol,GBP,British Pound,PEN,Peru Sol
+1053,GBP/PGK,GBP/PGK - British Pound Papua New Guinean Kina,GBP,British Pound,PGK,Papua New Guinean Kina
+1054,GBP/PHP,GBP/PHP - British Pound Philippine Peso,GBP,British Pound,PHP,Philippine Peso
+1055,GBP/PKR,GBP/PKR - British Pound Pakistani Rupee,GBP,British Pound,PKR,Pakistani Rupee
+1056,GBP/QAR,GBP/QAR - British Pound Qatari Riyal,GBP,British Pound,QAR,Qatari Riyal
+1057,GBP/RON,GBP/RON - British Pound Romanian Leu,GBP,British Pound,RON,Romanian Leu
+1058,GBP/RUB,GBP/RUB - British Pound Russian Ruble,GBP,British Pound,RUB,Russian Ruble
+1059,GBP/SAR,GBP/SAR - British Pound Saudi Riyal,GBP,British Pound,SAR,Saudi Riyal
+1060,GBP/SCR,GBP/SCR - British Pound Seychelles Rupee,GBP,British Pound,SCR,Seychelles Rupee
+1061,GBP/SZL,GBP/SZL - British Pound Swazi Lilangeni,GBP,British Pound,SZL,Swazi Lilangeni
+1062,GBP/TND,GBP/TND - British Pound Tunisian Dinar,GBP,British Pound,TND,Tunisian Dinar
+1063,GBP/TTD,GBP/TTD - British Pound Trinidad Dollar,GBP,British Pound,TTD,Trinidad Dollar
+1064,GBP/TWD,GBP/TWD - British Pound Taiwan Dollar,GBP,British Pound,TWD,Taiwan Dollar
+1065,GBP/TZS,GBP/TZS - British Pound Tanzanian Shilling,GBP,British Pound,TZS,Tanzanian Shilling
+1066,GBP/UAH,GBP/UAH - British Pound Ukrainian Hryvnia,GBP,British Pound,UAH,Ukrainian Hryvnia
+1067,GBP/UGX,GBP/UGX - British Pound Ugandan Shilling,GBP,British Pound,UGX,Ugandan Shilling
+1068,GBP/VND,GBP/VND - British Pound Vietnamese Dong,GBP,British Pound,VND,Vietnamese Dong
+1069,GBP/XAF,GBP/XAF - British Pound Central African Franc,GBP,British Pound,XAF,Central African Franc
+1070,GBP/XPF,GBP/XPF - British Pound French Pacific Franc,GBP,British Pound,XPF,French Pacific Franc
+1071,GBP/ZMW,GBP/ZMW - British Pound Zambia Kwacha,GBP,British Pound,ZMW,Zambia Kwacha
+1072,JPY/GBP,JPY/GBP - Japanese Yen British Pound,JPY,Japanese Yen,GBP,British Pound
+1073,KWD/GBP,KWD/GBP - Kuwaiti Dinar British Pound,KWD,Kuwaiti Dinar,GBP,British Pound
+1074,NZD/GBP,NZD/GBP - New Zealand Dollar British Pound,NZD,New Zealand Dollar,GBP,British Pound
+1075,OMR/GBP,OMR/GBP - Omani Rial British Pound,OMR,Omani Rial,GBP,British Pound
+1076,SGD/GBP,SGD/GBP - Singapore Dollar British Pound,SGD,Singapore Dollar,GBP,British Pound
+1077,TND/GBP,TND/GBP - Tunisian Dinar British Pound,TND,Tunisian Dinar,GBP,British Pound
+1078,USD/GBP,USD/GBP - US Dollar British Pound,USD,US Dollar,GBP,British Pound
+1079,GBP/NAD,GBP/NAD - British Pound Namibian Dollar,GBP,British Pound,NAD,Namibian Dollar
+1080,GBP/PAB,GBP/PAB - British Pound Panamanian Balboa,GBP,British Pound,PAB,Panamanian Balboa
+1081,GBP/XCD,GBP/XCD - British Pound East Caribbean Dollar,GBP,British Pound,XCD,East Caribbean Dollar
+1082,GBP/XOF,GBP/XOF - British Pound West African CFA franc,GBP,British Pound,XOF,West African CFA franc
+1083,HKD/GBP,HKD/GBP - Hong Kong Dollar British Pound,HKD,Hong Kong Dollar,GBP,British Pound
+1084,ILS/GBP,ILS/GBP - Israeli Shekel British Pound,ILS,Israeli Shekel,GBP,British Pound
+1085,MXN/GBP,MXN/GBP - Mexican Peso British Pound,MXN,Mexican Peso,GBP,British Pound
+1086,NOK/GBP,NOK/GBP - Norwegian Krone British Pound,NOK,Norwegian Krone,GBP,British Pound
+1087,PLN/GBP,PLN/GBP - Polish Zloty British Pound,PLN,Polish Zloty,GBP,British Pound
+1088,RUB/GBP,RUB/GBP - Russian Ruble British Pound,RUB,Russian Ruble,GBP,British Pound
+1089,SAR/GBP,SAR/GBP - Saudi Riyal British Pound,SAR,Saudi Riyal,GBP,British Pound
+1090,SEK/GBP,SEK/GBP - Swedish Krona British Pound,SEK,Swedish Krona,GBP,British Pound
+1091,TRY/GBP,TRY/GBP - Turkish Lira British Pound,TRY,Turkish Lira,GBP,British Pound
+1092,TWD/GBP,TWD/GBP - Taiwan Dollar British Pound,TWD,Taiwan Dollar,GBP,British Pound
+1093,VES/GBP,VES/GBP - Venezuelan Bolivar British Pound,VES,Venezuelan Bolivar,GBP,British Pound
+1094,ZAR/GBP,ZAR/GBP - South African Rand British Pound,ZAR,South African Rand,GBP,British Pound
+1095,KRW/GBP,KRW/GBP - Korean Won British Pound,KRW,Korean Won,GBP,British Pound
+1096,INR/GBP,INR/GBP - Indian Rupee British Pound,INR,Indian Rupee,GBP,British Pound
+1097,JOD/GBP,JOD/GBP - Jordan Dinar British Pound,JOD,Jordan Dinar,GBP,British Pound
+1098,GBP/NPR,GBP/NPR - British Pound Nepalese Rupee,GBP,British Pound,NPR,Nepalese Rupee
+1099,IDR/GBP,IDR/GBP - Indonesian Rupiah British Pound,IDR,Indonesian Rupiah,GBP,British Pound
+1100,GBP/RUB,GBP/RUB - British Pound Russian Ruble,GBP,British Pound,RUB,Russian Ruble
+1101,USD/GEL,USD/GEL - US Dollar Georgian lari,USD,US Dollar,GEL,Georgian lari
+1102,GEL/RUB,GEL/RUB - Georgian lari Russian Ruble,GEL,Georgian lari,RUB,Russian Ruble
+1103,GHS/USD,GHS/USD - Ghanaian Cedi US Dollar,GHS,Ghanaian Cedi,USD,US Dollar
+1104,USD/GHS,USD/GHS - US Dollar Ghanaian Cedi,USD,US Dollar,GHS,Ghanaian Cedi
+1105,USD/GMD,USD/GMD - US Dollar Gambian Dalasi,USD,US Dollar,GMD,Gambian Dalasi
+1106,USD/GNF,USD/GNF - US Dollar Guinean Franc,USD,US Dollar,GNF,Guinean Franc
+1107,USD/GTQ,USD/GTQ - US Dollar Guatemalan Quetzal,USD,US Dollar,GTQ,Guatemalan Quetzal
+1108,SGD/HKD,SGD/HKD - Singapore Dollar Hong Kong Dollar,SGD,Singapore Dollar,HKD,Hong Kong Dollar
+1109,HKD/JPY,HKD/JPY - Hong Kong Dollar Japanese Yen,HKD,Hong Kong Dollar,JPY,Japanese Yen
+1110,NZD/HKD,NZD/HKD - New Zealand Dollar Hong Kong Dollar,NZD,New Zealand Dollar,HKD,Hong Kong Dollar
+1111,USD/HKD,USD/HKD - US Dollar Hong Kong Dollar,USD,US Dollar,HKD,Hong Kong Dollar
+1112,HKD/IDR,HKD/IDR - Hong Kong Dollar Indonesian Rupiah,HKD,Hong Kong Dollar,IDR,Indonesian Rupiah
+1113,HKD/INR,HKD/INR - Hong Kong Dollar Indian Rupee,HKD,Hong Kong Dollar,INR,Indian Rupee
+1114,HKD/KRW,HKD/KRW - Hong Kong Dollar Korean Won,HKD,Hong Kong Dollar,KRW,Korean Won
+1115,HKD/MXN,HKD/MXN - Hong Kong Dollar Mexican Peso,HKD,Hong Kong Dollar,MXN,Mexican Peso
+1116,HKD/MYR,HKD/MYR - Hong Kong Dollar Malaysian Ringgit,HKD,Hong Kong Dollar,MYR,Malaysian Ringgit
+1117,HKD/PKR,HKD/PKR - Hong Kong Dollar Pakistani Rupee,HKD,Hong Kong Dollar,PKR,Pakistani Rupee
+1118,HKD/PLN,HKD/PLN - Hong Kong Dollar Polish Zloty,HKD,Hong Kong Dollar,PLN,Polish Zloty
+1119,HKD/THB,HKD/THB - Hong Kong Dollar Thai Baht,HKD,Hong Kong Dollar,THB,Thai Baht
+1120,HKD/TWD,HKD/TWD - Hong Kong Dollar Taiwan Dollar,HKD,Hong Kong Dollar,TWD,Taiwan Dollar
+1121,HKD/ZAR,HKD/ZAR - Hong Kong Dollar South African Rand,HKD,Hong Kong Dollar,ZAR,South African Rand
+1122,JPY/HKD,JPY/HKD - Japanese Yen Hong Kong Dollar,JPY,Japanese Yen,HKD,Hong Kong Dollar
+1123,KRW/HKD,KRW/HKD - Korean Won Hong Kong Dollar,KRW,Korean Won,HKD,Hong Kong Dollar
+1124,MXN/HKD,MXN/HKD - Mexican Peso Hong Kong Dollar,MXN,Mexican Peso,HKD,Hong Kong Dollar
+1125,MYR/HKD,MYR/HKD - Malaysian Ringgit Hong Kong Dollar,MYR,Malaysian Ringgit,HKD,Hong Kong Dollar
+1126,ZAR/HKD,ZAR/HKD - South African Rand Hong Kong Dollar,ZAR,South African Rand,HKD,Hong Kong Dollar
+1127,HKD/HUF,HKD/HUF - Hong Kong Dollar Hungarian Forint,HKD,Hong Kong Dollar,HUF,Hungarian Forint
+1128,HKD/ILS,HKD/ILS - Hong Kong Dollar Israeli Shekel,HKD,Hong Kong Dollar,ILS,Israeli Shekel
+1129,HKD/ISK,HKD/ISK - Hong Kong Dollar Icelandic Kr,HKD,Hong Kong Dollar,ISK,Icelandic Kr
+1130,HKD/JMD,HKD/JMD - Hong Kong Dollar Jamaican Dollar,HKD,Hong Kong Dollar,JMD,Jamaican Dollar
+1131,HKD/JOD,HKD/JOD - Hong Kong Dollar Jordan Dinar,HKD,Hong Kong Dollar,JOD,Jordan Dinar
+1132,HKD/KES,HKD/KES - Hong Kong Dollar Kenyan Shilling,HKD,Hong Kong Dollar,KES,Kenyan Shilling
+1133,HKD/LBP,HKD/LBP - Hong Kong Dollar Lebanese Pound,HKD,Hong Kong Dollar,LBP,Lebanese Pound
+1134,HKD/LKR,HKD/LKR - Hong Kong Dollar Sri Lankan Rupee,HKD,Hong Kong Dollar,LKR,Sri Lankan Rupee
+1135,HKD/MAD,HKD/MAD - Hong Kong Dollar Moroccan Dirham,HKD,Hong Kong Dollar,MAD,Moroccan Dirham
+1136,HKD/NAD,HKD/NAD - Hong Kong Dollar Namibian Dollar,HKD,Hong Kong Dollar,NAD,Namibian Dollar
+1137,HKD/NOK,HKD/NOK - Hong Kong Dollar Norwegian Krone,HKD,Hong Kong Dollar,NOK,Norwegian Krone
+1138,HKD/NPR,HKD/NPR - Hong Kong Dollar Nepalese Rupee,HKD,Hong Kong Dollar,NPR,Nepalese Rupee
+1139,HKD/NZD,HKD/NZD - Hong Kong Dollar New Zealand Dollar,HKD,Hong Kong Dollar,NZD,New Zealand Dollar
+1140,HKD/OMR,HKD/OMR - Hong Kong Dollar Omani Rial,HKD,Hong Kong Dollar,OMR,Omani Rial
+1141,HKD/PAB,HKD/PAB - Hong Kong Dollar Panamanian Balboa,HKD,Hong Kong Dollar,PAB,Panamanian Balboa
+1142,HKD/PHP,HKD/PHP - Hong Kong Dollar Philippine Peso,HKD,Hong Kong Dollar,PHP,Philippine Peso
+1143,HKD/QAR,HKD/QAR - Hong Kong Dollar Qatari Riyal,HKD,Hong Kong Dollar,QAR,Qatari Riyal
+1144,HKD/RON,HKD/RON - Hong Kong Dollar Romanian Leu,HKD,Hong Kong Dollar,RON,Romanian Leu
+1145,HKD/RUB,HKD/RUB - Hong Kong Dollar Russian Ruble,HKD,Hong Kong Dollar,RUB,Russian Ruble
+1146,HKD/SAR,HKD/SAR - Hong Kong Dollar Saudi Riyal,HKD,Hong Kong Dollar,SAR,Saudi Riyal
+1147,HKD/SEK,HKD/SEK - Hong Kong Dollar Swedish Krona,HKD,Hong Kong Dollar,SEK,Swedish Krona
+1148,HKD/SGD,HKD/SGD - Hong Kong Dollar Singapore Dollar,HKD,Hong Kong Dollar,SGD,Singapore Dollar
+1149,HKD/TRY,HKD/TRY - Hong Kong Dollar Turkish Lira,HKD,Hong Kong Dollar,TRY,Turkish Lira
+1150,HKD/USD,HKD/USD - Hong Kong Dollar US Dollar,HKD,Hong Kong Dollar,USD,US Dollar
+1151,HKD/VES,HKD/VES - Hong Kong Dollar Venezuelan Bolivar,HKD,Hong Kong Dollar,VES,Venezuelan Bolivar
+1152,HKD/XAF,HKD/XAF - Hong Kong Dollar Central African Franc,HKD,Hong Kong Dollar,XAF,Central African Franc
+1153,HKD/XCD,HKD/XCD - Hong Kong Dollar East Caribbean Dollar,HKD,Hong Kong Dollar,XCD,East Caribbean Dollar
+1154,HKD/XOF,HKD/XOF - Hong Kong Dollar West African CFA franc,HKD,Hong Kong Dollar,XOF,West African CFA franc
+1155,ILS/HKD,ILS/HKD - Israeli Shekel Hong Kong Dollar,ILS,Israeli Shekel,HKD,Hong Kong Dollar
+1156,INR/HKD,INR/HKD - Indian Rupee Hong Kong Dollar,INR,Indian Rupee,HKD,Hong Kong Dollar
+1157,NOK/HKD,NOK/HKD - Norwegian Krone Hong Kong Dollar,NOK,Norwegian Krone,HKD,Hong Kong Dollar
+1158,PHP/HKD,PHP/HKD - Philippine Peso Hong Kong Dollar,PHP,Philippine Peso,HKD,Hong Kong Dollar
+1159,PLN/HKD,PLN/HKD - Polish Zloty Hong Kong Dollar,PLN,Polish Zloty,HKD,Hong Kong Dollar
+1160,RUB/HKD,RUB/HKD - Russian Ruble Hong Kong Dollar,RUB,Russian Ruble,HKD,Hong Kong Dollar
+1161,SAR/HKD,SAR/HKD - Saudi Riyal Hong Kong Dollar,SAR,Saudi Riyal,HKD,Hong Kong Dollar
+1162,SEK/HKD,SEK/HKD - Swedish Krona Hong Kong Dollar,SEK,Swedish Krona,HKD,Hong Kong Dollar
+1163,THB/HKD,THB/HKD - Thai Baht Hong Kong Dollar,THB,Thai Baht,HKD,Hong Kong Dollar
+1164,TRY/HKD,TRY/HKD - Turkish Lira Hong Kong Dollar,TRY,Turkish Lira,HKD,Hong Kong Dollar
+1165,TWD/HKD,TWD/HKD - Taiwan Dollar Hong Kong Dollar,TWD,Taiwan Dollar,HKD,Hong Kong Dollar
+1166,VES/HKD,VES/HKD - Venezuelan Bolivar Hong Kong Dollar,VES,Venezuelan Bolivar,HKD,Hong Kong Dollar
+1167,HKD/RUB,HKD/RUB - Hong Kong Dollar Russian Ruble,HKD,Hong Kong Dollar,RUB,Russian Ruble
+1168,USD/HNL,USD/HNL - US Dollar Honduran Lempira,USD,US Dollar,HNL,Honduran Lempira
+1169,USD/HRK,USD/HRK - US Dollar Croatian Kuna,USD,US Dollar,HRK,Croatian Kuna
+1170,USD/HTG,USD/HTG - US Dollar Haitian Gourde,USD,US Dollar,HTG,Haitian Gourde
+1171,PLN/HUF,PLN/HUF - Polish Zloty Hungarian Forint,PLN,Polish Zloty,HUF,Hungarian Forint
+1172,USD/HUF,USD/HUF - US Dollar Hungarian Forint,USD,US Dollar,HUF,Hungarian Forint
+1173,NZD/HUF,NZD/HUF - New Zealand Dollar Hungarian Forint,NZD,New Zealand Dollar,HUF,Hungarian Forint
+1174,HUF/IDR,HUF/IDR - Hungarian Forint Indonesian Rupiah,HUF,Hungarian Forint,IDR,Indonesian Rupiah
+1175,HUF/INR,HUF/INR - Hungarian Forint Indian Rupee,HUF,Hungarian Forint,INR,Indian Rupee
+1176,HUF/JPY,HUF/JPY - Hungarian Forint Japanese Yen,HUF,Hungarian Forint,JPY,Japanese Yen
+1177,HUF/ISK,HUF/ISK - Hungarian Forint Icelandic Kr,HUF,Hungarian Forint,ISK,Icelandic Kr
+1178,HUF/KRW,HUF/KRW - Hungarian Forint Korean Won,HUF,Hungarian Forint,KRW,Korean Won
+1179,HUF/PHP,HUF/PHP - Hungarian Forint Philippine Peso,HUF,Hungarian Forint,PHP,Philippine Peso
+1180,HUF/PKR,HUF/PKR - Hungarian Forint Pakistani Rupee,HUF,Hungarian Forint,PKR,Pakistani Rupee
+1181,HUF/RUB,HUF/RUB - Hungarian Forint Russian Ruble,HUF,Hungarian Forint,RUB,Russian Ruble
+1182,HUF/THB,HUF/THB - Hungarian Forint Thai Baht,HUF,Hungarian Forint,THB,Thai Baht
+1183,HUF/XAF,HUF/XAF - Hungarian Forint Central African Franc,HUF,Hungarian Forint,XAF,Central African Franc
+1184,HUF/JMD,HUF/JMD - Hungarian Forint Jamaican Dollar,HUF,Hungarian Forint,JMD,Jamaican Dollar
+1185,HUF/KES,HUF/KES - Hungarian Forint Kenyan Shilling,HUF,Hungarian Forint,KES,Kenyan Shilling
+1186,HUF/LKR,HUF/LKR - Hungarian Forint Sri Lankan Rupee,HUF,Hungarian Forint,LKR,Sri Lankan Rupee
+1187,HUF/LBP,HUF/LBP - Hungarian Forint Lebanese Pound,HUF,Hungarian Forint,LBP,Lebanese Pound
+1188,HUF/NPR,HUF/NPR - Hungarian Forint Nepalese Rupee,HUF,Hungarian Forint,NPR,Nepalese Rupee
+1189,HUF/XOF,HUF/XOF - Hungarian Forint West African CFA franc,HUF,Hungarian Forint,XOF,West African CFA franc
+1190,ILS/HUF,ILS/HUF - Israeli Shekel Hungarian Forint,ILS,Israeli Shekel,HUF,Hungarian Forint
+1191,INR/HUF,INR/HUF - Indian Rupee Hungarian Forint,INR,Indian Rupee,HUF,Hungarian Forint
+1192,ISK/HUF,ISK/HUF - Icelandic Kr Hungarian Forint,ISK,Icelandic Kr,HUF,Hungarian Forint
+1193,JPY/HUF,JPY/HUF - Japanese Yen Hungarian Forint,JPY,Japanese Yen,HUF,Hungarian Forint
+1194,MXN/HUF,MXN/HUF - Mexican Peso Hungarian Forint,MXN,Mexican Peso,HUF,Hungarian Forint
+1195,NOK/HUF,NOK/HUF - Norwegian Krone Hungarian Forint,NOK,Norwegian Krone,HUF,Hungarian Forint
+1196,PHP/HUF,PHP/HUF - Philippine Peso Hungarian Forint,PHP,Philippine Peso,HUF,Hungarian Forint
+1197,PKR/HUF,PKR/HUF - Pakistani Rupee Hungarian Forint,PKR,Pakistani Rupee,HUF,Hungarian Forint
+1198,RUB/HUF,RUB/HUF - Russian Ruble Hungarian Forint,RUB,Russian Ruble,HUF,Hungarian Forint
+1199,SAR/HUF,SAR/HUF - Saudi Riyal Hungarian Forint,SAR,Saudi Riyal,HUF,Hungarian Forint
+1200,SEK/HUF,SEK/HUF - Swedish Krona Hungarian Forint,SEK,Swedish Krona,HUF,Hungarian Forint
+1201,SGD/HUF,SGD/HUF - Singapore Dollar Hungarian Forint,SGD,Singapore Dollar,HUF,Hungarian Forint
+1202,THB/HUF,THB/HUF - Thai Baht Hungarian Forint,THB,Thai Baht,HUF,Hungarian Forint
+1203,TRY/HUF,TRY/HUF - Turkish Lira Hungarian Forint,TRY,Turkish Lira,HUF,Hungarian Forint
+1204,TWD/HUF,TWD/HUF - Taiwan Dollar Hungarian Forint,TWD,Taiwan Dollar,HUF,Hungarian Forint
+1205,VES/HUF,VES/HUF - Venezuelan Bolivar Hungarian Forint,VES,Venezuelan Bolivar,HUF,Hungarian Forint
+1206,ZAR/HUF,ZAR/HUF - South African Rand Hungarian Forint,ZAR,South African Rand,HUF,Hungarian Forint
+1207,HUF/USD,HUF/USD - Hungarian Forint US Dollar,HUF,Hungarian Forint,USD,US Dollar
+1208,HUF/ILS,HUF/ILS - Hungarian Forint Israeli Shekel,HUF,Hungarian Forint,ILS,Israeli Shekel
+1209,HUF/RUB,HUF/RUB - Hungarian Forint Russian Ruble,HUF,Hungarian Forint,RUB,Russian Ruble
+1210,IDR/INR,IDR/INR - Indonesian Rupiah Indian Rupee,IDR,Indonesian Rupiah,INR,Indian Rupee
+1211,IDR/JPY,IDR/JPY - Indonesian Rupiah Japanese Yen,IDR,Indonesian Rupiah,JPY,Japanese Yen
+1212,IDR/KRW,IDR/KRW - Indonesian Rupiah Korean Won,IDR,Indonesian Rupiah,KRW,Korean Won
+1213,IDR/THB,IDR/THB - Indonesian Rupiah Thai Baht,IDR,Indonesian Rupiah,THB,Thai Baht
+1214,IDR/TWD,IDR/TWD - Indonesian Rupiah Taiwan Dollar,IDR,Indonesian Rupiah,TWD,Taiwan Dollar
+1215,JPY/IDR,JPY/IDR - Japanese Yen Indonesian Rupiah,JPY,Japanese Yen,IDR,Indonesian Rupiah
+1216,KRW/IDR,KRW/IDR - Korean Won Indonesian Rupiah,KRW,Korean Won,IDR,Indonesian Rupiah
+1217,MYR/IDR,MYR/IDR - Malaysian Ringgit Indonesian Rupiah,MYR,Malaysian Ringgit,IDR,Indonesian Rupiah
+1218,NZD/IDR,NZD/IDR - New Zealand Dollar Indonesian Rupiah,NZD,New Zealand Dollar,IDR,Indonesian Rupiah
+1219,SGD/IDR,SGD/IDR - Singapore Dollar Indonesian Rupiah,SGD,Singapore Dollar,IDR,Indonesian Rupiah
+1220,THB/IDR,THB/IDR - Thai Baht Indonesian Rupiah,THB,Thai Baht,IDR,Indonesian Rupiah
+1221,TWD/IDR,TWD/IDR - Taiwan Dollar Indonesian Rupiah,TWD,Taiwan Dollar,IDR,Indonesian Rupiah
+1222,USD/IDR,USD/IDR - US Dollar Indonesian Rupiah,USD,US Dollar,IDR,Indonesian Rupiah
+1223,ZAR/IDR,ZAR/IDR - South African Rand Indonesian Rupiah,ZAR,South African Rand,IDR,Indonesian Rupiah
+1224,ILS/IDR,ILS/IDR - Israeli Shekel Indonesian Rupiah,ILS,Israeli Shekel,IDR,Indonesian Rupiah
+1225,INR/IDR,INR/IDR - Indian Rupee Indonesian Rupiah,INR,Indian Rupee,IDR,Indonesian Rupiah
+1226,ISK/IDR,ISK/IDR - Icelandic Kr Indonesian Rupiah,ISK,Icelandic Kr,IDR,Indonesian Rupiah
+1227,MXN/IDR,MXN/IDR - Mexican Peso Indonesian Rupiah,MXN,Mexican Peso,IDR,Indonesian Rupiah
+1228,NOK/IDR,NOK/IDR - Norwegian Krone Indonesian Rupiah,NOK,Norwegian Krone,IDR,Indonesian Rupiah
+1229,PHP/IDR,PHP/IDR - Philippine Peso Indonesian Rupiah,PHP,Philippine Peso,IDR,Indonesian Rupiah
+1230,PKR/IDR,PKR/IDR - Pakistani Rupee Indonesian Rupiah,PKR,Pakistani Rupee,IDR,Indonesian Rupiah
+1231,PLN/IDR,PLN/IDR - Polish Zloty Indonesian Rupiah,PLN,Polish Zloty,IDR,Indonesian Rupiah
+1232,RUB/IDR,RUB/IDR - Russian Ruble Indonesian Rupiah,RUB,Russian Ruble,IDR,Indonesian Rupiah
+1233,SAR/IDR,SAR/IDR - Saudi Riyal Indonesian Rupiah,SAR,Saudi Riyal,IDR,Indonesian Rupiah
+1234,SEK/IDR,SEK/IDR - Swedish Krona Indonesian Rupiah,SEK,Swedish Krona,IDR,Indonesian Rupiah
+1235,TRY/IDR,TRY/IDR - Turkish Lira Indonesian Rupiah,TRY,Turkish Lira,IDR,Indonesian Rupiah
+1236,VES/IDR,VES/IDR - Venezuelan Bolivar Indonesian Rupiah,VES,Venezuelan Bolivar,IDR,Indonesian Rupiah
+1237,IDR/USD,IDR/USD - Indonesian Rupiah US Dollar,IDR,Indonesian Rupiah,USD,US Dollar
+1238,USD/ILS,USD/ILS - US Dollar Israeli Shekel,USD,US Dollar,ILS,Israeli Shekel
+1239,ILS/JPY,ILS/JPY - Israeli Shekel Japanese Yen,ILS,Israeli Shekel,JPY,Japanese Yen
+1240,JOD/ILS,JOD/ILS - Jordan Dinar Israeli Shekel,JOD,Jordan Dinar,ILS,Israeli Shekel
+1241,JPY/ILS,JPY/ILS - Japanese Yen Israeli Shekel,JPY,Japanese Yen,ILS,Israeli Shekel
+1242,ILS/INR,ILS/INR - Israeli Shekel Indian Rupee,ILS,Israeli Shekel,INR,Indian Rupee
+1243,ILS/ISK,ILS/ISK - Israeli Shekel Icelandic Kr,ILS,Israeli Shekel,ISK,Icelandic Kr
+1244,ILS/JMD,ILS/JMD - Israeli Shekel Jamaican Dollar,ILS,Israeli Shekel,JMD,Jamaican Dollar
+1245,ILS/JOD,ILS/JOD - Israeli Shekel Jordan Dinar,ILS,Israeli Shekel,JOD,Jordan Dinar
+1246,ILS/KES,ILS/KES - Israeli Shekel Kenyan Shilling,ILS,Israeli Shekel,KES,Kenyan Shilling
+1247,ILS/KRW,ILS/KRW - Israeli Shekel Korean Won,ILS,Israeli Shekel,KRW,Korean Won
+1248,ILS/LBP,ILS/LBP - Israeli Shekel Lebanese Pound,ILS,Israeli Shekel,LBP,Lebanese Pound
+1249,ILS/LKR,ILS/LKR - Israeli Shekel Sri Lankan Rupee,ILS,Israeli Shekel,LKR,Sri Lankan Rupee
+1250,ILS/MAD,ILS/MAD - Israeli Shekel Moroccan Dirham,ILS,Israeli Shekel,MAD,Moroccan Dirham
+1251,ILS/MXN,ILS/MXN - Israeli Shekel Mexican Peso,ILS,Israeli Shekel,MXN,Mexican Peso
+1252,ILS/MYR,ILS/MYR - Israeli Shekel Malaysian Ringgit,ILS,Israeli Shekel,MYR,Malaysian Ringgit
+1253,ILS/NAD,ILS/NAD - Israeli Shekel Namibian Dollar,ILS,Israeli Shekel,NAD,Namibian Dollar
+1254,ILS/NOK,ILS/NOK - Israeli Shekel Norwegian Krone,ILS,Israeli Shekel,NOK,Norwegian Krone
+1255,ILS/NPR,ILS/NPR - Israeli Shekel Nepalese Rupee,ILS,Israeli Shekel,NPR,Nepalese Rupee
+1256,ILS/NZD,ILS/NZD - Israeli Shekel New Zealand Dollar,ILS,Israeli Shekel,NZD,New Zealand Dollar
+1257,ILS/OMR,ILS/OMR - Israeli Shekel Omani Rial,ILS,Israeli Shekel,OMR,Omani Rial
+1258,ILS/PAB,ILS/PAB - Israeli Shekel Panamanian Balboa,ILS,Israeli Shekel,PAB,Panamanian Balboa
+1259,ILS/PHP,ILS/PHP - Israeli Shekel Philippine Peso,ILS,Israeli Shekel,PHP,Philippine Peso
+1260,ILS/PKR,ILS/PKR - Israeli Shekel Pakistani Rupee,ILS,Israeli Shekel,PKR,Pakistani Rupee
+1261,ILS/PLN,ILS/PLN - Israeli Shekel Polish Zloty,ILS,Israeli Shekel,PLN,Polish Zloty
+1262,ILS/QAR,ILS/QAR - Israeli Shekel Qatari Riyal,ILS,Israeli Shekel,QAR,Qatari Riyal
+1263,ILS/RON,ILS/RON - Israeli Shekel Romanian Leu,ILS,Israeli Shekel,RON,Romanian Leu
+1264,ILS/RUB,ILS/RUB - Israeli Shekel Russian Ruble,ILS,Israeli Shekel,RUB,Russian Ruble
+1265,ILS/SAR,ILS/SAR - Israeli Shekel Saudi Riyal,ILS,Israeli Shekel,SAR,Saudi Riyal
+1266,ILS/SEK,ILS/SEK - Israeli Shekel Swedish Krona,ILS,Israeli Shekel,SEK,Swedish Krona
+1267,ILS/SGD,ILS/SGD - Israeli Shekel Singapore Dollar,ILS,Israeli Shekel,SGD,Singapore Dollar
+1268,ILS/THB,ILS/THB - Israeli Shekel Thai Baht,ILS,Israeli Shekel,THB,Thai Baht
+1269,ILS/TRY,ILS/TRY - Israeli Shekel Turkish Lira,ILS,Israeli Shekel,TRY,Turkish Lira
+1270,ILS/TWD,ILS/TWD - Israeli Shekel Taiwan Dollar,ILS,Israeli Shekel,TWD,Taiwan Dollar
+1271,ILS/USD,ILS/USD - Israeli Shekel US Dollar,ILS,Israeli Shekel,USD,US Dollar
+1272,ILS/VES,ILS/VES - Israeli Shekel Venezuelan Bolivar,ILS,Israeli Shekel,VES,Venezuelan Bolivar
+1273,ILS/XAF,ILS/XAF - Israeli Shekel Central African Franc,ILS,Israeli Shekel,XAF,Central African Franc
+1274,ILS/XCD,ILS/XCD - Israeli Shekel East Caribbean Dollar,ILS,Israeli Shekel,XCD,East Caribbean Dollar
+1275,ILS/XOF,ILS/XOF - Israeli Shekel West African CFA franc,ILS,Israeli Shekel,XOF,West African CFA franc
+1276,ILS/ZAR,ILS/ZAR - Israeli Shekel South African Rand,ILS,Israeli Shekel,ZAR,South African Rand
+1277,INR/ILS,INR/ILS - Indian Rupee Israeli Shekel,INR,Indian Rupee,ILS,Israeli Shekel
+1278,MXN/ILS,MXN/ILS - Mexican Peso Israeli Shekel,MXN,Mexican Peso,ILS,Israeli Shekel
+1279,NOK/ILS,NOK/ILS - Norwegian Krone Israeli Shekel,NOK,Norwegian Krone,ILS,Israeli Shekel
+1280,NZD/ILS,NZD/ILS - New Zealand Dollar Israeli Shekel,NZD,New Zealand Dollar,ILS,Israeli Shekel
+1281,PLN/ILS,PLN/ILS - Polish Zloty Israeli Shekel,PLN,Polish Zloty,ILS,Israeli Shekel
+1282,RUB/ILS,RUB/ILS - Russian Ruble Israeli Shekel,RUB,Russian Ruble,ILS,Israeli Shekel
+1283,SAR/ILS,SAR/ILS - Saudi Riyal Israeli Shekel,SAR,Saudi Riyal,ILS,Israeli Shekel
+1284,SEK/ILS,SEK/ILS - Swedish Krona Israeli Shekel,SEK,Swedish Krona,ILS,Israeli Shekel
+1285,SGD/ILS,SGD/ILS - Singapore Dollar Israeli Shekel,SGD,Singapore Dollar,ILS,Israeli Shekel
+1286,THB/ILS,THB/ILS - Thai Baht Israeli Shekel,THB,Thai Baht,ILS,Israeli Shekel
+1287,TRY/ILS,TRY/ILS - Turkish Lira Israeli Shekel,TRY,Turkish Lira,ILS,Israeli Shekel
+1288,TWD/ILS,TWD/ILS - Taiwan Dollar Israeli Shekel,TWD,Taiwan Dollar,ILS,Israeli Shekel
+1289,VES/ILS,VES/ILS - Venezuelan Bolivar Israeli Shekel,VES,Venezuelan Bolivar,ILS,Israeli Shekel
+1290,ZAR/ILS,ZAR/ILS - South African Rand Israeli Shekel,ZAR,South African Rand,ILS,Israeli Shekel
+1291,ILS/UAH,ILS/UAH - Israeli Shekel Ukrainian Hryvnia,ILS,Israeli Shekel,UAH,Ukrainian Hryvnia
+1292,ILS/PEN,ILS/PEN - Israeli Shekel Peru Sol,ILS,Israeli Shekel,PEN,Peru Sol
+1293,ILS/UYU,ILS/UYU - Israeli Shekel Uruguayan Peso,ILS,Israeli Shekel,UYU,Uruguayan Peso
+1294,ISK/ILS,ISK/ILS - Icelandic Kr Israeli Shekel,ISK,Icelandic Kr,ILS,Israeli Shekel
+1295,KRW/ILS,KRW/ILS - Korean Won Israeli Shekel,KRW,Korean Won,ILS,Israeli Shekel
+1296,RON/ILS,RON/ILS - Romanian Leu Israeli Shekel,RON,Romanian Leu,ILS,Israeli Shekel
+1297,USD/INR,USD/INR - US Dollar Indian Rupee,USD,US Dollar,INR,Indian Rupee
+1298,INR/JPY,INR/JPY - Indian Rupee Japanese Yen,INR,Indian Rupee,JPY,Japanese Yen
+1299,INR/KRW,INR/KRW - Indian Rupee Korean Won,INR,Indian Rupee,KRW,Korean Won
+1300,INR/PKR,INR/PKR - Indian Rupee Pakistani Rupee,INR,Indian Rupee,PKR,Pakistani Rupee
+1301,INR/THB,INR/THB - Indian Rupee Thai Baht,INR,Indian Rupee,THB,Thai Baht
+1302,INR/TWD,INR/TWD - Indian Rupee Taiwan Dollar,INR,Indian Rupee,TWD,Taiwan Dollar
+1303,JPY/INR,JPY/INR - Japanese Yen Indian Rupee,JPY,Japanese Yen,INR,Indian Rupee
+1304,KRW/INR,KRW/INR - Korean Won Indian Rupee,KRW,Korean Won,INR,Indian Rupee
+1305,MYR/INR,MYR/INR - Malaysian Ringgit Indian Rupee,MYR,Malaysian Ringgit,INR,Indian Rupee
+1306,NOK/INR,NOK/INR - Norwegian Krone Indian Rupee,NOK,Norwegian Krone,INR,Indian Rupee
+1307,NZD/INR,NZD/INR - New Zealand Dollar Indian Rupee,NZD,New Zealand Dollar,INR,Indian Rupee
+1308,SEK/INR,SEK/INR - Swedish Krona Indian Rupee,SEK,Swedish Krona,INR,Indian Rupee
+1309,SGD/INR,SGD/INR - Singapore Dollar Indian Rupee,SGD,Singapore Dollar,INR,Indian Rupee
+1310,THB/INR,THB/INR - Thai Baht Indian Rupee,THB,Thai Baht,INR,Indian Rupee
+1311,TWD/INR,TWD/INR - Taiwan Dollar Indian Rupee,TWD,Taiwan Dollar,INR,Indian Rupee
+1312,ZAR/INR,ZAR/INR - South African Rand Indian Rupee,ZAR,South African Rand,INR,Indian Rupee
+1313,INR/PHP,INR/PHP - Indian Rupee Philippine Peso,INR,Indian Rupee,PHP,Philippine Peso
+1314,INR/ISK,INR/ISK - Indian Rupee Icelandic Kr,INR,Indian Rupee,ISK,Icelandic Kr
+1315,INR/JMD,INR/JMD - Indian Rupee Jamaican Dollar,INR,Indian Rupee,JMD,Jamaican Dollar
+1316,INR/KES,INR/KES - Indian Rupee Kenyan Shilling,INR,Indian Rupee,KES,Kenyan Shilling
+1317,INR/LBP,INR/LBP - Indian Rupee Lebanese Pound,INR,Indian Rupee,LBP,Lebanese Pound
+1318,INR/LKR,INR/LKR - Indian Rupee Sri Lankan Rupee,INR,Indian Rupee,LKR,Sri Lankan Rupee
+1319,INR/MAD,INR/MAD - Indian Rupee Moroccan Dirham,INR,Indian Rupee,MAD,Moroccan Dirham
+1320,INR/MXN,INR/MXN - Indian Rupee Mexican Peso,INR,Indian Rupee,MXN,Mexican Peso
+1321,INR/MYR,INR/MYR - Indian Rupee Malaysian Ringgit,INR,Indian Rupee,MYR,Malaysian Ringgit
+1322,INR/NAD,INR/NAD - Indian Rupee Namibian Dollar,INR,Indian Rupee,NAD,Namibian Dollar
+1323,INR/NOK,INR/NOK - Indian Rupee Norwegian Krone,INR,Indian Rupee,NOK,Norwegian Krone
+1324,INR/NPR,INR/NPR - Indian Rupee Nepalese Rupee,INR,Indian Rupee,NPR,Nepalese Rupee
+1325,INR/RUB,INR/RUB - Indian Rupee Russian Ruble,INR,Indian Rupee,RUB,Russian Ruble
+1326,INR/SEK,INR/SEK - Indian Rupee Swedish Krona,INR,Indian Rupee,SEK,Swedish Krona
+1327,INR/TRY,INR/TRY - Indian Rupee Turkish Lira,INR,Indian Rupee,TRY,Turkish Lira
+1328,INR/XAF,INR/XAF - Indian Rupee Central African Franc,INR,Indian Rupee,XAF,Central African Franc
+1329,INR/XOF,INR/XOF - Indian Rupee West African CFA franc,INR,Indian Rupee,XOF,West African CFA franc
+1330,INR/ZAR,INR/ZAR - Indian Rupee South African Rand,INR,Indian Rupee,ZAR,South African Rand
+1331,ISK/INR,ISK/INR - Icelandic Kr Indian Rupee,ISK,Icelandic Kr,INR,Indian Rupee
+1332,MXN/INR,MXN/INR - Mexican Peso Indian Rupee,MXN,Mexican Peso,INR,Indian Rupee
+1333,PHP/INR,PHP/INR - Philippine Peso Indian Rupee,PHP,Philippine Peso,INR,Indian Rupee
+1334,PKR/INR,PKR/INR - Pakistani Rupee Indian Rupee,PKR,Pakistani Rupee,INR,Indian Rupee
+1335,PLN/INR,PLN/INR - Polish Zloty Indian Rupee,PLN,Polish Zloty,INR,Indian Rupee
+1336,RUB/INR,RUB/INR - Russian Ruble Indian Rupee,RUB,Russian Ruble,INR,Indian Rupee
+1337,SAR/INR,SAR/INR - Saudi Riyal Indian Rupee,SAR,Saudi Riyal,INR,Indian Rupee
+1338,TRY/INR,TRY/INR - Turkish Lira Indian Rupee,TRY,Turkish Lira,INR,Indian Rupee
+1339,VES/INR,VES/INR - Venezuelan Bolivar Indian Rupee,VES,Venezuelan Bolivar,INR,Indian Rupee
+1340,INR/USD,INR/USD - Indian Rupee US Dollar,INR,Indian Rupee,USD,US Dollar
+1341,INR/RUB,INR/RUB - Indian Rupee Russian Ruble,INR,Indian Rupee,RUB,Russian Ruble
+1342,USD/IQD,USD/IQD - US Dollar Iraqi Dinar,USD,US Dollar,IQD,Iraqi Dinar
+1343,IQD/USD,IQD/USD - Iraqi Dinar US Dollar,IQD,Iraqi Dinar,USD,US Dollar
+1344,USD/IRR,USD/IRR - US Dollar Iranian Rial,USD,US Dollar,IRR,Iranian Rial
+1345,IRR/USD,IRR/USD - Iranian Rial US Dollar,IRR,Iranian Rial,USD,US Dollar
+1346,SEK/ISK,SEK/ISK - Swedish Krona Icelandic Kr,SEK,Swedish Krona,ISK,Icelandic Kr
+1347,USD/ISK,USD/ISK - US Dollar Icelandic Kr,USD,US Dollar,ISK,Icelandic Kr
+1348,ISK/JPY,ISK/JPY - Icelandic Kr Japanese Yen,ISK,Icelandic Kr,JPY,Japanese Yen
+1349,ISK/KRW,ISK/KRW - Icelandic Kr Korean Won,ISK,Icelandic Kr,KRW,Korean Won
+1350,ISK/PHP,ISK/PHP - Icelandic Kr Philippine Peso,ISK,Icelandic Kr,PHP,Philippine Peso
+1351,ISK/PKR,ISK/PKR - Icelandic Kr Pakistani Rupee,ISK,Icelandic Kr,PKR,Pakistani Rupee
+1352,ISK/RUB,ISK/RUB - Icelandic Kr Russian Ruble,ISK,Icelandic Kr,RUB,Russian Ruble
+1353,ISK/THB,ISK/THB - Icelandic Kr Thai Baht,ISK,Icelandic Kr,THB,Thai Baht
+1354,ISK/XAF,ISK/XAF - Icelandic Kr Central African Franc,ISK,Icelandic Kr,XAF,Central African Franc
+1355,ISK/JMD,ISK/JMD - Icelandic Kr Jamaican Dollar,ISK,Icelandic Kr,JMD,Jamaican Dollar
+1356,ISK/KES,ISK/KES - Icelandic Kr Kenyan Shilling,ISK,Icelandic Kr,KES,Kenyan Shilling
+1357,ISK/LKR,ISK/LKR - Icelandic Kr Sri Lankan Rupee,ISK,Icelandic Kr,LKR,Sri Lankan Rupee
+1358,ISK/LBP,ISK/LBP - Icelandic Kr Lebanese Pound,ISK,Icelandic Kr,LBP,Lebanese Pound
+1359,ISK/NPR,ISK/NPR - Icelandic Kr Nepalese Rupee,ISK,Icelandic Kr,NPR,Nepalese Rupee
+1360,ISK/XOF,ISK/XOF - Icelandic Kr West African CFA franc,ISK,Icelandic Kr,XOF,West African CFA franc
+1361,JPY/ISK,JPY/ISK - Japanese Yen Icelandic Kr,JPY,Japanese Yen,ISK,Icelandic Kr
+1362,MXN/ISK,MXN/ISK - Mexican Peso Icelandic Kr,MXN,Mexican Peso,ISK,Icelandic Kr
+1363,NOK/ISK,NOK/ISK - Norwegian Krone Icelandic Kr,NOK,Norwegian Krone,ISK,Icelandic Kr
+1364,NZD/ISK,NZD/ISK - New Zealand Dollar Icelandic Kr,NZD,New Zealand Dollar,ISK,Icelandic Kr
+1365,PHP/ISK,PHP/ISK - Philippine Peso Icelandic Kr,PHP,Philippine Peso,ISK,Icelandic Kr
+1366,PKR/ISK,PKR/ISK - Pakistani Rupee Icelandic Kr,PKR,Pakistani Rupee,ISK,Icelandic Kr
+1367,PLN/ISK,PLN/ISK - Polish Zloty Icelandic Kr,PLN,Polish Zloty,ISK,Icelandic Kr
+1368,RUB/ISK,RUB/ISK - Russian Ruble Icelandic Kr,RUB,Russian Ruble,ISK,Icelandic Kr
+1369,SAR/ISK,SAR/ISK - Saudi Riyal Icelandic Kr,SAR,Saudi Riyal,ISK,Icelandic Kr
+1370,SGD/ISK,SGD/ISK - Singapore Dollar Icelandic Kr,SGD,Singapore Dollar,ISK,Icelandic Kr
+1371,THB/ISK,THB/ISK - Thai Baht Icelandic Kr,THB,Thai Baht,ISK,Icelandic Kr
+1372,TRY/ISK,TRY/ISK - Turkish Lira Icelandic Kr,TRY,Turkish Lira,ISK,Icelandic Kr
+1373,TWD/ISK,TWD/ISK - Taiwan Dollar Icelandic Kr,TWD,Taiwan Dollar,ISK,Icelandic Kr
+1374,VES/ISK,VES/ISK - Venezuelan Bolivar Icelandic Kr,VES,Venezuelan Bolivar,ISK,Icelandic Kr
+1375,ZAR/ISK,ZAR/ISK - South African Rand Icelandic Kr,ZAR,South African Rand,ISK,Icelandic Kr
+1376,USD/JMD,USD/JMD - US Dollar Jamaican Dollar,USD,US Dollar,JMD,Jamaican Dollar
+1377,JPY/JMD,JPY/JMD - Japanese Yen Jamaican Dollar,JPY,Japanese Yen,JMD,Jamaican Dollar
+1378,MXN/JMD,MXN/JMD - Mexican Peso Jamaican Dollar,MXN,Mexican Peso,JMD,Jamaican Dollar
+1379,NOK/JMD,NOK/JMD - Norwegian Krone Jamaican Dollar,NOK,Norwegian Krone,JMD,Jamaican Dollar
+1380,NZD/JMD,NZD/JMD - New Zealand Dollar Jamaican Dollar,NZD,New Zealand Dollar,JMD,Jamaican Dollar
+1381,PHP/JMD,PHP/JMD - Philippine Peso Jamaican Dollar,PHP,Philippine Peso,JMD,Jamaican Dollar
+1382,PKR/JMD,PKR/JMD - Pakistani Rupee Jamaican Dollar,PKR,Pakistani Rupee,JMD,Jamaican Dollar
+1383,PLN/JMD,PLN/JMD - Polish Zloty Jamaican Dollar,PLN,Polish Zloty,JMD,Jamaican Dollar
+1384,RUB/JMD,RUB/JMD - Russian Ruble Jamaican Dollar,RUB,Russian Ruble,JMD,Jamaican Dollar
+1385,SAR/JMD,SAR/JMD - Saudi Riyal Jamaican Dollar,SAR,Saudi Riyal,JMD,Jamaican Dollar
+1386,SEK/JMD,SEK/JMD - Swedish Krona Jamaican Dollar,SEK,Swedish Krona,JMD,Jamaican Dollar
+1387,SGD/JMD,SGD/JMD - Singapore Dollar Jamaican Dollar,SGD,Singapore Dollar,JMD,Jamaican Dollar
+1388,THB/JMD,THB/JMD - Thai Baht Jamaican Dollar,THB,Thai Baht,JMD,Jamaican Dollar
+1389,TRY/JMD,TRY/JMD - Turkish Lira Jamaican Dollar,TRY,Turkish Lira,JMD,Jamaican Dollar
+1390,TWD/JMD,TWD/JMD - Taiwan Dollar Jamaican Dollar,TWD,Taiwan Dollar,JMD,Jamaican Dollar
+1391,VES/JMD,VES/JMD - Venezuelan Bolivar Jamaican Dollar,VES,Venezuelan Bolivar,JMD,Jamaican Dollar
+1392,ZAR/JMD,ZAR/JMD - South African Rand Jamaican Dollar,ZAR,South African Rand,JMD,Jamaican Dollar
+1393,USD/JOD,USD/JOD - US Dollar Jordan Dinar,USD,US Dollar,JOD,Jordan Dinar
+1394,NOK/JOD,NOK/JOD - Norwegian Krone Jordan Dinar,NOK,Norwegian Krone,JOD,Jordan Dinar
+1395,NZD/JOD,NZD/JOD - New Zealand Dollar Jordan Dinar,NZD,New Zealand Dollar,JOD,Jordan Dinar
+1396,PLN/JOD,PLN/JOD - Polish Zloty Jordan Dinar,PLN,Polish Zloty,JOD,Jordan Dinar
+1397,SAR/JOD,SAR/JOD - Saudi Riyal Jordan Dinar,SAR,Saudi Riyal,JOD,Jordan Dinar
+1398,SEK/JOD,SEK/JOD - Swedish Krona Jordan Dinar,SEK,Swedish Krona,JOD,Jordan Dinar
+1399,SGD/JOD,SGD/JOD - Singapore Dollar Jordan Dinar,SGD,Singapore Dollar,JOD,Jordan Dinar
+1400,TRY/JOD,TRY/JOD - Turkish Lira Jordan Dinar,TRY,Turkish Lira,JOD,Jordan Dinar
+1401,TWD/JOD,TWD/JOD - Taiwan Dollar Jordan Dinar,TWD,Taiwan Dollar,JOD,Jordan Dinar
+1402,VES/JOD,VES/JOD - Venezuelan Bolivar Jordan Dinar,VES,Venezuelan Bolivar,JOD,Jordan Dinar
+1403,ZAR/JOD,ZAR/JOD - South African Rand Jordan Dinar,ZAR,South African Rand,JOD,Jordan Dinar
+1404,JOD/JPY,JOD/JPY - Jordan Dinar Japanese Yen,JOD,Jordan Dinar,JPY,Japanese Yen
+1405,JOD/KWD,JOD/KWD - Jordan Dinar Kuwaiti Dinar,JOD,Jordan Dinar,KWD,Kuwaiti Dinar
+1406,JPY/JOD,JPY/JOD - Japanese Yen Jordan Dinar,JPY,Japanese Yen,JOD,Jordan Dinar
+1407,KWD/JOD,KWD/JOD - Kuwaiti Dinar Jordan Dinar,KWD,Kuwaiti Dinar,JOD,Jordan Dinar
+1408,JOD/USD,JOD/USD - Jordan Dinar US Dollar,JOD,Jordan Dinar,USD,US Dollar
+1409,JOD/SAR,JOD/SAR - Jordan Dinar Saudi Riyal,JOD,Jordan Dinar,SAR,Saudi Riyal
+1410,USD/JPY,USD/JPY - US Dollar Japanese Yen,USD,US Dollar,JPY,Japanese Yen
+1411,NZD/JPY,NZD/JPY - New Zealand Dollar Japanese Yen,NZD,New Zealand Dollar,JPY,Japanese Yen
+1412,NOK/JPY,NOK/JPY - Norwegian Krone Japanese Yen,NOK,Norwegian Krone,JPY,Japanese Yen
+1413,PLN/JPY,PLN/JPY - Polish Zloty Japanese Yen,PLN,Polish Zloty,JPY,Japanese Yen
+1414,TRY/JPY,TRY/JPY - Turkish Lira Japanese Yen,TRY,Turkish Lira,JPY,Japanese Yen
+1415,THB/JPY,THB/JPY - Thai Baht Japanese Yen,THB,Thai Baht,JPY,Japanese Yen
+1416,ZAR/JPY,ZAR/JPY - South African Rand Japanese Yen,ZAR,South African Rand,JPY,Japanese Yen
+1417,MXN/JPY,MXN/JPY - Mexican Peso Japanese Yen,MXN,Mexican Peso,JPY,Japanese Yen
+1418,SEK/JPY,SEK/JPY - Swedish Krona Japanese Yen,SEK,Swedish Krona,JPY,Japanese Yen
+1419,SGD/JPY,SGD/JPY - Singapore Dollar Japanese Yen,SGD,Singapore Dollar,JPY,Japanese Yen
+1420,JPY/KRW,JPY/KRW - Japanese Yen Korean Won,JPY,Japanese Yen,KRW,Korean Won
+1421,JPY/MXN,JPY/MXN - Japanese Yen Mexican Peso,JPY,Japanese Yen,MXN,Mexican Peso
+1422,JPY/MYR,JPY/MYR - Japanese Yen Malaysian Ringgit,JPY,Japanese Yen,MYR,Malaysian Ringgit
+1423,JPY/NOK,JPY/NOK - Japanese Yen Norwegian Krone,JPY,Japanese Yen,NOK,Norwegian Krone
+1424,JPY/NZD,JPY/NZD - Japanese Yen New Zealand Dollar,JPY,Japanese Yen,NZD,New Zealand Dollar
+1425,JPY/PKR,JPY/PKR - Japanese Yen Pakistani Rupee,JPY,Japanese Yen,PKR,Pakistani Rupee
+1426,JPY/PLN,JPY/PLN - Japanese Yen Polish Zloty,JPY,Japanese Yen,PLN,Polish Zloty
+1427,JPY/SEK,JPY/SEK - Japanese Yen Swedish Krona,JPY,Japanese Yen,SEK,Swedish Krona
+1428,JPY/THB,JPY/THB - Japanese Yen Thai Baht,JPY,Japanese Yen,THB,Thai Baht
+1429,JPY/TWD,JPY/TWD - Japanese Yen Taiwan Dollar,JPY,Japanese Yen,TWD,Taiwan Dollar
+1430,JPY/USD,JPY/USD - Japanese Yen US Dollar,JPY,Japanese Yen,USD,US Dollar
+1431,JPY/ZAR,JPY/ZAR - Japanese Yen South African Rand,JPY,Japanese Yen,ZAR,South African Rand
+1432,KRW/JPY,KRW/JPY - Korean Won Japanese Yen,KRW,Korean Won,JPY,Japanese Yen
+1433,MYR/JPY,MYR/JPY - Malaysian Ringgit Japanese Yen,MYR,Malaysian Ringgit,JPY,Japanese Yen
+1434,TWD/JPY,TWD/JPY - Taiwan Dollar Japanese Yen,TWD,Taiwan Dollar,JPY,Japanese Yen
+1435,JPY/KES,JPY/KES - Japanese Yen Kenyan Shilling,JPY,Japanese Yen,KES,Kenyan Shilling
+1436,JPY/LBP,JPY/LBP - Japanese Yen Lebanese Pound,JPY,Japanese Yen,LBP,Lebanese Pound
+1437,JPY/LKR,JPY/LKR - Japanese Yen Sri Lankan Rupee,JPY,Japanese Yen,LKR,Sri Lankan Rupee
+1438,JPY/NPR,JPY/NPR - Japanese Yen Nepalese Rupee,JPY,Japanese Yen,NPR,Nepalese Rupee
+1439,JPY/PHP,JPY/PHP - Japanese Yen Philippine Peso,JPY,Japanese Yen,PHP,Philippine Peso
+1440,JPY/RUB,JPY/RUB - Japanese Yen Russian Ruble,JPY,Japanese Yen,RUB,Russian Ruble
+1441,JPY/XAF,JPY/XAF - Japanese Yen Central African Franc,JPY,Japanese Yen,XAF,Central African Franc
+1442,JPY/XOF,JPY/XOF - Japanese Yen West African CFA franc,JPY,Japanese Yen,XOF,West African CFA franc
+1443,PHP/JPY,PHP/JPY - Philippine Peso Japanese Yen,PHP,Philippine Peso,JPY,Japanese Yen
+1444,PKR/JPY,PKR/JPY - Pakistani Rupee Japanese Yen,PKR,Pakistani Rupee,JPY,Japanese Yen
+1445,RUB/JPY,RUB/JPY - Russian Ruble Japanese Yen,RUB,Russian Ruble,JPY,Japanese Yen
+1446,SAR/JPY,SAR/JPY - Saudi Riyal Japanese Yen,SAR,Saudi Riyal,JPY,Japanese Yen
+1447,VES/JPY,VES/JPY - Venezuelan Bolivar Japanese Yen,VES,Venezuelan Bolivar,JPY,Japanese Yen
+1448,JPY/KWD,JPY/KWD - Japanese Yen Kuwaiti Dinar,JPY,Japanese Yen,KWD,Kuwaiti Dinar
+1449,JPY/SAR,JPY/SAR - Japanese Yen Saudi Riyal,JPY,Japanese Yen,SAR,Saudi Riyal
+1450,JPY/SGD,JPY/SGD - Japanese Yen Singapore Dollar,JPY,Japanese Yen,SGD,Singapore Dollar
+1451,KWD/JPY,KWD/JPY - Kuwaiti Dinar Japanese Yen,KWD,Kuwaiti Dinar,JPY,Japanese Yen
+1452,JPY/UAH,JPY/UAH - Japanese Yen Ukrainian Hryvnia,JPY,Japanese Yen,UAH,Ukrainian Hryvnia
+1453,JPY/TRY,JPY/TRY - Japanese Yen Turkish Lira,JPY,Japanese Yen,TRY,Turkish Lira
+1454,JPY/RUB,JPY/RUB - Japanese Yen Russian Ruble,JPY,Japanese Yen,RUB,Russian Ruble
+1455,USD/JPY,USD/JPY - US Dollar Japanese Yen,USD,US Dollar,JPY,Japanese Yen
+1456,JPY/RUB,JPY/RUB - Japanese Yen Russian Ruble,JPY,Japanese Yen,RUB,Russian Ruble
+1457,USD/KES,USD/KES - US Dollar Kenyan Shilling,USD,US Dollar,KES,Kenyan Shilling
+1458,MXN/KES,MXN/KES - Mexican Peso Kenyan Shilling,MXN,Mexican Peso,KES,Kenyan Shilling
+1459,NOK/KES,NOK/KES - Norwegian Krone Kenyan Shilling,NOK,Norwegian Krone,KES,Kenyan Shilling
+1460,NZD/KES,NZD/KES - New Zealand Dollar Kenyan Shilling,NZD,New Zealand Dollar,KES,Kenyan Shilling
+1461,PHP/KES,PHP/KES - Philippine Peso Kenyan Shilling,PHP,Philippine Peso,KES,Kenyan Shilling
+1462,PKR/KES,PKR/KES - Pakistani Rupee Kenyan Shilling,PKR,Pakistani Rupee,KES,Kenyan Shilling
+1463,PLN/KES,PLN/KES - Polish Zloty Kenyan Shilling,PLN,Polish Zloty,KES,Kenyan Shilling
+1464,RUB/KES,RUB/KES - Russian Ruble Kenyan Shilling,RUB,Russian Ruble,KES,Kenyan Shilling
+1465,SAR/KES,SAR/KES - Saudi Riyal Kenyan Shilling,SAR,Saudi Riyal,KES,Kenyan Shilling
+1466,SEK/KES,SEK/KES - Swedish Krona Kenyan Shilling,SEK,Swedish Krona,KES,Kenyan Shilling
+1467,SGD/KES,SGD/KES - Singapore Dollar Kenyan Shilling,SGD,Singapore Dollar,KES,Kenyan Shilling
+1468,THB/KES,THB/KES - Thai Baht Kenyan Shilling,THB,Thai Baht,KES,Kenyan Shilling
+1469,TRY/KES,TRY/KES - Turkish Lira Kenyan Shilling,TRY,Turkish Lira,KES,Kenyan Shilling
+1470,TWD/KES,TWD/KES - Taiwan Dollar Kenyan Shilling,TWD,Taiwan Dollar,KES,Kenyan Shilling
+1471,VES/KES,VES/KES - Venezuelan Bolivar Kenyan Shilling,VES,Venezuelan Bolivar,KES,Kenyan Shilling
+1472,ZAR/KES,ZAR/KES - South African Rand Kenyan Shilling,ZAR,South African Rand,KES,Kenyan Shilling
+1473,USD/KGS,USD/KGS - US Dollar Kyrgyzstan som,USD,US Dollar,KGS,Kyrgyzstan som
+1474,KGS/RUB,KGS/RUB - Kyrgyzstan som Russian Ruble,KGS,Kyrgyzstan som,RUB,Russian Ruble
+1475,KGS/RUB,KGS/RUB - Kyrgyzstan som Russian Ruble,KGS,Kyrgyzstan som,RUB,Russian Ruble
+1476,USD/KHR,USD/KHR - US Dollar Cambodian Riel,USD,US Dollar,KHR,Cambodian Riel
+1477,USD/KMF,USD/KMF - US Dollar Comorian Franc,USD,US Dollar,KMF,Comorian Franc
+1478,USD/KRW,USD/KRW - US Dollar Korean Won,USD,US Dollar,KRW,Korean Won
+1479,KRW/MYR,KRW/MYR - Korean Won Malaysian Ringgit,KRW,Korean Won,MYR,Malaysian Ringgit
+1480,KRW/THB,KRW/THB - Korean Won Thai Baht,KRW,Korean Won,THB,Thai Baht
+1481,KRW/TWD,KRW/TWD - Korean Won Taiwan Dollar,KRW,Korean Won,TWD,Taiwan Dollar
+1482,KRW/ZAR,KRW/ZAR - Korean Won South African Rand,KRW,Korean Won,ZAR,South African Rand
+1483,MYR/KRW,MYR/KRW - Malaysian Ringgit Korean Won,MYR,Malaysian Ringgit,KRW,Korean Won
+1484,NZD/KRW,NZD/KRW - New Zealand Dollar Korean Won,NZD,New Zealand Dollar,KRW,Korean Won
+1485,SGD/KRW,SGD/KRW - Singapore Dollar Korean Won,SGD,Singapore Dollar,KRW,Korean Won
+1486,THB/KRW,THB/KRW - Thai Baht Korean Won,THB,Thai Baht,KRW,Korean Won
+1487,TWD/KRW,TWD/KRW - Taiwan Dollar Korean Won,TWD,Taiwan Dollar,KRW,Korean Won
+1488,ZAR/KRW,ZAR/KRW - South African Rand Korean Won,ZAR,South African Rand,KRW,Korean Won
+1489,MXN/KRW,MXN/KRW - Mexican Peso Korean Won,MXN,Mexican Peso,KRW,Korean Won
+1490,NOK/KRW,NOK/KRW - Norwegian Krone Korean Won,NOK,Norwegian Krone,KRW,Korean Won
+1491,PHP/KRW,PHP/KRW - Philippine Peso Korean Won,PHP,Philippine Peso,KRW,Korean Won
+1492,PKR/KRW,PKR/KRW - Pakistani Rupee Korean Won,PKR,Pakistani Rupee,KRW,Korean Won
+1493,PLN/KRW,PLN/KRW - Polish Zloty Korean Won,PLN,Polish Zloty,KRW,Korean Won
+1494,RUB/KRW,RUB/KRW - Russian Ruble Korean Won,RUB,Russian Ruble,KRW,Korean Won
+1495,SAR/KRW,SAR/KRW - Saudi Riyal Korean Won,SAR,Saudi Riyal,KRW,Korean Won
+1496,SEK/KRW,SEK/KRW - Swedish Krona Korean Won,SEK,Swedish Krona,KRW,Korean Won
+1497,TRY/KRW,TRY/KRW - Turkish Lira Korean Won,TRY,Turkish Lira,KRW,Korean Won
+1498,VES/KRW,VES/KRW - Venezuelan Bolivar Korean Won,VES,Venezuelan Bolivar,KRW,Korean Won
+1499,KRW/USD,KRW/USD - Korean Won US Dollar,KRW,Korean Won,USD,US Dollar
+1500,KRW/SGD,KRW/SGD - Korean Won Singapore Dollar,KRW,Korean Won,SGD,Singapore Dollar
+1501,KRW/RUB,KRW/RUB - Korean Won Russian Ruble,KRW,Korean Won,RUB,Russian Ruble
+1502,USD/KWD,USD/KWD - US Dollar Kuwaiti Dinar,USD,US Dollar,KWD,Kuwaiti Dinar
+1503,KWD/PKR,KWD/PKR - Kuwaiti Dinar Pakistani Rupee,KWD,Kuwaiti Dinar,PKR,Pakistani Rupee
+1504,KWD/SAR,KWD/SAR - Kuwaiti Dinar Saudi Riyal,KWD,Kuwaiti Dinar,SAR,Saudi Riyal
+1505,SAR/KWD,SAR/KWD - Saudi Riyal Kuwaiti Dinar,SAR,Saudi Riyal,KWD,Kuwaiti Dinar
+1506,KWD/USD,KWD/USD - Kuwaiti Dinar US Dollar,KWD,Kuwaiti Dinar,USD,US Dollar
+1507,KWD/TRY,KWD/TRY - Kuwaiti Dinar Turkish Lira,KWD,Kuwaiti Dinar,TRY,Turkish Lira
+1508,KWD/MYR,KWD/MYR - Kuwaiti Dinar Malaysian Ringgit,KWD,Kuwaiti Dinar,MYR,Malaysian Ringgit
+1509,SGD/KWD,SGD/KWD - Singapore Dollar Kuwaiti Dinar,SGD,Singapore Dollar,KWD,Kuwaiti Dinar
+1510,KWD/SGD,KWD/SGD - Kuwaiti Dinar Singapore Dollar,KWD,Kuwaiti Dinar,SGD,Singapore Dollar
+1511,KYD/USD,KYD/USD - Cayman Islands Dollar US Dollar,KYD,Cayman Islands...,USD,US Dollar
+1512,USD/KZT,USD/KZT - US Dollar Kazakh Tenge,USD,US Dollar,KZT,Kazakh Tenge
+1513,RUB/KZT,RUB/KZT - Russian Ruble Kazakh Tenge,RUB,Russian Ruble,KZT,Kazakh Tenge
+1514,KZT/RUB,KZT/RUB - Kazakh Tenge Russian Ruble,KZT,Kazakh Tenge,RUB,Russian Ruble
+1515,UAH/KZT,UAH/KZT - Ukrainian Hryvnia Kazakh Tenge,UAH,Ukrainian Hryvnia,KZT,Kazakh Tenge
+1516,KZT/RUB,KZT/RUB - Kazakh Tenge Russian Ruble,KZT,Kazakh Tenge,RUB,Russian Ruble
+1517,USD/LAK,USD/LAK - US Dollar Lao Kip,USD,US Dollar,LAK,Lao Kip
+1518,USD/LBP,USD/LBP - US Dollar Lebanese Pound,USD,US Dollar,LBP,Lebanese Pound
+1519,MXN/LBP,MXN/LBP - Mexican Peso Lebanese Pound,MXN,Mexican Peso,LBP,Lebanese Pound
+1520,NOK/LBP,NOK/LBP - Norwegian Krone Lebanese Pound,NOK,Norwegian Krone,LBP,Lebanese Pound
+1521,NZD/LBP,NZD/LBP - New Zealand Dollar Lebanese Pound,NZD,New Zealand Dollar,LBP,Lebanese Pound
+1522,PHP/LBP,PHP/LBP - Philippine Peso Lebanese Pound,PHP,Philippine Peso,LBP,Lebanese Pound
+1523,PKR/LBP,PKR/LBP - Pakistani Rupee Lebanese Pound,PKR,Pakistani Rupee,LBP,Lebanese Pound
+1524,PLN/LBP,PLN/LBP - Polish Zloty Lebanese Pound,PLN,Polish Zloty,LBP,Lebanese Pound
+1525,RUB/LBP,RUB/LBP - Russian Ruble Lebanese Pound,RUB,Russian Ruble,LBP,Lebanese Pound
+1526,SAR/LBP,SAR/LBP - Saudi Riyal Lebanese Pound,SAR,Saudi Riyal,LBP,Lebanese Pound
+1527,SEK/LBP,SEK/LBP - Swedish Krona Lebanese Pound,SEK,Swedish Krona,LBP,Lebanese Pound
+1528,SGD/LBP,SGD/LBP - Singapore Dollar Lebanese Pound,SGD,Singapore Dollar,LBP,Lebanese Pound
+1529,THB/LBP,THB/LBP - Thai Baht Lebanese Pound,THB,Thai Baht,LBP,Lebanese Pound
+1530,TRY/LBP,TRY/LBP - Turkish Lira Lebanese Pound,TRY,Turkish Lira,LBP,Lebanese Pound
+1531,TWD/LBP,TWD/LBP - Taiwan Dollar Lebanese Pound,TWD,Taiwan Dollar,LBP,Lebanese Pound
+1532,VES/LBP,VES/LBP - Venezuelan Bolivar Lebanese Pound,VES,Venezuelan Bolivar,LBP,Lebanese Pound
+1533,ZAR/LBP,ZAR/LBP - South African Rand Lebanese Pound,ZAR,South African Rand,LBP,Lebanese Pound
+1534,USD/LKR,USD/LKR - US Dollar Sri Lankan Rupee,USD,US Dollar,LKR,Sri Lankan Rupee
+1535,MXN/LKR,MXN/LKR - Mexican Peso Sri Lankan Rupee,MXN,Mexican Peso,LKR,Sri Lankan Rupee
+1536,NOK/LKR,NOK/LKR - Norwegian Krone Sri Lankan Rupee,NOK,Norwegian Krone,LKR,Sri Lankan Rupee
+1537,NZD/LKR,NZD/LKR - New Zealand Dollar Sri Lankan Rupee,NZD,New Zealand Dollar,LKR,Sri Lankan Rupee
+1538,PHP/LKR,PHP/LKR - Philippine Peso Sri Lankan Rupee,PHP,Philippine Peso,LKR,Sri Lankan Rupee
+1539,PKR/LKR,PKR/LKR - Pakistani Rupee Sri Lankan Rupee,PKR,Pakistani Rupee,LKR,Sri Lankan Rupee
+1540,PLN/LKR,PLN/LKR - Polish Zloty Sri Lankan Rupee,PLN,Polish Zloty,LKR,Sri Lankan Rupee
+1541,RUB/LKR,RUB/LKR - Russian Ruble Sri Lankan Rupee,RUB,Russian Ruble,LKR,Sri Lankan Rupee
+1542,SAR/LKR,SAR/LKR - Saudi Riyal Sri Lankan Rupee,SAR,Saudi Riyal,LKR,Sri Lankan Rupee
+1543,SEK/LKR,SEK/LKR - Swedish Krona Sri Lankan Rupee,SEK,Swedish Krona,LKR,Sri Lankan Rupee
+1544,SGD/LKR,SGD/LKR - Singapore Dollar Sri Lankan Rupee,SGD,Singapore Dollar,LKR,Sri Lankan Rupee
+1545,THB/LKR,THB/LKR - Thai Baht Sri Lankan Rupee,THB,Thai Baht,LKR,Sri Lankan Rupee
+1546,TRY/LKR,TRY/LKR - Turkish Lira Sri Lankan Rupee,TRY,Turkish Lira,LKR,Sri Lankan Rupee
+1547,TWD/LKR,TWD/LKR - Taiwan Dollar Sri Lankan Rupee,TWD,Taiwan Dollar,LKR,Sri Lankan Rupee
+1548,VES/LKR,VES/LKR - Venezuelan Bolivar Sri Lankan Rupee,VES,Venezuelan Bolivar,LKR,Sri Lankan Rupee
+1549,ZAR/LKR,ZAR/LKR - South African Rand Sri Lankan Rupee,ZAR,South African Rand,LKR,Sri Lankan Rupee
+1550,USD/LSL,USD/LSL - US Dollar Lesotho loti,USD,US Dollar,LSL,Lesotho loti
+1551,USD/LYD,USD/LYD - US Dollar Libyan Dinar,USD,US Dollar,LYD,Libyan Dinar
+1552,USD/MAD,USD/MAD - US Dollar Moroccan Dirham,USD,US Dollar,MAD,Moroccan Dirham
+1553,MXN/MAD,MXN/MAD - Mexican Peso Moroccan Dirham,MXN,Mexican Peso,MAD,Moroccan Dirham
+1554,NOK/MAD,NOK/MAD - Norwegian Krone Moroccan Dirham,NOK,Norwegian Krone,MAD,Moroccan Dirham
+1555,NZD/MAD,NZD/MAD - New Zealand Dollar Moroccan Dirham,NZD,New Zealand Dollar,MAD,Moroccan Dirham
+1556,PHP/MAD,PHP/MAD - Philippine Peso Moroccan Dirham,PHP,Philippine Peso,MAD,Moroccan Dirham
+1557,PLN/MAD,PLN/MAD - Polish Zloty Moroccan Dirham,PLN,Polish Zloty,MAD,Moroccan Dirham
+1558,RUB/MAD,RUB/MAD - Russian Ruble Moroccan Dirham,RUB,Russian Ruble,MAD,Moroccan Dirham
+1559,SAR/MAD,SAR/MAD - Saudi Riyal Moroccan Dirham,SAR,Saudi Riyal,MAD,Moroccan Dirham
+1560,SEK/MAD,SEK/MAD - Swedish Krona Moroccan Dirham,SEK,Swedish Krona,MAD,Moroccan Dirham
+1561,SGD/MAD,SGD/MAD - Singapore Dollar Moroccan Dirham,SGD,Singapore Dollar,MAD,Moroccan Dirham
+1562,THB/MAD,THB/MAD - Thai Baht Moroccan Dirham,THB,Thai Baht,MAD,Moroccan Dirham
+1563,TRY/MAD,TRY/MAD - Turkish Lira Moroccan Dirham,TRY,Turkish Lira,MAD,Moroccan Dirham
+1564,TWD/MAD,TWD/MAD - Taiwan Dollar Moroccan Dirham,TWD,Taiwan Dollar,MAD,Moroccan Dirham
+1565,VES/MAD,VES/MAD - Venezuelan Bolivar Moroccan Dirham,VES,Venezuelan Bolivar,MAD,Moroccan Dirham
+1566,ZAR/MAD,ZAR/MAD - South African Rand Moroccan Dirham,ZAR,South African Rand,MAD,Moroccan Dirham
+1567,USD/MDL,USD/MDL - US Dollar Moldovan Leu,USD,US Dollar,MDL,Moldovan Leu
+1568,MDL/RUB,MDL/RUB - Moldovan Leu Russian Ruble,MDL,Moldovan Leu,RUB,Russian Ruble
+1569,MDL/RUB,MDL/RUB - Moldovan Leu Russian Ruble,MDL,Moldovan Leu,RUB,Russian Ruble
+1570,USD/MGA,USD/MGA - US Dollar Malagasy Ariary,USD,US Dollar,MGA,Malagasy Ariary
+1571,USD/MKD,USD/MKD - US Dollar Macedonian Denar,USD,US Dollar,MKD,Macedonian Denar
+1572,USD/MMK,USD/MMK - US Dollar Myanmar kyat,USD,US Dollar,MMK,Myanmar kyat
+1573,USD/MNT,USD/MNT - US Dollar Mongolian Tugrik,USD,US Dollar,MNT,Mongolian Tugrik
+1574,USD/MOP,USD/MOP - US Dollar Macanese Pataca,USD,US Dollar,MOP,Macanese Pataca
+1575,USD/MRU,USD/MRU - US Dollar Mauritanian ouguiya,USD,US Dollar,MRU,Mauritanian ouguiya
+1576,USD/MUR,USD/MUR - US Dollar Mauritian Rupee,USD,US Dollar,MUR,Mauritian Rupee
+1577,USD/MVR,USD/MVR - US Dollar Maldivian Rufiyaa,USD,US Dollar,MVR,Maldivian Rufiyaa
+1578,USD/MWK,USD/MWK - US Dollar Malawian Kwacha,USD,US Dollar,MWK,Malawian Kwacha
+1579,USD/MXN,USD/MXN - US Dollar Mexican Peso,USD,US Dollar,MXN,Mexican Peso
+1580,MXN/ZAR,MXN/ZAR - Mexican Peso South African Rand,MXN,Mexican Peso,ZAR,South African Rand
+1581,SGD/MXN,SGD/MXN - Singapore Dollar Mexican Peso,SGD,Singapore Dollar,MXN,Mexican Peso
+1582,MXN/MYR,MXN/MYR - Mexican Peso Malaysian Ringgit,MXN,Mexican Peso,MYR,Malaysian Ringgit
+1583,MXN/NAD,MXN/NAD - Mexican Peso Namibian Dollar,MXN,Mexican Peso,NAD,Namibian Dollar
+1584,MXN/NOK,MXN/NOK - Mexican Peso Norwegian Krone,MXN,Mexican Peso,NOK,Norwegian Krone
+1585,MXN/NPR,MXN/NPR - Mexican Peso Nepalese Rupee,MXN,Mexican Peso,NPR,Nepalese Rupee
+1586,MXN/NZD,MXN/NZD - Mexican Peso New Zealand Dollar,MXN,Mexican Peso,NZD,New Zealand Dollar
+1587,MXN/PAB,MXN/PAB - Mexican Peso Panamanian Balboa,MXN,Mexican Peso,PAB,Panamanian Balboa
+1588,MXN/PHP,MXN/PHP - Mexican Peso Philippine Peso,MXN,Mexican Peso,PHP,Philippine Peso
+1589,MXN/PKR,MXN/PKR - Mexican Peso Pakistani Rupee,MXN,Mexican Peso,PKR,Pakistani Rupee
+1590,MXN/PLN,MXN/PLN - Mexican Peso Polish Zloty,MXN,Mexican Peso,PLN,Polish Zloty
+1591,MXN/QAR,MXN/QAR - Mexican Peso Qatari Riyal,MXN,Mexican Peso,QAR,Qatari Riyal
+1592,MXN/RON,MXN/RON - Mexican Peso Romanian Leu,MXN,Mexican Peso,RON,Romanian Leu
+1593,MXN/RUB,MXN/RUB - Mexican Peso Russian Ruble,MXN,Mexican Peso,RUB,Russian Ruble
+1594,MXN/SAR,MXN/SAR - Mexican Peso Saudi Riyal,MXN,Mexican Peso,SAR,Saudi Riyal
+1595,MXN/SEK,MXN/SEK - Mexican Peso Swedish Krona,MXN,Mexican Peso,SEK,Swedish Krona
+1596,MXN/SGD,MXN/SGD - Mexican Peso Singapore Dollar,MXN,Mexican Peso,SGD,Singapore Dollar
+1597,MXN/THB,MXN/THB - Mexican Peso Thai Baht,MXN,Mexican Peso,THB,Thai Baht
+1598,MXN/TRY,MXN/TRY - Mexican Peso Turkish Lira,MXN,Mexican Peso,TRY,Turkish Lira
+1599,MXN/TWD,MXN/TWD - Mexican Peso Taiwan Dollar,MXN,Mexican Peso,TWD,Taiwan Dollar
+1600,MXN/USD,MXN/USD - Mexican Peso US Dollar,MXN,Mexican Peso,USD,US Dollar
+1601,MXN/VES,MXN/VES - Mexican Peso Venezuelan Bolivar,MXN,Mexican Peso,VES,Venezuelan Bolivar
+1602,MXN/XAF,MXN/XAF - Mexican Peso Central African Franc,MXN,Mexican Peso,XAF,Central African Franc
+1603,MXN/XCD,MXN/XCD - Mexican Peso East Caribbean Dollar,MXN,Mexican Peso,XCD,East Caribbean Dollar
+1604,MXN/XOF,MXN/XOF - Mexican Peso West African CFA franc,MXN,Mexican Peso,XOF,West African CFA franc
+1605,NOK/MXN,NOK/MXN - Norwegian Krone Mexican Peso,NOK,Norwegian Krone,MXN,Mexican Peso
+1606,NZD/MXN,NZD/MXN - New Zealand Dollar Mexican Peso,NZD,New Zealand Dollar,MXN,Mexican Peso
+1607,PHP/MXN,PHP/MXN - Philippine Peso Mexican Peso,PHP,Philippine Peso,MXN,Mexican Peso
+1608,PLN/MXN,PLN/MXN - Polish Zloty Mexican Peso,PLN,Polish Zloty,MXN,Mexican Peso
+1609,RUB/MXN,RUB/MXN - Russian Ruble Mexican Peso,RUB,Russian Ruble,MXN,Mexican Peso
+1610,SAR/MXN,SAR/MXN - Saudi Riyal Mexican Peso,SAR,Saudi Riyal,MXN,Mexican Peso
+1611,SEK/MXN,SEK/MXN - Swedish Krona Mexican Peso,SEK,Swedish Krona,MXN,Mexican Peso
+1612,THB/MXN,THB/MXN - Thai Baht Mexican Peso,THB,Thai Baht,MXN,Mexican Peso
+1613,TRY/MXN,TRY/MXN - Turkish Lira Mexican Peso,TRY,Turkish Lira,MXN,Mexican Peso
+1614,TWD/MXN,TWD/MXN - Taiwan Dollar Mexican Peso,TWD,Taiwan Dollar,MXN,Mexican Peso
+1615,VES/MXN,VES/MXN - Venezuelan Bolivar Mexican Peso,VES,Venezuelan Bolivar,MXN,Mexican Peso
+1616,ZAR/MXN,ZAR/MXN - South African Rand Mexican Peso,ZAR,South African Rand,MXN,Mexican Peso
+1617,PYG/MXN,PYG/MXN - Paraguayan Guarani Mexican Peso,PYG,Paraguayan Guarani,MXN,Mexican Peso
+1618,UYU/MXN,UYU/MXN - Uruguayan Peso Mexican Peso,UYU,Uruguayan Peso,MXN,Mexican Peso
+1619,PEN/MXN,PEN/MXN - Peru Sol Mexican Peso,PEN,Peru Sol,MXN,Mexican Peso
+1620,MXN/PYG,MXN/PYG - Mexican Peso Paraguayan Guarani,MXN,Mexican Peso,PYG,Paraguayan Guarani
+1621,MXN/UYU,MXN/UYU - Mexican Peso Uruguayan Peso,MXN,Mexican Peso,UYU,Uruguayan Peso
+1622,MXN/PEN,MXN/PEN - Mexican Peso Peru Sol,MXN,Mexican Peso,PEN,Peru Sol
+1623,MYR/NZD,MYR/NZD - Malaysian Ringgit New Zealand Dollar,MYR,Malaysian Ringgit,NZD,New Zealand Dollar
+1624,MYR/PKR,MYR/PKR - Malaysian Ringgit Pakistani Rupee,MYR,Malaysian Ringgit,PKR,Pakistani Rupee
+1625,MYR/SGD,MYR/SGD - Malaysian Ringgit Singapore Dollar,MYR,Malaysian Ringgit,SGD,Singapore Dollar
+1626,MYR/THB,MYR/THB - Malaysian Ringgit Thai Baht,MYR,Malaysian Ringgit,THB,Thai Baht
+1627,MYR/TWD,MYR/TWD - Malaysian Ringgit Taiwan Dollar,MYR,Malaysian Ringgit,TWD,Taiwan Dollar
+1628,MYR/ZAR,MYR/ZAR - Malaysian Ringgit South African Rand,MYR,Malaysian Ringgit,ZAR,South African Rand
+1629,NZD/MYR,NZD/MYR - New Zealand Dollar Malaysian Ringgit,NZD,New Zealand Dollar,MYR,Malaysian Ringgit
+1630,SGD/MYR,SGD/MYR - Singapore Dollar Malaysian Ringgit,SGD,Singapore Dollar,MYR,Malaysian Ringgit
+1631,USD/MYR,USD/MYR - US Dollar Malaysian Ringgit,USD,US Dollar,MYR,Malaysian Ringgit
+1632,ZAR/MYR,ZAR/MYR - South African Rand Malaysian Ringgit,ZAR,South African Rand,MYR,Malaysian Ringgit
+1633,NOK/MYR,NOK/MYR - Norwegian Krone Malaysian Ringgit,NOK,Norwegian Krone,MYR,Malaysian Ringgit
+1634,PHP/MYR,PHP/MYR - Philippine Peso Malaysian Ringgit,PHP,Philippine Peso,MYR,Malaysian Ringgit
+1635,PLN/MYR,PLN/MYR - Polish Zloty Malaysian Ringgit,PLN,Polish Zloty,MYR,Malaysian Ringgit
+1636,RUB/MYR,RUB/MYR - Russian Ruble Malaysian Ringgit,RUB,Russian Ruble,MYR,Malaysian Ringgit
+1637,SAR/MYR,SAR/MYR - Saudi Riyal Malaysian Ringgit,SAR,Saudi Riyal,MYR,Malaysian Ringgit
+1638,SEK/MYR,SEK/MYR - Swedish Krona Malaysian Ringgit,SEK,Swedish Krona,MYR,Malaysian Ringgit
+1639,THB/MYR,THB/MYR - Thai Baht Malaysian Ringgit,THB,Thai Baht,MYR,Malaysian Ringgit
+1640,TRY/MYR,TRY/MYR - Turkish Lira Malaysian Ringgit,TRY,Turkish Lira,MYR,Malaysian Ringgit
+1641,TWD/MYR,TWD/MYR - Taiwan Dollar Malaysian Ringgit,TWD,Taiwan Dollar,MYR,Malaysian Ringgit
+1642,VES/MYR,VES/MYR - Venezuelan Bolivar Malaysian Ringgit,VES,Venezuelan Bolivar,MYR,Malaysian Ringgit
+1643,MYR/USD,MYR/USD - Malaysian Ringgit US Dollar,MYR,Malaysian Ringgit,USD,US Dollar
+1644,USD/MZN,USD/MZN - US Dollar Mozambican Metical,USD,US Dollar,MZN,Mozambican Metical
+1645,USD/NAD,USD/NAD - US Dollar Namibian Dollar,USD,US Dollar,NAD,Namibian Dollar
+1646,NOK/NAD,NOK/NAD - Norwegian Krone Namibian Dollar,NOK,Norwegian Krone,NAD,Namibian Dollar
+1647,NZD/NAD,NZD/NAD - New Zealand Dollar Namibian Dollar,NZD,New Zealand Dollar,NAD,Namibian Dollar
+1648,PHP/NAD,PHP/NAD - Philippine Peso Namibian Dollar,PHP,Philippine Peso,NAD,Namibian Dollar
+1649,PLN/NAD,PLN/NAD - Polish Zloty Namibian Dollar,PLN,Polish Zloty,NAD,Namibian Dollar
+1650,RUB/NAD,RUB/NAD - Russian Ruble Namibian Dollar,RUB,Russian Ruble,NAD,Namibian Dollar
+1651,SAR/NAD,SAR/NAD - Saudi Riyal Namibian Dollar,SAR,Saudi Riyal,NAD,Namibian Dollar
+1652,SEK/NAD,SEK/NAD - Swedish Krona Namibian Dollar,SEK,Swedish Krona,NAD,Namibian Dollar
+1653,SGD/NAD,SGD/NAD - Singapore Dollar Namibian Dollar,SGD,Singapore Dollar,NAD,Namibian Dollar
+1654,THB/NAD,THB/NAD - Thai Baht Namibian Dollar,THB,Thai Baht,NAD,Namibian Dollar
+1655,TRY/NAD,TRY/NAD - Turkish Lira Namibian Dollar,TRY,Turkish Lira,NAD,Namibian Dollar
+1656,TWD/NAD,TWD/NAD - Taiwan Dollar Namibian Dollar,TWD,Taiwan Dollar,NAD,Namibian Dollar
+1657,VES/NAD,VES/NAD - Venezuelan Bolivar Namibian Dollar,VES,Venezuelan Bolivar,NAD,Namibian Dollar
+1658,ZAR/NAD,ZAR/NAD - South African Rand Namibian Dollar,ZAR,South African Rand,NAD,Namibian Dollar
+1659,USD/NGN,USD/NGN - US Dollar Nigerian Naira,USD,US Dollar,NGN,Nigerian Naira
+1660,USD/NIO,USD/NIO - US Dollar Nicaraguan Córdoba,USD,US Dollar,NIO,Nicaraguan Córdoba
+1661,NIO/USD,NIO/USD - Nicaraguan Córdoba US Dollar,NIO,Nicaraguan Córdoba,USD,US Dollar
+1662,USD/NOK,USD/NOK - US Dollar Norwegian Krone,USD,US Dollar,NOK,Norwegian Krone
+1663,NOK/SEK,NOK/SEK - Norwegian Krone Swedish Krona,NOK,Norwegian Krone,SEK,Swedish Krona
+1664,SEK/NOK,SEK/NOK - Swedish Krona Norwegian Krone,SEK,Swedish Krona,NOK,Norwegian Krone
+1665,ZAR/NOK,ZAR/NOK - South African Rand Norwegian Krone,ZAR,South African Rand,NOK,Norwegian Krone
+1666,NOK/NPR,NOK/NPR - Norwegian Krone Nepalese Rupee,NOK,Norwegian Krone,NPR,Nepalese Rupee
+1667,NOK/NZD,NOK/NZD - Norwegian Krone New Zealand Dollar,NOK,Norwegian Krone,NZD,New Zealand Dollar
+1668,NOK/OMR,NOK/OMR - Norwegian Krone Omani Rial,NOK,Norwegian Krone,OMR,Omani Rial
+1669,NOK/PAB,NOK/PAB - Norwegian Krone Panamanian Balboa,NOK,Norwegian Krone,PAB,Panamanian Balboa
+1670,NOK/PHP,NOK/PHP - Norwegian Krone Philippine Peso,NOK,Norwegian Krone,PHP,Philippine Peso
+1671,NOK/PKR,NOK/PKR - Norwegian Krone Pakistani Rupee,NOK,Norwegian Krone,PKR,Pakistani Rupee
+1672,NOK/PLN,NOK/PLN - Norwegian Krone Polish Zloty,NOK,Norwegian Krone,PLN,Polish Zloty
+1673,NOK/QAR,NOK/QAR - Norwegian Krone Qatari Riyal,NOK,Norwegian Krone,QAR,Qatari Riyal
+1674,NOK/RON,NOK/RON - Norwegian Krone Romanian Leu,NOK,Norwegian Krone,RON,Romanian Leu
+1675,NOK/RUB,NOK/RUB - Norwegian Krone Russian Ruble,NOK,Norwegian Krone,RUB,Russian Ruble
+1676,NOK/SAR,NOK/SAR - Norwegian Krone Saudi Riyal,NOK,Norwegian Krone,SAR,Saudi Riyal
+1677,NOK/SGD,NOK/SGD - Norwegian Krone Singapore Dollar,NOK,Norwegian Krone,SGD,Singapore Dollar
+1678,NOK/THB,NOK/THB - Norwegian Krone Thai Baht,NOK,Norwegian Krone,THB,Thai Baht
+1679,NOK/TRY,NOK/TRY - Norwegian Krone Turkish Lira,NOK,Norwegian Krone,TRY,Turkish Lira
+1680,NOK/TWD,NOK/TWD - Norwegian Krone Taiwan Dollar,NOK,Norwegian Krone,TWD,Taiwan Dollar
+1681,NOK/USD,NOK/USD - Norwegian Krone US Dollar,NOK,Norwegian Krone,USD,US Dollar
+1682,NOK/VES,NOK/VES - Norwegian Krone Venezuelan Bolivar,NOK,Norwegian Krone,VES,Venezuelan Bolivar
+1683,NOK/XAF,NOK/XAF - Norwegian Krone Central African Franc,NOK,Norwegian Krone,XAF,Central African Franc
+1684,NOK/XCD,NOK/XCD - Norwegian Krone East Caribbean Dollar,NOK,Norwegian Krone,XCD,East Caribbean Dollar
+1685,NOK/XOF,NOK/XOF - Norwegian Krone West African CFA franc,NOK,Norwegian Krone,XOF,West African CFA franc
+1686,NOK/ZAR,NOK/ZAR - Norwegian Krone South African Rand,NOK,Norwegian Krone,ZAR,South African Rand
+1687,NZD/NOK,NZD/NOK - New Zealand Dollar Norwegian Krone,NZD,New Zealand Dollar,NOK,Norwegian Krone
+1688,PHP/NOK,PHP/NOK - Philippine Peso Norwegian Krone,PHP,Philippine Peso,NOK,Norwegian Krone
+1689,PLN/NOK,PLN/NOK - Polish Zloty Norwegian Krone,PLN,Polish Zloty,NOK,Norwegian Krone
+1690,RUB/NOK,RUB/NOK - Russian Ruble Norwegian Krone,RUB,Russian Ruble,NOK,Norwegian Krone
+1691,SAR/NOK,SAR/NOK - Saudi Riyal Norwegian Krone,SAR,Saudi Riyal,NOK,Norwegian Krone
+1692,SGD/NOK,SGD/NOK - Singapore Dollar Norwegian Krone,SGD,Singapore Dollar,NOK,Norwegian Krone
+1693,THB/NOK,THB/NOK - Thai Baht Norwegian Krone,THB,Thai Baht,NOK,Norwegian Krone
+1694,TRY/NOK,TRY/NOK - Turkish Lira Norwegian Krone,TRY,Turkish Lira,NOK,Norwegian Krone
+1695,TWD/NOK,TWD/NOK - Taiwan Dollar Norwegian Krone,TWD,Taiwan Dollar,NOK,Norwegian Krone
+1696,VES/NOK,VES/NOK - Venezuelan Bolivar Norwegian Krone,VES,Venezuelan Bolivar,NOK,Norwegian Krone
+1697,NOK/RUB,NOK/RUB - Norwegian Krone Russian Ruble,NOK,Norwegian Krone,RUB,Russian Ruble
+1698,USD/NPR,USD/NPR - US Dollar Nepalese Rupee,USD,US Dollar,NPR,Nepalese Rupee
+1699,NZD/NPR,NZD/NPR - New Zealand Dollar Nepalese Rupee,NZD,New Zealand Dollar,NPR,Nepalese Rupee
+1700,PHP/NPR,PHP/NPR - Philippine Peso Nepalese Rupee,PHP,Philippine Peso,NPR,Nepalese Rupee
+1701,PKR/NPR,PKR/NPR - Pakistani Rupee Nepalese Rupee,PKR,Pakistani Rupee,NPR,Nepalese Rupee
+1702,PLN/NPR,PLN/NPR - Polish Zloty Nepalese Rupee,PLN,Polish Zloty,NPR,Nepalese Rupee
+1703,RUB/NPR,RUB/NPR - Russian Ruble Nepalese Rupee,RUB,Russian Ruble,NPR,Nepalese Rupee
+1704,SAR/NPR,SAR/NPR - Saudi Riyal Nepalese Rupee,SAR,Saudi Riyal,NPR,Nepalese Rupee
+1705,SEK/NPR,SEK/NPR - Swedish Krona Nepalese Rupee,SEK,Swedish Krona,NPR,Nepalese Rupee
+1706,SGD/NPR,SGD/NPR - Singapore Dollar Nepalese Rupee,SGD,Singapore Dollar,NPR,Nepalese Rupee
+1707,THB/NPR,THB/NPR - Thai Baht Nepalese Rupee,THB,Thai Baht,NPR,Nepalese Rupee
+1708,TRY/NPR,TRY/NPR - Turkish Lira Nepalese Rupee,TRY,Turkish Lira,NPR,Nepalese Rupee
+1709,TWD/NPR,TWD/NPR - Taiwan Dollar Nepalese Rupee,TWD,Taiwan Dollar,NPR,Nepalese Rupee
+1710,VES/NPR,VES/NPR - Venezuelan Bolivar Nepalese Rupee,VES,Venezuelan Bolivar,NPR,Nepalese Rupee
+1711,ZAR/NPR,ZAR/NPR - South African Rand Nepalese Rupee,ZAR,South African Rand,NPR,Nepalese Rupee
+1712,NZD/USD,NZD/USD - New Zealand Dollar US Dollar,NZD,New Zealand Dollar,USD,US Dollar
+1713,NZD/PLN,NZD/PLN - New Zealand Dollar Polish Zloty,NZD,New Zealand Dollar,PLN,Polish Zloty
+1714,NZD/SEK,NZD/SEK - New Zealand Dollar Swedish Krona,NZD,New Zealand Dollar,SEK,Swedish Krona
+1715,NZD/THB,NZD/THB - New Zealand Dollar Thai Baht,NZD,New Zealand Dollar,THB,Thai Baht
+1716,NZD/ZAR,NZD/ZAR - New Zealand Dollar South African Rand,NZD,New Zealand Dollar,ZAR,South African Rand
+1717,NZD/SGD,NZD/SGD - New Zealand Dollar Singapore Dollar,NZD,New Zealand Dollar,SGD,Singapore Dollar
+1718,NZD/PKR,NZD/PKR - New Zealand Dollar Pakistani Rupee,NZD,New Zealand Dollar,PKR,Pakistani Rupee
+1719,NZD/TWD,NZD/TWD - New Zealand Dollar Taiwan Dollar,NZD,New Zealand Dollar,TWD,Taiwan Dollar
+1720,SGD/NZD,SGD/NZD - Singapore Dollar New Zealand Dollar,SGD,Singapore Dollar,NZD,New Zealand Dollar
+1721,USD/NZD,USD/NZD - US Dollar New Zealand Dollar,USD,US Dollar,NZD,New Zealand Dollar
+1722,NZD/OMR,NZD/OMR - New Zealand Dollar Omani Rial,NZD,New Zealand Dollar,OMR,Omani Rial
+1723,NZD/PAB,NZD/PAB - New Zealand Dollar Panamanian Balboa,NZD,New Zealand Dollar,PAB,Panamanian Balboa
+1724,NZD/PHP,NZD/PHP - New Zealand Dollar Philippine Peso,NZD,New Zealand Dollar,PHP,Philippine Peso
+1725,NZD/QAR,NZD/QAR - New Zealand Dollar Qatari Riyal,NZD,New Zealand Dollar,QAR,Qatari Riyal
+1726,NZD/RON,NZD/RON - New Zealand Dollar Romanian Leu,NZD,New Zealand Dollar,RON,Romanian Leu
+1727,NZD/RUB,NZD/RUB - New Zealand Dollar Russian Ruble,NZD,New Zealand Dollar,RUB,Russian Ruble
+1728,NZD/SAR,NZD/SAR - New Zealand Dollar Saudi Riyal,NZD,New Zealand Dollar,SAR,Saudi Riyal
+1729,NZD/TRY,NZD/TRY - New Zealand Dollar Turkish Lira,NZD,New Zealand Dollar,TRY,Turkish Lira
+1730,NZD/VES,NZD/VES - New Zealand Dollar Venezuelan Bolivar,NZD,New Zealand Dollar,VES,Venezuelan Bolivar
+1731,NZD/XAF,NZD/XAF - New Zealand Dollar Central African Franc,NZD,New Zealand Dollar,XAF,Central African Franc
+1732,NZD/XCD,NZD/XCD - New Zealand Dollar East Caribbean Dollar,NZD,New Zealand Dollar,XCD,East Caribbean Dollar
+1733,NZD/XOF,NZD/XOF - New Zealand Dollar West African CFA franc,NZD,New Zealand Dollar,XOF,West African CFA franc
+1734,PLN/NZD,PLN/NZD - Polish Zloty New Zealand Dollar,PLN,Polish Zloty,NZD,New Zealand Dollar
+1735,SAR/NZD,SAR/NZD - Saudi Riyal New Zealand Dollar,SAR,Saudi Riyal,NZD,New Zealand Dollar
+1736,SEK/NZD,SEK/NZD - Swedish Krona New Zealand Dollar,SEK,Swedish Krona,NZD,New Zealand Dollar
+1737,TRY/NZD,TRY/NZD - Turkish Lira New Zealand Dollar,TRY,Turkish Lira,NZD,New Zealand Dollar
+1738,TWD/NZD,TWD/NZD - Taiwan Dollar New Zealand Dollar,TWD,Taiwan Dollar,NZD,New Zealand Dollar
+1739,VES/NZD,VES/NZD - Venezuelan Bolivar New Zealand Dollar,VES,Venezuelan Bolivar,NZD,New Zealand Dollar
+1740,ZAR/NZD,ZAR/NZD - South African Rand New Zealand Dollar,ZAR,South African Rand,NZD,New Zealand Dollar
+1741,OMR/PKR,OMR/PKR - Omani Rial Pakistani Rupee,OMR,Omani Rial,PKR,Pakistani Rupee
+1742,USD/OMR,USD/OMR - US Dollar Omani Rial,USD,US Dollar,OMR,Omani Rial
+1743,PLN/OMR,PLN/OMR - Polish Zloty Omani Rial,PLN,Polish Zloty,OMR,Omani Rial
+1744,SAR/OMR,SAR/OMR - Saudi Riyal Omani Rial,SAR,Saudi Riyal,OMR,Omani Rial
+1745,SEK/OMR,SEK/OMR - Swedish Krona Omani Rial,SEK,Swedish Krona,OMR,Omani Rial
+1746,SGD/OMR,SGD/OMR - Singapore Dollar Omani Rial,SGD,Singapore Dollar,OMR,Omani Rial
+1747,TRY/OMR,TRY/OMR - Turkish Lira Omani Rial,TRY,Turkish Lira,OMR,Omani Rial
+1748,TWD/OMR,TWD/OMR - Taiwan Dollar Omani Rial,TWD,Taiwan Dollar,OMR,Omani Rial
+1749,VES/OMR,VES/OMR - Venezuelan Bolivar Omani Rial,VES,Venezuelan Bolivar,OMR,Omani Rial
+1750,ZAR/OMR,ZAR/OMR - South African Rand Omani Rial,ZAR,South African Rand,OMR,Omani Rial
+1751,USD/PAB,USD/PAB - US Dollar Panamanian Balboa,USD,US Dollar,PAB,Panamanian Balboa
+1752,PLN/PAB,PLN/PAB - Polish Zloty Panamanian Balboa,PLN,Polish Zloty,PAB,Panamanian Balboa
+1753,SAR/PAB,SAR/PAB - Saudi Riyal Panamanian Balboa,SAR,Saudi Riyal,PAB,Panamanian Balboa
+1754,SEK/PAB,SEK/PAB - Swedish Krona Panamanian Balboa,SEK,Swedish Krona,PAB,Panamanian Balboa
+1755,SGD/PAB,SGD/PAB - Singapore Dollar Panamanian Balboa,SGD,Singapore Dollar,PAB,Panamanian Balboa
+1756,TRY/PAB,TRY/PAB - Turkish Lira Panamanian Balboa,TRY,Turkish Lira,PAB,Panamanian Balboa
+1757,TWD/PAB,TWD/PAB - Taiwan Dollar Panamanian Balboa,TWD,Taiwan Dollar,PAB,Panamanian Balboa
+1758,VES/PAB,VES/PAB - Venezuelan Bolivar Panamanian Balboa,VES,Venezuelan Bolivar,PAB,Panamanian Balboa
+1759,ZAR/PAB,ZAR/PAB - South African Rand Panamanian Balboa,ZAR,South African Rand,PAB,Panamanian Balboa
+1760,USD/PEN,USD/PEN - US Dollar Peru Sol,USD,US Dollar,PEN,Peru Sol
+1761,PYG/PEN,PYG/PEN - Paraguayan Guarani Peru Sol,PYG,Paraguayan Guarani,PEN,Peru Sol
+1762,PEN/PYG,PEN/PYG - Peru Sol Paraguayan Guarani,PEN,Peru Sol,PYG,Paraguayan Guarani
+1763,UYU/PEN,UYU/PEN - Uruguayan Peso Peru Sol,UYU,Uruguayan Peso,PEN,Peru Sol
+1764,PEN/UYU,PEN/UYU - Peru Sol Uruguayan Peso,PEN,Peru Sol,UYU,Uruguayan Peso
+1765,VES/PEN,VES/PEN - Venezuelan Bolivar Peru Sol,VES,Venezuelan Bolivar,PEN,Peru Sol
+1766,PEN/VES,PEN/VES - Peru Sol Venezuelan Bolivar,PEN,Peru Sol,VES,Venezuelan Bolivar
+1767,PEN/USD,PEN/USD - Peru Sol US Dollar,PEN,Peru Sol,USD,US Dollar
+1768,USD/PGK,USD/PGK - US Dollar Papua New Guinean Kina,USD,US Dollar,PGK,Papua New Guinean Kina
+1769,USD/PHP,USD/PHP - US Dollar Philippine Peso,USD,US Dollar,PHP,Philippine Peso
+1770,ZAR/PHP,ZAR/PHP - South African Rand Philippine Peso,ZAR,South African Rand,PHP,Philippine Peso
+1771,PHP/PKR,PHP/PKR - Philippine Peso Pakistani Rupee,PHP,Philippine Peso,PKR,Pakistani Rupee
+1772,PHP/RUB,PHP/RUB - Philippine Peso Russian Ruble,PHP,Philippine Peso,RUB,Russian Ruble
+1773,PHP/SEK,PHP/SEK - Philippine Peso Swedish Krona,PHP,Philippine Peso,SEK,Swedish Krona
+1774,PHP/THB,PHP/THB - Philippine Peso Thai Baht,PHP,Philippine Peso,THB,Thai Baht
+1775,PHP/TRY,PHP/TRY - Philippine Peso Turkish Lira,PHP,Philippine Peso,TRY,Turkish Lira
+1776,PHP/XAF,PHP/XAF - Philippine Peso Central African Franc,PHP,Philippine Peso,XAF,Central African Franc
+1777,PHP/XOF,PHP/XOF - Philippine Peso West African CFA franc,PHP,Philippine Peso,XOF,West African CFA franc
+1778,PHP/ZAR,PHP/ZAR - Philippine Peso South African Rand,PHP,Philippine Peso,ZAR,South African Rand
+1779,PKR/PHP,PKR/PHP - Pakistani Rupee Philippine Peso,PKR,Pakistani Rupee,PHP,Philippine Peso
+1780,PLN/PHP,PLN/PHP - Polish Zloty Philippine Peso,PLN,Polish Zloty,PHP,Philippine Peso
+1781,RUB/PHP,RUB/PHP - Russian Ruble Philippine Peso,RUB,Russian Ruble,PHP,Philippine Peso
+1782,SAR/PHP,SAR/PHP - Saudi Riyal Philippine Peso,SAR,Saudi Riyal,PHP,Philippine Peso
+1783,SEK/PHP,SEK/PHP - Swedish Krona Philippine Peso,SEK,Swedish Krona,PHP,Philippine Peso
+1784,SGD/PHP,SGD/PHP - Singapore Dollar Philippine Peso,SGD,Singapore Dollar,PHP,Philippine Peso
+1785,THB/PHP,THB/PHP - Thai Baht Philippine Peso,THB,Thai Baht,PHP,Philippine Peso
+1786,TRY/PHP,TRY/PHP - Turkish Lira Philippine Peso,TRY,Turkish Lira,PHP,Philippine Peso
+1787,TWD/PHP,TWD/PHP - Taiwan Dollar Philippine Peso,TWD,Taiwan Dollar,PHP,Philippine Peso
+1788,VES/PHP,VES/PHP - Venezuelan Bolivar Philippine Peso,VES,Venezuelan Bolivar,PHP,Philippine Peso
+1789,PHP/USD,PHP/USD - Philippine Peso US Dollar,PHP,Philippine Peso,USD,US Dollar
+1790,QAR/PHP,QAR/PHP - Qatari Riyal Philippine Peso,QAR,Qatari Riyal,PHP,Philippine Peso
+1791,QAR/PKR,QAR/PKR - Qatari Riyal Pakistani Rupee,QAR,Qatari Riyal,PKR,Pakistani Rupee
+1792,SAR/PKR,SAR/PKR - Saudi Riyal Pakistani Rupee,SAR,Saudi Riyal,PKR,Pakistani Rupee
+1793,SGD/PKR,SGD/PKR - Singapore Dollar Pakistani Rupee,SGD,Singapore Dollar,PKR,Pakistani Rupee
+1794,THB/PKR,THB/PKR - Thai Baht Pakistani Rupee,THB,Thai Baht,PKR,Pakistani Rupee
+1795,TWD/PKR,TWD/PKR - Taiwan Dollar Pakistani Rupee,TWD,Taiwan Dollar,PKR,Pakistani Rupee
+1796,USD/PKR,USD/PKR - US Dollar Pakistani Rupee,USD,US Dollar,PKR,Pakistani Rupee
+1797,ZAR/PKR,ZAR/PKR - South African Rand Pakistani Rupee,ZAR,South African Rand,PKR,Pakistani Rupee
+1798,PKR/RUB,PKR/RUB - Pakistani Rupee Russian Ruble,PKR,Pakistani Rupee,RUB,Russian Ruble
+1799,PKR/THB,PKR/THB - Pakistani Rupee Thai Baht,PKR,Pakistani Rupee,THB,Thai Baht
+1800,PKR/XAF,PKR/XAF - Pakistani Rupee Central African Franc,PKR,Pakistani Rupee,XAF,Central African Franc
+1801,PKR/XOF,PKR/XOF - Pakistani Rupee West African CFA franc,PKR,Pakistani Rupee,XOF,West African CFA franc
+1802,PLN/PKR,PLN/PKR - Polish Zloty Pakistani Rupee,PLN,Polish Zloty,PKR,Pakistani Rupee
+1803,RUB/PKR,RUB/PKR - Russian Ruble Pakistani Rupee,RUB,Russian Ruble,PKR,Pakistani Rupee
+1804,SEK/PKR,SEK/PKR - Swedish Krona Pakistani Rupee,SEK,Swedish Krona,PKR,Pakistani Rupee
+1805,TRY/PKR,TRY/PKR - Turkish Lira Pakistani Rupee,TRY,Turkish Lira,PKR,Pakistani Rupee
+1806,VES/PKR,VES/PKR - Venezuelan Bolivar Pakistani Rupee,VES,Venezuelan Bolivar,PKR,Pakistani Rupee
+1807,USD/PLN,USD/PLN - US Dollar Polish Zloty,USD,US Dollar,PLN,Polish Zloty
+1808,SEK/PLN,SEK/PLN - Swedish Krona Polish Zloty,SEK,Swedish Krona,PLN,Polish Zloty
+1809,SGD/PLN,SGD/PLN - Singapore Dollar Polish Zloty,SGD,Singapore Dollar,PLN,Polish Zloty
+1810,PLN/QAR,PLN/QAR - Polish Zloty Qatari Riyal,PLN,Polish Zloty,QAR,Qatari Riyal
+1811,PLN/RON,PLN/RON - Polish Zloty Romanian Leu,PLN,Polish Zloty,RON,Romanian Leu
+1812,PLN/RUB,PLN/RUB - Polish Zloty Russian Ruble,PLN,Polish Zloty,RUB,Russian Ruble
+1813,PLN/SAR,PLN/SAR - Polish Zloty Saudi Riyal,PLN,Polish Zloty,SAR,Saudi Riyal
+1814,PLN/SEK,PLN/SEK - Polish Zloty Swedish Krona,PLN,Polish Zloty,SEK,Swedish Krona
+1815,PLN/SGD,PLN/SGD - Polish Zloty Singapore Dollar,PLN,Polish Zloty,SGD,Singapore Dollar
+1816,PLN/THB,PLN/THB - Polish Zloty Thai Baht,PLN,Polish Zloty,THB,Thai Baht
+1817,PLN/TRY,PLN/TRY - Polish Zloty Turkish Lira,PLN,Polish Zloty,TRY,Turkish Lira
+1818,PLN/TWD,PLN/TWD - Polish Zloty Taiwan Dollar,PLN,Polish Zloty,TWD,Taiwan Dollar
+1819,PLN/USD,PLN/USD - Polish Zloty US Dollar,PLN,Polish Zloty,USD,US Dollar
+1820,PLN/VES,PLN/VES - Polish Zloty Venezuelan Bolivar,PLN,Polish Zloty,VES,Venezuelan Bolivar
+1821,PLN/XAF,PLN/XAF - Polish Zloty Central African Franc,PLN,Polish Zloty,XAF,Central African Franc
+1822,PLN/XCD,PLN/XCD - Polish Zloty East Caribbean Dollar,PLN,Polish Zloty,XCD,East Caribbean Dollar
+1823,PLN/XOF,PLN/XOF - Polish Zloty West African CFA franc,PLN,Polish Zloty,XOF,West African CFA franc
+1824,PLN/ZAR,PLN/ZAR - Polish Zloty South African Rand,PLN,Polish Zloty,ZAR,South African Rand
+1825,RUB/PLN,RUB/PLN - Russian Ruble Polish Zloty,RUB,Russian Ruble,PLN,Polish Zloty
+1826,SAR/PLN,SAR/PLN - Saudi Riyal Polish Zloty,SAR,Saudi Riyal,PLN,Polish Zloty
+1827,TRY/PLN,TRY/PLN - Turkish Lira Polish Zloty,TRY,Turkish Lira,PLN,Polish Zloty
+1828,TWD/PLN,TWD/PLN - Taiwan Dollar Polish Zloty,TWD,Taiwan Dollar,PLN,Polish Zloty
+1829,VES/PLN,VES/PLN - Venezuelan Bolivar Polish Zloty,VES,Venezuelan Bolivar,PLN,Polish Zloty
+1830,ZAR/PLN,ZAR/PLN - South African Rand Polish Zloty,ZAR,South African Rand,PLN,Polish Zloty
+1831,UAH/PLN,UAH/PLN - Ukrainian Hryvnia Polish Zloty,UAH,Ukrainian Hryvnia,PLN,Polish Zloty
+1832,PLN/UAH,PLN/UAH - Polish Zloty Ukrainian Hryvnia,PLN,Polish Zloty,UAH,Ukrainian Hryvnia
+1833,PLN/RUB,PLN/RUB - Polish Zloty Russian Ruble,PLN,Polish Zloty,RUB,Russian Ruble
+1834,USD/PYG,USD/PYG - US Dollar Paraguayan Guarani,USD,US Dollar,PYG,Paraguayan Guarani
+1835,PYG/UYU,PYG/UYU - Paraguayan Guarani Uruguayan Peso,PYG,Paraguayan Guarani,UYU,Uruguayan Peso
+1836,UYU/PYG,UYU/PYG - Uruguayan Peso Paraguayan Guarani,UYU,Uruguayan Peso,PYG,Paraguayan Guarani
+1837,VES/PYG,VES/PYG - Venezuelan Bolivar Paraguayan Guarani,VES,Venezuelan Bolivar,PYG,Paraguayan Guarani
+1838,PYG/VES,PYG/VES - Paraguayan Guarani Venezuelan Bolivar,PYG,Paraguayan Guarani,VES,Venezuelan Bolivar
+1839,PYG/USD,PYG/USD - Paraguayan Guarani US Dollar,PYG,Paraguayan Guarani,USD,US Dollar
+1840,USD/QAR,USD/QAR - US Dollar Qatari Riyal,USD,US Dollar,QAR,Qatari Riyal
+1841,RUB/QAR,RUB/QAR - Russian Ruble Qatari Riyal,RUB,Russian Ruble,QAR,Qatari Riyal
+1842,SAR/QAR,SAR/QAR - Saudi Riyal Qatari Riyal,SAR,Saudi Riyal,QAR,Qatari Riyal
+1843,SEK/QAR,SEK/QAR - Swedish Krona Qatari Riyal,SEK,Swedish Krona,QAR,Qatari Riyal
+1844,SGD/QAR,SGD/QAR - Singapore Dollar Qatari Riyal,SGD,Singapore Dollar,QAR,Qatari Riyal
+1845,THB/QAR,THB/QAR - Thai Baht Qatari Riyal,THB,Thai Baht,QAR,Qatari Riyal
+1846,TRY/QAR,TRY/QAR - Turkish Lira Qatari Riyal,TRY,Turkish Lira,QAR,Qatari Riyal
+1847,TWD/QAR,TWD/QAR - Taiwan Dollar Qatari Riyal,TWD,Taiwan Dollar,QAR,Qatari Riyal
+1848,VES/QAR,VES/QAR - Venezuelan Bolivar Qatari Riyal,VES,Venezuelan Bolivar,QAR,Qatari Riyal
+1849,ZAR/QAR,ZAR/QAR - South African Rand Qatari Riyal,ZAR,South African Rand,QAR,Qatari Riyal
+1850,USD/RON,USD/RON - US Dollar Romanian Leu,USD,US Dollar,RON,Romanian Leu
+1851,RON/RUB,RON/RUB - Romanian Leu Russian Ruble,RON,Romanian Leu,RUB,Russian Ruble
+1852,SAR/RON,SAR/RON - Saudi Riyal Romanian Leu,SAR,Saudi Riyal,RON,Romanian Leu
+1853,SEK/RON,SEK/RON - Swedish Krona Romanian Leu,SEK,Swedish Krona,RON,Romanian Leu
+1854,SGD/RON,SGD/RON - Singapore Dollar Romanian Leu,SGD,Singapore Dollar,RON,Romanian Leu
+1855,TRY/RON,TRY/RON - Turkish Lira Romanian Leu,TRY,Turkish Lira,RON,Romanian Leu
+1856,TWD/RON,TWD/RON - Taiwan Dollar Romanian Leu,TWD,Taiwan Dollar,RON,Romanian Leu
+1857,VES/RON,VES/RON - Venezuelan Bolivar Romanian Leu,VES,Venezuelan Bolivar,RON,Romanian Leu
+1858,ZAR/RON,ZAR/RON - South African Rand Romanian Leu,ZAR,South African Rand,RON,Romanian Leu
+1859,RON/RUB,RON/RUB - Romanian Leu Russian Ruble,RON,Romanian Leu,RUB,Russian Ruble
+1860,USD/RSD,USD/RSD - US Dollar Serbian Dinar,USD,US Dollar,RSD,Serbian Dinar
+1861,USD/RUB,USD/RUB - US Dollar Russian Ruble,USD,US Dollar,RUB,Russian Ruble
+1862,RUB/SAR,RUB/SAR - Russian Ruble Saudi Riyal,RUB,Russian Ruble,SAR,Saudi Riyal
+1863,RUB/SEK,RUB/SEK - Russian Ruble Swedish Krona,RUB,Russian Ruble,SEK,Swedish Krona
+1864,RUB/THB,RUB/THB - Russian Ruble Thai Baht,RUB,Russian Ruble,THB,Thai Baht
+1865,RUB/TRY,RUB/TRY - Russian Ruble Turkish Lira,RUB,Russian Ruble,TRY,Turkish Lira
+1866,RUB/TWD,RUB/TWD - Russian Ruble Taiwan Dollar,RUB,Russian Ruble,TWD,Taiwan Dollar
+1867,RUB/USD,RUB/USD - Russian Ruble US Dollar,RUB,Russian Ruble,USD,US Dollar
+1868,RUB/VES,RUB/VES - Russian Ruble Venezuelan Bolivar,RUB,Russian Ruble,VES,Venezuelan Bolivar
+1869,RUB/XAF,RUB/XAF - Russian Ruble Central African Franc,RUB,Russian Ruble,XAF,Central African Franc
+1870,RUB/XOF,RUB/XOF - Russian Ruble West African CFA franc,RUB,Russian Ruble,XOF,West African CFA franc
+1871,RUB/ZAR,RUB/ZAR - Russian Ruble South African Rand,RUB,Russian Ruble,ZAR,South African Rand
+1872,SAR/RUB,SAR/RUB - Saudi Riyal Russian Ruble,SAR,Saudi Riyal,RUB,Russian Ruble
+1873,SEK/RUB,SEK/RUB - Swedish Krona Russian Ruble,SEK,Swedish Krona,RUB,Russian Ruble
+1874,SGD/RUB,SGD/RUB - Singapore Dollar Russian Ruble,SGD,Singapore Dollar,RUB,Russian Ruble
+1875,THB/RUB,THB/RUB - Thai Baht Russian Ruble,THB,Thai Baht,RUB,Russian Ruble
+1876,TRY/RUB,TRY/RUB - Turkish Lira Russian Ruble,TRY,Turkish Lira,RUB,Russian Ruble
+1877,TWD/RUB,TWD/RUB - Taiwan Dollar Russian Ruble,TWD,Taiwan Dollar,RUB,Russian Ruble
+1878,VES/RUB,VES/RUB - Venezuelan Bolivar Russian Ruble,VES,Venezuelan Bolivar,RUB,Russian Ruble
+1879,ZAR/RUB,ZAR/RUB - South African Rand Russian Ruble,ZAR,South African Rand,RUB,Russian Ruble
+1880,RUB/UAH,RUB/UAH - Russian Ruble Ukrainian Hryvnia,RUB,Russian Ruble,UAH,Ukrainian Hryvnia
+1881,UAH/RUB,UAH/RUB - Ukrainian Hryvnia Russian Ruble,UAH,Ukrainian Hryvnia,RUB,Russian Ruble
+1882,USD/RUB,USD/RUB - US Dollar Russian Ruble,USD,US Dollar,RUB,Russian Ruble
+1883,RUB/VND,RUB/VND - Russian Ruble Vietnamese Dong,RUB,Russian Ruble,VND,Vietnamese Dong
+1884,TMT/RUB,TMT/RUB - Turkmenistan manat Russian Ruble,TMT,Turkmenistan manat,RUB,Russian Ruble
+1885,SDR/RUB,SDR/RUB - Special Drawing Rights Russian Ruble,SDR,Special Drawing...,RUB,Russian Ruble
+1886,TJS/RUB,TJS/RUB - Tajikistani somoni Russian Ruble,TJS,Tajikistani somoni,RUB,Russian Ruble
+1887,UZS/RUB,UZS/RUB - Uzbekistani Sum Russian Ruble,UZS,Uzbekistani Sum,RUB,Russian Ruble
+1888,SEK/RUB,SEK/RUB - Swedish Krona Russian Ruble,SEK,Swedish Krona,RUB,Russian Ruble
+1889,SGD/RUB,SGD/RUB - Singapore Dollar Russian Ruble,SGD,Singapore Dollar,RUB,Russian Ruble
+1890,TJS/RUB,TJS/RUB - Tajikistani somoni Russian Ruble,TJS,Tajikistani somoni,RUB,Russian Ruble
+1891,TMT/RUB,TMT/RUB - Turkmenistan manat Russian Ruble,TMT,Turkmenistan manat,RUB,Russian Ruble
+1892,TRY/RUB,TRY/RUB - Turkish Lira Russian Ruble,TRY,Turkish Lira,RUB,Russian Ruble
+1893,UAH/RUB,UAH/RUB - Ukrainian Hryvnia Russian Ruble,UAH,Ukrainian Hryvnia,RUB,Russian Ruble
+1894,USD/RUB,USD/RUB - US Dollar Russian Ruble,USD,US Dollar,RUB,Russian Ruble
+1895,UZS/RUB,UZS/RUB - Uzbekistani Sum Russian Ruble,UZS,Uzbekistani Sum,RUB,Russian Ruble
+1896,SDR/RUB,SDR/RUB - Special Drawing Rights Russian Ruble,SDR,Special Drawing...,RUB,Russian Ruble
+1897,ZAR/RUB,ZAR/RUB - South African Rand Russian Ruble,ZAR,South African Rand,RUB,Russian Ruble
+1898,USD/RUB,USD/RUB - US Dollar Russian Ruble,USD,US Dollar,RUB,Russian Ruble
+1899,USD/RWF,USD/RWF - US Dollar Rwandan Franc,USD,US Dollar,RWF,Rwandan Franc
+1900,USD/SAR,USD/SAR - US Dollar Saudi Riyal,USD,US Dollar,SAR,Saudi Riyal
+1901,SAR/SEK,SAR/SEK - Saudi Riyal Swedish Krona,SAR,Saudi Riyal,SEK,Swedish Krona
+1902,SAR/SGD,SAR/SGD - Saudi Riyal Singapore Dollar,SAR,Saudi Riyal,SGD,Singapore Dollar
+1903,SAR/THB,SAR/THB - Saudi Riyal Thai Baht,SAR,Saudi Riyal,THB,Thai Baht
+1904,SAR/TRY,SAR/TRY - Saudi Riyal Turkish Lira,SAR,Saudi Riyal,TRY,Turkish Lira
+1905,SAR/TWD,SAR/TWD - Saudi Riyal Taiwan Dollar,SAR,Saudi Riyal,TWD,Taiwan Dollar
+1906,SAR/USD,SAR/USD - Saudi Riyal US Dollar,SAR,Saudi Riyal,USD,US Dollar
+1907,SAR/VES,SAR/VES - Saudi Riyal Venezuelan Bolivar,SAR,Saudi Riyal,VES,Venezuelan Bolivar
+1908,SAR/XAF,SAR/XAF - Saudi Riyal Central African Franc,SAR,Saudi Riyal,XAF,Central African Franc
+1909,SAR/XCD,SAR/XCD - Saudi Riyal East Caribbean Dollar,SAR,Saudi Riyal,XCD,East Caribbean Dollar
+1910,SAR/XOF,SAR/XOF - Saudi Riyal West African CFA franc,SAR,Saudi Riyal,XOF,West African CFA franc
+1911,SAR/ZAR,SAR/ZAR - Saudi Riyal South African Rand,SAR,Saudi Riyal,ZAR,South African Rand
+1912,SEK/SAR,SEK/SAR - Swedish Krona Saudi Riyal,SEK,Swedish Krona,SAR,Saudi Riyal
+1913,SGD/SAR,SGD/SAR - Singapore Dollar Saudi Riyal,SGD,Singapore Dollar,SAR,Saudi Riyal
+1914,THB/SAR,THB/SAR - Thai Baht Saudi Riyal,THB,Thai Baht,SAR,Saudi Riyal
+1915,TRY/SAR,TRY/SAR - Turkish Lira Saudi Riyal,TRY,Turkish Lira,SAR,Saudi Riyal
+1916,TWD/SAR,TWD/SAR - Taiwan Dollar Saudi Riyal,TWD,Taiwan Dollar,SAR,Saudi Riyal
+1917,VES/SAR,VES/SAR - Venezuelan Bolivar Saudi Riyal,VES,Venezuelan Bolivar,SAR,Saudi Riyal
+1918,ZAR/SAR,ZAR/SAR - South African Rand Saudi Riyal,ZAR,South African Rand,SAR,Saudi Riyal
+1919,USD/SCR,USD/SCR - US Dollar Seychelles Rupee,USD,US Dollar,SCR,Seychelles Rupee
+1920,USD/SDG,USD/SDG - US Dollar Sudanese Pound,USD,US Dollar,SDG,Sudanese Pound
+1921,USD/SEK,USD/SEK - US Dollar Swedish Krona,USD,US Dollar,SEK,Swedish Krona
+1922,SEK/SGD,SEK/SGD - Swedish Krona Singapore Dollar,SEK,Swedish Krona,SGD,Singapore Dollar
+1923,SEK/THB,SEK/THB - Swedish Krona Thai Baht,SEK,Swedish Krona,THB,Thai Baht
+1924,SEK/TRY,SEK/TRY - Swedish Krona Turkish Lira,SEK,Swedish Krona,TRY,Turkish Lira
+1925,SEK/TWD,SEK/TWD - Swedish Krona Taiwan Dollar,SEK,Swedish Krona,TWD,Taiwan Dollar
+1926,SEK/USD,SEK/USD - Swedish Krona US Dollar,SEK,Swedish Krona,USD,US Dollar
+1927,SEK/VES,SEK/VES - Swedish Krona Venezuelan Bolivar,SEK,Swedish Krona,VES,Venezuelan Bolivar
+1928,SEK/XAF,SEK/XAF - Swedish Krona Central African Franc,SEK,Swedish Krona,XAF,Central African Franc
+1929,SEK/XCD,SEK/XCD - Swedish Krona East Caribbean Dollar,SEK,Swedish Krona,XCD,East Caribbean Dollar
+1930,SEK/XOF,SEK/XOF - Swedish Krona West African CFA franc,SEK,Swedish Krona,XOF,West African CFA franc
+1931,SEK/ZAR,SEK/ZAR - Swedish Krona South African Rand,SEK,Swedish Krona,ZAR,South African Rand
+1932,SGD/SEK,SGD/SEK - Singapore Dollar Swedish Krona,SGD,Singapore Dollar,SEK,Swedish Krona
+1933,THB/SEK,THB/SEK - Thai Baht Swedish Krona,THB,Thai Baht,SEK,Swedish Krona
+1934,TRY/SEK,TRY/SEK - Turkish Lira Swedish Krona,TRY,Turkish Lira,SEK,Swedish Krona
+1935,TWD/SEK,TWD/SEK - Taiwan Dollar Swedish Krona,TWD,Taiwan Dollar,SEK,Swedish Krona
+1936,VES/SEK,VES/SEK - Venezuelan Bolivar Swedish Krona,VES,Venezuelan Bolivar,SEK,Swedish Krona
+1937,ZAR/SEK,ZAR/SEK - South African Rand Swedish Krona,ZAR,South African Rand,SEK,Swedish Krona
+1938,USD/SGD,USD/SGD - US Dollar Singapore Dollar,USD,US Dollar,SGD,Singapore Dollar
+1939,SGD/THB,SGD/THB - Singapore Dollar Thai Baht,SGD,Singapore Dollar,THB,Thai Baht
+1940,SGD/TWD,SGD/TWD - Singapore Dollar Taiwan Dollar,SGD,Singapore Dollar,TWD,Taiwan Dollar
+1941,SGD/USD,SGD/USD - Singapore Dollar US Dollar,SGD,Singapore Dollar,USD,US Dollar
+1942,SGD/ZAR,SGD/ZAR - Singapore Dollar South African Rand,SGD,Singapore Dollar,ZAR,South African Rand
+1943,SGD/TRY,SGD/TRY - Singapore Dollar Turkish Lira,SGD,Singapore Dollar,TRY,Turkish Lira
+1944,SGD/VES,SGD/VES - Singapore Dollar Venezuelan Bolivar,SGD,Singapore Dollar,VES,Venezuelan Bolivar
+1945,SGD/XAF,SGD/XAF - Singapore Dollar Central African Franc,SGD,Singapore Dollar,XAF,Central African Franc
+1946,SGD/XCD,SGD/XCD - Singapore Dollar East Caribbean Dollar,SGD,Singapore Dollar,XCD,East Caribbean Dollar
+1947,SGD/XOF,SGD/XOF - Singapore Dollar West African CFA franc,SGD,Singapore Dollar,XOF,West African CFA franc
+1948,TRY/SGD,TRY/SGD - Turkish Lira Singapore Dollar,TRY,Turkish Lira,SGD,Singapore Dollar
+1949,TWD/SGD,TWD/SGD - Taiwan Dollar Singapore Dollar,TWD,Taiwan Dollar,SGD,Singapore Dollar
+1950,VES/SGD,VES/SGD - Venezuelan Bolivar Singapore Dollar,VES,Venezuelan Bolivar,SGD,Singapore Dollar
+1951,ZAR/SGD,ZAR/SGD - South African Rand Singapore Dollar,ZAR,South African Rand,SGD,Singapore Dollar
+1952,USD/SOS,USD/SOS - US Dollar Somali Shilling,USD,US Dollar,SOS,Somali Shilling
+1953,USD/STN,USD/STN - US Dollar São Tomé/Príncipe Dobra,USD,US Dollar,STN,São Tomé/Príncipe Dobra
+1954,USD/SVC,USD/SVC - US Dollar El Salvador Colon,USD,US Dollar,SVC,El Salvador Colon
+1955,USD/SYP,USD/SYP - US Dollar Syrian Pound,USD,US Dollar,SYP,Syrian Pound
+1956,SYP/USD,SYP/USD - Syrian Pound US Dollar,SYP,Syrian Pound,USD,US Dollar
+1957,USD/SZL,USD/SZL - US Dollar Swazi Lilangeni,USD,US Dollar,SZL,Swazi Lilangeni
+1958,USD/THB,USD/THB - US Dollar Thai Baht,USD,US Dollar,THB,Thai Baht
+1959,THB/TWD,THB/TWD - Thai Baht Taiwan Dollar,THB,Thai Baht,TWD,Taiwan Dollar
+1960,TWD/THB,TWD/THB - Taiwan Dollar Thai Baht,TWD,Taiwan Dollar,THB,Thai Baht
+1961,ZAR/THB,ZAR/THB - South African Rand Thai Baht,ZAR,South African Rand,THB,Thai Baht
+1962,THB/TRY,THB/TRY - Thai Baht Turkish Lira,THB,Thai Baht,TRY,Turkish Lira
+1963,THB/XAF,THB/XAF - Thai Baht Central African Franc,THB,Thai Baht,XAF,Central African Franc
+1964,THB/XOF,THB/XOF - Thai Baht West African CFA franc,THB,Thai Baht,XOF,West African CFA franc
+1965,THB/ZAR,THB/ZAR - Thai Baht South African Rand,THB,Thai Baht,ZAR,South African Rand
+1966,TRY/THB,TRY/THB - Turkish Lira Thai Baht,TRY,Turkish Lira,THB,Thai Baht
+1967,VES/THB,VES/THB - Venezuelan Bolivar Thai Baht,VES,Venezuelan Bolivar,THB,Thai Baht
+1968,THB/USD,THB/USD - Thai Baht US Dollar,THB,Thai Baht,USD,US Dollar
+1969,USD/TJS,USD/TJS - US Dollar Tajikistani somoni,USD,US Dollar,TJS,Tajikistani somoni
+1970,USD/TMT,USD/TMT - US Dollar Turkmenistan manat,USD,US Dollar,TMT,Turkmenistan manat
+1971,USD/TND,USD/TND - US Dollar Tunisian Dinar,USD,US Dollar,TND,Tunisian Dinar
+1972,USD/TRY,USD/TRY - US Dollar Turkish Lira,USD,US Dollar,TRY,Turkish Lira
+1973,TRY/ZAR,TRY/ZAR - Turkish Lira South African Rand,TRY,Turkish Lira,ZAR,South African Rand
+1974,TRY/TWD,TRY/TWD - Turkish Lira Taiwan Dollar,TRY,Turkish Lira,TWD,Taiwan Dollar
+1975,TRY/USD,TRY/USD - Turkish Lira US Dollar,TRY,Turkish Lira,USD,US Dollar
+1976,TRY/VES,TRY/VES - Turkish Lira Venezuelan Bolivar,TRY,Turkish Lira,VES,Venezuelan Bolivar
+1977,TRY/XAF,TRY/XAF - Turkish Lira Central African Franc,TRY,Turkish Lira,XAF,Central African Franc
+1978,TRY/XCD,TRY/XCD - Turkish Lira East Caribbean Dollar,TRY,Turkish Lira,XCD,East Caribbean Dollar
+1979,TRY/XOF,TRY/XOF - Turkish Lira West African CFA franc,TRY,Turkish Lira,XOF,West African CFA franc
+1980,TWD/TRY,TWD/TRY - Taiwan Dollar Turkish Lira,TWD,Taiwan Dollar,TRY,Turkish Lira
+1981,VES/TRY,VES/TRY - Venezuelan Bolivar Turkish Lira,VES,Venezuelan Bolivar,TRY,Turkish Lira
+1982,ZAR/TRY,ZAR/TRY - South African Rand Turkish Lira,ZAR,South African Rand,TRY,Turkish Lira
+1983,SDR/TRY,SDR/TRY - Special Drawing Rights Turkish Lira,SDR,Special Drawing...,TRY,Turkish Lira
+1984,XAGg/TRY,XAGg/TRY - Gram Silver Turkish Lira,XAGg,Gram Silver,TRY,Turkish Lira
+1985,TRY/UAH,TRY/UAH - Turkish Lira Ukrainian Hryvnia,TRY,Turkish Lira,UAH,Ukrainian Hryvnia
+1986,USD/TTD,USD/TTD - US Dollar Trinidad Dollar,USD,US Dollar,TTD,Trinidad Dollar
+1987,USD/TWD,USD/TWD - US Dollar Taiwan Dollar,USD,US Dollar,TWD,Taiwan Dollar
+1988,ZAR/TWD,ZAR/TWD - South African Rand Taiwan Dollar,ZAR,South African Rand,TWD,Taiwan Dollar
+1989,TWD/USD,TWD/USD - Taiwan Dollar US Dollar,TWD,Taiwan Dollar,USD,US Dollar
+1990,TWD/VES,TWD/VES - Taiwan Dollar Venezuelan Bolivar,TWD,Taiwan Dollar,VES,Venezuelan Bolivar
+1991,TWD/XAF,TWD/XAF - Taiwan Dollar Central African Franc,TWD,Taiwan Dollar,XAF,Central African Franc
+1992,TWD/XCD,TWD/XCD - Taiwan Dollar East Caribbean Dollar,TWD,Taiwan Dollar,XCD,East Caribbean Dollar
+1993,TWD/XOF,TWD/XOF - Taiwan Dollar West African CFA franc,TWD,Taiwan Dollar,XOF,West African CFA franc
+1994,TWD/ZAR,TWD/ZAR - Taiwan Dollar South African Rand,TWD,Taiwan Dollar,ZAR,South African Rand
+1995,VES/TWD,VES/TWD - Venezuelan Bolivar Taiwan Dollar,VES,Venezuelan Bolivar,TWD,Taiwan Dollar
+1996,USD/TZS,USD/TZS - US Dollar Tanzanian Shilling,USD,US Dollar,TZS,Tanzanian Shilling
+1997,USD/UAH,USD/UAH - US Dollar Ukrainian Hryvnia,USD,US Dollar,UAH,Ukrainian Hryvnia
+1998,UAH/USD,UAH/USD - Ukrainian Hryvnia US Dollar,UAH,Ukrainian Hryvnia,USD,US Dollar
+1999,USD/UGX,USD/UGX - US Dollar Ugandan Shilling,USD,US Dollar,UGX,Ugandan Shilling
+2000,USD/ZAR,USD/ZAR - US Dollar South African Rand,USD,US Dollar,ZAR,South African Rand
+2001,USD/UYU,USD/UYU - US Dollar Uruguayan Peso,USD,US Dollar,UYU,Uruguayan Peso
+2002,USD/UZS,USD/UZS - US Dollar Uzbekistani Sum,USD,US Dollar,UZS,Uzbekistani Sum
+2003,USD/VES,USD/VES - US Dollar Venezuelan Bolivar,USD,US Dollar,VES,Venezuelan Bolivar
+2004,USD/VND,USD/VND - US Dollar Vietnamese Dong,USD,US Dollar,VND,Vietnamese Dong
+2005,USD/VUV,USD/VUV - US Dollar Vanuatu vatu,USD,US Dollar,VUV,Vanuatu vatu
+2006,USD/XAF,USD/XAF - US Dollar Central African Franc,USD,US Dollar,XAF,Central African Franc
+2007,USD/XCD,USD/XCD - US Dollar East Caribbean Dollar,USD,US Dollar,XCD,East Caribbean Dollar
+2008,USD/XOF,USD/XOF - US Dollar West African CFA franc,USD,US Dollar,XOF,West African CFA franc
+2009,USD/XPF,USD/XPF - US Dollar French Pacific Franc,USD,US Dollar,XPF,French Pacific Franc
+2010,USD/YER,USD/YER - US Dollar Yemeni Rial,USD,US Dollar,YER,Yemeni Rial
+2011,USD/ZMW,USD/ZMW - US Dollar Zambia Kwacha,USD,US Dollar,ZMW,Zambia Kwacha
+2012,VES/USD,VES/USD - Venezuelan Bolivar US Dollar,VES,Venezuelan Bolivar,USD,US Dollar
+2013,ZAR/USD,ZAR/USD - South African Rand US Dollar,ZAR,South African Rand,USD,US Dollar
+2014,UYU/USD,UYU/USD - Uruguayan Peso US Dollar,UYU,Uruguayan Peso,USD,US Dollar
+2015,VND/USD,VND/USD - Vietnamese Dong US Dollar,VND,Vietnamese Dong,USD,US Dollar
+2016,XBR/USD,XBR/USD - Brent Spot US Dollar,XBR,Brent Spot,USD,US Dollar
+2017,XAGg/USD,XAGg/USD - Gram Silver US Dollar,XAGg,Gram Silver,USD,US Dollar
+2018,VES/UYU,VES/UYU - Venezuelan Bolivar Uruguayan Peso,VES,Venezuelan Bolivar,UYU,Uruguayan Peso
+2019,UYU/VES,UYU/VES - Uruguayan Peso Venezuelan Bolivar,UYU,Uruguayan Peso,VES,Venezuelan Bolivar
+2020,VES/XAF,VES/XAF - Venezuelan Bolivar Central African Franc,VES,Venezuelan Bolivar,XAF,Central African Franc
+2021,VES/XCD,VES/XCD - Venezuelan Bolivar East Caribbean Dollar,VES,Venezuelan Bolivar,XCD,East Caribbean Dollar
+2022,VES/XOF,VES/XOF - Venezuelan Bolivar West African CFA franc,VES,Venezuelan Bolivar,XOF,West African CFA franc
+2023,VES/ZAR,VES/ZAR - Venezuelan Bolivar South African Rand,VES,Venezuelan Bolivar,ZAR,South African Rand
+2024,ZAR/VES,ZAR/VES - South African Rand Venezuelan Bolivar,ZAR,South African Rand,VES,Venezuelan Bolivar
+2025,VND/XAF,VND/XAF - Vietnamese Dong Central African Franc,VND,Vietnamese Dong,XAF,Central African Franc
+2026,ZAR/XAF,ZAR/XAF - South African Rand Central African Franc,ZAR,South African Rand,XAF,Central African Franc
+2027,ZAR/XCD,ZAR/XCD - South African Rand East Caribbean Dollar,ZAR,South African Rand,XCD,East Caribbean Dollar
+2028,ZAR/XOF,ZAR/XOF - South African Rand West African CFA franc,ZAR,South African Rand,XOF,West African CFA franc
+2029,XAU/USD,XAU/USD - Gold Spot US Dollar,XAU,Gold Spot,USD,US Dollar
+2030,XAG/USD,XAG/USD - Silver Spot US Dollar,XAG,Silver Spot,USD,US Dollar

@@ -1,0 +1,689 @@
+,country,name,full_name
+0,argentina,Argentina 1Y,Argentina 1-Year
+1,argentina,Argentina 3Y,Argentina 3-Year
+2,argentina,Argentina 5Y,Argentina 5 Year
+3,argentina,Argentina 9Y,Argentina 9-Year
+4,australia,Australia 30Y,Australia 30-Year
+5,australia,Australia 20Y,Australia 20-Year
+6,australia,Australia 15Y,Australia 15-Year
+7,australia,Australia 12Y,Australia 12-Year
+8,australia,Australia 10Y,Australia 10-Year
+9,australia,Australia 8Y,Australia 8-Year
+10,australia,Australia 9Y,Australia 9-Year
+11,australia,Australia 6Y,Australia 6-Year
+12,australia,Australia 5Y,Australia 5-Year
+13,australia,Australia 4Y,Australia 4-Year
+14,australia,Australia 3Y,Australia 3-Year
+15,australia,Australia 2Y,Australia 2-Year
+16,australia,Australia 1Y,Australia 1-Year
+17,australia,Australia 7Y,Australia 7-Year
+18,austria,Austria 10Y,Austria 10-Year
+19,austria,Austria 50Y,Austria 50-Year
+20,austria,Austria 30Y,Austria 30-Year
+21,austria,Austria 25Y,Austria 25-Year
+22,austria,Austria 20Y,Austria 20-Year
+23,austria,Austria 15Y,Austria 15-Year
+24,austria,Austria 9Y,Austria 9-Year
+25,austria,Austria 3Y,Austria 3-Year
+26,austria,Austria 7Y,Austria 7-Year
+27,austria,Austria 6Y,Austria 6-Year
+28,austria,Austria 5Y,Austria 5-Year
+29,austria,Austria 4Y,Austria 4-Year
+30,austria,Austria 2Y,Austria 2-Year
+31,austria,Austria 1Y,Austria 1-Year
+32,austria,Austria 8Y,Austria 8-Year
+33,bahrain,Bahrain 3M,Bahrain 3-Month
+34,bahrain,Bahrain 6M,Bahrain 6-Month
+35,bahrain,Bahrain 9M,Bahrain 9-Month
+36,bahrain,Bahrain 1Y,Bahrain 1-Year
+37,bahrain,Bahrain 2Y,Bahrain 2-Year
+38,bahrain,Bahrain 5Y,Bahrain 5-Year
+39,bangladesh,Bangladesh 15Y,Bangladesh 15-Year
+40,bangladesh,Bangladesh 20Y,Bangladesh 20-Year
+41,bangladesh,Bangladesh 5Y,Bangladesh 5-Year
+42,bangladesh,Bangladesh 10Y,Bangladesh 10-Year
+43,bangladesh,Bangladesh 1Y,Bangladesh 1-Year
+44,bangladesh,Bangladesh 3M,Bangladesh 3-Month
+45,bangladesh,Bangladesh 2Y,Bangladesh 2-Year
+46,bangladesh,Bangladesh 6M,Bangladesh 6-Month
+47,belgium,Belgium 5Y,Belgium 5-Year
+48,belgium,Belgium 20Y,Belgium 20-Year
+49,belgium,Belgium 15Y,Belgium 15-Year
+50,belgium,Belgium 10Y,Belgium 10-Year
+51,belgium,Belgium 9Y,Belgium 9-Year
+52,belgium,Belgium 8Y,Belgium 8-Year
+53,belgium,Belgium 7Y,Belgium 7-Year
+54,belgium,Belgium 6Y,Belgium 6-Year
+55,belgium,Belgium 3Y,Belgium 3-Year
+56,belgium,Belgium 2Y,Belgium 2-Year
+57,belgium,Belgium 1Y,Belgium 1-Year
+58,belgium,Belgium 9M,Belgium 9-Month
+59,belgium,Belgium 6M,Belgium 6-Month
+60,belgium,Belgium 3M,Belgium 3-Month
+61,belgium,Belgium 1M,Belgium 1-Month
+62,belgium,Belgium 4Y,Belgium 4-Year
+63,botswana,Botswana 7Y,Botswana 7-Year
+64,botswana,Botswana 13Y,Botswana 13-Years
+65,botswana,Botswana 5Y,Botswana 5-Year
+66,botswana,Botswana 6M,Botswana 6-Month
+67,botswana,Botswana 3Y,Botswana 3-Year
+68,brazil,Brazil 3M,Brazil 3-Month
+69,brazil,Brazil 6M,Brazil 6-Month
+70,brazil,Brazil 9M,Brazil 9-Month
+71,brazil,Brazil 1Y,Brazil 1-Year
+72,brazil,Brazil 2Y,Brazil 2-Year
+73,brazil,Brazil 3Y,Brazil 3-Year
+74,brazil,Brazil 5Y,Brazil 5-Year
+75,brazil,Brazil 8Y,Brazil 8-Year
+76,brazil,Brazil 10Y,Brazil 10-Year
+77,bulgaria,Bulgaria 10Y,Bulgaria 10-Year
+78,bulgaria,Bulgaria 7Y,Bulgaria 7-Year
+79,bulgaria,Bulgaria 5Y,Bulgaria 5-Year
+80,bulgaria,Bulgaria 1M,Bulgaria 1-Month
+81,bulgaria,Bulgaria 1Y,Bulgaria 1-Year
+82,bulgaria,Bulgaria 3Y,Bulgaria 3-Year
+83,canada,Canada 5Y,Canada 5-Year
+84,canada,Canada 30Y,Canada 30-Year
+85,canada,Canada 20Y,Canada 20-Year
+86,canada,Canada 10Y,Canada 10-Year
+87,canada,Canada 7Y,Canada 7-Year
+88,canada,Canada 4Y,Canada 4-Year
+89,canada,Canada 2Y,Canada 2-Year
+90,canada,Canada 3Y,Canada 3-Year
+91,canada,Canada 1Y,Canada 1-Year
+92,canada,Canada 6M,Canada 6-Month
+93,canada,Canada 3M,Canada 3-Month
+94,canada,Canada 2M,Canada 2-Month
+95,canada,Canada 1M,Canada 1-Month
+96,chile,Chile 10Y,Chile 10-Year
+97,chile,Chile 8Y,Chile 8-Year
+98,chile,Chile 5Y,Chile 5-Year
+99,chile,Chile 3Y,Chile 3-Year
+100,chile,Chile 2Y,Chile 2-Year
+101,chile,Chile 1Y,Chile 1-Year
+102,chile,Chile 4Y,Chile 4-Year
+103,china,China 10Y,China 10-Year
+104,china,China 20Y,China 20-Year
+105,china,China 15Y,China 15-Year
+106,china,China 7Y,China 7-Year
+107,china,China 30Y,China 30-Year
+108,china,China 3Y,China 3-Year
+109,china,China 2Y,China 2-Year
+110,china,China 1Y,China 1-Year
+111,china,China 5Y,China 5-Year
+112,colombia,Colombia 1Y,Colombia 1-Year
+113,colombia,Colombia 4Y,Colombia 4-Year
+114,colombia,Colombia 5Y,Colombia 5-Year
+115,colombia,Colombia 10Y,Colombia 10-Year
+116,colombia,Colombia 15Y,Colombia 15-Year
+117,croatia,Croatia 10Y,Croatia 10-Year
+118,croatia,Croatia 3Y,Croatia 3-Year
+119,croatia,Croatia 5Y,Croatia 5-Year
+120,croatia,Croatia 9M,Croatia 9-Month
+121,croatia,Croatia 1Y,Croatia 1-Year
+122,cyprus,Cyprus 1Y,Cyprus 1-Year
+123,cyprus,Cyprus 3Y,Cyprus 3-Year
+124,cyprus,Cyprus 5Y,Cyprus 5-Year
+125,cyprus,Cyprus 7Y,Cyprus 7-Year
+126,cyprus,Cyprus 10Y,Cyprus 10-Year
+127,czech republic,Czech Republic 8Y,Czech Republic 8-Year
+128,czech republic,Czech Republic 50Y,Czech Republic 50-Year
+129,czech republic,Czech Republic 20Y,Czech Republic 20-Year
+130,czech republic,Czech Republic 15Y,Czech Republic 15-Year
+131,czech republic,Czech Republic 10Y,Czech Republic 10-Year
+132,czech republic,Czech Republic 9Y,Czech Republic 9-Year
+133,czech republic,Czech Republic 7Y,Czech Republic 7-Year
+134,czech republic,Czech Republic 4Y,Czech Republic 4-Year
+135,czech republic,Czech Republic 5Y,Czech Republic 5-Year
+136,czech republic,Czech Republic 6Y,Czech Republic 6-Year
+137,czech republic,Czech Republic 3Y,Czech Republic 3-Year
+138,czech republic,Czech Republic 2Y,Czech Republic 2-Year
+139,czech republic,Czech Republic 1Y,Czech Republic 1-Year
+140,egypt,Egypt 10Y,Egypt 10-Year
+141,egypt,Egypt 7Y,Egypt 7-Year
+142,egypt,Egypt 5Y,Egypt 5-Year
+143,egypt,Egypt 2Y,Egypt 2-Year
+144,egypt,Egypt 3Y,Egypt 3-Year
+145,egypt,Egypt 9M,Egypt 9-Month
+146,egypt,Egypt 6M,Egypt 6-Month
+147,egypt,Egypt 3M,Egypt 3-Month
+148,egypt,Egypt Overnight,Egypt Overnight
+149,egypt,Egypt 1Y,Egypt 1-Year
+150,france,France 8Y,France 8-Year
+151,france,France 30Y,France 30-Year
+152,france,France 25Y,France 25-Year
+153,france,France 20Y,France 20-Year
+154,france,France 50Y,France 50-Year
+155,france,France 15Y,France 15-Year
+156,france,France 10Y,France 10-Year
+157,france,France 9Y,France 9-Year
+158,france,France 7Y,France 7-Year
+159,france,France 9M,France 9-Month
+160,france,France 5Y,France 5-Year
+161,france,France 4Y,France 4-Year
+162,france,France 3Y,France 3-Year
+163,france,France 2Y,France 2-Year
+164,france,France 1Y,France 1-Year
+165,france,France 6M,France 6-Month
+166,france,France 3M,France 3-Month
+167,france,France 1M,France 1-Month
+168,france,France 6Y,France 6-Year
+169,germany,Germany 10Y,Germany 10-Year
+170,germany,Germany 9Y,Germany 9-Year
+171,germany,Germany 15Y,Germany 15-Year
+172,germany,Germany 8Y,Germany 8-Year
+173,germany,Germany 25Y,Germany 25-Year
+174,germany,Germany 30Y,Germany 30-Year
+175,germany,Germany 20Y,Germany 20-Year
+176,germany,Germany 7Y,Germany 7-Year
+177,germany,Germany 1Y,Germany 1-Year
+178,germany,Germany 5Y,Germany 5-Year
+179,germany,Germany 4Y,Germany 4-Year
+180,germany,Germany 3Y,Germany 3-Year
+181,germany,Germany 2Y,Germany 2-Year
+182,germany,Germany 6Y,Germany 6-Year
+183,germany,Germany 9M,Germany 9-Month
+184,germany,Germany 6M,Germany 6-Month
+185,germany,Germany 3M,Germany 3 Month
+186,greece,Greece 25Y,Greece 25-Year
+187,greece,Greece 20Y,Greece 20-Year
+188,greece,Greece 15Y,Greece 15-Year
+189,greece,Greece 10Y,Greece 10-Year
+190,greece,Greece 6M,Greece 6-Month
+191,greece,Greece 3M,Greece 3-Month
+192,greece,Greece 1M,Greece 1-Month
+193,greece,Greece 5Y,Greece 5-Year
+194,hong kong,Hong Kong 5Y,Hong Kong 5-Year
+195,hong kong,Hong Kong 15Y,Hong Kong 15-Year
+196,hong kong,Hong Kong 10Y,Hong Kong 10-Year
+197,hong kong,Hong Kong 7Y,Hong Kong 7-Year
+198,hong kong,Hong Kong 2Y,Hong Kong 2-Year
+199,hong kong,Hong Kong 3Y,Hong Kong 3-Year
+200,hong kong,Hong Kong 9M,Hong Kong 9-Month
+201,hong kong,Hong Kong 1Y,Hong Kong 1-Year
+202,hong kong,Hong Kong 6M,Hong Kong 6-Month
+203,hong kong,Hong Kong 3M,Hong Kong 3-Month
+204,hong kong,Hong Kong 1M,Hong Kong 1-Month
+205,hong kong,Hong Kong 1W,Hong Kong 1-Week
+206,hungary,Hungary 10Y,Hungary 10-Year
+207,hungary,Hungary 5Y,Hungary 5-Year
+208,hungary,Hungary 3Y,Hungary 3-Year
+209,hungary,Hungary 15Y,Hungary 15-Year
+210,hungary,Hungary 6M,Hungary 6-Month
+211,hungary,Hungary 3M,Hungary 3-Month
+212,hungary,Hungary 1Y,Hungary 1-Year
+213,iceland,Iceland 3Y,Iceland 3 Year
+214,iceland,Iceland 6Y,Iceland 6 Year
+215,iceland,Iceland 10Y,Iceland 10-Year
+216,india,India 10Y,India 10-Year
+217,india,India 30Y,India 30-Year
+218,india,India 24Y,India 24-Year
+219,india,India 19Y,India 19-Year
+220,india,India 15Y,India 15-Year
+221,india,India 14Y,India 14-Year
+222,india,India 13Y,India 13-Year
+223,india,India 12Y,India 12-Year
+224,india,India 11Y,India 11-Year
+225,india,India 9Y,India 9-Year
+226,india,India 4Y,India 4-Year
+227,india,India 7Y,India 7-Year
+228,india,India 6Y,India 6-Year
+229,india,India 5Y,India 5-Year
+230,india,India 3Y,India 3-Year
+231,india,India 2Y,India 2-Year
+232,india,India 1Y,India 1-Year
+233,india,India 6M,India 6-Month
+234,india,India 3M,India 3-Month
+235,india,India 8Y,India 8-Year
+236,indonesia,Indonesia 30Y,Indonesia 30-Year
+237,indonesia,Indonesia 20Y,Indonesia 20-Year
+238,indonesia,Indonesia 15Y,Indonesia 15-Year
+239,indonesia,Indonesia 10Y,Indonesia 10-Year
+240,indonesia,Indonesia 5Y,Indonesia 5-Year
+241,indonesia,Indonesia 25Y,Indonesia 25-Year
+242,indonesia,Indonesia 1Y,Indonesia 1-Year
+243,indonesia,Indonesia 6M,Indonesia 6-Month
+244,indonesia,Indonesia 3M,Indonesia 3-Month
+245,indonesia,Indonesia 1M,Indonesia 1-Month
+246,indonesia,Indonesia 3Y,Indonesia 3-Year
+247,ireland,Ireland 30Y,Ireland 30-Year
+248,ireland,Ireland 20Y,Ireland 20-Year
+249,ireland,Ireland 15Y,Ireland 15-Year
+250,ireland,Ireland 10Y,Ireland 10-Year
+251,ireland,Ireland 9Y,Ireland 9 Year
+252,ireland,Ireland 7Y,Ireland 7-Year
+253,ireland,Ireland 6Y,Ireland 6-Year
+254,ireland,Ireland 4Y,Ireland 4-Year
+255,ireland,Ireland 3Y,Ireland 3-Year
+256,ireland,Ireland 1Y,Ireland 1-Year
+257,ireland,Ireland 6M,Ireland 6-Month
+258,ireland,Ireland 3M,Ireland 3-Month
+259,ireland,Ireland 5Y,Ireland 5-Year
+260,israel,Israel 3Y,Israel 3-Year
+261,israel,Israel 10Y,Israel 10-Year
+262,israel,Israel 30Y,Israel 30-Year
+263,israel,Israel 5Y,Israel 5-Year
+264,israel,Israel 2Y,Israel 2-Year
+265,israel,Israel 3M,Israel 3-Month
+266,israel,Israel 9M,Israel 9-Month
+267,israel,Israel 6M,Israel 6-Month
+268,israel,Israel 1M,Israel 1-Month
+269,israel,Israel 1Y,Israel 1-Year
+270,italy,Italy 50Y,Italy 50-Year
+271,italy,Italy 30Y,Italy 30-Year
+272,italy,Italy 20Y,Italy 20-Year
+273,italy,Italy 15Y,Italy 15-Year
+274,italy,Italy 10Y,Italy 10-Year
+275,italy,Italy 9Y,Italy 9-Year
+276,italy,Italy 8Y,Italy 8-Year
+277,italy,Italy 6Y,Italy 6-Year
+278,italy,Italy 7Y,Italy 7-Year
+279,italy,Italy 4Y,Italy 4-Year
+280,italy,Italy 5Y,Italy 5-Year
+281,italy,Italy 3M,Italy 3-Month
+282,italy,Italy 6M,Italy 6-Month
+283,italy,Italy 9M,Italy 9-Month
+284,italy,Italy 1M,Italy 1-Month
+285,italy,Italy 2Y,Italy 2-Year
+286,italy,Italy 3Y,Italy 3-Year
+287,italy,Italy 1Y,Italy 1-Year
+288,japan,Japan 7Y,Japan 7-Year
+289,japan,Japan 30Y,Japan 30-Year
+290,japan,Japan 20Y,Japan 20-Year
+291,japan,Japan 15Y,Japan 15-Year
+292,japan,Japan 10Y,Japan 10-Year
+293,japan,Japan 9Y,Japan 9-Year
+294,japan,Japan 8Y,Japan 8-Year
+295,japan,Japan 6Y,Japan 6-Year
+296,japan,Japan 40Y,Japan 40-Year
+297,japan,Japan 4Y,Japan 4-Year
+298,japan,Japan 3Y,Japan 3-Year
+299,japan,Japan 2Y,Japan 2-Year
+300,japan,Japan 1Y,Japan 1-Year
+301,japan,Japan 9M,Japan 9-Month
+302,japan,Japan 6M,Japan 6-Month
+303,japan,Japan 3M,Japan 3-Month
+304,japan,Japan 1M,Japan 1-Month
+305,japan,Japan 5Y,Japan 5-Year
+306,jordan,Jordan 10Y,Jordan 10-Year
+307,jordan,Jordan 7Y,Jordan 7-Year
+308,jordan,Jordan 5Y,Jordan 5-Year
+309,jordan,Jordan 3Y,Jordan 3-Year
+310,jordan,Jordan 2Y,Jordan 2-Year
+311,jordan,Jordan 6M,Jordan 6-Month
+312,jordan,Jordan 3M,Jordan 3-Month
+313,jordan,Jordan 1Y,Jordan 1-Year
+314,kenya,Kenya 25Y,Kenya 25-Year
+315,kenya,Kenya 20Y,Kenya 20-Year
+316,kenya,Kenya 15Y,Kenya 15-Year
+317,kenya,Kenya 10Y,Kenya 10-Year
+318,kenya,Kenya 9Y,Kenya 9-Year
+319,kenya,Kenya 8Y,Kenya 8-Year
+320,kenya,Kenya 7Y,Kenya 7-Year
+321,kenya,Kenya 6Y,Kenya 6-Year
+322,kenya,Kenya 4Y,Kenya 4-Year
+323,kenya,Kenya 3Y,Kenya 3-Year
+324,kenya,Kenya 2Y,Kenya 2-Year
+325,kenya,Kenya 1Y,Kenya 1-Year
+326,kenya,Kenya 6M,Kenya 6-Month
+327,kenya,Kenya 3M,Kenya 3-Month
+328,kenya,Kenya Overnight,Kenya Overnight
+329,kenya,Kenya 5Y,Kenya 5-Year
+330,malaysia,Malaysia 30Y,Malaysia 30-Year
+331,malaysia,Malaysia 20Y,Malaysia 20-Year
+332,malaysia,Malaysia 15Y,Malaysia 15-Year
+333,malaysia,Malaysia 10Y,Malaysia 10-Year
+334,malaysia,Malaysia 7Y,Malaysia 7-Year
+335,malaysia,Malaysia 1Y,Malaysia 1-Year
+336,malaysia,Malaysia 3Y,Malaysia 3-Year
+337,malaysia,Malaysia 7M,Malaysia 7-Month
+338,malaysia,Malaysia 3M,Malaysia 3-Month
+339,malaysia,Malaysia 3W,Malaysia 3-Week
+340,malaysia,Malaysia 5Y,Malaysia 5-Year
+341,malta,Malta 10Y,Malta 10-Year
+342,malta,Malta 25Y,Malta 25-Year
+343,malta,Malta 20Y,Malta 20-Year
+344,malta,Malta 5Y,Malta 5-Year
+345,malta,Malta 6M,Malta 6-Month
+346,malta,Malta 1Y,Malta 1-Year
+347,malta,Malta 1M,Malta 1-Month
+348,malta,Malta 3Y,Malta 3-Year
+349,malta,Malta 3M,Malta 3-Month
+350,mauritius,Mauritius 20Y,Mauritius 20-Year
+351,mauritius,Mauritius 15Y,Mauritius 15-Year
+352,mauritius,Mauritius 10Y,Mauritius 10-Year
+353,mauritius,Mauritius 4Y,Mauritius 4-Year
+354,mauritius,Mauritius 3Y,Mauritius 3-Year
+355,mauritius,Mauritius 5Y,Mauritius 5-Year
+356,mauritius,Mauritius 1Y,Mauritius 1-Year
+357,mauritius,Mauritius 8M,Mauritius 8-Month
+358,mauritius,Mauritius 6M,Mauritius 6-Month
+359,mauritius,Mauritius 4M,Mauritius 4-Month
+360,mauritius,Mauritius 2M,Mauritius 2-Month
+361,mauritius,Mauritius 2Y,Mauritius 2-Year
+362,mexico,Mexico 7Y,Mexico 7-Year
+363,mexico,Mexico 30Y,Mexico 30-Year
+364,mexico,Mexico 20Y,Mexico 20-Year
+365,mexico,Mexico 15Y,Mexico 15-Year
+366,mexico,Mexico 10Y,Mexico 10-Year
+367,mexico,Mexico 5Y,Mexico 5-Year
+368,mexico,Mexico 1Y,Mexico 1-Year
+369,mexico,Mexico 9M,Mexico 9-Month
+370,mexico,Mexico 3M,Mexico 3-Month
+371,mexico,Mexico 1M,Mexico 1-Month
+372,mexico,Mexico 3Y,Mexico 3-Year
+373,mexico,Mexico 6M,Mexico 6-Month
+374,morocco,Morocco 15Y,Morocco 15-Year
+375,morocco,Morocco 3M,Morocco 3-Month
+376,morocco,Morocco 6M,Morocco 6-Month
+377,morocco,Morocco 2Y,Morocco 2-Year
+378,morocco,Morocco 5Y,Morocco 5-Year
+379,morocco,Morocco 10Y,Morocco 10-Year
+380,namibia,Namibia 10Y,Namibia 10-Year
+381,namibia,Namibia 20Y,Namibia 20-Year
+382,namibia,Namibia 7Y,Namibia 7-Year
+383,namibia,Namibia 3Y,Namibia 3-Year
+384,namibia,Namibia 15Y,Namibia 15-Year
+385,namibia,Namibia 9M,Namibia 9-Month
+386,namibia,Namibia 6M,Namibia 6-Month
+387,namibia,Namibia 1Y,Namibia 1-Year
+388,namibia,Namibia 3M,Namibia 3-Month
+389,netherlands,Netherlands 30Y,Netherlands 30-Year
+390,netherlands,Netherlands 25Y,Netherlands 25-Year
+391,netherlands,Netherlands 20Y,Netherlands 20-Year
+392,netherlands,Netherlands 15Y,Netherlands 15-Year
+393,netherlands,Netherlands 10Y,Netherlands 10-Year
+394,netherlands,Netherlands 9Y,Netherlands 9-Year
+395,netherlands,Netherlands 8Y,Netherlands 8-Year
+396,netherlands,Netherlands 7Y,Netherlands 7-Year
+397,netherlands,Netherlands 5Y,Netherlands 5-Year
+398,netherlands,Netherlands 4Y,Netherlands 4-Year
+399,netherlands,Netherlands 3Y,Netherlands 3-Year
+400,netherlands,Netherlands 2Y,Netherlands 2-Year
+401,netherlands,Netherlands 6M,Netherlands 6-Month
+402,netherlands,Netherlands 3M,Netherlands 3-Month
+403,netherlands,Netherlands 1M,Netherlands 1-Month
+404,netherlands,Netherlands 6Y,Netherlands 6-Year
+405,new zealand,New Zealand 5Y,New Zealand 5-Year
+406,new zealand,New Zealand 20Y,New Zealand 20-Year
+407,new zealand,New Zealand 15Y,New Zealand 15-Year
+408,new zealand,New Zealand 10Y,New Zealand 10-Year
+409,new zealand,New Zealand 7Y,New Zealand 7-Year
+410,new zealand,New Zealand 2Y,New Zealand 2-Year
+411,new zealand,New Zealand 1M,New Zealand 1-Month
+412,new zealand,New Zealand 6M,New Zealand 6-Month
+413,new zealand,New Zealand 5M,New Zealand 5-Month
+414,new zealand,New Zealand 4M,New Zealand 4-Month
+415,new zealand,New Zealand 3M,New Zealand 3-Month
+416,new zealand,New Zealand 2M,New Zealand 2-Month
+417,new zealand,New Zealand 1Y,New Zealand 1-Year
+418,nigeria,Nigeria 10Y,Nigeria 10-Year
+419,nigeria,Nigeria 3M,Nigeria 3-Month
+420,nigeria,Nigeria 6M,Nigeria 6-Month
+421,nigeria,Nigeria 1Y,Nigeria 1-Year
+422,nigeria,Nigeria 2Y,Nigeria 2-Year
+423,nigeria,Nigeria 4Y,Nigeria 4-Year
+424,nigeria,Nigeria 7Y,Nigeria 7-Year
+425,nigeria,Nigeria 20Y,Nigeria 20-Year
+426,norway,Norway 5Y,Norway 5-Year
+427,norway,Norway 10Y,Norway 10-Year
+428,norway,Norway 1Y,Norway 1-Year
+429,norway,Norway 2Y,Norway 2-Year
+430,norway,Norway 9M,Norway 9-Month
+431,norway,Norway 6M,Norway 6-Month
+432,norway,Norway 3M,Norway 3-Month
+433,pakistan,Pakistan 14Y,Pakistan 14-Year
+434,pakistan,Pakistan 10Y,Pakistan 10-Year
+435,pakistan,Pakistan 5Y,Pakistan 5-Year
+436,pakistan,Pakistan 20Y,Pakistan 20-Year
+437,pakistan,Pakistan 1Y,Pakistan 1-Year
+438,pakistan,Pakistan 6M,Pakistan 6-Month
+439,pakistan,Pakistan 3M,Pakistan 3-Month
+440,pakistan,Pakistan 3Y,Pakistan 3-Year
+441,peru,Peru 2Y,Peru 2 Year
+442,peru,Peru 5Y,Peru 5-Year
+443,peru,Peru 10Y,Peru 10 Year
+444,peru,Peru 15Y,Peru 15-Year
+445,peru,Peru 20Y,Peru 20-Year
+446,peru,Peru 30Y,Peru 30-Year
+447,philippines,Philippines 7Y,Philippines 7-Year
+448,philippines,Philippines 25Y,Philippines 25-Year
+449,philippines,Philippines 20Y,Philippines 20-Year
+450,philippines,Philippines 10Y,Philippines 10-Year
+451,philippines,Philippines 5Y,Philippines 5-Year
+452,philippines,Philippines 4Y,Philippines 4-Year
+453,philippines,Philippines 2Y,Philippines 2-Year
+454,philippines,Philippines 1Y,Philippines 1-Year
+455,philippines,Philippines 6M,Philippines 6-Month
+456,philippines,Philippines 3M,Philippines 3-Month
+457,philippines,Philippines 1M,Philippines 1-Month
+458,philippines,Philippines 3Y,Philippines 3-Year
+459,poland,Poland 10Y,Poland 10-Year
+460,poland,Poland 9Y,Poland 9-Year
+461,poland,Poland 8Y,Poland 8-Year
+462,poland,Poland 5Y,Poland 5-Year
+463,poland,Poland 4Y,Poland 4-Year
+464,poland,Poland 1Y,Poland 1-Year
+465,poland,Poland 2Y,Poland 2-Year
+466,poland,Poland 2M,Poland 2-Month
+467,poland,Poland 1M,Poland 1-Month
+468,poland,Poland Overnight,Poland Overnight
+469,poland,Poland 3Y,Poland 3-Year
+470,portugal,Portugal 15Y,Portugal 15-Year
+471,portugal,Portugal 10Y,Portugal 10-Year
+472,portugal,Portugal 9Y,Portugal 9-Year
+473,portugal,Portugal 1Y,Portugal 1-Year
+474,portugal,Portugal 30Y,Portugal 30-Year
+475,portugal,Portugal 8Y,Portugal 8-Year
+476,portugal,Portugal 20Y,Portugal 20-Year
+477,portugal,Portugal 7Y,Portugal 7-Year
+478,portugal,Portugal 6M,Portugal 6-Month
+479,portugal,Portugal 5Y,Portugal 5-Year
+480,portugal,Portugal 4Y,Portugal 4-Year
+481,portugal,Portugal 3Y,Portugal 3-Year
+482,portugal,Portugal 2Y,Portugal 2-Year
+483,portugal,Portugal 3M,Portugal 3-Month
+484,portugal,Portugal 6Y,Portugal 6-Year
+485,qatar,Qatar 3Y,Qatar 3 Year
+486,qatar,Qatar 5Y,Qatar 5-Year
+487,qatar,Qatar 7Y,Qatar 7 Year
+488,qatar,Qatar 10Y,Qatar 10-Year
+489,qatar,Qatar 30Y,Qatar 30-Year
+490,romania,Romania 10Y,Romania 10-Year
+491,romania,Romania 7Y,Romania 7-Year
+492,romania,Romania 4Y,Romania 4-Year
+493,romania,Romania 5Y,Romania 5-Year
+494,romania,Romania 2Y,Romania 2-Year
+495,romania,Romania 1Y,Romania 1-Year
+496,romania,Romania 6M,Romania 6-Month
+497,romania,Romania 3Y,Romania 3-Year
+498,russia,Russia 10Y,Russia 10-Year
+499,russia,Russia 7Y,Russia 7-Year
+500,russia,Russia 5Y,Russia 5-Year
+501,russia,Russia 3Y,Russia 3-Year
+502,russia,Russia 2Y,Russia 2-Year
+503,russia,Russia 1Y,Russia 1-Year
+504,russia,Russia 3M,Russia 3-Month
+505,russia,Russia 2M,Russia 2-Month
+506,russia,Russia 1M,Russia 1-Month
+507,russia,Russia 2W,Russia 2-Week
+508,russia,Russia 1W,Russia 1-Week
+509,russia,Russia Overnight,Russia Overnight
+510,russia,Russia 15Y,Russia 15-Year
+511,russia,Russia 6M,Russia 6-Month
+512,russia,Russia 20Y,Russia 20-Year
+513,serbia,Serbia 7Y,Serbia 7-Year
+514,serbia,Serbia 10Y,Serbia 10 Year
+515,serbia,Serbia 5Y,Serbia 5-Year
+516,serbia,Serbia 2Y,Serbia 2-Year
+517,serbia,Serbia 1Y,Serbia 1-Year
+518,serbia,Serbia 4Y,Serbia 4-Year
+519,singapore,Singapore 30Y,Singapore 30-Year
+520,singapore,Singapore 20Y,Singapore 20-Year
+521,singapore,Singapore 15Y,Singapore 15-Year
+522,singapore,Singapore 10Y,Singapore 10-Year
+523,singapore,Singapore 5Y,Singapore 5-Year
+524,singapore,Singapore 1Y,Singapore 1-Year
+525,singapore,Singapore 6M,Singapore 6-Month
+526,singapore,Singapore 3M,Singapore 3-Month
+527,singapore,Singapore 1M,Singapore 1-Month
+528,singapore,Singapore 2Y,Singapore 2-Year
+529,slovakia,Slovakia 13Y,Slovakia 13 Year
+530,slovakia,Slovakia 30Y,Slovakia 30 Year
+531,slovakia,Slovakia 18Y,Slovakia 18 Year
+532,slovakia,Slovakia 10Y,Slovakia 10-Year
+533,slovakia,Slovakia 50Y,Slovakia 50 Year
+534,slovakia,Slovakia 8Y,Slovakia 8-Year
+535,slovakia,Slovakia 6Y,Slovakia 6-Year
+536,slovakia,Slovakia 5Y,Slovakia 5-Year
+537,slovakia,Slovakia 1Y,Slovakia 1-Year
+538,slovakia,Slovakia 9Y,Slovakia 9-Year
+539,slovenia,Slovenia 25Y,Slovenia 25 Year
+540,slovenia,Slovenia 15Y,Slovenia 15 Year
+541,slovenia,Slovenia 10Y,Slovenia 10-Year
+542,slovenia,Slovenia 8Y,Slovenia 8 Year
+543,slovenia,Slovenia 20Y,Slovenia 20 Year
+544,slovenia,Slovenia 5Y,Slovenia 5-Year
+545,slovenia,Slovenia 3Y,Slovenia 3 Year
+546,slovenia,Slovenia 2Y,Slovenia 2-Year
+547,slovenia,Slovenia 1Y,Slovenia 1-Year
+548,slovenia,Slovenia 7Y,Slovenia 7-Year
+549,south africa,South Africa 30Y,South Africa 30-Year
+550,south africa,South Africa 25Y,South Africa 25-Year
+551,south africa,South Africa 20Y,South Africa 20-Year
+552,south africa,Souht Africa 12Y,Souht Africa 12 Year
+553,south africa,South Africa 10Y,South Africa 10-Year
+554,south africa,South Africa 2Y,South Africa 2-Year
+555,south africa,South Africa 3M,South Africa 3-Month
+556,south africa,South Africa 5Y,South Africa 5-Year
+557,south korea,South Korea 20Y,South Korea 20-Year
+558,south korea,South Korea 50Y,South Korea 50-Year
+559,south korea,South Korea 30Y,South Korea 30-Year
+560,south korea,South Korea 10Y,South Korea 10-Year
+561,south korea,South Korea 5Y,South Korea 5-Year
+562,south korea,South Korea 4Y,South Korea 4-Year
+563,south korea,South Korea 3Y,South Korea 3-Year
+564,south korea,South Korea 2Y,South Korea 2-Year
+565,south korea,South Korea 1Y,South Korea 1-Year
+566,spain,Spain 30Y,Spain 30-Year
+567,spain,Spain 25Y,Spain 25-Year
+568,spain,Spain 20Y,Spain 20-Year
+569,spain,Spain 15Y,Spain 15-Year
+570,spain,Spain 10Y,Spain 10-Year
+571,spain,Spain 9Y,Spain 9-Year
+572,spain,Spain 8Y,Spain 8-Year
+573,spain,Spain 7Y,Spain 7-Year
+574,spain,Spain 6Y,Spain 6-Year
+575,spain,Spain 4Y,Spain 4-Year
+576,spain,Spain 3Y,Spain 3-Year
+577,spain,Spain 2Y,Spain 2-Year
+578,spain,Spain 1Y,Spain 1-Year
+579,spain,Spain 9M,Spain 9-Month
+580,spain,Spain 6M,Spain 6-Month
+581,spain,Spain 3M,Spain 3-Month
+582,spain,Spain 1M,Spain 1-Month
+583,spain,Spain 5Y,Spain 5-Year
+584,sri lanka,Sri Lanka 7Y,Sri Lanka 7-Year
+585,sri lanka,Sri Lanka 15Y,Sri Lanka 15-Year
+586,sri lanka,Sri Lanka 10Y,Sri Lanka 10-Year
+587,sri lanka,Sri Lanka 9Y,Sri Lanka 9-Year
+588,sri lanka,Sri Lanka 8Y,Sri Lanka 8-Year
+589,sri lanka,Sri Lanka 6Y,Sri Lanka 6-Year
+590,sri lanka,Sri Lanka 3M,Sri Lanka 3-Month
+591,sri lanka,Sri Lanka 4Y,Sri Lanka 4-Year
+592,sri lanka,Sri Lanka 3Y,Sri Lanka 3-Year
+593,sri lanka,Sri Lanka 2Y,Sri Lanka 2-Year
+594,sri lanka,Sri Lanka 1Y,Sri Lanka 1-Year
+595,sri lanka,Sri Lanka 6M,Sri Lanka 6-Month
+596,sri lanka,Sri Lanka 5Y,Sri Lanka 5-Year
+597,switzerland,Switzerland 6Y,Switzerland 6-Year
+598,switzerland,Switzerland 30Y,Switzerland 30-Year
+599,switzerland,Switzerland 20Y,Switzerland 20-Year
+600,switzerland,Switzerland 15Y,Switzerland 15-Year
+601,switzerland,Switzerland 10Y,Switzerland 10-Year
+602,switzerland,Switzerland 50Y,Switzerland 50-Year
+603,switzerland,Switzerland 9Y,Switzerland 9-Year
+604,switzerland,Switzerland 8Y,Switzerland 8-Year
+605,switzerland,Switzerland 7Y,Switzerland 7-Year
+606,switzerland,Switzerland 5Y,Switzerland 5-Year
+607,switzerland,Switzerland 3M,Switzerland 3-Month
+608,switzerland,Switzerland 3Y,Switzerland 3-Year
+609,switzerland,Switzerland Overnight,Switzerland Overnight
+610,switzerland,Switzerland 1W,Switzerland 1-Week
+611,switzerland,Switzerland 1M,Switzerland 1-Month
+612,switzerland,Switzerland 4Y,Switzerland 4-Year
+613,switzerland,Switzerland 6M,Switzerland 6-Month
+614,switzerland,Switzerland 1Y,Switzerland 1-Year
+615,switzerland,Switzerland 2Y,Switzerland 2-Year
+616,switzerland,Switzerland 2M,Switzerland 2-Month
+617,taiwan,Taiwan 2Y,Taiwan 2-Year
+618,taiwan,Taiwan 5Y,Taiwan 5-Year
+619,taiwan,Taiwan 10Y,Taiwan 10-Year
+620,taiwan,Taiwan 20Y,Taiwan 20-Year
+621,taiwan,Taiwan 30Y,Taiwan 30-Year
+622,thailand,Thailand 20Y,Thailand 20-Year
+623,thailand,Thailand 16Y,Thailand 16-Year
+624,thailand,Thailand 15Y,Thailand 15-Year
+625,thailand,Thailand 12Y,Thailand 12-Year
+626,thailand,Thailand 14Y,Thailand 14-Year
+627,thailand,Thailand 10Y,Thailand 10-Year
+628,thailand,Thailand 5Y,Thailand 5-Year
+629,thailand,Thailand 3Y,Thailand 3-Year
+630,thailand,Thailand 2Y,Thailand 2-Year
+631,thailand,Thailand 1Y,Thailand 1-Year
+632,thailand,Thailand 7Y,Thailand 7-Year
+633,turkey,Turkey 10Y,Turkey 10-Year
+634,turkey,Turkey 3Y,Turkey 3-Year
+635,turkey,Turkey 5Y,Turkey 5-Year
+636,turkey,Turkey 1Y,Turkey 1-Year
+637,turkey,Turkey 2Y,Turkey 2-Year
+638,uganda,Uganda 3M,Uganda 3-Month
+639,uganda,Uganda 6M,Uganda 6-Month
+640,uganda,Uganda 1Y,Uganda 1-Year
+641,uganda,Uganda 2Y,Uganda 2-Year
+642,uganda,Uganda 3Y,Uganda 3-Year
+643,uganda,Uganda 5Y,Uganda 5-Year
+644,uganda,Uganda 10Y,Uganda 10-Year
+645,uganda,Uganda 15Y,Uganda 15-Year
+646,ukraine,Ukraine 3Y,Ukraine 3-Year
+647,ukraine,Ukraine 2Y,Ukraine 2-Year
+648,ukraine,Ukraine 1Y,Ukraine 1-Year
+649,united kingdom,U.K. 40Y,United Kingdom 40-Year
+650,united kingdom,U.K. 50Y,United Kingdom 50-Year
+651,united kingdom,U.K. 30Y,United Kingdom 30-Year
+652,united kingdom,U.K. 25Y,United Kingdom 25-Year
+653,united kingdom,U.K. 15Y,United Kingdom 15-Year
+654,united kingdom,U.K. 12Y,United Kingdom 12-Year
+655,united kingdom,U.K. 10Y,United Kingdom 10-Year
+656,united kingdom,U.K. 9Y,United Kingdom 9-Year
+657,united kingdom,U.K. 8Y,United Kingdom 8-Year
+658,united kingdom,U.K. 20Y,United Kingdom 20-Year
+659,united kingdom,U.K. 6Y,United Kingdom 6-Year
+660,united kingdom,U.K. 5Y,United Kingdom 5-Year
+661,united kingdom,U.K. 4Y,United Kingdom 4-Year
+662,united kingdom,U.K. 3Y,United Kingdom 3-Year
+663,united kingdom,U.K. 2Y,United Kingdom 2-Year
+664,united kingdom,U.K. 1Y,United Kingdom 1-Year
+665,united kingdom,U.K. 6M,United Kingdom 6-Month
+666,united kingdom,U.K. 3M,United Kingdom 3-Month
+667,united kingdom,U.K. 1M,United Kingdom 1-Month
+668,united kingdom,U.K. 7Y,United Kingdom 7-Year
+669,united states,U.S. 30Y,United States 30-Year
+670,united states,U.S. 10Y,United States 10-Year
+671,united states,U.S. 7Y,United States 7-Year
+672,united states,U.S. 5Y,United States 5-Year
+673,united states,U.S. 3Y,United States 3-Year
+674,united states,U.S. 3M,United States 3-Month
+675,united states,U.S. 1Y,United States 1-Year
+676,united states,U.S. 6M,United States 6-Month
+677,united states,U.S. 1M,United States 1-Month
+678,united states,U.S. 2Y,United States 2-Year
+679,vietnam,Vietnam 10Y,Vietnam 10-Year
+680,vietnam,Vietnam 15Y,Vietnam 15 Year
+681,vietnam,Vietnam 7Y,Vietnam 7-Year
+682,vietnam,Vietnam 20Y,Vietnam 20 Year
+683,vietnam,Vietnam 3Y,Vietnam 3-Year
+684,vietnam,Vietnam 2Y,Vietnam 2-Year
+685,vietnam,Vietnam 1Y,Vietnam 1-Year
+686,vietnam,Vietnam 5Y,Vietnam 5-Year
+687,vietnam,Vietnam 25Y,Vietnam 25 Year

@@ -1,0 +1,1516 @@
+,country,name,full_name,symbol,currency,class,market
+0,world,FTSE Emerging Markets China A Inclusion,FTSE Emerging Markets China A Inclusion,FTFQE,USD,other_indices,global_indices
+1,world,FTSE Developed Ex US,FTSE Developed Ex US,FTAWDXUSR,USD,other_indices,global_indices
+2,world,FTSE High Dividend Yield Index,FTSE High Dividend Yield Index,FTGPVAN001,USD,other_indices,global_indices
+3,world,BNY Mellon Small Cap Select ADR,BNY Mellon Small Cap Select ADR,BKSCP,USD,other_indices,global_indices
+4,world,DJ Global ex-Europe Consumer Goods,Dow Jones Global ex-Europe Consumer Goods,W8NCY,USD,other_indices,global_indices
+5,world,BNY Mellon Developed Markets 100 ADR,BNY Mellon Developed Markets 100 ADR,BKTDM,USD,other_indices,global_indices
+6,world,BNY Mellon Developed Markets Classic ADR,BNY Mellon Developed Markets Classic ADR,BKCDM,USD,other_indices,global_indices
+7,world,DJ Global ex-Europe Mid-Cap,Dow Jones Global ex-Europe Mid-Cap,W8MID,USD,other_indices,global_indices
+8,world,BNY Mellon Emerging Markets ADR TR,BNY Mellon Emerging Markets ADR Total Return,BKEMT,USD,other_indices,global_indices
+9,world,BNY Mellon Emerging Markets Classic ADR,BNY Mellon Emerging Markets Classic ADR,BKCEM,USD,other_indices,global_indices
+10,world,BNY Mellon Emerging Markets 50 ADR,BNY Mellon Emerging Markets 50 ADR,BKTEM,USD,other_indices,global_indices
+11,world,BNY Mellon Classic ADR,BNY Mellon Classic ADR,BKCAX,USD,other_indices,global_indices
+12,world,BNY Mellon Latin America ADR TR,BNY Mellon Latin America ADR Total Return,BKLAT,USD,other_indices,global_indices
+13,world,DJ Global ex-Europe Large-Cap,Dow Jones Global ex-Europe Large-Cap,W8LRG,USD,other_indices,global_indices
+14,world,BNY Mellon ADR,BNY Mellon ADR,BKADR,USD,other_indices,global_indices
+15,world,BNY Mellon Asia GDR TR,BNY Mellon Asia GDR Total Return,BKGAST,USD,other_indices,global_indices
+16,world,DJ Global ex-Asia/Pacific LargeCap,Dow Jones Global ex-Asia/Pacific Large-Cap,W9LRG,USD,other_indices,global_indices
+17,world,DJ Global ex-Europe Small-Cap,Dow Jones Global ex-Europe Small-Cap,W8SML,USD,other_indices,global_indices
+18,world,DJ Global exAsia/Pacific Cons Goods,Dow Jones Global ex-Asia/Pacific Consumer Goods,W9NCY,USD,other_indices,global_indices
+19,world,DJ Global exAsia/Pacif Basic Mater,Dow Jones Global ex-Asia/Pacific Basic Materials,W9BSC,USD,other_indices,global_indices
+20,world,DJ Global ex-Asia/Pacific Mid-Cap,Dow Jones Global ex-Asia/Pacific Mid-Cap,W9MID,USD,other_indices,global_indices
+21,world,Alerian MLP Ind,Alerian MLP,AMZ,USD,other_indices,global_indices
+22,world,BNY Mellon Developed Markets ADR TR,BNY Mellon Developed Markets ADR Total Return,BKDMT,USD,other_indices,global_indices
+23,world,BNY Mellon BRIC Select ADRSM,BNY Mellon BRIC Select ADRSM,BKBRIC,USD,other_indices,global_indices
+24,world,BNY Mellon New Frontier DR TR,BNY Mellon New Frontier DR Total Return,BKNFRR,USD,other_indices,global_indices
+25,world,DJ Global exAsia/Pacific Consum Srv,Dow Jones Global ex-Asia/Pacific Consumer Services,W9CYC,USD,other_indices,global_indices
+26,world,DJ Global ex-Asia/Pacific,Dow Jones Global ex-Asia/Pacific,W9DOW,USD,other_indices,global_indices
+27,world,DJ Global ex-Asia/Pacific Industs,Dow Jones Global ex-Asia/Pacific Industrials,W9IDU,USD,other_indices,global_indices
+28,world,BNY Mellon ADR TR,BNY Mellon ADR Total Return,BKADRT,USD,other_indices,global_indices
+29,world,BNY Mellon Emerging Markets 50 ADR TR,BNY Mellon Emerging Markets 50 ADR Total Return,BKTEMT,USD,other_indices,global_indices
+30,world,DJ Global ex-Asia/Pacific SmallCap,Dow Jones Global ex-Asia/Pacific Small-Cap,W9SML,USD,other_indices,global_indices
+31,world,BNY Mellon Latin America Classic ADR,BNY Mellon Latin America Classic ADR,BKCLA,USD,other_indices,global_indices
+32,world,MSCI ACWI ex Australia Price USD,MSCI ACWI ex Australia Price USD,MIWDO0000PUS,USD,other_indices,global_indices
+33,world,BNY Mellon Classic ADR TR,BNY Mellon Classic ADR Total Return,BKCAXT,USD,other_indices,global_indices
+34,world,Dorsey Wright Technical Leaders Consumer Staples,Dorsey Wright Technical Leaders Consumer Staples,DWCS,USD,other_indices,global_indices
+35,world,Dorsey Wright Technical Leaders Consumer Cyclicals,Dorsey Wright Technical Leaders Consumer Cyclicals,DWCC,USD,other_indices,global_indices
+36,world,Dorsey Wright Technical Leaders Basic Materials,Dorsey Wright Technical Leaders Basic Materials,DWBM,USD,other_indices,global_indices
+37,world,Dorsey Wright SmallCap Technical Leaders,Dorsey Wright SmallCap Technical Leaders,DWATLSC,USD,other_indices,global_indices
+38,world,The Dorsey Wright NQ Technical Leaders,The Dorsey Wright NASDAQ Technical Leaders,DWANQTL,USD,other_indices,global_indices
+39,world,Dorsey Wright International Focus Five,Dorsey Wright International Focus Five,DWANQIFF,USD,other_indices,global_indices
+40,world,Dorsey Wright Technical Leaders Energy,Dorsey Wright Technical Leaders Energy,DWEN,USD,other_indices,global_indices
+41,world,Dorsey Wright First Trust Focus Five,Dorsey Wright First Trust Focus Five,DWANQFF,USD,other_indices,global_indices
+42,world,Dorsey Wright Emerging Markets Technical Leaders,Dorsey Wright Emerging Markets Technical Leaders,DWAEM,USD,other_indices,global_indices
+43,world,Dorsey Wright Developed Markets Technical Leaders,Dorsey Wright Developed Markets Technical Leaders,DWADM,USD,other_indices,global_indices
+44,world,NQ International BuyBack Achievers,NASDAQ International BuyBack Achievers,DRBXUS,USD,other_indices,global_indices
+45,world,NQ Global Buyback Achievers,NASDAQ Global Buyback Achievers,DRBG,USD,other_indices,global_indices
+46,world,NQ International Dividend Achievers,NASDAQ International Dividend Achievers,DAT,USD,other_indices,global_indices
+47,world,NQ Asia Pacific ex Japan Dividend Achievers,NASDAQ Asia Pacific ex Japan Dividend Achievers,DAAXJP,USD,other_indices,global_indices
+48,world,DWA MLP Select,DWA MLP Select,DWAMLP,USD,other_indices,global_indices
+49,world,Dorsey Wright Technical Leaders Financials,Dorsey Wright Technical Leaders Financials,DWFN,USD,other_indices,global_indices
+50,world,Dorsey Wright Technical Leaders Healthcare,Dorsey Wright Technical Leaders Healthcare,DWHC,USD,other_indices,global_indices
+51,world,Dorsey Wright Technical Leaders Industrials,Dorsey Wright Technical Leaders Industrials,DWIDX,USD,other_indices,global_indices
+52,world,N  Travel & Leisure EUR PI,N  Travel & Leisure EUR PI,N5700EURPI,SEK,other_indices,global_indices
+53,world,N  Media EUR PI,N  Media EUR PI,N5500EURPI,SEK,other_indices,global_indices
+54,world,Settle KBW NQ Capital Markets,Settle KBW Nasdaq Capital Markets,KSZ,USD,other_indices,global_indices
+55,world,Settle KBW NQ Regional Banking,Settle KBW Nasdaq Regional Banking,KRZ,USD,other_indices,global_indices
+56,world,Settle KBW NQ Insurance,Settle KBW Nasdaq Insurance,KIZ,USD,other_indices,global_indices
+57,world,Settle Japanese Yen WCO,Settle Japanese Yen WCO,JYW,USD,other_indices,global_indices
+58,world,Settle New Zealand WCO,Settle New Zealand WCO,JQL,USD,other_indices,global_indices
+59,world,NQ OMX Clean Energy Focused ex US (USD),NASDAQ OMX Clean Energy Focused ex US (USD),GRNFCEXUS,USD,other_indices,global_indices
+60,world,KBW NQ Global Bank,KBW Nasdaq Global Bank,GBKX,USD,other_indices,global_indices
+61,world,First North All Share ISK,First North All Share ISK,FIRSTNORTHISK,ISK,other_indices,global_indices
+62,world,Settle Euros WCO,Settle Euros WCO,EPW,USD,other_indices,global_indices
+63,world,Endowment,Endowment,ENDOW,USD,other_indices,global_indices
+64,world,Dorsey Wright Technical Leaders Utilities,Dorsey Wright Technical Leaders Utilities,DWUT,USD,other_indices,global_indices
+65,world,S&P Global Dividend Aristocrats NTR,S&P Global Dividend Aristocrats NTR,SPGDAUN,USD,other_indices,global_indices
+66,world,Dorsey Wright Technical Leaders Technology,Dorsey Wright Technical Leaders Technology,DWTY,USD,other_indices,global_indices
+67,world,PHLX Canadian Dollar Settlement,PHLX Canadian Dollar Settlement,CBW,CAD,other_indices,global_indices
+68,world,Alerian Energy Infrastructure,Alerian Energy Infrastructure,AMEI,USD,other_indices,global_indices
+69,world,NQ US CapEx Achievers,Nasdaq US CapEx Achievers,CAPEXA,USD,other_indices,global_indices
+70,world,S&P GSCI Crude Oil TR,S&P GSCI Crude Oil Total Return,SPGSCLTR,USD,commodities,global_indices
+71,world,BNY Mellon BRIC Select ADRSM CAD,BNY Mellon BRIC Select ADRSM CAD,BKBRICC,CAD,other_indices,global_indices
+72,world,BNY Mellon Africa DR TR,BNY Mellon Africa DR Total Return,BKDAFT,USD,other_indices,global_indices
+73,world,BNY Mellon Asia Classic ADR TR,BNY Mellon Asia Classic ADR Total Return,BKCAST,USD,other_indices,global_indices
+74,world,ESTX ex Financials 50 EUR Price,ESTX ex Financials 50 EUR Price,SX5NFE,EUR,other_indices,global_indices
+75,world,BNY Mellon Emerging Markets GDR TR,BNY Mellon Emerging Markets GDR Total Return,BKGEMT,USD,other_indices,global_indices
+76,world,BNY Mellon Developed Markets 100 ADR TR,BNY Mellon Developed Markets 100 ADR Total Return,BKTDMT,USD,other_indices,global_indices
+77,world,BNY Mellon Emerging Markets DR TR,BNY Mellon Emerging Markets DR Total Return,BKDEMT,USD,other_indices,global_indices
+78,world,BNY Mellon Africa GDR TR,BNY Mellon Africa GDR Total Return,BKGAFT,USD,other_indices,global_indices
+79,world,BNY Mellon Middle East GDR TR,BNY Mellon Middle East GDR Total Return,BKGMET,USD,other_indices,global_indices
+80,world,BNY Mellon Asia 50 ADR TR,BNY Mellon Asia 50 ADR Total Return,BKTAST,USD,other_indices,global_indices
+81,world,ESTX ex Financials 50 EUR Net Retur,ESTX ex Financials 50 EUR Net Return,SX5NFT,EUR,other_indices,global_indices
+82,world,BNY Mellon MENA GDR TR,BNY Mellon MENA GDR Total Return,BKGMAT,USD,other_indices,global_indices
+83,world,BNY Mellon Emerging Markets Classic ADR TR,BNY Mellon Emerging Markets Classic ADR Total Return,BKCEMT,USD,other_indices,global_indices
+84,world,Ardour Global Extra Liquid,Ardour Global Extra Liquid,AGIXL,USD,other_indices,global_indices
+85,world,BNY Mellon Small Cap Select ADR TR,BNY Mellon Small Cap Select ADR Total Return,BKSCPT,USD,other_indices,global_indices
+86,world,BNY Mellon Latin America Classic ADR TR,BNY Mellon Latin America Classic ADR Total Return,BKCLAT,USD,other_indices,global_indices
+87,world,BNY Mellon Composite GDR TR,BNY Mellon Composite GDR Total Return,BKGDRT,USD,other_indices,global_indices
+88,world,BNY Mellon Developed Markets Classic ADR TR,BNY Mellon Developed Markets Classic ADR Total Return,BKCDMT,USD,other_indices,global_indices
+89,world,CS Commodities Brent Crude Oil Price,CS Commodities Benchmark Brent Crude Oil Price Return,CSIXBRPR,USD,commodities,global_indices
+90,world,S&P Global Infrastructure TR,S&P Global Infrastructure TR,SPGTINTR,USD,other_indices,global_indices
+91,world,Settle KBW NQ Bank,Settle KBW Nasdaq Bank,BKO,USD,other_indices,global_indices
+92,world,Settle British Pounds WCO,Settle British Pounds WCO,BFW,USD,other_indices,global_indices
+93,world,OMX Baltic Travel & Leisure PI,OMX Baltic Travel & Leisure PI,B5700PI,EUR,other_indices,global_indices
+94,world,Settle Australian WCO,Settle Australian WCO,AJW,AUD,other_indices,global_indices
+95,world,MSCI ACWI Net Return EUR,MSCI ACWI Net Return EUR,MIWD00000NEU,EUR,other_indices,global_indices
+96,world,NQ OMX ABA Community Bank,NASDAQ OMX ABA Community Bank,ABQI,USD,other_indices,global_indices
+97,world,DJ Global ex-Europe Industrials,Dow Jones Global ex-Europe Industrials,W8IDU,USD,other_indices,global_indices
+98,world,ABA Community Bank NQ,ABA Community Bank NASDAQ,ABAQ,USD,other_indices,global_indices
+99,world,BNY Mellon New Frontier DR,BNY Mellon New Frontier DR,BKNFR,USD,other_indices,global_indices
+100,world,BNY Mellon BRIC Select ADR TRSM CAD,BNY Mellon BRIC Select ADR Total ReturnSM CAD,BKBRICCT,CAD,other_indices,global_indices
+101,world,BNY Mellon KIT DR TR,BNY Mellon KIT DR Total Return,BKDKITT,USD,other_indices,global_indices
+102,world,BNY Mellon Eastern Europe x- Russia GDR TR,BNY Mellon Eastern Europe x- Russia GDR Total Return,BKGEEXT,USD,other_indices,global_indices
+103,world,BNY Mellon BRIC Select ADR TRSM,BNY Mellon BRIC Select ADR Total ReturnSM,BKBRICT,USD,other_indices,global_indices
+104,world,S&P GSCI Commodity TR,S&P GSCI Commodity Total Return,SPGSCITR,USD,commodities,global_indices
+105,world,DJ Global ex-Europe,Dow Jones Global ex-Europe,W8DOW,USD,other_indices,global_indices
+106,world,DJ Emerg MKT Consumer Goods 30 EUR,Dow Jones Emerging Markets Consumer Goods Titans 30 EUR,DJECGE,EUR,other_indices,global_indices
+107,world,DJ Emerging Markets Consumer Goods,Dow Jones Emerging Markets Consumer Goods,W5NCY,USD,other_indices,global_indices
+108,world,Solactive High Income MLP,Solactive High Income MLP,YMLP,USD,other_indices,global_indices
+109,world,DJ Islamic Europe Small-Cap,Dow Jones Islamic Market Europe Small-Cap,DJIEUS,USD,other_indices,global_indices
+110,world,DJ Islamic Europe Large-Cap,Dow Jones Islamic Market Europe Large-Cap,DJIEUL,USD,other_indices,global_indices
+111,world,DJ Islam World Emerging Markets,Dow Jones Islamic Market World Emerging Markets,DJIEMG,USD,other_indices,global_indices
+112,world,DJ Islamic Consumer Services,Dow Jones Islamic Market Consumer Services,DJICYC,USD,other_indices,global_indices
+113,world,DJ Islamic Basic Materials,Dow Jones Islamic Market Basic Materials,DJIBSC,USD,other_indices,global_indices
+114,world,DJ Islam Asia/Pacific Small-Cap,Dow Jones Islamic Market Asia/Pacific Small-Cap,DJIAPS,USD,other_indices,global_indices
+115,world,DJ Islamic Market Euro Mid-Cap,Dow Jones Islamic Market Euro Mid-Cap,DJIEZM,USD,other_indices,global_indices
+116,world,DJ Islam Asia/Pacific Mid-Cap,Dow Jones Islamic Market Asia/Pacific Mid-Cap,DJIAPM,USD,other_indices,global_indices
+117,world,DJ Islamic Market Asia/Pacific,Dow Jones Islamic Market Asia/Pacific,DJIAP,USD,other_indices,global_indices
+118,world,DJ Industrial Average 2 Min Price,Dow Jones Industrial Average 2 Minute Price,DJI2MN,USD,other_indices,global_indices
+119,world,DJ Global Shipping USD,Dow Jones Global Shipping USD,DJGSH,USD,other_indices,global_indices
+120,world,DJ Global Select Dividend,Dow Jones Global Select Dividend,DJGSD,USD,other_indices,global_indices
+121,world,DJ Global Real Estate Yield,Dow Jones Global Real Estate Yield,DJGREY,USD,other_indices,global_indices
+122,world,DJ Global Exchanges,Dow Jones Global Exchanges,DJGEX,USD,other_indices,global_indices
+123,world,DJ Global Equity Yield,Dow Jones Global Equity Yield,DJGEQY,USD,other_indices,global_indices
+124,world,DJ Islam Asia/Pacific Large-Cap,Dow Jones Islamic Market Asia/Pacific Large-Cap,DJIAPL,USD,other_indices,global_indices
+125,world,Solactive High Income Infrastruct,Solactive High Income Infrastructure MLP,YMLI,USD,other_indices,global_indices
+126,world,DJ Islamic Global SelDiv USD,Dow Jones Islamic Market Global Select Dividend USD,DJIGSD,USD,other_indices,global_indices
+127,world,DJ Islamic Market Industrials,Dow Jones Islamic Market Industrials,DJIIDU,USD,other_indices,global_indices
+128,world,DJ Travel & Leisure Titans 30,Dow Jones Travel & Leisure Titans 30,DJTCGS,USD,other_indices,global_indices
+129,world,DJ Basic Resources Titans 30 EUR,Dow Jones Basic Resources Titans 30 EUR,DJTBASE,EUR,other_indices,global_indices
+130,world,DJ Basic Resources Titans 30,Dow Jones Basic Resources Titans 30,DJTBAS,USD,other_indices,global_indices
+131,world,DJ North America Junior Oil USD,Dow Jones North America Select Junior Oil USD,DJNAJOD,USD,other_indices,global_indices
+132,world,DJ North America Junior Oil CAD,Dow Jones North America Select Junior Oil CAD,DJNAJO,CAD,other_indices,global_indices
+133,world,DJ North America Junior Gold USD,Dow Jones North America Select Junior Gold USD,DJNAJGD,USD,other_indices,global_indices
+134,world,DJ North America Junior Gas USD,Dow Jones North America Select Junior Gas USD,DJNAJGAD,USD,other_indices,global_indices
+135,world,DJ North America Junior Gas CAD,Dow Jones North America Select Junior Gas CAD,DJNAJGA,CAD,other_indices,global_indices
+136,world,DJ North America Junior Gold CAD,Dow Jones North America Select Junior Gold CAD,DJNAJG,CAD,other_indices,global_indices
+137,world,DJ MENA ex-Saudi USD,Dow Jones MENA ex-Saudi USD,DJMENXD,USD,other_indices,global_indices
+138,world,DJ Islamic World Small-Cap,Dow Jones Islamic Market World Small-Cap,DJISML,USD,other_indices,global_indices
+139,world,DJ Islam Asia/Pacific ex-Japan,Dow Jones Islamic Market Asia/Pacific ex-Japan,DJIP2,USD,other_indices,global_indices
+140,world,DJ Islamic Consumer Goods,Dow Jones Islamic Market Consumer Goods,DJINCY,USD,other_indices,global_indices
+141,world,DJ Islamic World Mid-Cap,Dow Jones Islamic Market World Mid-Cap,DJIMID,USD,other_indices,global_indices
+142,world,DJ Islamic Market World,Dow Jones Islamic Market World,DJIMI,USD,other_indices,global_indices
+143,world,DJ Islam Dev Markets ex-Japan USD,Dow Jones Islamic Market Developed Markets ex-Japan USD,DJIMDXJ,USD,other_indices,global_indices
+144,world,DJ Islamic World Large-Cap,Dow Jones Islamic Market World Large-Cap,DJILRG,USD,other_indices,global_indices
+145,world,DJ RAFI Commodity,DJ RAFI Commodity,DJRCI,EUR,other_indices,global_indices
+146,world,DJ RAFI Commodity ER,DJ RAFI Commodity ER,DJRCIP,USD,other_indices,global_indices
+147,world,DJ Agriculture Capped Component TR,DJ Agriculture Capped Component TR,DJCIAGCT,USD,other_indices,global_indices
+148,world,DJ Global Alternative Yield,Dow Jones Global Alternative Yield,DJGALY,USD,other_indices,global_indices
+149,world,DJ Emerging Markets SelDiv USD,Dow Jones Emerging Markets Select Dividend USD,DJEMDIV,USD,other_indices,global_indices
+150,world,DJ Brook Glob Infra Compo Yield USD,Dow Jones Brookfield Global Infrastructure Composite Yield USD,DJBGIY,USD,other_indices,global_indices
+151,world,DJ Brook Emerging Markets Infra USD,Dow Jones Brookfield Emerging Markets Infrastructure USD,DJBIEM,USD,other_indices,global_indices
+152,world,DJ CME Spot FX$INDEX,Dow Jones CME Spot FX USD,DJCMED,USD,other_indices,global_indices
+153,world,DJ Emerg MKT Industs Titans 30 EUR,Dow Jones Emerging Markets Industrials Titans 30 EUR,DJEIDE,EUR,other_indices,global_indices
+154,world,DJ Emerg Markets Industs Titans 30,Dow Jones Emerging Markets Industrials Titans 30,DJEID,USD,other_indices,global_indices
+155,world,DJ Emerg MKT Sector Compos 100 EUR,Dow Jones Emerging Markets Sector Titans Composite 100 EUR,DJEEGE,EUR,other_indices,global_indices
+156,world,DJ Emerg MKT Sector Composite 100,Dow Jones Emerging Markets Sector Titans Composite 100,DJEEG,USD,other_indices,global_indices
+157,world,DJ Emerg MKT Consumer 30 NA USD,Dow Jones Emerging Markets Consumer Titans 30 - North America USD,DJECONNA,USD,other_indices,global_indices
+158,world,DJ Emerg MKT Consumer 30 LA USD,Dow Jones Emerging Markets Consumer Titans 30 - Latin America USD,DJECONLA,USD,other_indices,global_indices
+159,world,DJ Emerg MKT Consumer 30 Europe USD,Dow Jones Emerging Markets Consumer Titans 30 - Europe USD,DJECONEU,USD,other_indices,global_indices
+160,world,DJ Emerg MKT Consumer Titans 30 EUR,Dow Jones Emerging Markets Consumer Titans 30 EUR,DJECONE,EUR,other_indices,global_indices
+161,world,DJ Emerg MKT Consum 30 Asia/Pac USD,Dow Jones Emerging Markets Consumer Titans 30 - Asia/Pacific USD,DJECONAP,USD,other_indices,global_indices
+162,world,DJ Emerg MKT Consumer Titans 30 USD,Dow Jones Emerging Markets Consumer Titans 30 USD,DJECON,USD,other_indices,global_indices
+163,world,DJ Emerg MKT Consumer Serv 30 EUR,Dow Jones Emerging Markets Consumer Services Titans 30 EUR,DJECNE,EUR,other_indices,global_indices
+164,world,DJ Emerg MKT Consumer Services 30,Dow Jones Emerging Markets Consumer Services Titans 30,DJECN,USD,other_indices,global_indices
+165,world,DJ Dev Markets ex-North America USD,Dow Jones Developed Markets ex-North America USD,DJDXNA,USD,other_indices,global_indices
+166,world,DJ Brook Global Infra Composite USD,Dow Jones Brookfield Global Infrastructure Composite USD,DJBGICU,USD,other_indices,global_indices
+167,world,DJ Travel Leisure Titans 30 EUR,Dow Jones Travel & Leisure Titans 30 EUR,DJTCGSE,EUR,other_indices,global_indices
+168,world,DJ Asian Titans 50 USD,Dow Jones Asian Titans 50 USD,DJAT,USD,other_indices,global_indices
+169,world,DJ Asia SelDiv 30 USD,Dow Jones Asia Select Dividend 30 USD,DJASD,USD,other_indices,global_indices
+170,world,DJ FXCM Yen,Dow Jones FXCM Yen,DJFXJPY,JPY,other_indices,global_indices
+171,world,DJ Americas Basic Materials,Dow Jones Americas Basic Materials,A1BSC,USD,other_indices,global_indices
+172,world,DJ Americas Consumer Services,Dow Jones Americas Consumer Services,A1CYC,USD,other_indices,global_indices
+173,world,DJ Americas,Dow Jones Americas,A1DOW,USD,other_indices,global_indices
+174,world,DJ Americas Industrials,Dow Jones Americas Industrials,A1IDU,USD,other_indices,global_indices
+175,world,DJ EPAC Select Dividend,Dow Jones EPAC Select Dividend,DJEPCSD,USD,other_indices,global_indices
+176,world,DJ Emerg MKT Metals Mining 30 EUR,Dow Jones Emerging Markets Metals & Mining Titans 30 EUR,DJEMTE,EUR,other_indices,global_indices
+177,world,DJ Emerg MKT Metals Mining 30,Dow Jones Emerging Markets Metals & Mining Titans 30,DJEMT,USD,other_indices,global_indices
+178,world,DJ Latin America,Dow Jones Latin America,A3DOW,USD,other_indices,global_indices
+179,world,DJ Latin America ex-Mexico,Dow Jones Latin America ex-Mexico,A4DOW,USD,other_indices,global_indices
+180,world,DJ BRIC 50 All DR USD,Dow Jones BRIC 50 All DR USD,B50ADRD,USD,other_indices,global_indices
+181,world,DJ BRIC 50 All DR EUR,Dow Jones BRIC 50 All DR EUR,B50ADRE,EUR,other_indices,global_indices
+182,world,DJ BRIC 50 DR USD,Dow Jones BRIC 50 DR USD,B50DRD,USD,other_indices,global_indices
+183,world,DJ BRIC 50 DR EUR,Dow Jones BRIC 50 DR EUR,B50DRE,EUR,other_indices,global_indices
+184,world,DJ BRIC 50 EUR,Dow Jones BRIC 50 EUR,BRIC50E,EUR,other_indices,global_indices
+185,world,DJ Islam Asia/Pacific Titans 25,Dow Jones Islamic Market Asia/Pacific Titans 25,DJAP25,USD,other_indices,global_indices
+186,world,DJ Asia/Pacific SelDiv 30 Distr EUR,Dow Jones Asia/Pacific Select Dividend 30 Distributing EUR,DJAPDID,EUR,other_indices,global_indices
+187,world,DJ Asia SelDiv 30 EUR,Dow Jones Asia Select Dividend 30 EUR,DJASDE,EUR,other_indices,global_indices
+188,world,DJ Chemicals Titans 30 EUR,Dow Jones Chemicals Titans 30 EUR,DJTCHEE,EUR,other_indices,global_indices
+189,world,DJ Financial Services Titans30,Dow Jones Financial Services Titans 30,DJTFVS,USD,other_indices,global_indices
+190,world,DJ Target Today,Dow Jones Target Today,DJTGT,USD,other_indices,global_indices
+191,world,DJ Dev Markets Basic Materials,Dow Jones Developed Markets Basic Materials,W3BSC,USD,other_indices,global_indices
+192,world,DJ Global ex-U.S. Small-Cap,Dow Jones Global ex-US Small-Cap,W2SML,USD,other_indices,global_indices
+193,world,DJ Global ex-U.S. Mid-Cap,Dow Jones Global ex-US Mid-Cap,W2MID,USD,other_indices,global_indices
+194,world,DJ Global ex-U.S. Large-Cap,Dow Jones Global ex-US Large-Cap,W2LRG,USD,other_indices,global_indices
+195,world,DJ Global ex-U.S.,Dow Jones Global ex-US,W2DOW,USD,other_indices,global_indices
+196,world,DJ Global ex-US Consumer Services,Dow Jones Global ex-US Consumer Services,W2CYC,USD,other_indices,global_indices
+197,world,DJ Global exUS Basic Materials,Dow Jones Global ex-US Basic Materials,W2BSC,USD,other_indices,global_indices
+198,world,DJ Global Small-Cap,Dow Jones Global Small-Cap,W1SML,USD,other_indices,global_indices
+199,world,DJ Global Mid-Cap,Dow Jones Global Mid-Cap,W1MID,USD,other_indices,global_indices
+200,world,DJ Global Large-Cap,Dow Jones Global Large-Cap,W1LRG,USD,other_indices,global_indices
+201,world,DJ Global Industrials,Dow Jones Global Industrials,W1IDU,USD,other_indices,global_indices
+202,world,DJ Global Consumer Services,Dow Jones Global Consumer Services,W1CYC,USD,other_indices,global_indices
+203,world,DJ Global Basic Materials,Dow Jones Global Basic Materials,W1BSC,USD,other_indices,global_indices
+204,world,DAXglobal Agribusiness USD TR,DAXglobal Agribusiness USD TR,DXAG,USD,other_indices,global_indices
+205,world,DAXglobal Nuclear Energy USD TR,DAXglobal Nuclear Energy USD TR,DXNE,USD,other_indices,global_indices
+206,world,DJ Emerg MKT Basic Materials 30,Dow Jones Emerging Markets Basic Materials Titans 30,DJEBM,USD,other_indices,global_indices
+207,world,Solactive Next Emerging Frontier,Solactive Next Emerging and Frontier,EMFM,USD,other_indices,global_indices
+208,world,DJ Dev Markets Consumer Services,Dow Jones Developed Markets Consumer Services,W3CYC,USD,other_indices,global_indices
+209,world,Cambria Foreign Shareholder Yield,Cambria Foreign Shareholder Yield,FSYLD,USD,other_indices,global_indices
+210,world,DJ Developed Markets Industrials,Dow Jones Developed Markets Industrials,W3IDU,USD,other_indices,global_indices
+211,world,Cleantech Ind,Cleantech,CTIUS,USD,other_indices,global_indices
+212,world,DJ Emerging Markets Industrials,Dow Jones Emerging Markets Industrials,W5IDU,USD,other_indices,global_indices
+213,world,DJ Emerging Markets,Dow Jones Emerging Markets,W5DOW,USD,other_indices,global_indices
+214,world,DJ Emerg Markets Consumer Services,Dow Jones Emerging Markets Consumer Services,W5CYC,USD,other_indices,global_indices
+215,world,DJ Dev Markets ex-US Small-Cap,Dow Jones Developed Markets ex-US Small-Cap,W4SML,USD,other_indices,global_indices
+216,world,Alerian MLP Infrastructure,Alerian MLP Infrastructure,AMZI,USD,other_indices,global_indices
+217,world,Atlantic Trust Select MLP,Atlantic Trust Select MLP,BXRTATMP,USD,other_indices,global_indices
+218,world,Beacon Global Timber,Beacon Global Timber,CLRGLTBR,USD,other_indices,global_indices
+219,world,ByRDs Caterpillar Inc,Byrds (CAT) Caterpillar Inc,CRQ,USD,other_indices,global_indices
+220,world,DJ Dev Markets ex-US Consumer Goods,Dow Jones Developed Markets ex-US Consumer Goods,W4NCY,USD,other_indices,global_indices
+221,world,DJ Developed Markets ex-US Mid-Cap,Dow Jones Developed Markets ex-US Mid-Cap,W4MID,USD,other_indices,global_indices
+222,world,DJ Dev Markets ex-US Large-Cap,Dow Jones Developed Markets ex-US Large-Cap,W4LRG,USD,other_indices,global_indices
+223,world,DJ Dev Markets ex-US Industrials,Dow Jones Developed Markets ex-US Industrials,W4IDU,USD,other_indices,global_indices
+224,world,DJ Developed Markets ex-U.S.,Dow Jones Developed Markets ex-US,W4DOW,USD,other_indices,global_indices
+225,world,DJ Dev MKT exUS Consumer Services,Dow Jones Developed Markets ex-US Consumer Services,W4CYC,USD,other_indices,global_indices
+226,world,DJ Developed Markets Small-Cap,Dow Jones Developed Markets Small-Cap,W3SML,USD,other_indices,global_indices
+227,world,DJ Developed Markets Consumer Goods,Dow Jones Developed Markets Consumer Goods,W3NCY,USD,other_indices,global_indices
+228,world,DJ Developed Markets Mid-Cap,Dow Jones Developed Markets Mid-Cap,W3MID,USD,other_indices,global_indices
+229,world,DJ Developed Markets Large-Cap,Dow Jones Developed Markets Large-Cap,W3LRG,USD,other_indices,global_indices
+230,world,DJ Global exEurope Consumer Service,Dow Jones Global ex-Europe Consumer Services,W8CYC,USD,other_indices,global_indices
+231,world,FTSE Intl AWI Americas EUR,FTSE AWI Americas EUR,FWDB,EUR,other_indices,global_indices
+232,world,Solactive Guru,Solactive Guru,GURU,USD,other_indices,global_indices
+233,world,DJ Personal Household Goods 30 EUR,Dow Jones Personal & Household Goods Titans 30 EUR,DJTNCGE,EUR,other_indices,global_indices
+234,world,DJ US Thematic Market Neutral Value,Dow Jones US Thematic Market Neutral Value,DJTMNSV,USD,other_indices,global_indices
+235,world,DJ Media Titans 30 EUR,Dow Jones Media Titans 30 EUR,DJTMDIE,EUR,other_indices,global_indices
+236,world,DJ Media Titans 30,Dow Jones Media Titans 30,DJTMDI,USD,other_indices,global_indices
+237,world,DJ Indust Goods Services 30 EUR,Dow Jones Industrial Goods and Services Titans 30 EUR,DJTIGSE,EUR,other_indices,global_indices
+238,world,DJ Indust Goods Services Titans 30,Dow Jones Industrial Goods and Services Titans 30,DJTIGS,USD,other_indices,global_indices
+239,world,DJ Target 2055,Dow Jones Target 2055,DJTGT55,USD,other_indices,global_indices
+240,world,DJ Target 2050,Dow Jones Target 2050,DJTGT50,USD,other_indices,global_indices
+241,world,DJ Target 2045,Dow Jones Target 2045,DJTGT45,USD,other_indices,global_indices
+242,world,DJ Target 2040,Dow Jones Target 2040,DJTGT40,USD,other_indices,global_indices
+243,world,DJ Target 2035,Dow Jones Target 2035,DJTGT35,USD,other_indices,global_indices
+244,world,DJ Target 2030,Dow Jones Target 2030,DJTGT30,USD,other_indices,global_indices
+245,world,DJ Target 2025,Dow Jones Target 2025,DJTGT25,USD,other_indices,global_indices
+246,world,DJ Target 2020,Dow Jones Target 2020,DJTGT20,USD,other_indices,global_indices
+247,world,DJ Target 2015,Dow Jones Target 2015,DJTGT15,USD,other_indices,global_indices
+248,world,DJ Target 2010,Dow Jones Target 2010,DJTGT10,USD,other_indices,global_indices
+249,world,DJ Target 2005,Dow Jones Target 2005,DJTGT05,USD,other_indices,global_indices
+250,world,DJ Sector Titans Composite,Dow Jones Sector Titans Composite,DJTSEC,USD,other_indices,global_indices
+251,world,FTSE Intl AWI North America EUR,FTSE AWI North America EUR,FWDI,EUR,other_indices,global_indices
+252,world,DJ Sector Titans Composite EUR,Dow Jones Sector Titans Composite Titans EUR,DJTSECE,EUR,other_indices,global_indices
+253,world,DJ Europe Dev MKT Real Estate USD,Dow Jones Europe Developed Markets Select Real Estate Securities USD,DWEDRS,USD,other_indices,global_indices
+254,world,Cambria Global Value USD,Cambria Global Value,GVAL,USD,other_indices,global_indices
+255,world,Solactive Global Junior Miners,Solactive Global Junior Miners,JUNR,USD,other_indices,global_indices
+256,world,NQ Biotechnology Settlement,NASDAQ Biotechnology Settlement,NBX,USD,other_indices,global_indices
+257,world,Cushing 30 MLP,Cushing 30 MLP,MLPX,USD,other_indices,global_indices
+258,world,CUSH MLP HGH INC,Cushing MLP High Income,MLPY,USD,other_indices,global_indices
+259,world,Cushing MLP High Income TR,Cushing MLP High Income Total Return,MLPYTR,USD,other_indices,global_indices
+260,world,DJ Global ex-Americas,Dow Jones Global ex-Americas,W0DOW,USD,other_indices,global_indices
+261,world,SCOA CH Y EN,SCOA CH Y EN,SCOC,CHF,other_indices,global_indices
+262,world,DJ FXCM Dollar,Dow Jones FXCM Dollar,USDOLLAR,USD,other_indices,global_indices
+263,world,DJ Islamic Market Titans 100,Dow Jones Islamic Market Titans 100,IMXL,USD,other_indices,global_indices
+264,world,DJ Islamic Market US Mid-Cap,Dow Jones Islamic Market US Mid-Cap,IMUSM,USD,other_indices,global_indices
+265,world,DJ Islamic Market U.S.,Dow Jones Islamic Market US,IMUS,USD,other_indices,global_indices
+266,world,SCOA CH PAR,SCOA CH PAR,SCOP,CHF,other_indices,global_indices
+267,world,Solactive Social Media Total Return,Solactive Social Media TR,SOCL,EUR,other_indices,global_indices
+268,world,Ardour Solar Energy,Ardour Solar Energy,SOLRX,USD,other_indices,global_indices
+269,world,DJ Global Select Real Estate,Dow Jones Global Select Real Estate Securities,DWGRS,USD,other_indices,global_indices
+270,world,DJ Europe Dev MKT Real Estate EUR,Dow Jones Europe Developed Markets Select Real Estate Securities EUR,DWEDRSE,EUR,other_indices,global_indices
+271,world,DJ Americas Select Real Estate,Dow Jones Americas Select Real Estate Securities,DWAMRS,USD,other_indices,global_indices
+272,world,NQ OMX Nordic 120,NASDAQ OMX Nordic 120,NOMXN120,EUR,other_indices,global_indices
+273,world,DJ Commodity Lean Hogs,Dow Jones Commodity Lean Hogs,DJCILH,USD,commodities,global_indices
+274,world,The Capital Strength,The Capital Strength,NQCAPST,USD,other_indices,global_indices
+275,world,NQ Commodity 3rd Front Heating Oil ER,NASDAQ Commodity 3rd Front Heating Oil ER,NQCI3HOER,USD,commodities,global_indices
+276,world,NQ Commodity 3rd Hold Heating Oil ER,NASDAQ Commodity 3rd Hold Heating Oil ER,NQCI3HHOER,USD,commodities,global_indices
+277,world,NQ Commodity 2nd Front Heating Oil ER,NASDAQ Commodity 2nd Front Heating Oil ER,NQCI2HOER,USD,commodities,global_indices
+278,world,NQ Commodity 2nd Hold Heating Oil ER,NASDAQ Commodity 2nd Hold Heating Oil ER,NQCI2HHOER,USD,commodities,global_indices
+279,world,NQ Commodity Grains Index ER,NASDAQ Commodity Grains ER,NQCIGRER,USD,commodities,global_indices
+280,world,NQ Commodity 3rd Hold Grains ER,NASDAQ Commodity 3rd Hold Grains ER,NQCI3HGRER,USD,commodities,global_indices
+281,world,NQ Commodity 3rd Front Grains ER,NASDAQ Commodity 3rd Front Grains ER,NQCI3GRER,USD,commodities,global_indices
+282,world,NQ Commodity 2nd Hold Grains ER,NASDAQ Commodity 2nd Hold Grains ER,NQCI2HGRER,USD,commodities,global_indices
+283,world,NQ Commodity 2nd Front Grains ER,NASDAQ Commodity 2nd Front Grains ER,NQCI2GRER,USD,commodities,global_indices
+284,world,NQ Commodity Gold Index ER,NASDAQ Commodity Gold ER,NQCIGCER,USD,commodities,global_indices
+285,world,NQ Commodity 3rd Hold Gold ER,NASDAQ Commodity 3rd Hold Gold ER,NQCI3HGCER,USD,commodities,global_indices
+286,world,NQ Commodity 3rd Front Gold ER,NASDAQ Commodity 3rd Front Gold ER,NQCI3GCER,USD,commodities,global_indices
+287,world,NQ Commodity 2nd Hold Gold ER,NASDAQ Commodity 2nd Hold Gold ER,NQCI2HGCER,USD,commodities,global_indices
+288,world,NQ Commodity 2nd Front Gold ER,NASDAQ Commodity 2nd Front Gold ER,NQCI2GCER,USD,commodities,global_indices
+289,world,NQ Commodity Gasoline Index ER,NASDAQ Commodity Gasoline ER,NQCIRBER,USD,commodities,global_indices
+290,world,NQ Commodity 3rd Front Gasoline ER,NASDAQ Commodity 3rd Front Gasoline ER,NQCI3RBER,USD,commodities,global_indices
+291,world,NQ Commodity 3rd Hold Gasoline ER,NASDAQ Commodity 3rd Hold Gasoline ER,NQCI3HRBER,USD,commodities,global_indices
+292,world,NQ Commodity 2nd Front Gasoline ER,NASDAQ Commodity 2nd Front Gasoline ER,NQCI2RBER,USD,commodities,global_indices
+293,world,NQ Commodity 2nd Hold Gasoline ER,NASDAQ Commodity 2nd Hold Gasoline ER,NQCI2HRBER,USD,commodities,global_indices
+294,world,NQ Commodity Gasoil Index ER,NASDAQ Commodity Gasoil ER,NQCIGOER,USD,commodities,global_indices
+295,world,NQ Commodity 3rd Hold Gasoil ER,NASDAQ Commodity 3rd Hold Gasoil ER,NQCI3HGOER,USD,commodities,global_indices
+296,world,NQ Commodity 3rd Front Gasoil ER,NASDAQ Commodity 3rd Front Gasoil ER,NQCI3GOER,USD,commodities,global_indices
+297,world,NQ Commodity 2nd Hold Gasoil ER,NASDAQ Commodity 2nd Hold Gasoil ER,NQCI2HGOER,USD,commodities,global_indices
+298,world,NQ Commodity 2nd Front Gasoil ER,NASDAQ Commodity 2nd Front Gasoil ER,NQCI2GOER,USD,commodities,global_indices
+299,world,NQ Commodity Feeder Cattle Index ER,NASDAQ Commodity Feeder Cattle ER,NQCIFCER,USD,commodities,global_indices
+300,world,NQ Commodity Heating Oil ER,NASDAQ Commodity Heating Oil ER,NQCIHOER,USD,commodities,global_indices
+301,world,NQ Commodity 3rd Hold Feeder Cattle ER,NASDAQ Commodity 3rd Hold Feeder Cattle ER,NQCI3HFCER,USD,commodities,global_indices
+302,world,NQ Commodity 2nd Front HG Copper ER,NASDAQ Commodity 2nd Front HG Copper ER,NQCI2HGER,USD,commodities,global_indices
+303,world,NQ Commodity 3rd Front HG Copper ER,NASDAQ Commodity 3rd Front HG Copper ER,NQCI3HGER,USD,commodities,global_indices
+304,world,NQ Commodity 2nd Hold Live Cattle ER,NASDAQ Commodity 2nd Hold Live Cattle ER,NQCI2HLCER,USD,commodities,global_indices
+305,world,NQ Commodity Lean Hogs Index ER,NASDAQ Commodity Lean Hogs ER,NQCILHER,USD,commodities,global_indices
+306,world,NQ Commodity 3rd Front Lean Hogs ER,NASDAQ Commodity 3rd Front Lean Hogs ER,NQCI3LHER,USD,commodities,global_indices
+307,world,NQ Commodity 3rd Hold Lean Hogs ER,NASDAQ Commodity 3rd Hold Lean Hogs ER,NQCI3HLHER,USD,commodities,global_indices
+308,world,NQ Commodity 2nd Front Lean Hogs ER,NASDAQ Commodity 2nd Front Lean Hogs ER,NQCI2LHER,USD,commodities,global_indices
+309,world,NQ Commodity 2nd Hold Lean Hogs ER,NASDAQ Commodity 2nd Hold Lean Hogs ER,NQCI2HLHER,USD,commodities,global_indices
+310,world,NQ Commodity Lead Index ER,NASDAQ Commodity Lead ER,NQCIPBER,USD,commodities,global_indices
+311,world,NQ Commodity 3rd Front Lead ER,NASDAQ Commodity 3rd Front Lead ER,NQCI3PBER,USD,commodities,global_indices
+312,world,Agriculture 3rd Hold ER,Agriculture 3rd Hold ER,NQCI3HACER,USD,commodities,global_indices
+313,world,NQ Commodity 3rd Hold Lead Index ER,NASDAQ Commodity 3rd Hold Lead ER,NQCI3HPBER,USD,commodities,global_indices
+314,world,NQ Commodity 2nd Front Lead ER,NASDAQ Commodity 2nd Front Lead ER,NQCI2PBER,USD,commodities,global_indices
+315,world,NQ Commodity 2nd Hold Lead Index ER,NASDAQ Commodity 2nd Hold Lead ER,NQCI2HPBER,USD,commodities,global_indices
+316,world,NQ Commodity Kansas Wheat Index ER,NASDAQ Commodity Kansas Wheat ER,NQCIKWER,USD,commodities,global_indices
+317,world,NQ Commodity 3rd Front Kansas Wheat ER,NASDAQ Commodity 3rd Front Kansas Wheat ER,NQCI3KWER,USD,commodities,global_indices
+318,world,NQ Commodity 3rd Hold Kansas Wheat ER,NASDAQ Commodity 3rd Hold Kansas Wheat ER,NQCI3HKWER,USD,commodities,global_indices
+319,world,NQ Commodity 2nd Front Kansas Wheat ER,NASDAQ Commodity 2nd Front Kansas Wheat ER,NQCI2KWER,USD,commodities,global_indices
+320,world,NQ Commodity 2nd Hold Kansas Wheat ER,NASDAQ Commodity 2nd Hold Kansas Wheat ER,NQCI2HKWER,USD,commodities,global_indices
+321,world,NQ Commodity Industrial Metals ER,NASDAQ Commodity Industrial Metals ER,NQCIIMER,USD,commodities,global_indices
+322,world,NQ Commodity 3rd Front Industrial Metals ER,NASDAQ Commodity 3rd Front Industrial Metals ER,NQCI3IMER,USD,commodities,global_indices
+323,world,NQ Commodity 3rd Hold Industrial Metals ER,NASDAQ Commodity 3rd Hold Industrial Metals ER,NQCI3HIMER,USD,commodities,global_indices
+324,world,NQ Commodity 2nd Front Industrial Metals ER,NASDAQ Commodity 2nd Front Industrial Metals ER,NQCI2IMER,USD,commodities,global_indices
+325,world,NQ Commodity 2nd Hold Industrial Metals ER,NASDAQ Commodity 2nd Hold Industrial Metals ER,NQCI2HIMER,USD,commodities,global_indices
+326,world,NQ Commodity HG Copper ER,NASDAQ Commodity HG Copper ER,NQCIHGER,USD,commodities,global_indices
+327,world,NQ Commodity 3rd Hold HG Copper ER,NASDAQ Commodity 3rd Hold HG Copper ER,NQCI3HHGER,USD,commodities,global_indices
+328,world,Agriculture 3rd Front ER,Agriculture 3rd Front ER,NQCI3ACER,USD,commodities,global_indices
+329,world,NQ Commodity 2nd Hold HG Copper ER,NASDAQ Commodity 2nd Hold HG Copper ER,NQCI2HHGER,USD,commodities,global_indices
+330,world,NQ Commodity 3rd Front Feeder Cattle ER,NASDAQ Commodity 3rd Front Feeder Cattle ER,NQCI3FCER,USD,commodities,global_indices
+331,world,NQ Commodity 2nd Hold Feeder Cattle ER,NASDAQ Commodity 2nd Hold Feeder Cattle ER,NQCI2HFCER,USD,commodities,global_indices
+332,world,NQ Commodity 2nd Front Feeder Cattle ER,NASDAQ Commodity 2nd Front Feeder Cattle ER,NQCI2FCER,USD,commodities,global_indices
+333,world,NQ Commodity Coffee Index ER,NASDAQ Commodity Coffee ER,NQCIKCER,USD,commodities,global_indices
+334,world,NQ Commodity 3rd Hold Coffee ER,NASDAQ Commodity 3rd Hold Coffee ER,NQCI3KCER,USD,commodities,global_indices
+335,world,NQ Commodity 3rd Front Coffee ER,NASDAQ Commodity 3rd Front Coffee ER,NQCI3HKCER,USD,commodities,global_indices
+336,world,NQ Commodity 2nd Hold Coffee ER,NASDAQ Commodity 2nd Hold Coffee ER,NQCI2KCER,USD,commodities,global_indices
+337,world,NQ Commodity 2nd Front Coffee ER,NASDAQ Commodity 2nd Front Coffee ER,NQCI2HKCER,USD,commodities,global_indices
+338,world,NQ Commodity Cocoa Index ER,NASDAQ Commodity Cocoa ER,NQCICCER,USD,commodities,global_indices
+339,world,NQ Commodity 3rd Hold Cocoa ER,NASDAQ Commodity 3rd Hold Cocoa ER,NQCI3HCCER,USD,commodities,global_indices
+340,world,NQ Commodity 3rd Front Cocoa ER,NASDAQ Commodity 3rd Front Cocoa ER,NQCI3CCER,USD,commodities,global_indices
+341,world,NQ Commodity 2nd Hold Cocoa ER,NASDAQ Commodity 2nd Hold Cocoa ER,NQCI2HCCER,USD,commodities,global_indices
+342,world,NQ Commodity 2nd Front Cocoa ER,NASDAQ Commodity 2nd Front Cocoa ER,NQCI2CCER,USD,commodities,global_indices
+343,world,Agriculture 2nd Hold ER,Agriculture 2nd Hold ER,NQCI2HACER,USD,commodities,global_indices
+344,world,NQ Commodity Brent Crude Index ER,NASDAQ Commodity Brent Crude ER,NQCICBER,USD,commodities,global_indices
+345,world,NQ Commodity 3rd Hold Brent Crude ER,NASDAQ Commodity 3rd Hold Brent Crude ER,NQCI3HCBER,USD,commodities,global_indices
+346,world,NQ Commodity 3rd Front Brent Crude ER,NASDAQ Commodity 3rd Front Brent Crude ER,NQCI3CBER,USD,commodities,global_indices
+347,world,NQ Commodity 2nd Hold Brent Crude ER,NASDAQ Commodity 2nd Hold Brent Crude ER,NQCI2HCBER,USD,commodities,global_indices
+348,world,NQ Commodity 2nd Front Brent Crude ER,NASDAQ Commodity 2nd Front Brent Crude ER,NQCI2CBER,USD,commodities,global_indices
+349,world,NQ Commodity Benchmark Index ER,NASDAQ Commodity Benchmark ER,NQCIER,USD,commodities,global_indices
+350,world,NQ Commodity 3rd Hold Benchmark ER,NASDAQ Commodity 3rd Hold Benchmark ER,NQCI3HER,USD,commodities,global_indices
+351,world,NQ Commodity 3rd Front Benchmark ER,NASDAQ Commodity 3rd Front Benchmark ER,NQCI3ER,USD,commodities,global_indices
+352,world,NQ Commodity 2nd Hold Benchmark ER,NASDAQ Commodity 2nd Hold Benchmark ER,NQCI2HER,USD,commodities,global_indices
+353,world,NQ Commodity 2nd Front Benchmark ER,NASDAQ Commodity 2nd Front Benchmark ER,NQCI2ER,USD,commodities,global_indices
+354,world,NQ Commodity Aluminum ER,NASDAQ Commodity Aluminum ER,NQCIALER,USD,commodities,global_indices
+355,world,NQ Commodity 3rd Hold Aluminum ER,NASDAQ Commodity 3rd Hold Aluminum ER,NQCI3HALER,USD,commodities,global_indices
+356,world,NQ Commodity 3rd Front Aluminum ER,NASDAQ Commodity 3rd Front Aluminum ER,NQCI3ALER,USD,commodities,global_indices
+357,world,NQ Commodity 2nd Hold Aluminum ER,NASDAQ Commodity 2nd Hold Aluminum ER,NQCI2HALER,USD,commodities,global_indices
+358,world,NQ Commodity 2nd Front Copper ER,NASDAQ Commodity 2nd Front Copper ER,NQCI2CUER,USD,commodities,global_indices
+359,world,NQ Commodity 2nd Hold Copper ER,NASDAQ Commodity 2nd Hold Copper ER,NQCI2HCUER,USD,commodities,global_indices
+360,world,NQ Commodity 3rd Front Copper ER,NASDAQ Commodity 3rd Front Copper ER,NQCI3CUER,USD,commodities,global_indices
+361,world,NQ Commodity 3rd Hold Copper ER,NASDAQ Commodity 3rd Hold Copper ER,NQCI3HCUER,USD,commodities,global_indices
+362,world,NQ Commodity Energy Index ER,NASDAQ Commodity Energy ER,NQCIENER,USD,commodities,global_indices
+363,world,NQ Commodity 3rd Hold Energy ER,NASDAQ Commodity 3rd Hold Energy ER,NQCI3HENER,USD,commodities,global_indices
+364,world,NQ Commodity 3rd Front Energy ER,NASDAQ Commodity 3rd Front Energy ER,NQCI3ENER,USD,commodities,global_indices
+365,world,NQ Commodity 2nd Hold Energy ER,NASDAQ Commodity 2nd Hold Energy ER,NQCI2HENER,USD,commodities,global_indices
+366,world,NQ Commodity 2nd Front Energy ER,NASDAQ Commodity 2nd Front Energy ER,NQCI2ENER,USD,commodities,global_indices
+367,world,NQ Commodity Div Agriculture ER,NASDAQ Commodity Div Agriculture ER,NQCIDAER,USD,commodities,global_indices
+368,world,NQ Commodity 3rd Hold Div Agriculture ER,NASDAQ Commodity 3rd Hold Div Agriculture ER,NQCI3HDAER,USD,commodities,global_indices
+369,world,NQ Commodity 3rd Front Div Agriculture ER,NASDAQ Commodity 3rd Front Div Agriculture ER,NQCI3DAER,USD,commodities,global_indices
+370,world,NQ Commodity 2nd Hold Div Agriculture ER,NASDAQ Commodity 2nd Hold Div Agriculture ER,NQCI2HDAER,USD,commodities,global_indices
+371,world,NQ Commodity 2nd Front Div Agriculture ER,NASDAQ Commodity 2nd Front Div Agriculture ER,NQCI2DAER,USD,commodities,global_indices
+372,world,NQ Commodity Crude oil Index ER,NASDAQ Commodity Crude oil ER,NQCICLER,USD,commodities,global_indices
+373,world,NQ Commodity 3rd Hold Crude oil ER,NASDAQ Commodity 3rd Hold Crude oil ER,NQCI3HCLER,USD,commodities,global_indices
+374,world,NQ Commodity 2nd Front Live Cattle ER,NASDAQ Commodity 2nd Front Live Cattle ER,NQCI2LCER,USD,commodities,global_indices
+375,world,NQ Commodity 3rd Front Crude oil ER,NASDAQ Commodity 3rd Front Crude oil ER,NQCI3CLER,USD,commodities,global_indices
+376,world,NQ Commodity 2nd Front Crude oil ER,NASDAQ Commodity 2nd Front Crude oil ER,NQCI2CLER,USD,commodities,global_indices
+377,world,NQ Commodity Cotton Index ER,NASDAQ Commodity Cotton ER,NQCICTER,USD,commodities,global_indices
+378,world,NQ Commodity 3rd Hold Cotton ER,NASDAQ Commodity 3rd Hold Cotton ER,NQCI3HCTER,USD,commodities,global_indices
+379,world,NQ Commodity 3rd Front Cotton ER,NASDAQ Commodity 3rd Front Cotton ER,NQCI3CTER,USD,commodities,global_indices
+380,world,NQ Commodity 2nd Hold Cotton ER,NASDAQ Commodity 2nd Hold Cotton ER,NQCI2HCTER,USD,commodities,global_indices
+381,world,NQ Commodity 2nd Front Cotton ER,NASDAQ Commodity 2nd Front Cotton ER,NQCI2CTER,USD,commodities,global_indices
+382,world,NQ Commodity Corn Index ER,NASDAQ Commodity Corn ER,NQCICER,USD,commodities,global_indices
+383,world,NQ Commodity 3rd Hold Corn Index ER,NASDAQ Commodity 3rd Hold Corn ER,NQCI3HCER,USD,commodities,global_indices
+384,world,NQ Commodity 3rd Front Corn ER,NASDAQ Commodity 3rd Front Corn ER,NQCI3CER,USD,commodities,global_indices
+385,world,NQ Commodity 2nd Hold Corn Index ER,NASDAQ Commodity 2nd Hold Corn ER,NQCI2HCER,USD,commodities,global_indices
+386,world,NQ Commodity 2nd Front Corn ER,NASDAQ Commodity 2nd Front Corn ER,NQCI2CER,USD,commodities,global_indices
+387,world,NQ Commodity Copper Index ER,NASDAQ Commodity Copper ER,NQCICUER,USD,commodities,global_indices
+388,world,NQ Commodity 2nd Hold Crude oil ER,NASDAQ Commodity 2nd Hold Crude oil ER,NQCI2HCLER,USD,commodities,global_indices
+389,world,NQ Commodity 3rd Hold Live Cattle ER,NASDAQ Commodity 3rd Hold Live Cattle ER,NQCI3HLCER,USD,commodities,global_indices
+390,world,NQ Commodity 3rd Front Live Cattle ER,NASDAQ Commodity 3rd Front Live Cattle ER,NQCI3LCER,USD,commodities,global_indices
+391,world,NQ Commodity Live Cattle Index ER,NASDAQ Commodity Live Cattle ER,NQCILCER,USD,commodities,global_indices
+392,world,NQ Commodity 3rd Hold Tin Index ER,NASDAQ Commodity 3rd Hold Tin ER,NQCI3HSNER,USD,commodities,global_indices
+393,world,NQ Commodity 2nd Front Tin Index ER,NASDAQ Commodity 2nd Front Tin ER,NQCI2SNER,USD,commodities,global_indices
+394,world,NQ Commodity 2nd Hold Tin Index ER,NASDAQ Commodity 2nd Hold Tin ER,NQCI2HSNER,USD,commodities,global_indices
+395,world,NQ Commodity Sugar Index ER,NASDAQ Commodity Sugar ER,NQCISBER,USD,commodities,global_indices
+396,world,NQ Commodity 3rd Front Sugar ER,NASDAQ Commodity 3rd Front Sugar ER,NQCI3SBER,USD,commodities,global_indices
+397,world,NQ Commodity 3rd Hold Sugar ER,NASDAQ Commodity 3rd Hold Sugar ER,NQCI3HSBER,USD,commodities,global_indices
+398,world,NQ Commodity 2nd Front Sugar ER,NASDAQ Commodity 2nd Front Sugar ER,NQCI2SBER,USD,commodities,global_indices
+399,world,NQ Commodity 2nd Hold Sugar ER,NASDAQ Commodity 2nd Hold Sugar ER,NQCI2HSBER,USD,commodities,global_indices
+400,world,NQ Commodity Spring Wheat Index ER,NASDAQ Commodity Spring Wheat ER,NQCIMWER,USD,commodities,global_indices
+401,world,NQ Commodity 3rd Front Spring Wheat ER,NASDAQ Commodity 3rd Front Spring Wheat ER,NQCI3MWER,USD,commodities,global_indices
+402,world,NQ Commodity 3rd Hold Spring Wheat ER,NASDAQ Commodity 3rd Hold Spring Wheat ER,NQCI3HMWER,USD,commodities,global_indices
+403,world,NQ Commodity 2nd Front Spring Wheat ER,NASDAQ Commodity 2nd Front Spring Wheat ER,NQCI2MWER,USD,commodities,global_indices
+404,world,NQ Commodity 2nd Hold Spring Wheat ER,NASDAQ Commodity 2nd Hold Spring Wheat ER,NQCI2HMWER,USD,commodities,global_indices
+405,world,NQ Commodity Soybean Oil ER,NASDAQ Commodity Soybean Oil ER,NQCIBOER,USD,commodities,global_indices
+406,world,NQ Commodity 3rd Hold Soybean Oil ER,NASDAQ Commodity 3rd Hold Soybean Oil ER,NQCI3HBOER,USD,commodities,global_indices
+407,world,NQ Commodity 3rd Front Soybean Oil ER,NASDAQ Commodity 3rd Front Soybean Oil ER,NQCI3BOER,USD,commodities,global_indices
+408,world,NQ Commodity 2nd Hold Soybean Oil ER,NASDAQ Commodity 2nd Hold Soybean Oil ER,NQCI2HBOER,USD,commodities,global_indices
+409,world,NQ Commodity 2nd Front Soybean Oil ER,NASDAQ Commodity 2nd Front Soybean Oil ER,NQCI2BOER,USD,commodities,global_indices
+410,world,NQ Commodity Soybean Meal Index ER,NASDAQ Commodity Soybean Meal ER,NQCISMER,USD,commodities,global_indices
+411,world,NQ Commodity 3rd Front Soybean Meal ER,NASDAQ Commodity 3rd Front Soybean Meal ER,NQCI3SMER,USD,commodities,global_indices
+412,world,NQ Commodity 3rd Hold Soybean Meal ER,NASDAQ Commodity 3rd Hold Soybean Meal ER,NQCI3HSMER,USD,commodities,global_indices
+413,world,NQ Commodity 2nd Front Soybean Meal ER,NASDAQ Commodity 2nd Front Soybean Meal ER,NQCI2SMER,USD,commodities,global_indices
+414,world,Agriculture ER,Agriculture ER,NQCIACER,USD,commodities,global_indices
+415,world,NQ Commodity 2nd Hold Soybean Meal ER,NASDAQ Commodity 2nd Hold Soybean Meal ER,NQCI2HSMER,USD,commodities,global_indices
+416,world,NQ Commodity Soybeans Index ER,NASDAQ Commodity Soybeans ER,NQCISER,USD,commodities,global_indices
+417,world,NQ Commodity 3rd Front Tin Index ER,NASDAQ Commodity 3rd Front Tin ER,NQCI3SNER,USD,commodities,global_indices
+418,world,NQ Commodity Tin Index ER,NASDAQ Commodity Tin ER,NQCISNER,USD,commodities,global_indices
+419,world,NQ Commodity 2nd Hold Tradable ER,NASDAQ Commodity 2nd Hold Tradable ER,NQCI2HTER,USD,commodities,global_indices
+420,world,NQ Commodity 2nd Front Tradable ER,NASDAQ Commodity 2nd Front Tradable ER,NQCI2TER,USD,commodities,global_indices
+421,world,Solactive Global Lithium,Solactive Global Lithium,SOLLIT,USD,other_indices,global_indices
+422,world,S&P GSCI Dynamic Roll Capped Commodity,S&P GSCI Dynamic Roll Capped Commodity,SPDYP,USD,commodities,global_indices
+423,world,DIAPASON Metals TR,DIAPASON Metals Total Return,RICIMETR=DIAP,USD,commodities,global_indices
+424,world,DIAPASON Commodities TR,DIAPASON Commodities Total Return,RICIGLTR=DIAP,USD,commodities,global_indices
+425,world,DIAPASON Agriculture TR,DIAPASON Agriculture Total Return,RICIAGTR=DIAP,USD,commodities,global_indices
+426,world,S&P Commodity Producers Oil & Gas Exploration & Pr,S&P Commodity Producers Oil & Gas Exploration & Production Net Return,SPCPOGN,USD,commodities,global_indices
+427,world,S&P Commodity Producers Agribusiness NR,S&P Commodity Producers Agribusiness Net Return,SPCPAGN,USD,commodities,global_indices
+428,world,ComStage Commerzbank Commodity ex Agriculture,ComStage Commerzbank Commodity ex Agriculture,COBACOMNA,EUR,commodities,global_indices
+429,world,NQ Commodity Zinc Index ER,NASDAQ Commodity Zinc ER,NQCIZNER,USD,commodities,global_indices
+430,world,NQ Commodity 3rd Front Zinc ER,NASDAQ Commodity 3rd Front Zinc ER,NQCI3ZNER,USD,commodities,global_indices
+431,world,NQ Commodity 3rd Hold Zinc Index ER,NASDAQ Commodity 3rd Hold Zinc ER,NQCI3HZNER,USD,commodities,global_indices
+432,world,NQ Commodity 2nd Front Zinc ER,NASDAQ Commodity 2nd Front Zinc ER,NQCI2ZNER,USD,commodities,global_indices
+433,world,NQ Commodity 3rd Front Soybeans ER,NASDAQ Commodity 3rd Front Soybeans ER,NQCI3SER,USD,commodities,global_indices
+434,world,NQ Commodity 2nd Hold Zinc Index ER,NASDAQ Commodity 2nd Hold Zinc ER,NQCI2HZNER,USD,commodities,global_indices
+435,world,NQ Commodity 3rd Front White Sugar ER,NASDAQ Commodity 3rd Front White Sugar ER,NQCI3SWER,USD,commodities,global_indices
+436,world,NQ Commodity 3rd Hold White Sugar ER,NASDAQ Commodity 3rd Hold White Sugar ER,NQCI3HSWER,USD,commodities,global_indices
+437,world,NQ Commodity 2nd Front White Sugar ER,NASDAQ Commodity 2nd Front White Sugar ER,NQCI2SWER,USD,commodities,global_indices
+438,world,NQ Commodity 2nd Hold White Sugar ER,NASDAQ Commodity 2nd Hold White Sugar ER,NQCI2HSWER,USD,commodities,global_indices
+439,world,NQ Commodity Wheat Index ER,NASDAQ Commodity Wheat ER,NQCIWER,USD,commodities,global_indices
+440,world,NQ Commodity 3rd Front Wheat ER,NASDAQ Commodity 3rd Front Wheat ER,NQCI3WER,USD,commodities,global_indices
+441,world,NQ Commodity 3rd Hold Wheat ER,NASDAQ Commodity 3rd Hold Wheat ER,NQCI3HWER,USD,commodities,global_indices
+442,world,NQ Commodity 2nd Front Wheat ER,NASDAQ Commodity 2nd Front Wheat ER,NQCI2WER,USD,commodities,global_indices
+443,world,NQ Commodity 2nd Hold Wheat ER,NASDAQ Commodity 2nd Hold Wheat ER,NQCI2HWER,USD,commodities,global_indices
+444,world,NQ Commodity Tradable Index ER,NASDAQ Commodity Tradable ER,NQCITER,USD,commodities,global_indices
+445,world,NQ Commodity 3rd Front Tradable ER,NASDAQ Commodity 3rd Front Tradable ER,NQCI3TER,USD,commodities,global_indices
+446,world,NQ Commodity 3rd Hold Tradable ER,NASDAQ Commodity 3rd Hold Tradable ER,NQCI3HTER,USD,commodities,global_indices
+447,world,NQ Commodity White Sugar Index ER,NASDAQ Commodity White Sugar ER,NQCISWER,USD,commodities,global_indices
+448,world,NQ Commodity 2nd Front Aluminum ER,NASDAQ Commodity 2nd Front Aluminum ER,NQCI2ALER,USD,commodities,global_indices
+449,world,NQ Commodity 3rd Hold Soybeans ER,NASDAQ Commodity 3rd Hold Soybeans ER,NQCI3HSER,USD,commodities,global_indices
+450,world,NQ Commodity 2nd Hold Soybeans ER,NASDAQ Commodity 2nd Hold Soybeans ER,NQCI2HSER,USD,commodities,global_indices
+451,world,NQ Commodity Palladium Index ER,NASDAQ Commodity Palladium ER,NQCIPAER,USD,commodities,global_indices
+452,world,NQ Commodity 3rd Front Palladium ER,NASDAQ Commodity 3rd Front Palladium ER,NQCI3PAER,USD,commodities,global_indices
+453,world,NQ Commodity 3rd Hold Palladium ER,NASDAQ Commodity 3rd Hold Palladium ER,NQCI3HPAER,USD,commodities,global_indices
+454,world,NQ Commodity 2nd Front Palladium ER,NASDAQ Commodity 2nd Front Palladium ER,NQCI2PAER,USD,commodities,global_indices
+455,world,NQ Commodity 2nd Hold Palladium ER,NASDAQ Commodity 2nd Hold Palladium ER,NQCI2HPAER,USD,commodities,global_indices
+456,world,NQ Commodity Nickel ER,NASDAQ Commodity Nickel ER,NQCINIER,USD,commodities,global_indices
+457,world,NQ Commodity 3rd Front Nickel ER,NASDAQ Commodity 3rd Front Nickel ER,NQCI3NIER,USD,commodities,global_indices
+458,world,NQ Commodity 3rd Hold Nickel ER,NASDAQ Commodity 3rd Hold Nickel ER,NQCI3HNIER,USD,commodities,global_indices
+459,world,NQ Commodity 2nd Front Nickel ER,NASDAQ Commodity 2nd Front Nickel ER,NQCI2NIER,USD,commodities,global_indices
+460,world,NQ Commodity 2nd Hold Nickel ER,NASDAQ Commodity 2nd Hold Nickel ER,NQCI2HNIER,USD,commodities,global_indices
+461,world,NQ Commodity Natural Gas Index ER,NASDAQ Commodity Natural Gas ER,NQCINGER,USD,commodities,global_indices
+462,world,NQ Commodity 3rd Front Natural Gas ER,NASDAQ Commodity 3rd Front Natural Gas ER,NQCI3NGER,USD,commodities,global_indices
+463,world,NQ Commodity 3rd Hold Natural Gas ER,NASDAQ Commodity 3rd Hold Natural Gas ER,NQCI3HNGER,USD,commodities,global_indices
+464,world,NQ Commodity 2nd Front Natural Gas ER,NASDAQ Commodity 2nd Front Natural Gas ER,NQCI2NGER,USD,commodities,global_indices
+465,world,NQ Commodity 2nd Hold Natural Gas ER,NASDAQ Commodity 2nd Hold Natural Gas ER,NQCI2HNGER,USD,commodities,global_indices
+466,world,NQ Commodity Metals Index ER,NASDAQ Commodity Metals ER,NQCIMEER,USD,commodities,global_indices
+467,world,NQ Commodity 3rd Front Metals ER,NASDAQ Commodity 3rd Front Metals ER,NQCI3MEER,USD,commodities,global_indices
+468,world,NQ Commodity 3rd Hold Metals ER,NASDAQ Commodity 3rd Hold Metals ER,NQCI3HMEER,USD,commodities,global_indices
+469,world,NQ Commodity 2nd Front Metals ER,NASDAQ Commodity 2nd Front Metals ER,NQCI2MEER,USD,commodities,global_indices
+470,world,NQ Commodity 2nd Hold Metals ER,NASDAQ Commodity 2nd Hold Metals ER,NQCI2HMEER,USD,commodities,global_indices
+471,world,NQ Commodity Live Stock Index ER,NASDAQ Commodity Live Stock ER,NQCILSER,USD,commodities,global_indices
+472,world,NQ Commodity 3rd Front Live Stock ER,NASDAQ Commodity 3rd Front Live Stock ER,NQCI3LSER,USD,commodities,global_indices
+473,world,NQ Commodity 3rd Hold Live Stock ER,NASDAQ Commodity 3rd Hold Live Stock ER,NQCI3HLSER,USD,commodities,global_indices
+474,world,NQ Commodity 2nd Front Live Stock ER,NASDAQ Commodity 2nd Front Live Stock ER,NQCI2LSER,USD,commodities,global_indices
+475,world,NQ Commodity 2nd Hold Live Stock ER,NASDAQ Commodity 2nd Hold Live Stock ER,NQCI2HLSER,USD,commodities,global_indices
+476,world,NQ Commodity 2nd Hold Petroleum ER,NASDAQ Commodity 2nd Hold Petroleum ER,NQCI2HPEER,USD,commodities,global_indices
+477,world,NQ Commodity 2nd Front Petroleum ER,NASDAQ Commodity 2nd Front Petroleum ER,NQCI2PEER,USD,commodities,global_indices
+478,world,NQ Commodity 3rd Hold Petroleum ER,NASDAQ Commodity 3rd Hold Petroleum ER,NQCI3HPEER,USD,commodities,global_indices
+479,world,NQ Commodity 3rd Front Petroleum ER,NASDAQ Commodity 3rd Front Petroleum ER,NQCI3PEER,USD,commodities,global_indices
+480,world,NQ Commodity Softs Index ER,NASDAQ Commodity Softs ER,NQCISOER,USD,commodities,global_indices
+481,world,NQ Commodity 3rd Front Softs ER,NASDAQ Commodity 3rd Front Softs ER,NQCI3SOER,USD,commodities,global_indices
+482,world,NQ Commodity 3rd Hold Softs ER,NASDAQ Commodity 3rd Hold Softs ER,NQCI3HSOER,USD,commodities,global_indices
+483,world,NQ Commodity 2nd Front Softs ER,NASDAQ Commodity 2nd Front Softs ER,NQCI2SOER,USD,commodities,global_indices
+484,world,NQ Commodity 2nd Hold Softs ER,NASDAQ Commodity 2nd Hold Softs ER,NQCI2HSOER,USD,commodities,global_indices
+485,world,NQ Commodity Silver Index ER,NASDAQ Commodity Silver ER,NQCISIER,USD,commodities,global_indices
+486,world,NQ Commodity 3rd Front Silver ER,NASDAQ Commodity 3rd Front Silver ER,NQCI3SIER,USD,commodities,global_indices
+487,world,NQ Commodity 3rd Hold Silver ER,NASDAQ Commodity 3rd Hold Silver ER,NQCI3HSIER,USD,commodities,global_indices
+488,world,NQ Commodity 2nd Front Silver ER,NASDAQ Commodity 2nd Front Silver ER,NQCI2SIER,USD,commodities,global_indices
+489,world,NQ Commodity 2nd Hold Silver ER,NASDAQ Commodity 2nd Hold Silver ER,NQCI2HSIER,USD,commodities,global_indices
+490,world,NQ Commodity Robusta Coffee ER,NASDAQ Commodity Robusta Coffee ER,NQCIRMER,USD,commodities,global_indices
+491,world,NQ Commodity 3rd Front Robusta Coffee ER,NASDAQ Commodity 3rd Front Robusta Coffee ER,NQCI3RMER,USD,commodities,global_indices
+492,world,NQ Commodity 2nd Front Soybeans ER,NASDAQ Commodity 2nd Front Soybeans ER,NQCI2SER,USD,commodities,global_indices
+493,world,NQ Commodity 3rd Hold Robusta Coffee ER,NASDAQ Commodity 3rd Hold Robusta Coffee ER,NQCI3HRMER,USD,commodities,global_indices
+494,world,NQ Commodity 2nd Hold Robusta Coffee ER,NASDAQ Commodity 2nd Hold Robusta Coffee ER,NQCI2HRMER,USD,commodities,global_indices
+495,world,NQ Commodity Precious Metals ER,NASDAQ Commodity Precious Metals ER,NQCIPMER,USD,commodities,global_indices
+496,world,NQ Commodity 3rd Front Precious Metals ER,NASDAQ Commodity 3rd Front Precious Metals ER,NQCI3PMER,USD,commodities,global_indices
+497,world,NQ Commodity 3rd Hold Precious Metals ER,NASDAQ Commodity 3rd Hold Precious Metals ER,NQCI3HPMER,USD,commodities,global_indices
+498,world,NQ Commodity 2nd Front Precious Metals ER,NASDAQ Commodity 2nd Front Precious Metals ER,NQCI2PMER,USD,commodities,global_indices
+499,world,NQ Commodity 2nd Hold Precious Metals ER,NASDAQ Commodity 2nd Hold Precious Metals ER,NQCI2HPMER,USD,commodities,global_indices
+500,world,NQ Commodity Platinum Index ER,NASDAQ Commodity Platinum ER,NQCIPLER,USD,commodities,global_indices
+501,world,NQ Commodity 3rd Front Platinum ER,NASDAQ Commodity 3rd Front Platinum ER,NQCI3PLER,USD,commodities,global_indices
+502,world,NQ Commodity 3rd Hold Platinum ER,NASDAQ Commodity 3rd Hold Platinum ER,NQCI3HPLER,USD,commodities,global_indices
+503,world,NQ Commodity 2nd Front Platinum ER,NASDAQ Commodity 2nd Front Platinum ER,NQCI2PLER,USD,commodities,global_indices
+504,world,NQ Commodity 2nd Hold Platinum ER,NASDAQ Commodity 2nd Hold Platinum ER,NQCI2HPLER,USD,commodities,global_indices
+505,world,NQ Commodity Petroleum Index ER,NASDAQ Commodity Petroleum ER,NQCIPEER,USD,commodities,global_indices
+506,world,NQ Commodity 2nd Front Robusta Coffee ER,NASDAQ Commodity 2nd Front Robusta Coffee ER,NQCI2RMER,USD,commodities,global_indices
+507,world,NQ OMX Nordic Investment Companies,NASDAQ OMX Nordic Investment Companies,NOMXNIC,EUR,other_indices,global_indices
+508,world,Agriculture 2nd Front ER,Agriculture 2nd Front ER,NQCI2ACER,USD,commodities,global_indices
+509,world,DJ Commodity Soybeans,Dow Jones Commodity Soybeans,DJCISO,USD,commodities,global_indices
+510,world,Bloomberg Energy TR,Bloomberg Energy TR,BCOMENTR,USD,commodities,global_indices
+511,world,Bloomberg Energy 3 Month Fwd TR,Bloomberg Energy 3 Month Fwd TR,BCOMEN3T,USD,commodities,global_indices
+512,world,Bloomberg Cotton TR,Bloomberg Cotton TR,BCOMCTTR,USD,commodities,global_indices
+513,world,Bloomberg Brent Crude 3 Month Fwd,Bloomberg Brent Crude 3 Month Fwd,BCOMCO3,USD,commodities,global_indices
+514,world,Bloomberg Brent Crude,Bloomberg Brent Crude,BCOMCO,USD,commodities,global_indices
+515,world,Bloomberg WTI Crude Oil TR,Bloomberg WTI Crude Oil TR,BCOMCLTR,USD,commodities,global_indices
+516,world,Bloomberg Commodity Swiss Franc TR,Bloomberg Commodity Swiss Franc TR,BCOMCHT,CHF,commodities,global_indices
+517,world,Bloomberg Cocoa TR,Bloomberg Cocoa TR,BCOMCCTR,USD,commodities,global_indices
+518,world,Bloomberg Soybean Oil TR,Bloomberg Soybean Oil TR,BCOMBOTR,USD,commodities,global_indices
+519,world,Bloomberg Aluminum TR,Bloomberg Aluminum TR,BCOMALTR,USD,commodities,global_indices
+520,world,Bloomberg Agriculture TR,Bloomberg Agriculture TR,BCOMAGTR,USD,commodities,global_indices
+521,world,S-Net ITG Agriculture TRIndex USD,S-Net ITG Agriculture TRIndex USD,AGRIT,USD,commodities,global_indices
+522,world,S-Net ITG Agriculture USD,S-Net ITG Agriculture USD,AGRI,USD,commodities,global_indices
+523,world,Bloomberg Zinc,Bloomberg Zinc,BCOMZS,USD,commodities,global_indices
+524,world,Bloomberg ExEnergy,Bloomberg ExEnergy,BCOMXE,USD,commodities,global_indices
+525,world,Bloomberg Wheat,Bloomberg Wheat,BCOMWH,USD,commodities,global_indices
+526,world,Bloomberg Soybeans,Bloomberg Soybeans,BCOMSY,USD,commodities,global_indices
+527,world,Bloomberg Softs,Bloomberg Softs,BCOMSO,USD,commodities,global_indices
+528,world,Bloomberg Silver,Bloomberg Silver,BCOMSI,USD,commodities,global_indices
+529,world,Bloomberg Sugar,Bloomberg Sugar,BCOMSB,USD,commodities,global_indices
+530,world,Bloomberg Unleaded Gasoline,Bloomberg Unleaded Gasoline,BCOMRB,USD,commodities,global_indices
+531,world,Bloomberg Precious Metals,Bloomberg Precious Metals,BCOMPR,USD,commodities,global_indices
+532,world,Bloomberg Petroleum,Bloomberg Petroleum,BCOMPE,USD,commodities,global_indices
+533,world,Bloomberg Nickel,Bloomberg Nickel,BCOMNI,USD,commodities,global_indices
+534,world,Bloomberg Natural Gas,Bloomberg Natural Gas,BCOMNG,USD,commodities,global_indices
+535,world,Bloomberg Commodity 3 Month Fw TR,Bloomberg Commodity 3 Month Fw TR,BCOMF3T,USD,commodities,global_indices
+536,world,Bloomberg Lean Hogs,Bloomberg Lean Hogs,BCOMLH,USD,commodities,global_indices
+537,world,Bloomberg Commodity Pound Sterling TR,Bloomberg Commodity Pound Sterling TR,BCOMGBT,GBP,commodities,global_indices
+538,world,Bloomberg Gold TR,Bloomberg Gold TR,BCOMGCTR,USD,commodities,global_indices
+539,world,Bloomberg Softs 3M Fwd,Bloomberg Softs 3M Fwd,BCOMSO3,USD,commodities,global_indices
+540,world,Bloomberg Tin TR,Bloomberg Tin TR,BCOMSNTR,USD,commodities,global_indices
+541,world,Bloomberg Silver TR,Bloomberg Silver TR,BCOMSITR,USD,commodities,global_indices
+542,world,Bloomberg Sugar TR,Bloomberg Sugar TR,BCOMSBTR,USD,commodities,global_indices
+543,world,Bloomberg Unleaded Gasoline TR,Bloomberg Unleaded Gasoline TR,BCOMRBTR,USD,commodities,global_indices
+544,world,Bloomberg Precious Metals TR,Bloomberg Precious Metals TR,BCOMPRTR,USD,commodities,global_indices
+545,world,Bloomberg Platinum TR,Bloomberg Platinum TR,BCOMPLTR,USD,commodities,global_indices
+546,world,Bloomberg Petroleum TR,Bloomberg Petroleum TR,BCOMPETR,USD,commodities,global_indices
+547,world,Bloomberg Petroleum 3M Fwd TR,Bloomberg Petroleum 3M Fwd TR,BCOMPE3T,USD,commodities,global_indices
+548,world,Bloomberg Lead TR,Bloomberg Lead TR,BCOMPBTR,USD,commodities,global_indices
+549,world,Bloomberg Nickel TR,Bloomberg Nickel TR,BCOMNITR,USD,commodities,global_indices
+550,world,Bloomberg Natural Gas TR,Bloomberg Natural Gas TR,BCOMNGTR,USD,commodities,global_indices
+551,world,Bloomberg Natural Gas 3 Month Fwd TR,Bloomberg Natural Gas 3 Month Fwd TR,BCOMNG3T,USD,commodities,global_indices
+552,world,Bloomberg Livestock TR,Bloomberg Livestock TR,BCOMLITR,USD,commodities,global_indices
+553,world,Bloomberg Livestock 3M Fwd TR,Bloomberg Livestock 3M Fwd TR,BCOMLI3T,USD,commodities,global_indices
+554,world,Bloomberg Lean Hogs TR,Bloomberg Lean Hogs TR,BCOMLHTR,USD,commodities,global_indices
+555,world,Bloomberg Live Cattle TR,Bloomberg Live Cattle TR,BCOMLCTR,USD,commodities,global_indices
+556,world,Bloomberg Coffee TR,Bloomberg Coffee TR,BCOMKCTR,USD,commodities,global_indices
+557,world,Bloomberg Commodity Yen TR,Bloomberg Commodity Yen TR,BCOMJYTR,JPY,commodities,global_indices
+558,world,Bloomberg Industrial Metals TR,Bloomberg Industrial Metals TR,BCOMINTR,USD,commodities,global_indices
+559,world,Bloomberg Industrial Metals 3 Month Fwd TR,Bloomberg Industrial Metals 3 Month Fwd TR,BCOMIN3T,USD,commodities,global_indices
+560,world,Bloomberg Heating Oil TR,Bloomberg Heating Oil TR,BCOMHOTR,USD,commodities,global_indices
+561,world,Bloomberg Copper,Bloomberg Copper,BCOMHG,USD,commodities,global_indices
+562,world,Bloomberg Grains TR,Bloomberg Grains TR,BCOMGRTR,USD,commodities,global_indices
+563,world,Bloomberg Grains 3 Month Fwd TR,Bloomberg Grains 3 Month Fwd TR,BCOMGR3T,USD,commodities,global_indices
+564,world,Bloomberg Gold 3 Month Fwd,Bloomberg Gold 3 Month Fwd,BCOMGC3,USD,commodities,global_indices
+565,world,Bloomberg Coffee,Bloomberg Coffee,BCOMKC,USD,commodities,global_indices
+566,world,Bloomberg Industrial Metals,Bloomberg Industrial Metals,BCOMIN,USD,commodities,global_indices
+567,world,Bloomberg Copper TR,Bloomberg Copper TR,BCOMHGTR,USD,commodities,global_indices
+568,world,TR/CC CRB Soybeans,Thomson Reuters/CoreCommodity CRB Soybeans,TRCCRBS,EUR,commodities,global_indices
+569,world,TR/CC CRB Aluminum,Thomson Reuters/CoreCommodity CRB Aluminum,TRCCRBAH,EUR,commodities,global_indices
+570,world,RICI Base Metals ER,RICI Base Metals Excess Return,ROGRBMER,USD,commodities,global_indices
+571,world,RICI Agriculture,RICI Agriculture,RIEHA,USD,commodities,global_indices
+572,world,TR/CC CRB Lean Hogs,Thomson Reuters/CoreCommodity CRB Lean Hogs,TRCCRBLH,EUR,commodities,global_indices
+573,world,TR/CC CRB Crude Oil,Thomson Reuters/CoreCommodity CRB Crude Oil,TRCCRBCL,EUR,commodities,global_indices
+574,world,TR/CC CRB,Thomson Reuters/CoreCommodity CRB Excess Return,TRCCRB,USD,commodities,global_indices
+575,world,TR/CC CRB ex Energy ER,Thomson Reuters/CoreCommodity CRB ex Energy Excess Return,TRCCRBNEER,USD,commodities,global_indices
+576,world,TR/CC CRB Natural Gas,Thomson Reuters/CoreCommodity CRB Natural Gas,TRCCRBNG,EUR,commodities,global_indices
+577,world,TR/CC CRB Live Cattle,Thomson Reuters/CoreCommodity CRB Live Cattle,TRCCRBLC,EUR,commodities,global_indices
+578,world,TR/CC CRB Heating Oil,Thomson Reuters/CoreCommodity CRB Heating Oil,TRCCRBHO,EUR,commodities,global_indices
+579,world,TR/CC CRB Unleaded Gas,Thomson Reuters/CoreCommodity CRB Unleaded Gas,TRCCRBHU,EUR,commodities,global_indices
+580,world,TR/CC CRB Orange Juice,Thomson Reuters/CoreCommodity CRB Orange Juice,TRCCRBOJ,EUR,commodities,global_indices
+581,world,TR/CC CRB ex Energy TR,Thomson Reuters/CoreCommodity CRB ex Energy TR,TRCCRBNETR,EUR,commodities,global_indices
+582,world,NQ Global ex United States,NASDAQ Global ex United States,NQGXUS,USD,other_indices,global_indices
+583,world,NQ Global Risk Managed Income,NASDAQ Global Risk Managed Income,NQGRMI,USD,other_indices,global_indices
+584,world,NQ AlphaDEX Latin America,NASDAQ AlphaDEX Latin America,NQDXLA,USD,other_indices,global_indices
+585,world,NQ AlphaDEX EM Small Cap,NASDAQ AlphaDEX EM Small Cap,NQDXEMSC,USD,other_indices,global_indices
+586,world,NQ AlphaDEX Emerging Markets,NASDAQ AlphaDEX Emerging Markets,NQDXEM,USD,other_indices,global_indices
+587,world,NQ AlphaDEX DM Ex US Small Cap,NASDAQ AlphaDEX DM Ex US Small Cap,NQDXDMXUSSC,USD,other_indices,global_indices
+588,world,NQ AlphaDEX Developed Markets ExUS,NASDAQ AlphaDEX Developed Markets ExUS,NQDXDMXUS,USD,other_indices,global_indices
+589,world,NQ AlphaDEX Asia Pacific Ex Japan,NASDAQ AlphaDEX Asia Pacific Ex Japan,NQDXDE,USD,other_indices,global_indices
+590,world,NQ DM Ex N America Large Mid Cap,NASDAQ DM Ex N America Large Mid Cap,NQDMXNALMC,USD,other_indices,global_indices
+591,world,NQ Developed Markets,NASDAQ Developed Markets,NQDM,USD,other_indices,global_indices
+592,world,NQ CEA CybersecuritySM,Nasdaq CEA CybersecuritySM,NQCYBR,USD,other_indices,global_indices
+593,world,RICI Agriculture TR,RICI Agriculture Total Return,ROGRAGTR,USD,commodities,global_indices
+594,world,RICI Base Metals TR,RICI Base Metals Total Return,ROGRBMTR,USD,commodities,global_indices
+595,world,TR/CC CRB Coffee,Thomson Reuters/CoreCommodity CRB Coffee,TRCCRBKC,EUR,commodities,global_indices
+596,world,TR/CC CRB Copper,Thomson Reuters/CoreCommodity CRB Copper,TRCCRBHG,EUR,commodities,global_indices
+597,world,Bloomberg Grains,Bloomberg Grains,BCOMGR,USD,commodities,global_indices
+598,world,Bloomberg Gold,Bloomberg Gold,BCOMGC,USD,commodities,global_indices
+599,world,Bloomberg Cotton,Bloomberg Cotton,BCOMCT,USD,commodities,global_indices
+600,world,Bloomberg Corn,Bloomberg Corn,BCOMCN,USD,commodities,global_indices
+601,world,Bloomberg WTI Crude Oil,Bloomberg WTI Crude Oil,BCOMCL,USD,commodities,global_indices
+602,world,Bloomberg Soybean Oil,Bloomberg Soybean Oil,BCOMBO,USD,commodities,global_indices
+603,world,Bloomberg Aluminum,Bloomberg Aluminum,BCOMAL,USD,commodities,global_indices
+604,world,Bloomberg Agriculture,Bloomberg Agriculture,BCOMAG,USD,commodities,global_indices
+605,world,Bloomberg Commodity,Bloomberg Commodity,BCOM,USD,commodities,global_indices
+606,world,Bloomberg Natural Gas GBP,Bloomberg Natural Gas GBP,BUNGDPT,GBP,commodities,global_indices
+607,world,Bloomberg Softs TR,Bloomberg Softs TR,BCOMSOTR,USD,commodities,global_indices
+608,world,Bloomberg Agriculture 3 Mon,Bloomberg Agriculture 3 Mon,BCOMAG3T,USD,commodities,global_indices
+609,world,Bloomberg Soybeans TR,Bloomberg Soybeans TR,BCOMSYTR,USD,commodities,global_indices
+610,world,TR/CC CRB TR,Thomson Reuters/CoreCommodity CRB TR,TRCCRBTR,USD,commodities,global_indices
+611,world,BNP Paribas Global Agri TR,BNP Paribas Global Agri TR,BNPIGATR,USD,commodities,global_indices
+612,world,RICI TR,RICI Total Return,ROGRTR,USD,commodities,global_indices
+613,world,RICI Metals TR,RICI Metals Total Return,ROGRIMTR,USD,commodities,global_indices
+614,world,RICI Energy TR,RICI Energy Total Return,ROGRENTR,USD,commodities,global_indices
+615,world,TR/CC CRB Gold,Thomson Reuters/CoreCommodity CRB Gold,TRCCRBGC,EUR,commodities,global_indices
+616,world,TR/CC CRB Corn,Thomson Reuters/CoreCommodity CRB Corn,TRCCRBC,EUR,commodities,global_indices
+617,world,TR/CC CRB Wheat,Thomson Reuters/CoreCommodity CRB Wheat,TRCCRBW,EUR,commodities,global_indices
+618,world,TR/CC CRB Sugar,Thomson Reuters/CoreCommodity CRB Sugar,TRCCRBSB,EUR,commodities,global_indices
+619,world,TR/CC CRB Cocoa,Thomson Reuters/CoreCommodity CRB Cocoa,TRCCRBCC,EUR,commodities,global_indices
+620,world,TR/CC CRB Silver,Thomson Reuters/CoreCommodity CRB Silver,TRCCRBSI,EUR,commodities,global_indices
+621,world,TR/CC CRB Nickel,Thomson Reuters/CoreCommodity CRB Nickel,TRCCRBNI,EUR,commodities,global_indices
+622,world,TR/CC CRB Cotton,Thomson Reuters/CoreCommodity CRB Cotton,TRCCRBCT,EUR,commodities,global_indices
+623,world,Dow Jones-UBS Coffee,Dow Jones-UBS Coffee,BUKCDE,EUR,commodities,global_indices
+624,world,Bloomberg Commodity TR,Bloomberg Commodity TR,BCOMTR,USD,commodities,global_indices
+625,world,Bloomberg Wheat TR,Bloomberg Wheat TR,BCOMWHTR,USD,commodities,global_indices
+626,world,Bloomberg ExEnergy 3 Month Fwd TR,Bloomberg ExEnergy 3 Month Fwd TR,BCOMXE3T,USD,commodities,global_indices
+627,world,DJ Commodity Agriculture & Livestock Capped,Dow Jones Commodity Agriculture & Livestock Capped Component,DJCIALC,USD,commodities,global_indices
+628,world,DJ Commodity Agriculture Capped Component,Dow Jones Commodity Agriculture Capped Component,DJCIAGC,USD,commodities,global_indices
+629,world,DJ Commodity All Cattle,Dow Jones Commodity All Cattle,DJCIAC,USD,commodities,global_indices
+630,world,Gasoil 2x Short,Gasoil 2x Short,X0E6,USD,commodities,global_indices
+631,world,Gasoil 1x Short,Gasoil 1x Short,X0E5,USD,commodities,global_indices
+632,world,Gasoil 2x Long,Gasoil 2x Long,X0E2,USD,commodities,global_indices
+633,world,Gasoil 1x Long,Gasoil 1x Long,X0E1,USD,commodities,global_indices
+634,world,Copper Futures 4x Short,Copper Futures 4x Short,X0DG,USD,commodities,global_indices
+635,world,Copper Futures 3x Short,Copper Futures 3x Short,X0DF,USD,commodities,global_indices
+636,world,Copper Futures 2x Short,Copper Futures 2x Short,X0DE,USD,commodities,global_indices
+637,world,Copper Futures 1x Short,Copper Futures 1x Short,X0DD,USD,commodities,global_indices
+638,world,Copper Futures 4x Long,Copper Futures 4x Long,X0DC,USD,commodities,global_indices
+639,world,Copper Futures 3x Long,Copper Futures 3x Long,X0DB,USD,commodities,global_indices
+640,world,Copper Futures 2x Long,Copper Futures 2x Long,X0DA,USD,commodities,global_indices
+641,world,Copper Futures 1x Long,Copper Futures 1x Long,X0D9,USD,commodities,global_indices
+642,world,Natural Gas Futures 4x Short,Natural Gas Futures 4x Short,X0D8,USD,commodities,global_indices
+643,world,Natural Gas Futures 3x Short,Natural Gas Futures 3x Short,X0D7,USD,commodities,global_indices
+644,world,Natural Gas Futures 3x Long,Natural Gas Futures 3x Long,X0D5,USD,commodities,global_indices
+645,world,Brent Oil Futures 4x Short,Brent Oil Futures 4x Short,X0D4,USD,commodities,global_indices
+646,world,Brent Oil Futures 3x Short,Brent Oil Futures 3x Short,X0D3,USD,commodities,global_indices
+647,world,Brent Oil Futures 3x Long,Brent Oil Futures 3x Long,X0D1,USD,commodities,global_indices
+648,world,Silver Futures 4x Short,Silver Futures 4x Short,X0CQ,USD,commodities,global_indices
+649,world,Silver Futures 3x Short,Silver Futures 3x Short,X0CP,USD,commodities,global_indices
+650,world,Silver Futures 4x Long,Silver Futures 4x Long,X0CN,USD,commodities,global_indices
+651,world,Silver Futures 3x Long,Silver Futures 3x Long,X0CM,USD,commodities,global_indices
+652,world,DJ Commodity All Metals Capped Component,Dow Jones Commodity All Metals Capped Component,DJCIAMC,USD,commodities,global_indices
+653,world,DJ Commodity All Wheat,Dow Jones Commodity All Wheat,DJCIAW,USD,commodities,global_indices
+654,world,DJ Commodity Brent Crude,Dow Jones Commodity Brent Crude,DJCIBR,USD,commodities,global_indices
+655,world,DJ Commodity Cocoa,Dow Jones Commodity Cocoa,DJCICC,USD,commodities,global_indices
+656,world,DJ Commodity Silver,Dow Jones Commodity Silver,DJCISI,USD,commodities,global_indices
+657,world,DJ Commodity Softs,Dow Jones Commodity Softs,DJCISF,USD,commodities,global_indices
+658,world,DJ Commodity Sugar,Dow Jones Commodity Sugar,DJCISB,USD,commodities,global_indices
+659,world,DJ Commodity Unleaded Gasoline,Dow Jones Commodity Unleaded Gasoline,DJCIRB,USD,commodities,global_indices
+660,world,DJ Commodity Petroleum,Dow Jones Commodity Petroleum,DJCIPT,USD,commodities,global_indices
+661,world,DJ Commodity Precious Metals,Dow Jones Commodity Precious Metals,DJCIPM,USD,commodities,global_indices
+662,world,DJ Commodity Natural Gas,Dow Jones Commodity Natural Gas,DJCING,USD,commodities,global_indices
+663,world,DJ Commodity Livestock,Dow Jones Commodity Livestock,DJCILV,USD,commodities,global_indices
+664,world,DJ Commodity Live Cattle,Dow Jones Commodity Live Cattle,DJCILC,USD,commodities,global_indices
+665,world,DJ Commodity Kansas Wheat,Dow Jones Commodity Kansas Wheat,DJCIKW,USD,commodities,global_indices
+666,world,DJ Commodity Coffee,Dow Jones Commodity Coffee,DJCIKC,USD,commodities,global_indices
+667,world,DJ Commodity Zinc,Dow Jones Commodity Zinc,DJCIIZ,USD,commodities,global_indices
+668,world,Gold Futures 4x Short,Gold Futures 4x Short,X0CL,USD,commodities,global_indices
+669,world,DJ Commodity Industrial Metals,Dow Jones Commodity Industrial Metals,DJCIIM,USD,commodities,global_indices
+670,world,DJ Commodity Nickel,Dow Jones Commodity Nickel,DJCIIK,USD,commodities,global_indices
+671,world,DJ Commodity Copper,Dow Jones Commodity Copper,DJCIIC,USD,commodities,global_indices
+672,world,DJ Commodity Aluminum,Dow Jones Commodity Aluminum,DJCIIA,USD,commodities,global_indices
+673,world,DJ Commodity Heating Oil,Dow Jones Commodity Heating Oil,DJCIHO,USD,commodities,global_indices
+674,world,DJ Commodity Grains,Dow Jones Commodity Grains,DJCIGR,USD,commodities,global_indices
+675,world,DJ Commodity Gold,Dow Jones Commodity Gold,DJCIGC,USD,commodities,global_indices
+676,world,DJ Commodity Feeder Cattle,Dow Jones Commodity Feeder Cattle,DJCIFC,USD,commodities,global_indices
+677,world,DJ Commodity Energy,Dow Jones Commodity Energy,DJCIEN,USD,commodities,global_indices
+678,world,DJ Commodity Energy & Metals Capped Component,Dow Jones Commodity Energy & Metals Capped Component,DJCIEMC,USD,commodities,global_indices
+679,world,DJ Commodity Cotton,Dow Jones Commodity Cotton,DJCICT,USD,commodities,global_indices
+680,world,DJ Commodity Corn,Dow Jones Commodity Corn,DJCICN,USD,commodities,global_indices
+681,world,DJ Commodity Crude Oil,Dow Jones Commodity Crude Oil,DJCICL,USD,commodities,global_indices
+682,world,DJ Commodity Lead,Dow Jones Commodity Lead,DJCIIL,USD,commodities,global_indices
+683,world,DJ Commodity Wheat,Dow Jones Commodity Wheat,DJCIWH,USD,commodities,global_indices
+684,world,Gold Futures 3x Short,Gold Futures 3x Short,X0CK,USD,commodities,global_indices
+685,world,Gold Futures 3x Long,Gold Futures 3x Long,X0CI,USD,commodities,global_indices
+686,world,WTI Oil Futures 1x Long,WTI Oil Futures 1x Long,X0B1,USD,commodities,global_indices
+687,world,AMEX Gold BUGS Settle,AMEX Gold BUGS Settlement,HUV,USD,commodities,global_indices
+688,world,DJ Commodity,Dow Jones Commodity,DJCI,USD,commodities,global_indices
+689,world,Alerian Natural Gas MLP TR,Alerian Natural Gas MLP Total Return,ANGIX,USD,commodities,global_indices
+690,world,Silver Futures x3 Leveraged  USD,Silver Futures x3 Leveraged  USD,SLVR3L,USD,commodities,global_indices
+691,world,WTI Futures x3 Short Leveraged USD,WTI Futures x3 Short Leveraged USD,OIL3S,USD,commodities,global_indices
+692,world,WTI Futures x3 Leveraged USD,WTI Futures x3 Leveraged USD,OIL3L,USD,commodities,global_indices
+693,world,WTI Futures Long USD,WTI Futures Long USD,OIL1L,USD,commodities,global_indices
+694,world,Risk Weighted Enhanced Commodity TR,Risk Weighted Enhanced Commodity TR,OCMDRWT,USD,commodities,global_indices
+695,world,Gold Futures x3 Short Leveraged USD,Gold Futures x3 Short Leveraged USD,GOLD3S,USD,commodities,global_indices
+696,world,Gold Futures x3 Leveraged USD,Gold Futures x3 Leveraged USD,GOLD3L,USD,commodities,global_indices
+697,world,Gold Futures Long USD,Gold Futures Long USD,GOLD1L,USD,commodities,global_indices
+698,world,Natural Gas Futures x3 Short Levera,Natural Gas Futures x3 Short Leveraged USD,GAS3S,USD,commodities,global_indices
+699,world,Natural Gas Futures x3 Lever. USD,Natural Gas Futures x3 Lever. USD,GAS3L,USD,commodities,global_indices
+700,world,Bloomberg Natural Gas Euro Hedged T,Bloomberg Natural Gas Euro Hedged TR,BUNGDET,EUR,commodities,global_indices
+701,world,Bloomberg Coffee Euro Hedged TR,Bloomberg Coffee Euro Hedged TR,BUKCDET,EUR,commodities,global_indices
+702,world,Bloomberg Brent Crude Pound Sterlin,Bloomberg Brent Crude Pound Sterling Hedged TR,BUCODPT,GBP,commodities,global_indices
+703,world,Bloomberg WTI Crude Oil Euro Hedged,Bloomberg WTI Crude Oil Euro Hedged TR,BUCLDET,EUR,commodities,global_indices
+704,world,SGI Commodities Optimix TR,SGI Commodities Optimix TR,SGICOLTR,USD,commodities,global_indices
+705,world,SGI Commodities Curve Motum Beta TR,SGI Commodities Curve Motum Beta TR,SGICCLMT,USD,commodities,global_indices
+706,world,S&P GSCI EUR TR,S&P GSCI EUR TR,SGCUETR,EUR,commodities,global_indices
+707,world,Bloomberg Wheat Euro Hedged Daily TR,Bloomberg Wheat Euro Hedged Daily TR,BUWHDET,EUR,commodities,global_indices
+708,world,Bloomberg Gold Euro Hedged Daily TR,Bloomberg Gold Euro Hedged Daily TR,BUGCDET,EUR,commodities,global_indices
+709,world,Bloomberg Zinc TR,Bloomberg Zinc TR,BCOMZSTR,USD,commodities,global_indices
+710,world,Bloomberg ExEnergy TR,Bloomberg ExEnergy TR,BCOMXETR,USD,commodities,global_indices
+711,world,WTI Oil Futures 2x Long,WTI Oil Futures 2x Long,X0B2,USD,commodities,global_indices
+712,world,WTI Oil Futures 3x Long,WTI Oil Futures 3x Long,X0B3,USD,commodities,global_indices
+713,world,WTI Oil Futures 1x Short,WTI Oil Futures 1x Short,X0B5,USD,commodities,global_indices
+714,world,WTI Oil Futures 2x Short,WTI Oil Futures 2x Short,X0B6,USD,commodities,global_indices
+715,world,Natural Gas Futures 2x Short,Natural Gas Futures 2x Short,X0C8,USD,commodities,global_indices
+716,world,Natural Gas Futures 1x Short,Natural Gas Futures 1x Short,X0C7,USD,commodities,global_indices
+717,world,Natural Gas Futures 2x Long,Natural Gas Futures 2x Long,X0C6,USD,commodities,global_indices
+718,world,Natural Gas Futures 1x Long,Natural Gas Futures 1x Long,X0C5,USD,commodities,global_indices
+719,world,Brent Oil Futures 2x Short,Brent Oil Futures 2x Short,X0C4,USD,commodities,global_indices
+720,world,Brent Oil Futures 1x Short,Brent Oil Futures 1x Short,X0C3,USD,commodities,global_indices
+721,world,Brent Oil Futures 2x Long,Brent Oil Futures 2x Long,X0C2,USD,commodities,global_indices
+722,world,Brent Oil Futures 1x Long,Brent Oil Futures 1x Long,X0C1,USD,commodities,global_indices
+723,world,Palladium 2x Short,Palladium 2x Short,X0BV,USD,commodities,global_indices
+724,world,Palladium 1x Short,Palladium 1x Short,X0BU,USD,commodities,global_indices
+725,world,Palladium 2x Long,Palladium 2x Long,X0BR,USD,commodities,global_indices
+726,world,Palladium 1x Long,Palladium 1x Long,X0BQ,USD,commodities,global_indices
+727,world,Gold Futures 4x Long,Gold Futures 4x Long,X0CJ,USD,commodities,global_indices
+728,world,Platinum 2x Short,Platinum 2x Short,X0BM,USD,commodities,global_indices
+729,world,Platinum 2x Long,Platinum 2x Long,X0BI,USD,commodities,global_indices
+730,world,Platinum 1x Long,Platinum 1x Long,X0BH,USD,commodities,global_indices
+731,world,Cocoa Futures 4x Short,Cocoa Futures 4x Short,X0BG,USD,commodities,global_indices
+732,world,Cocoa Futures 3x Short,Cocoa Futures 3x Short,X0BF,USD,commodities,global_indices
+733,world,Cocoa Futures 2x Short,Cocoa Futures 2x Short,X0BE,USD,commodities,global_indices
+734,world,Cocoa Futures 1x Short,Cocoa Futures 1x Short,X0BD,USD,commodities,global_indices
+735,world,Cocoa Futures 4x Long,Cocoa Futures 4x Long,X0BC,USD,commodities,global_indices
+736,world,Cocoa Futures 3x Long,Cocoa Futures 3x Long,X0BB,USD,commodities,global_indices
+737,world,Cocoa Futures 2x Long,Cocoa Futures 2x Long,X0BA,USD,commodities,global_indices
+738,world,Cocoa Futures 1x Long,Cocoa Futures 1x Long,X0B9,USD,commodities,global_indices
+739,world,WTI Oil Futures 4x Short,WTI Oil Futures 4x Short,X0B8,USD,commodities,global_indices
+740,world,WTI Oil Futures 3x Short,WTI Oil Futures 3x Short,X0B7,USD,commodities,global_indices
+741,world,Platinum 1x Short,Platinum 1x Short,X0BL,USD,commodities,global_indices
+742,world,SciBeta Dev Multi-Beta Multi-Strate,SciBeta Dev Multi-Beta Multi-Strategy ERC Net,SBDXRHMN,EUR,other_indices,global_indices
+743,world,First North Oil & Gas PI,First North Oil & Gas PI,FN0001PI,SEK,primary_sectors,global_indices
+744,world,EB REXX Jumbo PR,EB REXX Jumbo PR,R1JK,EUR,other_indices,global_indices
+745,world,NQ OMX Nordic Construction & Real Estate,NASDAQ OMX Nordic Construction & Real Estate,NOMXNCR,EUR,primary_sectors,global_indices
+746,world,NQ OMX Nordic Consumer,NASDAQ OMX Nordic Consumer,NOMXNCO,EUR,primary_sectors,global_indices
+747,world,NQ OMX Nordic Bank & Insurance,NASDAQ OMX Nordic Bank & Insurance,NOMXNBI,EUR,primary_sectors,global_indices
+748,world,N  Technology EUR PI,N  Technology EUR PI,N9000EURPI,SEK,primary_sectors,global_indices
+749,world,N  Financial Services EUR PI,N  Financial Services EUR PI,N8700EURPI,SEK,primary_sectors,global_indices
+750,world,N  Real Estate EUR PI,N  Real Estate EUR PI,N8600EURPI,SEK,primary_sectors,global_indices
+751,world,N  Insurance EUR PI,N  Insurance EUR PI,N8500EURPI,SEK,primary_sectors,global_indices
+752,world,N  Banks EUR PI,N  Banks EUR PI,N8300EURPI,SEK,primary_sectors,global_indices
+753,world,N  Financials EUR PI,N  Financials EUR PI,N8000EURPI,SEK,primary_sectors,global_indices
+754,world,NQ OMX Nordic Energy,NASDAQ OMX Nordic Energy,NOMXNEN,EUR,primary_sectors,global_indices
+755,world,N  Utilities EUR PI,N  Utilities EUR PI,N7000EURPI,SEK,primary_sectors,global_indices
+756,world,N  Retail EUR PI,N  Retail EUR PI,N5300EURPI,SEK,primary_sectors,global_indices
+757,world,N  Consumer Services EUR PI,N  Consumer Services EUR PI,N5000EURPI,SEK,primary_sectors,global_indices
+758,world,N  Health Care EUR PI,N  Health Care EUR PI,N4000EURPI,SEK,primary_sectors,global_indices
+759,world,N Personal & Household Goods EUR PI,N Personal & Household Goods EUR PI,N3700EURPI,SEK,primary_sectors,global_indices
+760,world,N  Food & Beverage EUR PI,N  Food & Beverage EUR PI,N3500EURPI,SEK,primary_sectors,global_indices
+761,world,N  Automobiles & Parts EUR PI,N  Automobiles & Parts EUR PI,N3300EURPI,SEK,primary_sectors,global_indices
+762,world,N  Consumer Goods EUR PI,N  Consumer Goods EUR PI,N3000EURPI,SEK,primary_sectors,global_indices
+763,world,N Industrial Goods & Services EUR PI,N Industrial Goods & Services EUR PI,N2700EURPI,SEK,primary_sectors,global_indices
+764,world,N  Construction & Materials EUR PI,N  Construction & Materials EUR PI,N2300EURPI,SEK,primary_sectors,global_indices
+765,world,N  Telecommunications EUR PI,N  Telecommunications EUR PI,N6000EURPI,SEK,primary_sectors,global_indices
+766,world,N  Industrials EUR PI,N  Industrials EUR PI,N2000EURPI,SEK,primary_sectors,global_indices
+767,world,NQ OMX Nordic Health Care,NASDAQ OMX Nordic Health Care,NOMXNHC,EUR,primary_sectors,global_indices
+768,world,NQ OMX Nordic Materials,NASDAQ OMX Nordic Materials,NOMXNMA,EUR,primary_sectors,global_indices
+769,world,FTSE CNBC Global 300 Automobiles & Parts,FTSE CNBC Global 300 Automobiles & Parts,FTFCNBCG3300,USD,primary_sectors,global_indices
+770,world,FTSE CNBC Global 300 Industrial Goods & Services,FTSE CNBC Global 300 Industrial Goods & Services,FTFCNBCG2700,USD,primary_sectors,global_indices
+771,world,FTSE CNBC Global 300 Construction & Materials,FTSE CNBC Global 300 Construction & Materials,FTFCNBCG2300,USD,primary_sectors,global_indices
+772,world,FTSE CNBC Global 300 Basic Resources,FTSE CNBC Global 300 Basic Resources,FTFCNBCG1700,USD,primary_sectors,global_indices
+773,world,FTSE CNBC Global 300 Chemicals,FTSE CNBC Global 300 Chemicals,FTFCNBCG1300,USD,primary_sectors,global_indices
+774,world,FTSE CNBC Global 300 Oil & Gas,FTSE CNBC Global 300 Oil & Gas,FTFCNBCG0500,USD,primary_sectors,global_indices
+775,world,FTSE CNBC Asia 100 Technology,FTSE CNBC Asia 100 Technology,FTFCNBCA9000,USD,primary_sectors,global_indices
+776,world,FTSE CNBC Asia 100 Financials,FTSE CNBC Asia 100 Financials,FTFCNBCA8000,USD,primary_sectors,global_indices
+777,world,FTSE CNBC Asia 100 Utilities,FTSE CNBC Asia 100 Utilities,FTFCNBCA7000,USD,primary_sectors,global_indices
+778,world,NQ OMX Nordic Industrials,NASDAQ OMX Nordic Industrials,NOMXNIN,EUR,primary_sectors,global_indices
+779,world,FTSE CNBC Asia 100 Telecommunications,FTSE CNBC Asia 100 Telecommunications,FTFCNBCA6000,USD,primary_sectors,global_indices
+780,world,FTSE CNBC Asia 100 Health Care,FTSE CNBC Asia 100 Health Care,FTFCNBCA4000,USD,primary_sectors,global_indices
+781,world,FTSE CNBC Asia 100 Consumer Goods,FTSE CNBC Asia 100 Consumer Goods,FTFCNBCA3000,USD,primary_sectors,global_indices
+782,world,FTSE CNBC Asia 100 Industrials,FTSE CNBC Asia 100 Industrials,FTFCNBCA2000,USD,primary_sectors,global_indices
+783,world,FTSE CNBC Asia 100 Basic Materials,FTSE CNBC Asia 100 Basic Materials,FTFCNBCA1000,USD,primary_sectors,global_indices
+784,world,FTSE CNBC Asia 100 Oil and Gas,FTSE CNBC Asia 100 Oil and Gas,FTFCNBCA0001,USD,primary_sectors,global_indices
+785,world,FTSEurofirst Oil & Gas,FTSEurofirst Oil & Gas,FTE0500,EUR,primary_sectors,global_indices
+786,world,STOXX Europe 600 Real Estate Price,STOXX Europe 600 Real Estate Price,SX86P,EUR,primary_sectors,global_indices
+787,world,NQ OMX Nordic Transportation,NASDAQ OMX Nordic Transportation,NOMXNTP,EUR,primary_sectors,global_indices
+788,world,NQ OMX Nordic Telecom & InfoTech,NASDAQ OMX Nordic Telecom & InfoTech,NOMXNTI,EUR,primary_sectors,global_indices
+789,world,FTSE CNBC Asia 100 Consumer Services,FTSE CNBC Asia 100 Consumer Services,FTFCNBCA5000,USD,primary_sectors,global_indices
+790,world,FTSE CNBC Global 300 Food & Beverage,FTSE CNBC Global 300 Food & Beverage,FTFCNBCG3500,USD,primary_sectors,global_indices
+791,world,N  Basic Resources EUR PI,N  Basic Resources EUR PI,N1700EURPI,SEK,primary_sectors,global_indices
+792,world,N  Basic Materials EUR PI,N  Basic Materials EUR PI,N1000EURPI,SEK,primary_sectors,global_indices
+793,world,OMX Baltic Industrial Goods & Services PI,OMX Baltic Industrial Goods & Services PI,B2700PI,EUR,primary_sectors,global_indices
+794,world,OMX Baltic Construction & Materials PI,OMX Baltic Construction & Materials PI,B2300PI,EUR,primary_sectors,global_indices
+795,world,OMX Baltic Industrials PI,OMX Baltic Industrials PI,B2000PI,EUR,primary_sectors,global_indices
+796,world,OMX Baltic Basic Resources PI,OMX Baltic Basic Resources PI,B1700PI,EUR,primary_sectors,global_indices
+797,world,OMX Baltic Chemicals PI,OMX Baltic Chemicals PI,B1300PI,EUR,primary_sectors,global_indices
+798,world,OMX Baltic Basic Materials PI,OMX Baltic Basic Materials PI,B1000PI,EUR,primary_sectors,global_indices
+799,world,BNY Mellon International Telecom 35 ADR,BNY Mellon International Telecom 35 ADR,BKTTL,USD,primary_sectors,global_indices
+800,world,BNY Mellon Telecommunications Classic ADR TR,BNY Mellon Telecommunications Classic ADR Total Return,BKCTCT,USD,primary_sectors,global_indices
+801,world,BNY Mellon Latin Telecom ADR TR,BNY Mellon Latin Telecom ADR Total Return,BKLTLT,USD,primary_sectors,global_indices
+802,world,OMX Baltic Consumer Goods PI,OMX Baltic Consumer Goods PI,B3000PI,EUR,primary_sectors,global_indices
+803,world,BNY Mellon Consumer Goods Classic ADR TR,BNY Mellon Consumer Goods Classic ADR Total Return,BKCGCT,USD,primary_sectors,global_indices
+804,world,BNY Mellon Industrials Classic ADR TR,BNY Mellon Industrials Classic ADR Total Return,BKCIUT,USD,primary_sectors,global_indices
+805,world,BNY Mellon Oil & Gas Classic ADR TR,BNY Mellon Oil & Gas Classic ADR Total Return,BKCOGT,USD,primary_sectors,global_indices
+806,world,BNY Mellon International Telecom 35 ADR TR,BNY Mellon International Telecom 35 ADR Total Return,BKTTLT,USD,primary_sectors,global_indices
+807,world,BNY Mellon Health Care Classic ADR TR,BNY Mellon Health Care Classic ADR Total Return,BKCHCT,USD,primary_sectors,global_indices
+808,world,BNY Mellon Technology Classic ADR TR,BNY Mellon Technology Classic ADR Total Return,BKCTET,USD,primary_sectors,global_indices
+809,world,BNY Mellon Basic Materials Classic ADR TR,BNY Mellon Basic Materials Classic ADR Total Return,BKCBMT,USD,primary_sectors,global_indices
+810,world,BNY Mellon Financials Classic ADR TR,BNY Mellon Financials Classic ADR Total Return,BKCFNT,USD,primary_sectors,global_indices
+811,world,BNY Mellon Consumer Services Classic ADR TR,BNY Mellon Consumer Services Classic ADR Total Return,BKCSCT,USD,primary_sectors,global_indices
+812,world,BNY Mellon Technology Classic ADR,BNY Mellon Technology Classic ADR,BKCTE,USD,primary_sectors,global_indices
+813,world,BNY Mellon Utilities Classic ADR TR,BNY Mellon Utilities Classic ADR Total Return,BKCUTT,USD,primary_sectors,global_indices
+814,world,N  Chemicals EUR PI,N  Chemicals EUR PI,N1300EURPI,SEK,primary_sectors,global_indices
+815,world,OMX Baltic Automobiles & Parts PI,OMX Baltic Automobiles & Parts PI,B3300PI,EUR,primary_sectors,global_indices
+816,world,OMX Baltic Personal & Household Goods PI,OMX Baltic Personal & Household Goods PI,B3700PI,EUR,primary_sectors,global_indices
+817,world,N  Oil & Gas EUR PI,N  Oil & Gas EUR PI,N0001EURPI,SEK,primary_sectors,global_indices
+818,world,First North Technology PI,First North Technology PI,FN9000PI,SEK,primary_sectors,global_indices
+819,world,First North Financials PI,First North Financials PI,FN8000PI,SEK,primary_sectors,global_indices
+820,world,First North Utilities PI,First North Utilities PI,FN7000PI,SEK,primary_sectors,global_indices
+821,world,First North Consumer Services PI,First North Consumer Services PI,FN5000PI,SEK,primary_sectors,global_indices
+822,world,First North Health Care PI,First North Health Care PI,FN4000PI,SEK,primary_sectors,global_indices
+823,world,First North Consumer Goods PI,First North Consumer Goods PI,FN3000PI,SEK,primary_sectors,global_indices
+824,world,First North Industrials PI,First North Industrials PI,FN2000PI,SEK,primary_sectors,global_indices
+825,world,First North Basic Materials PI,First North Basic Materials PI,FN1000PI,SEK,primary_sectors,global_indices
+826,world,OMX Baltic Food & Beverage PI,OMX Baltic Food & Beverage PI,B3500PI,EUR,primary_sectors,global_indices
+827,world,OMX Baltic Technology PI,OMX Baltic Technology PI,B9000PI,EUR,primary_sectors,global_indices
+828,world,OMX Baltic Real Estate PI,OMX Baltic Real Estate PI,B8600PI,EUR,primary_sectors,global_indices
+829,world,OMX Baltic Banks PI,OMX Baltic Banks PI,B8300PI,EUR,primary_sectors,global_indices
+830,world,OMX Baltic Financials PI,OMX Baltic Financials PI,B8000PI,EUR,primary_sectors,global_indices
+831,world,OMX Baltic Utilities PI,OMX Baltic Utilities PI,B7000PI,EUR,primary_sectors,global_indices
+832,world,OMX Baltic Telecommunications PI,OMX Baltic Telecommunications PI,B6000PI,EUR,primary_sectors,global_indices
+833,world,OMX Baltic Media PI,OMX Baltic Media PI,B5500PI,EUR,primary_sectors,global_indices
+834,world,OMX Baltic Retail PI,OMX Baltic Retail PI,B5300PI,EUR,primary_sectors,global_indices
+835,world,OMX Baltic Consumer Services PI,OMX Baltic Consumer Services PI,B5000PI,EUR,primary_sectors,global_indices
+836,world,OMX Baltic Health Care PI,OMX Baltic Health Care PI,B4000PI,EUR,primary_sectors,global_indices
+837,world,OMX Baltic Financial Services PI,OMX Baltic Financial Services PI,B8700PI,EUR,primary_sectors,global_indices
+838,world,FTSE CNBC Global 300 Personal & Household Goods,FTSE CNBC Global 300 Personal & Household Goods,FTFCNBCG3700,USD,primary_sectors,global_indices
+839,world,FTSE CNBC Global 300 Health Care,FTSE CNBC Global 300 Health Care,FTFCNBCG4500,USD,primary_sectors,global_indices
+840,world,FTSE CNBC Global 300 Retail,FTSE CNBC Global 300 Retail,FTFCNBCG5300,USD,primary_sectors,global_indices
+841,world,STOXX Eastern Europe 300 Automobiles & Parts EUR P,STOXX Eastern Europe 300 Automobiles & Parts EUR Price,EE330P,EUR,primary_sectors,global_indices
+842,world,STOXX Eastern Europe 300 Retail USD Price,STOXX Eastern Europe 300 Retail USD Price,EE530L,USD,primary_sectors,global_indices
+843,world,STOXX Eastern Europe 300 Retail EUR Price,STOXX Eastern Europe 300 Retail EUR Price,EE530P,EUR,primary_sectors,global_indices
+844,world,STOXX Eastern Europe 300 Real Estate USD Price,STOXX Eastern Europe 300 Real Estate USD Price,EE860L,USD,primary_sectors,global_indices
+845,world,STOXX Eastern Europe 300 Real Estate EUR Price,STOXX Eastern Europe 300 Real Estate EUR Price,EE860P,EUR,primary_sectors,global_indices
+846,world,STOXX Eastern Europe 300 Media USD Price,STOXX Eastern Europe 300 Media USD Price,EE550L,USD,primary_sectors,global_indices
+847,world,STOXX Eastern Europe 300 Media EUR Price,STOXX Eastern Europe 300 Media EUR Price,EE550P,EUR,primary_sectors,global_indices
+848,world,STOXX Eastern Europe 300 Banks USD Price,STOXX Eastern Europe 300 Banks USD Price,EE830L,USD,primary_sectors,global_indices
+849,world,STOXX Eastern Europe 300 Banks EUR Price,STOXX Eastern Europe 300 Banks EUR Price,EE830P,EUR,primary_sectors,global_indices
+850,world,STOXX Eastern Europe 300 Automobiles & Parts USD P,STOXX Eastern Europe 300 Automobiles & Parts USD Price,EE330L,USD,primary_sectors,global_indices
+851,world,STOXX Eastern Europe 300 Utilities USD Price,STOXX Eastern Europe 300 Utilities USD Price,EE750L,USD,primary_sectors,global_indices
+852,world,STOXX Eastern Europe 300 Technology USD Price,STOXX Eastern Europe 300 Technology USD Price,EE950L,USD,primary_sectors,global_indices
+853,world,STOXX Eastern Europe 300 Technology EUR Price,STOXX Eastern Europe 300 Technology EUR Price,EE950P,EUR,primary_sectors,global_indices
+854,world,STOXX Eastern Europe 300 Oil & Gas USD Price,STOXX Eastern Europe 300 Oil & Gas USD Price,EE050L,USD,primary_sectors,global_indices
+855,world,STOXX Eastern Europe 300 Oil & Gas EUR Price,STOXX Eastern Europe 300 Oil & Gas EUR Price,EE050P,EUR,primary_sectors,global_indices
+856,world,STOXX Eastern Europe 300 Insurance USD Price,STOXX Eastern Europe 300 Insurance USD Price,EE850L,USD,primary_sectors,global_indices
+857,world,STOXX Eastern Europe 300 Insurance EUR Price,STOXX Eastern Europe 300 Insurance EUR Price,EE850P,EUR,primary_sectors,global_indices
+858,world,STOXX Eastern Europe 300 Chemicals USD Price,STOXX Eastern Europe 300 Chemicals USD Price,EE130L,USD,primary_sectors,global_indices
+859,world,STOXX Eastern Europe 300 Chemicals EUR Price,STOXX Eastern Europe 300 Chemicals EUR Price,EE130P,EUR,primary_sectors,global_indices
+860,world,STOXX Asia/Pacific 600 Retail USD Price,STOXX Asia/Pacific 600 Retail USD Price,SXP1RTS,USD,primary_sectors,global_indices
+861,world,STOXX Eastern Europe 300 Utilities EUR Price,STOXX Eastern Europe 300 Utilities EUR Price,EE750P,EUR,primary_sectors,global_indices
+862,world,STOXX Asia/Pacific 600 Retail EUR Price,STOXX Asia/Pacific 600 Retail EUR Price,SXP1RTSE,EUR,primary_sectors,global_indices
+863,world,STOXX Eastern Europe 300 Basic Resources EUR Price,STOXX Eastern Europe 300 Basic Resources EUR Price,EE170P,EUR,primary_sectors,global_indices
+864,world,STOXX Eastern Europe 300 Construction & Materials,STOXX Eastern Europe 300 Construction & Materials EUR Price,EE230P,EUR,primary_sectors,global_indices
+865,world,STOXX Global 1800 ex Asia/Pacific Financial Servic,STOXX Global 1800 ex Asia/Pacific Financial Services USD Price,SXW9FSV,USD,primary_sectors,global_indices
+866,world,STOXX Global 1800 ex Asia/Pacific Chemicals USD Pr,STOXX Global 1800 ex Asia/Pacific Chemicals USD Price,SXW9CHM,USD,primary_sectors,global_indices
+867,world,STOXX Global 1800 ex Asia/Pacific Automobiles & Pa,STOXX Global 1800 ex Asia/Pacific Automobiles & Parts USD Price,SXW9ATO,USD,primary_sectors,global_indices
+868,world,STOXX Global 1800 Basic Resources USD Price,STOXX Global 1800 Basic Resources USD Price,SXW1BAS,USD,primary_sectors,global_indices
+869,world,STOXX Global 1800 Automobiles & Parts USD Price,STOXX Global 1800 Automobiles & Parts USD Price,SXW1ATO,USD,primary_sectors,global_indices
+870,world,STOXX Eastern Europe 300 Travel & Leisure USD Pric,STOXX Eastern Europe 300 Travel & Leisure USD Price,EE570L,USD,primary_sectors,global_indices
+871,world,STOXX Eastern Europe 300 Travel & Leisure EUR Pric,STOXX Eastern Europe 300 Travel & Leisure EUR Price,EE570P,EUR,primary_sectors,global_indices
+872,world,STOXX Eastern Europe 300 Telecommunications USD Pr,STOXX Eastern Europe 300 Telecommunications USD Price,EE650L,USD,primary_sectors,global_indices
+873,world,STOXX Eastern Europe 300 Telecommunications EUR Pr,STOXX Eastern Europe 300 Telecommunications EUR Price,EE650P,EUR,primary_sectors,global_indices
+874,world,STOXX Eastern Europe 300 Basic Resources USD Price,STOXX Eastern Europe 300 Basic Resources USD Price,EE170L,USD,primary_sectors,global_indices
+875,world,STOXX Eastern Europe 300 Personal & Household Good,STOXX Eastern Europe 300 Personal & Household Goods USD Price,EE370L,USD,primary_sectors,global_indices
+876,world,STOXX Eastern Europe 300 Industrial Goods & Servic,STOXX Eastern Europe 300 Industrial Goods & Services USD Price,EE270L,USD,primary_sectors,global_indices
+877,world,STOXX Eastern Europe 300 Industrial Goods & Servic,STOXX Eastern Europe 300 Industrial Goods & Services EUR Price,EE270P,EUR,primary_sectors,global_indices
+878,world,STOXX Eastern Europe 300 Health Care USD Price,STOXX Eastern Europe 300 Health Care USD Price,EE450L,USD,primary_sectors,global_indices
+879,world,STOXX Eastern Europe 300 Health Care EUR Price,STOXX Eastern Europe 300 Health Care EUR Price,EE450P,EUR,primary_sectors,global_indices
+880,world,STOXX Eastern Europe 300 Food & Beverage USD Price,STOXX Eastern Europe 300 Food & Beverage USD Price,EE350L,USD,primary_sectors,global_indices
+881,world,STOXX Eastern Europe 300 Food & Beverage EUR Price,STOXX Eastern Europe 300 Food & Beverage EUR Price,EE350P,EUR,primary_sectors,global_indices
+882,world,STOXX Eastern Europe 300 Financial Services USD Pr,STOXX Eastern Europe 300 Financial Services USD Price,EE870L,USD,primary_sectors,global_indices
+883,world,STOXX Eastern Europe 300 Financial Services EUR Pr,STOXX Eastern Europe 300 Financial Services EUR Price,EE870P,EUR,primary_sectors,global_indices
+884,world,STOXX Eastern Europe 300 Construction & Materials,STOXX Eastern Europe 300 Construction & Materials USD Price,EE230L,USD,primary_sectors,global_indices
+885,world,STOXX Eastern Europe 300 Personal & Household Good,STOXX Eastern Europe 300 Personal & Household Goods EUR Price,EE370P,EUR,primary_sectors,global_indices
+886,world,STOXX Asia/Pacific 600 REIT USD,STOXX Asia/Pacific 600 REIT USD,S8737PL,USD,primary_sectors,global_indices
+887,world,STOXX Asia/Pacific 600 REIT EUR,STOXX Asia/Pacific 600 REIT EUR,S8737PP,EUR,primary_sectors,global_indices
+888,world,STOXX Asia/Pacific 600 Real Estate USD Price,STOXX Asia/Pacific 600 Real Estate USD Price,AXAPREL,USD,primary_sectors,global_indices
+889,world,STOXX Asia/Pacific 600 Financial Services EUR Pric,STOXX Asia/Pacific 600 Financial Services EUR Price,SXP1FSVE,EUR,primary_sectors,global_indices
+890,world,STOXX Asia/Pacific 600 Financial Services USD Pric,STOXX Asia/Pacific 600 Financial Services USD Price,SXP1FSV,USD,primary_sectors,global_indices
+891,world,STOXX Asia/Pacific 600 Construction & Materials US,STOXX Asia/Pacific 600 Construction & Materials USD Price,SXP1CNS,USD,primary_sectors,global_indices
+892,world,STOXX Asia/Pacific 600 Construction & Materials EU,STOXX Asia/Pacific 600 Construction & Materials EUR Price,SXP1CNSE,EUR,primary_sectors,global_indices
+893,world,STOXX Asia/Pacific 600 Chemicals USD Price,STOXX Asia/Pacific 600 Chemicals USD Price,SXP1CHM,USD,primary_sectors,global_indices
+894,world,STOXX Asia/Pacific 600 Chemicals EUR Price,STOXX Asia/Pacific 600 Chemicals EUR Price,SXP1CHME,EUR,primary_sectors,global_indices
+895,world,STOXX Asia/Pacific 600 Basic Resources USD Price,STOXX Asia/Pacific 600 Basic Resources USD Price,SXP1BAS,USD,primary_sectors,global_indices
+896,world,STOXX Asia/Pacific 600 Basic Resources EUR Price,STOXX Asia/Pacific 600 Basic Resources EUR Price,SXP1BASE,EUR,primary_sectors,global_indices
+897,world,STOXX Asia/Pacific 600 Automobiles & Parts USD Pri,STOXX Asia/Pacific 600 Automobiles & Parts USD Price,SXP1ATO,USD,primary_sectors,global_indices
+898,world,STOXX Asia/Pacific 600 Food & Beverage EUR Price,STOXX Asia/Pacific 600 Food & Beverage EUR Price,SXP1FOBE,EUR,primary_sectors,global_indices
+899,world,STOXX Asia/Pacific 600 Automobiles & Parts EUR Pri,STOXX Asia/Pacific 600 Automobiles & Parts EUR Price,SXP1ATOE,EUR,primary_sectors,global_indices
+900,world,FTSE CNBC Global 300 Technology,FTSE CNBC Global 300 Technology,FTFCNBCG9500,USD,primary_sectors,global_indices
+901,world,FTSE CNBC Global 300 Financial Services,FTSE CNBC Global 300 Financial Services,FTFCNBCG8700,USD,primary_sectors,global_indices
+902,world,FTSE CNBC Global 300 Real Estate REITs,FTSE CNBC Global 300 Real Estate REITs,FTFCNBCG8600,USD,primary_sectors,global_indices
+903,world,FTSE CNBC Global 300 Insurance,FTSE CNBC Global 300 Insurance,FTFCNBCG8500,USD,primary_sectors,global_indices
+904,world,FTSE CNBC Global 300 Banks,FTSE CNBC Global 300 Banks,FTFCNBCG8300,USD,primary_sectors,global_indices
+905,world,FTSE CNBC Global 300 Utilities,FTSE CNBC Global 300 Utilities,FTFCNBCG7500,USD,primary_sectors,global_indices
+906,world,FTSE CNBC Global 300 Telecommunications,FTSE CNBC Global 300 Telecommunications,FTFCNBCG6500,USD,primary_sectors,global_indices
+907,world,FTSE CNBC Global 300 Travel & Leisure,FTSE CNBC Global 300 Travel & Leisure,FTFCNBCG5700,USD,primary_sectors,global_indices
+908,world,FTSE CNBC Global 300 Media,FTSE CNBC Global 300 Media,FTFCNBCG5500,USD,primary_sectors,global_indices
+909,world,FTSE NAREIT Real Estate 50,FTSE NAREIT Real Estate 50,FTFNR5,USD,primary_sectors,global_indices
+910,world,STOXX Asia/Pacific 600 Food & Beverage USD Price,STOXX Asia/Pacific 600 Food & Beverage USD Price,SXP1FOB,USD,primary_sectors,global_indices
+911,world,STOXX Asia/Pacific 600 Health Care EUR Price,STOXX Asia/Pacific 600 Health Care EUR Price,SXP1HCRE,EUR,primary_sectors,global_indices
+912,world,STOXX Asia/Pacific 600 Health Care USD Price,STOXX Asia/Pacific 600 Health Care USD Price,SXP1HCR,USD,primary_sectors,global_indices
+913,world,STOXX Asia/Pacific 600 Real Estate EUR Price,STOXX Asia/Pacific 600 Real Estate EUR Price,AXAPREP,EUR,primary_sectors,global_indices
+914,world,STOXX Asia/Pacific 600 Oil & Gas USD Price,STOXX Asia/Pacific 600 Oil & Gas USD Price,SXP1ENE,USD,primary_sectors,global_indices
+915,world,STOXX Asia/Pacific 600 Oil & Gas EUR Price,STOXX Asia/Pacific 600 Oil & Gas EUR Price,SXP1ENEE,EUR,primary_sectors,global_indices
+916,world,STOXX Asia/Pacific 600 Media USD Price,STOXX Asia/Pacific 600 Media USD Price,SXP1MDI,USD,primary_sectors,global_indices
+917,world,STOXX Asia/Pacific 600 Media EUR Price,STOXX Asia/Pacific 600 Media EUR Price,SXP1MDIE,EUR,primary_sectors,global_indices
+918,world,STOXX Asia/Pacific 600 Banks USD Price,STOXX Asia/Pacific 600 Banks USD Price,SXP1BNK,USD,primary_sectors,global_indices
+919,world,STOXX Asia/Pacific 600 Banks EUR Price,STOXX Asia/Pacific 600 Banks EUR Price,SXP1BNKE,EUR,primary_sectors,global_indices
+920,world,STOXX Asia/Pacific 600 Utilities USD Price,STOXX Asia/Pacific 600 Utilities USD Price,SXP1UTI,USD,primary_sectors,global_indices
+921,world,STOXX Asia/Pacific 600 Utilities EUR Price,STOXX Asia/Pacific 600 Utilities EUR Price,SXP1UTIE,EUR,primary_sectors,global_indices
+922,world,STOXX Asia/Pacific 600 Travel & Leisure USD Price,STOXX Asia/Pacific 600 Travel & Leisure USD Price,SXP1CGS,USD,primary_sectors,global_indices
+923,world,STOXX Asia/Pacific 600 Travel & Leisure EUR Price,STOXX Asia/Pacific 600 Travel & Leisure EUR Price,SXP1CGSE,EUR,primary_sectors,global_indices
+924,world,STOXX Asia/Pacific 600 Telecommunications USD Pric,STOXX Asia/Pacific 600 Telecommunications USD Price,SXP1TLS,USD,primary_sectors,global_indices
+925,world,STOXX Asia/Pacific 600 Telecommunications EUR Pric,STOXX Asia/Pacific 600 Telecommunications EUR Price,SXP1TLSE,EUR,primary_sectors,global_indices
+926,world,STOXX Asia/Pacific 600 Technology USD Price,STOXX Asia/Pacific 600 Technology USD Price,SXP1TEC,USD,primary_sectors,global_indices
+927,world,STOXX Asia/Pacific 600 Technology EUR Price,STOXX Asia/Pacific 600 Technology EUR Price,SXP1TECE,EUR,primary_sectors,global_indices
+928,world,STOXX Asia/Pacific 600 Personal & Household Goods,STOXX Asia/Pacific 600 Personal & Household Goods USD Price,SXP1NCG,USD,primary_sectors,global_indices
+929,world,STOXX Asia/Pacific 600 Personal & Household Goods,STOXX Asia/Pacific 600 Personal & Household Goods EUR Price,SXP1NCGE,EUR,primary_sectors,global_indices
+930,world,STOXX Asia/Pacific 600 Insurance USD Price,STOXX Asia/Pacific 600 Insurance USD Price,SXP1INS,USD,primary_sectors,global_indices
+931,world,STOXX Asia/Pacific 600 Insurance EUR Price,STOXX Asia/Pacific 600 Insurance EUR Price,SXP1INSE,EUR,primary_sectors,global_indices
+932,world,STOXX Asia/Pacific 600 Industrial Goods & Services,STOXX Asia/Pacific 600 Industrial Goods & Services USD Price,SXP1IGS,USD,primary_sectors,global_indices
+933,world,STOXX Asia/Pacific 600 Industrial Goods & Services,STOXX Asia/Pacific 600 Industrial Goods & Services EUR Price,SXP1IGSE,EUR,primary_sectors,global_indices
+934,world,BNY Mellon Utilities Classic ADR,BNY Mellon Utilities Classic ADR,BKCUT,USD,primary_sectors,global_indices
+935,world,Robo-Stox Global Robotics Automatio,Robo-Stox Global Robotics Automation UCITS,ROBOT,USD,other_indices,global_indices
+936,world,BNY Mellon Latin Telecom ADR,BNY Mellon Latin Telecom ADR,BKLTL,USD,primary_sectors,global_indices
+937,world,BNY Mellon Consumer Services Classic ADR,BNY Mellon Consumer Services Classic ADR,BKCSC,USD,primary_sectors,global_indices
+938,world,DJ Americas Oil & Gas,Dow Jones Americas Oil & Gas,A1ENE,USD,primary_sectors,global_indices
+939,world,STOXX 600 Optimised Banks EUR NR,STOXX 600 Optimised Banks EUR NR,SXO7R,EUR,primary_sectors,global_indices
+940,world,STOXX Telecom EUR Price,STOXX Telecom EUR Price,SXKE,EUR,primary_sectors,global_indices
+941,world,STOXX Insurance EUR Price,STOXX Insurance EUR Price,SXIE,EUR,primary_sectors,global_indices
+942,world,STOXX 600 Health Care Short EUR GR,STOXX 600 Health Care Short EUR GR,SXDRS,EUR,primary_sectors,global_indices
+943,world,STOXX Banks EUR Price,STOXX Banks EUR Price,SX7E,EUR,primary_sectors,global_indices
+944,world,MSCI World Utilities Net USD,MSCI World Utilities Net USD,MIWO0UT00NUS,USD,primary_sectors,global_indices
+945,world,MSCI World Telecom Srvcs Net USD,MSCI World Telecom Srvcs Net USD,MIWO0TC00NUS,USD,primary_sectors,global_indices
+946,world,MSCI World RE Price USD,MSCI World RE Price USD,MIWO0RE00PUS,USD,primary_sectors,global_indices
+947,world,DJ Americas Financials,Dow Jones Americas Financials,A1FIN,USD,primary_sectors,global_indices
+948,world,MSCI World Info Tech Net USD,MSCI World Info Tech Net USD,MIWO0IT00NUS,USD,primary_sectors,global_indices
+949,world,MSCI World Health Care Net USD,MSCI World Health Care Net USD,MIWO0HC00NUS,USD,primary_sectors,global_indices
+950,world,MSCI Intl World Financials Net USD,MSCI Intl World Financials Net USD,MIWO0FN00NUS,USD,primary_sectors,global_indices
+951,world,MSCI World Energy Sector Net USD,MSCI World Energy Sector Net USD,MIWO0EN00NUS,USD,primary_sectors,global_indices
+952,world,MSCI EM Utilities Sector Net USD,MSCI EM Utilities Sector Net USD,MIEF0UT00NUS,USD,primary_sectors,global_indices
+953,world,MSCI EM Telecom Srvcs Net USD,MSCI EM Telecom Srvcs Net USD,MIEF0TC00NUS,USD,primary_sectors,global_indices
+954,world,MSCI EM Information Tech Net USD,MSCI EM Information Tech Net USD,MIEF0IT00NUS,USD,primary_sectors,global_indices
+955,world,MSCI EM Industrials Net USD,MSCI EM Industrials Net USD,MIEF0IN00NUS,USD,primary_sectors,global_indices
+956,world,MSCI EM Health Care Net USD,MSCI EM Health Care Net USD,MIEF0HC00NUS,USD,primary_sectors,global_indices
+957,world,MSCI EM Financials Net USD,MSCI EM Financials Net USD,MIEF0FN00NUS,USD,primary_sectors,global_indices
+958,world,MSCI World Industrials Net USD,MSCI World Industrials Net USD,MIWO0IN00NUS,USD,primary_sectors,global_indices
+959,world,MSCI World Industrials 10 40,MSCI World Industrials 10 40,MIWO0IN0TPUS,USD,primary_sectors,global_indices
+960,world,DJ Americas Health Care,Dow Jones Americas Health Care,A1HCR,USD,primary_sectors,global_indices
+961,world,DJ Americas Technology,Dow Jones Americas Technology,A1TEC,USD,primary_sectors,global_indices
+962,world,DJ Emerg MKT Utilities 30 EUR,Dow Jones Emerging Markets Utilities Titans 30 EUR,DJEUTE,EUR,primary_sectors,global_indices
+963,world,DJ Emerg MKT Utilities Titans 30,Dow Jones Emerging Markets Utilities Titans 30,DJEUT,USD,primary_sectors,global_indices
+964,world,DJ Emerg Markets Tech Titans 30 EUR,Dow Jones Emerging Markets Technology Titans 30 EUR,DJETXE,EUR,primary_sectors,global_indices
+965,world,DJ Emerg Markets Tech Titans 30,Dow Jones Emerging Markets Technology Titans 30,DJETX,USD,primary_sectors,global_indices
+966,world,DJ Emerg MKT Telecom Titans 30 EUR,Dow Jones Emerging Markets Telecommunications Titans 30 EUR,DJETSE,EUR,primary_sectors,global_indices
+967,world,DJ Emerg Markets Telecom Titans 30,Dow Jones Emerging Markets Telecommunications Titans 30,DJETS,USD,primary_sectors,global_indices
+968,world,DJ Emerg MKT Health Care 30 EUR,Dow Jones Emerging Markets Health Care Titans 30 EUR,DJEHKE,EUR,primary_sectors,global_indices
+969,world,DJ Emerg MKT Health Care Titans 30,Dow Jones Emerging Markets Health Care Titans 30,DJEHK,USD,primary_sectors,global_indices
+970,world,DJ Emerg Markets Fin Titans 30 EUR,Dow Jones Emerging Markets Financials Titans 30 EUR,DJEFNE,EUR,primary_sectors,global_indices
+971,world,DJ Americas Consumer Goods,Dow Jones Americas Consumer Goods,A1NCY,USD,primary_sectors,global_indices
+972,world,DJ Emerg Markets Fin Titans 30,Dow Jones Emerging Markets Financials Titans 30,DJEFN,USD,primary_sectors,global_indices
+973,world,DJ Emerg Markets Oil Gas Titans 30,Dow Jones Emerging Markets Oil & Gas Titans 30,DJEEO,USD,primary_sectors,global_indices
+974,world,DJ Emerg MKT Consumer Goods 30,Dow Jones Emerging Markets Consumer Goods Titans 30,DJECG,USD,primary_sectors,global_indices
+975,world,DJ Emerg MKT Basic Materials 30 EUR,Dow Jones Emerging Markets Basic Materials Titans 30 EUR,DJEBME,EUR,primary_sectors,global_indices
+976,world,DJ Brook Emerg Markets Infra  EUR,Dow Jones Brookfield Emerging Markets Infrastructure EUR,DJBIEME,EUR,primary_sectors,global_indices
+977,world,DJ Brook Global Infra NA CAD,Dow Jones Brookfield Global Infrastructure North American Listed CAD,DJBGINAC,CAD,primary_sectors,global_indices
+978,world,DJ Brook Global Infra EUR,Dow Jones Brookfield Global Infrastructure EUR,DJBGIE,EUR,primary_sectors,global_indices
+979,world,DJ Brook Global Infra USD,Dow Jones Brookfield Global Infrastructure USD,DJBGI,USD,primary_sectors,global_indices
+980,world,DJ Americas Utilities,Dow Jones Americas Utilities,A1UTI,USD,primary_sectors,global_indices
+981,world,DJ Americas Telecommunications,Dow Jones Americas Telecommunications,A1TLS,USD,primary_sectors,global_indices
+982,world,DJ Emerg MKT Oil Gas Titans 30 EUR,Dow Jones Emerging Markets Oil & Gas Titans 30 EUR,DJEEOE,EUR,primary_sectors,global_indices
+983,world,DJ Islamic Market Oil & Gas,Dow Jones Islamic Market Oil & Gas,DJIENE,USD,primary_sectors,global_indices
+984,world,MSCI World Telecom 10 40,MSCI World Telecom 10 40,MIWO0TC0TPUS,USD,primary_sectors,global_indices
+985,world,MSCI EM Telecom,MSCI EM Telecom,MIEF0TC00PUS,USD,primary_sectors,global_indices
+986,world,MSCI AC Asia Pacific x JP ConD,MSCI AC Asia Pacific x JP ConD,MIPFJCD00PUS,USD,primary_sectors,global_indices
+987,world,MSCI ACWI Utilities,MSCI ACWI Utilities,MIWD0UT00PUS,USD,primary_sectors,global_indices
+988,world,MSCI ACWI Industrials,MSCI ACWI Industrials,MIWD0IN00PUS,USD,primary_sectors,global_indices
+989,world,MSCI ACWI Health Care,MSCI ACWI Health Care,MIWD0HC00PUS,USD,primary_sectors,global_indices
+990,world,KBW Insurance,KBW Insurance,KIX,USD,primary_sectors,global_indices
+991,world,KBW Bank,KBW Bank,BKX,USD,primary_sectors,global_indices
+992,world,FTSE World,FTSE World,FTWORLDSR,USD,major_indices,global_indices
+993,world,FTSE BBC Global 30,FTSE BBC Global 30,FTBBC30,GBP,major_indices,global_indices
+994,world,FTSE Asia Pacific,FTSE Asia Pacific,FTAWPACSR,USD,major_indices,global_indices
+995,world,MSCI AC Asia Pacific x JP Ener,MSCI AC Asia Pacific x JP Ener,MIPFJEN00PUS,USD,primary_sectors,global_indices
+996,world,FTSE All World,FTSE All World,FTAWORLDSR,USD,major_indices,global_indices
+997,world,NQ Global,NASDAQ Global,NQGI,USD,major_indices,global_indices
+998,world,BNY Mellon International 100 ADR,BNY Mellon International 100 ADR,BKTADR,USD,major_indices,global_indices
+999,world,DJ Global,Dow Jones Global,W1DOW,USD,major_indices,global_indices
+1000,world,The Global Dow EUR,The Global Dow EUR,GDOWE,EUR,major_indices,global_indices
+1001,world,The Global Dow USD,The Global Dow USD,GDOW,USD,major_indices,global_indices
+1002,world,MSCI World,MSCI World,MIWO00000PUS,USD,major_indices,global_indices
+1003,world,MSCI AC World Equity,MSCI All-Country World Equity Index,MIWD00000PUS,USD,major_indices,global_indices
+1004,world,FTSE Global 100,FTSE Global 100,FTMN1XR,USD,major_indices,global_indices
+1005,world,S&P Global 100,S&P Global 100,OOI,USD,major_indices,global_indices
+1006,world,FTSE4Good Global 100,FTSE4Good Global 100,FT4GDGLOB100,USD,major_indices,global_indices
+1007,world,MSCI EM Utilities,MSCI EM Utilities,MIEF0UT00PUS,USD,primary_sectors,global_indices
+1008,world,MSCI AC Asia Pacific x JP HC,MSCI AC Asia Pacific x JP HC,MIPFJHC00PUS,USD,primary_sectors,global_indices
+1009,world,MSCI AC Asia Pacific x JP Ut,MSCI AC Asia Pacific x JP Ut,MIPFJUT00PUS,USD,primary_sectors,global_indices
+1010,world,MSCI EM Industrials,MSCI EM Industrials,MIEF0IN00PUS,USD,primary_sectors,global_indices
+1011,world,MSCI EM Health Care,MSCI EM Health Care,MIEF0HC00PUS,USD,primary_sectors,global_indices
+1012,world,MSCI EM Financials,MSCI EM Financials,MIEF0FN00PUS,USD,primary_sectors,global_indices
+1013,world,MSCI EM Energy,MSCI EM Energy,MIEF0EN00PUS,USD,primary_sectors,global_indices
+1014,world,MSCI EAFE Utilities,MSCI EAFE Utilities,MIEA0UT00PUS,USD,primary_sectors,global_indices
+1015,world,MSCI EAFE Telecom,MSCI EAFE Telecom,MIEA0TC00PUS,USD,primary_sectors,global_indices
+1016,world,MSCI EAFE Industrials,MSCI EAFE Industrials,MIEA0IN00PUS,USD,primary_sectors,global_indices
+1017,world,MSCI EAFE Health Care,MSCI EAFE Health Care,MIEA0HC00PUS,USD,primary_sectors,global_indices
+1018,world,MSCI EAFE Financials,MSCI EAFE Financials,MIEA0FN00PUS,USD,primary_sectors,global_indices
+1019,world,MSCI AC Asia Pacific x JP Fin,MSCI AC Asia Pacific x JP Fin,MIPFJFN00PUS,USD,primary_sectors,global_indices
+1020,world,MSCI Kokusai Utilities,MSCI Kokusai Utilities,MIKO0UT00PUS,USD,primary_sectors,global_indices
+1021,world,MSCI Kokusai Health Care,MSCI Kokusai Health Care,MIKO0HC00PUS,USD,primary_sectors,global_indices
+1022,world,MSCI Kokusai Financials,MSCI Kokusai Financials,MIKO0FN00PUS,USD,primary_sectors,global_indices
+1023,world,MSCI Kokusai Energy,MSCI Kokusai Energy,MIKO0EN00PUS,USD,primary_sectors,global_indices
+1024,world,MSCI World Utilities,MSCI World Utilities,MIWO0UT00PUS,USD,primary_sectors,global_indices
+1025,world,MSCI World Telecom,MSCI World Telecom,MIWO0TC00PUS,USD,primary_sectors,global_indices
+1026,world,MSCI World Industrials,MSCI World Industrials,MIWO0IN00PUS,USD,primary_sectors,global_indices
+1027,world,MSCI World Health Care,MSCI World Health Care,MIWO0HC00PUS,USD,primary_sectors,global_indices
+1028,world,MSCI World Financials,MSCI World Financials,MIWO0FN00PUS,USD,primary_sectors,global_indices
+1029,world,MSCI World Energy,MSCI World Energy,MIWO0EN00PUS,USD,primary_sectors,global_indices
+1030,world,MSCI Kokusai Telecom,MSCI Kokusai Telecom,MIKO0TC00PUS,USD,primary_sectors,global_indices
+1031,world,DJ Islamic Market Financials,Dow Jones Islamic Market Financials,DJIFIN,USD,primary_sectors,global_indices
+1032,world,DJ Islamic Market Health Care,Dow Jones Islamic Market Health Care,DJIHCR,USD,primary_sectors,global_indices
+1033,world,DJ Israel Select Health Care,Dow Jones Israel Select Health Care,DJILSHC,ILS,primary_sectors,global_indices
+1034,world,DJ Emerging Markets Financials,Dow Jones Emerging Markets Financials,W5FIN,USD,primary_sectors,global_indices
+1035,world,DJ Emerging Markets Oil & Gas,Dow Jones Emerging Markets Oil & Gas,W5ENE,USD,primary_sectors,global_indices
+1036,world,DJ Emerging Markets Basic Materials,Dow Jones Emerging Markets Basic Materials,W5BSC,USD,primary_sectors,global_indices
+1037,world,DJ Dev Markets ex-US Utilities,Dow Jones Developed Markets ex-US Utilities,W4UTI,USD,primary_sectors,global_indices
+1038,world,DJ Developed Markets ex-US Telecom,Dow Jones Developed Markets ex-US Telecommunications,W4TLS,USD,primary_sectors,global_indices
+1039,world,DJ Dev Markets ex-US Technology,Dow Jones Developed Markets ex-US Technology,W4TEC,USD,primary_sectors,global_indices
+1040,world,DJ Dev Markets ex-US Health Care,Dow Jones Developed Markets ex-US Health Care,W4HCR,USD,primary_sectors,global_indices
+1041,world,DJ Developed Markets ex-US Fin,Dow Jones Developed Markets ex-US Financials,W4FIN,USD,primary_sectors,global_indices
+1042,world,DJ Developed Markets ex-US Oil Gas,Dow Jones Developed Markets ex-US Oil & Gas,W4ENE,USD,primary_sectors,global_indices
+1043,world,DJ Emerging Markets Health Care,Dow Jones Emerging Markets Health Care,W5HCR,USD,primary_sectors,global_indices
+1044,world,DJ Dev Markets exUS Basic Materials,Dow Jones Developed Markets ex-US Basic Materials,W4BSC,USD,primary_sectors,global_indices
+1045,world,DJ Developed Markets Telecom,Dow Jones Developed Markets Telecommunications,W3TLS,USD,primary_sectors,global_indices
+1046,world,DJ Developed Markets Technology,Dow Jones Developed Markets Technology,W3TEC,USD,primary_sectors,global_indices
+1047,world,DJ Developed Markets Health Care,Dow Jones Developed Markets Health Care,W3HCR,USD,primary_sectors,global_indices
+1048,world,DJ Developed Markets Financials,Dow Jones Developed Markets Financials,W3FIN,USD,primary_sectors,global_indices
+1049,world,DJ Developed Markets Oil & Gas,Dow Jones Developed Markets Oil & Gas,W3ENE,USD,primary_sectors,global_indices
+1050,world,DJ Global ex-U.S. Utilities,Dow Jones Global ex-US Utilities,W2UTI,USD,primary_sectors,global_indices
+1051,world,DJ Global ex-US Telecom,Dow Jones Global ex-US Telecommunications,W2TLS,USD,primary_sectors,global_indices
+1052,world,DJ Global ex-U.S. Technology,Dow Jones Global ex-US Technology,W2TEC,USD,primary_sectors,global_indices
+1053,world,DJ Global ex-US Consumer Goods,Dow Jones Global ex-US Consumer Goods,W2NCY,USD,primary_sectors,global_indices
+1054,world,DJ Developed Markets Utilities,Dow Jones Developed Markets Utilities,W3UTI,USD,primary_sectors,global_indices
+1055,world,DJ Global ex-US Industrials,Dow Jones Global ex-US Industrials,W2IDU,USD,primary_sectors,global_indices
+1056,world,DJ Emerging Markets Technology,Dow Jones Emerging Markets Technology,W5TEC,USD,primary_sectors,global_indices
+1057,world,DJ Emerging Markets Utilities,Dow Jones Emerging Markets Utilities,W5UTI,USD,primary_sectors,global_indices
+1058,world,BNY Mellon Telecommunications Classic ADR,BNY Mellon Telecommunications Classic ADR,BKCTC,USD,primary_sectors,global_indices
+1059,world,BNY Mellon Basic Materials Classic ADR,BNY Mellon Basic Materials Classic ADR,BKCBM,USD,primary_sectors,global_indices
+1060,world,BNY Mellon Consumer Goods Classic ADR,BNY Mellon Consumer Goods Classic ADR,BKCGC,USD,primary_sectors,global_indices
+1061,world,BNY Mellon Health Care Classic ADR,BNY Mellon Health Care Classic ADR,BKCHC,USD,primary_sectors,global_indices
+1062,world,BNY Mellon Industrials Classic ADR,BNY Mellon Industrials Classic ADR,BKCIU,USD,primary_sectors,global_indices
+1063,world,BNY Mellon Financials Classic ADR,BNY Mellon Financials Classic ADR,BKCFN,USD,primary_sectors,global_indices
+1064,world,DJ Equity REIT,Dow Jones Equity REIT,DJR,USD,primary_sectors,global_indices
+1065,world,DJ Global ex-Asia/Pacific Utilities,Dow Jones Global ex-Asia/Pacific Utilities,W9UTI,USD,primary_sectors,global_indices
+1066,world,DJ Global ex-Asia/Pacific Telecom,Dow Jones Global ex-Asia/Pacific Telecommunications,W9TLS,USD,primary_sectors,global_indices
+1067,world,DJ Emerging Markets Telecom,Dow Jones Emerging Markets Telecommunications,W5TLS,USD,primary_sectors,global_indices
+1068,world,DJ Global ex-Asia/Pacific Tech,Dow Jones Global ex-Asia/Pacific Technology,W9TEC,USD,primary_sectors,global_indices
+1069,world,DJ Global ex-Asia/Pacific Fin,Dow Jones Global ex-Asia/Pacific Financials,W9FIN,USD,primary_sectors,global_indices
+1070,world,DJ Global ex-Asia/Pacific Oil Gas,Dow Jones Global ex-Asia/Pacific Oil & Gas,W9ENE,USD,primary_sectors,global_indices
+1071,world,DJ Global ex-Europe Utilities,Dow Jones Global ex-Europe Utilities,W8UTI,USD,primary_sectors,global_indices
+1072,world,DJ Global ex-Europe Telecom,Dow Jones Global ex-Europe Telecommunications,W8TLS,USD,primary_sectors,global_indices
+1073,world,DJ Global ex-Europe Technology,Dow Jones Global ex-Europe Technology,W8TEC,USD,primary_sectors,global_indices
+1074,world,DJ Global ex-Europe Health Care,Dow Jones Global ex-Europe Health Care,W8HCR,USD,primary_sectors,global_indices
+1075,world,DJ Global ex-Europe Financials,Dow Jones Global ex-Europe Financials,W8FIN,USD,primary_sectors,global_indices
+1076,world,DJ Global ex-Europe Oil & Gas,Dow Jones Global ex-Europe Oil & Gas,W8ENE,USD,primary_sectors,global_indices
+1077,world,DJ Global ex-Europe Basic Materials,Dow Jones Global ex-Europe Basic Materials,W8BSC,USD,primary_sectors,global_indices
+1078,world,DJ Glob ex-Asia/Pacific Health Care,Dow Jones Global ex-Asia/Pacific Health Care,W9HCR,USD,primary_sectors,global_indices
+1079,world,DJ Global ex-U.S. Health Care,Dow Jones Global ex-US Health Care,W2HCR,USD,primary_sectors,global_indices
+1080,world,DJ Global ex-U.S. Financials,Dow Jones Global ex-US Financials,W2FIN,USD,primary_sectors,global_indices
+1081,world,DJ Global ex-U.S. Oil & Gas,Dow Jones Global ex-US Oil & Gas,W2ENE,USD,primary_sectors,global_indices
+1082,world,DJ Personal Household Goods 30,Dow Jones Personal & Household Goods Titans 30,DJTNCG,USD,primary_sectors,global_indices
+1083,world,DJ Insurance Titans 30 EUR,Dow Jones Insurance Titans 30 EUR,DJTINNE,EUR,primary_sectors,global_indices
+1084,world,DJ Insurance Titans 30,Dow Jones Insurance Titans 30,DJTINN,USD,primary_sectors,global_indices
+1085,world,DJ Health Care Titans 30 EUR,Dow Jones Health Care Titans 30 EUR,DJTHCAE,EUR,primary_sectors,global_indices
+1086,world,DJ Health Care Titans 30,Dow Jones Health Care Titans 30,DJTHCA,USD,primary_sectors,global_indices
+1087,world,DJ Financial Services Titans 30 EUR,Dow Jones Financial Services Titans 30 EUR,DJTFVSE,EUR,primary_sectors,global_indices
+1088,world,DJ Food Beverage Titans 30 EUR,Dow Jones Food & Beverage Titans 30 EUR,DJTFOBE,EUR,primary_sectors,global_indices
+1089,world,DJ Food & Beverage Titans 30,Dow Jones Food & Beverage Titans 30,DJTFOB,USD,primary_sectors,global_indices
+1090,world,DJ Oil & Gas Titans 30 EUR,Dow Jones Oil & Gas Titans 30 EUR,DJTENGE,EUR,primary_sectors,global_indices
+1091,world,DJ Real Estate Titans 30,Dow Jones Real Estate Titans 30,DJTREA,USD,primary_sectors,global_indices
+1092,world,DJ Oil & Gas Titans 30,Dow Jones Oil & Gas Titans 30,DJTENG,USD,primary_sectors,global_indices
+1093,world,DJ Construction Materials Titans 30,Dow Jones Construction & Materials Titans 30,DJTCNS,USD,primary_sectors,global_indices
+1094,world,DJ Chemicals Titans 30,Dow Jones Chemicals Titans 30,DJTCHE,USD,primary_sectors,global_indices
+1095,world,DJ Banks Titans 30 EUR,Dow Jones Banks Titans 30 EUR,DJTBAKE,EUR,primary_sectors,global_indices
+1096,world,DJ Banks Titans 30,Dow Jones Banks Titans 30,DJTBAK,USD,primary_sectors,global_indices
+1097,world,DJ Auto Parts Titans 30 EUR,Dow Jones Automobiles & Parts Titans 30 EUR,DJTATOE,EUR,primary_sectors,global_indices
+1098,world,DJ Automobiles Parts Titans 30,Dow Jones Automobiles & Parts Titans 30,DJTATO,USD,primary_sectors,global_indices
+1099,world,DJ Islamic Market Utilities,Dow Jones Islamic Market Utilities,DJIUTI,USD,primary_sectors,global_indices
+1100,world,DJ Islamic Market Telecom,Dow Jones Islamic Market Telecommunications,DJITLS,USD,primary_sectors,global_indices
+1101,world,DJ Islamic Market Technology,Dow Jones Islamic Market Technology,DJITEC,USD,primary_sectors,global_indices
+1102,world,DJ Construction Materials 30 EUR,Dow Jones Construction & Materials Titans 30 EUR,DJTCNSE,EUR,primary_sectors,global_indices
+1103,world,DJ Real Estate Titans 30 EUR,Dow Jones Real Estate Titans 30 EUR,DJTREAE,EUR,primary_sectors,global_indices
+1104,world,DJ Retail Titans 30,Dow Jones Retail Titans 30,DJTRET,USD,primary_sectors,global_indices
+1105,world,DJ Retail Titans 30 EUR,Dow Jones Retail Titans 30 EUR,DJTRETE,EUR,primary_sectors,global_indices
+1106,world,DJ Global Utilities,Dow Jones Global Utilities,W1UTI,USD,primary_sectors,global_indices
+1107,world,DJ Global Telecommunications,Dow Jones Global Telecommunications,W1TLS,USD,primary_sectors,global_indices
+1108,world,DJ Global Technology,Dow Jones Global Technology,W1TEC,USD,primary_sectors,global_indices
+1109,world,DJ Global Consumer Goods,Dow Jones Global Consumer Goods,W1NCY,USD,primary_sectors,global_indices
+1110,world,DJ Global Health Care,Dow Jones Global Health Care,W1HCR,USD,primary_sectors,global_indices
+1111,world,DJ Global Financials,Dow Jones Global Financials,W1FIN,USD,primary_sectors,global_indices
+1112,world,DJ Global Oil Gas,Dow Jones Global Oil & Gas,W1ENE,USD,primary_sectors,global_indices
+1113,world,DJ Middle East Africa Select REIT,Dow Jones Middle East & Africa Select REIT,DWMFRT,USD,primary_sectors,global_indices
+1114,world,DJ Middle East Africa Real Estate,Dow Jones Middle East & Africa Select Real Estate Securities,DWMFRS,USD,primary_sectors,global_indices
+1115,world,DJ Global Select REIT,Dow Jones Global Select REIT,DWGRT,USD,primary_sectors,global_indices
+1116,world,DJ Europe Dev MKT Select REIT EUR,Dow Jones Europe Developed Markets Select REIT EUR,DWEDRTE,EUR,primary_sectors,global_indices
+1117,world,DJ Europe Dev MKT Select REIT USD,Dow Jones Europe Developed Markets Select REIT USD,DWEDRT,USD,primary_sectors,global_indices
+1118,world,DJ Asia/Pacific Select REIT,Dow Jones Asia/Pacific Select REIT,DWAPRT,USD,primary_sectors,global_indices
+1119,world,DJ Asia/Pacific Select Real Estate,Dow Jones Asia/Pacific Select Real Estate Securities,DWAPRS,USD,primary_sectors,global_indices
+1120,world,DJ Americas Select REIT,Dow Jones Americas Select REIT,DWAMRT,USD,primary_sectors,global_indices
+1121,world,DJ Utilities Titans 30 EUR,Dow Jones Utilities Titans 30 EUR,DJTUTSE,EUR,primary_sectors,global_indices
+1122,world,DJ Utilities Titans 30,Dow Jones Utilities Titans 30,DJTUTS,USD,primary_sectors,global_indices
+1123,world,DJ Technology Titans 30 EUR,Dow Jones Technology Titans 30 EUR,DJTTHEE,EUR,primary_sectors,global_indices
+1124,world,DJ Technology Titans 30,Dow Jones Technology Titans 30,DJTTHE,USD,primary_sectors,global_indices
+1125,world,DJ Telecom Titans 30 EUR,Dow Jones Telecommunications Titans 30 EUR,DJTTELE,EUR,primary_sectors,global_indices
+1126,world,DJ Telecom Titans 30,Dow Jones Telecommunications Titans 30,DJTTEL,USD,primary_sectors,global_indices
+1127,world,BNY Mellon Oil & Gas Classic ADR,BNY Mellon Oil & Gas Classic ADR,BKCOG,USD,primary_sectors,global_indices
+1128,world,STOXX Global 1800 ex Asia/Pacific Industrial Goods,STOXX Global 1800 ex Asia/Pacific Industrial Goods & Services USD Price,SXW9IGS,USD,primary_sectors,global_indices
+1129,world,STOXX Global 1800 ex Asia/Pacific Food & Beverage,STOXX Global 1800 ex Asia/Pacific Food & Beverage USD Price,SXW9FOB,USD,primary_sectors,global_indices
+1130,world,STOXX Global 1800 ex Asia/Pacific Telecommunicatio,STOXX Global 1800 ex Asia/Pacific Telecommunications USD Price,SXW9TLS,USD,primary_sectors,global_indices
+1131,world,MSCI EM IT,MSCI EM IT,MIEF0IT00PUS,USD,other_indices,global_indices
+1132,world,MSCI EM Consumer Staples,MSCI EM Consumer Staples,MIEF0CS00PUS,USD,other_indices,global_indices
+1133,world,MSCI EM Consumer Discretionary,MSCI EM Consumer Discretionary,MIEF0CD00PUS,USD,other_indices,global_indices
+1134,world,MSCI EAFE Materials,MSCI EAFE Materials,MIEA0MT00PUS,USD,other_indices,global_indices
+1135,world,MSCI EAFE IT,MSCI EAFE IT,MIEA0IT00PUS,USD,other_indices,global_indices
+1136,world,MSCI EAFE Consumer Staples,MSCI EAFE Consumer Staples,MIEA0CS00PUS,USD,other_indices,global_indices
+1137,world,MSCI Kokusai IT,MSCI Kokusai IT,MIKO0IT00PUS,USD,other_indices,global_indices
+1138,world,MSCI Kokusai Consumer Staples,MSCI Kokusai Consumer Staples,MIKO0CS00PUS,USD,other_indices,global_indices
+1139,world,MSCI EAFE Energy,MSCI EAFE Energy,MIEA0EN00PUS,USD,other_indices,global_indices
+1140,world,MSCI EM Materials,MSCI EM Materials,MIEF0MT00PUS,USD,other_indices,global_indices
+1141,world,MSCI EAFE Consumer Disc,MSCI EAFE Consumer Disc,MIEA0CD00PUS,USD,other_indices,global_indices
+1142,world,MSCI Kokusai Industrials,MSCI Kokusai Industrials,MIKO0IN00PUS,USD,other_indices,global_indices
+1143,world,MSCI Kokusai Consumer Disc,MSCI Kokusai Consumer Disc,MIKO0CD00PUS,USD,other_indices,global_indices
+1144,world,MSCI World Materials,MSCI World Materials,MIWO0MT00PUS,USD,other_indices,global_indices
+1145,world,MSCI World IT,MSCI World IT,MIWO0IT00PUS,USD,other_indices,global_indices
+1146,world,MSCI World Consumer Staples,MSCI World Consumer Staples,MIWO0CS00PUS,USD,other_indices,global_indices
+1147,world,MSCI World Consumer Disc,MSCI World Consumer Disc,MIWO0CD00PUS,USD,other_indices,global_indices
+1148,world,MSCI AC Asia Pacific x JP Tel,MSCI AC Asia Pacific x JP Tel,MIPFJTC00PUS,USD,other_indices,global_indices
+1149,world,MSCI AC Asia Pacific x JP Mat,MSCI AC Asia Pacific x JP Mat,MIPFJMT00PUS,USD,other_indices,global_indices
+1150,world,MSCI AC Asia Pacific x JP It,MSCI AC Asia Pacific x JP It,MIPFJIT00PUS,USD,other_indices,global_indices
+1151,world,MSCI Kokusai Materials,MSCI Kokusai Materials,MIKO0MT00PUS,USD,other_indices,global_indices
+1152,world,MSCI AC Asia Pacific x JP,MSCI AC Asia Pacific x JP,MIPFJIN00PUS,USD,other_indices,global_indices
+1153,world,MSCI EM Latin America 10 40,MSCI EM Latin America 10 40,MILA0000TPUS,USD,other_indices,global_indices
+1154,world,MSCI ACWI FX Hedge,MSCI All Country World FX Hedge,MIWD00000FUS,USD,other_indices,global_indices
+1155,world,STXE 50 Nrt,STXE 50 Nrt,STOXX50R,EUR,other_indices,global_indices
+1156,world,STXE Sd 30 PR,STXE Sd 30 PR,SD3P,EUR,other_indices,global_indices
+1157,world,Topix TR Daily Euro Hedged,Topix TR Daily Euro Hedged,TOPIXTHE,EUR,other_indices,global_indices
+1158,world,FTSE EPRA/NAREIT Dev Europe NTR,FTSE EPRA/NAREIT Developed Europe Net TRI,TFTRPRAL,USD,other_indices,global_indices
+1159,world,FTSE EPRA/NAREIT US NTR,FTSE EPRA/NAREIT United States Net TRI,TFTRNUSU,USD,other_indices,global_indices
+1160,world,BRIC 40 Net TR,BRIC 40 Net TR,SPBRICNTR,USD,other_indices,global_indices
+1161,world,Private Equity TR,Private Equity TR,PRIVEXPD,USD,other_indices,global_indices
+1162,world,Ossiam World Min Var NTR,Ossiam World Min Var NTR,OWMVNR,USD,other_indices,global_indices
+1163,world,Ossiam EM Min Var NTR,Ossiam EM Min Var NTR,OEMMVNR,USD,other_indices,global_indices
+1164,world,MSCI World It 10 40,MSCI World It 10 40,MIWO0IT0TPUS,USD,other_indices,global_indices
+1165,world,Global Listed Privated Equity,Global Listed Privated Equity,GLPEX,USD,other_indices,global_indices
+1166,world,FTSE Rafi EM,FTSE Rafi EM,FTFREM,USD,other_indices,global_indices
+1167,world,FTSE Rafi De Ap X Jp,FTSE Rafi De Ap X Jp,FTFRDAPXJ,USD,other_indices,global_indices
+1168,world,FTSE Rafi Develop 1000,FTSE Rafi Develop 1000,FTFRD,USD,other_indices,global_indices
+1169,world,DJ BRIC 50,DJ BRIC 50,BRIC50D,USD,other_indices,global_indices
+1170,world,MSCI Pan Euro,MSCI Pan Euro,MSPE,EUR,other_indices,global_indices
+1171,world,MSCI World FX Hedge,MSCI World FX Hedge,MIWO00000FUS,USD,other_indices,global_indices
+1172,world,MSCI Pacific FX Hedge,MSCI Pacific FX Hedge,MIPC00000FUS,USD,other_indices,global_indices
+1173,world,MSCI EM FX Hedge,MSCI EM FX Hedge,MIEF00000FUS,USD,other_indices,global_indices
+1174,world,MSCI EAFE FX Hedge,MSCI EAFE FX Hedge,MIEA00000FUS,USD,other_indices,global_indices
+1175,world,FTSE Rafi Dv Eur Ms,FTSE Rafi Dv Eur Ms,FTFRSDEURS,USD,other_indices,global_indices
+1176,world,MSCI AC Asia Pacific x JP ConS,MSCI AC Asia Pacific x JP ConS,MIPFJCS00PUS,USD,other_indices,global_indices
+1177,world,MSCI ACWI Telecom Services,MSCI ACWI Telecom Services,MIWD0TC00PUS,USD,other_indices,global_indices
+1178,world,MSCI ACWI Materials,MSCI ACWI Materials,MIWD0MT00PUS,USD,other_indices,global_indices
+1179,world,MSCI EM Ex Asia,MSCI EM Ex Asia,MIEFZ0000PUS,USD,other_indices,global_indices
+1180,world,MSCI EM EMEA,MSCI EM EMEA,MIEE00000PUS,USD,other_indices,global_indices
+1181,world,MSCI EM Latin America,MSCI EM Latin America,MILA00000PUS,USD,other_indices,global_indices
+1182,world,MSCI EM Europe Middle East,MSCI EM Europe Middle East,MIMM00000PUS,USD,other_indices,global_indices
+1183,world,MSCI EM,MSCI EM,MIEF00000PUS,USD,other_indices,global_indices
+1184,world,MSCI World Ex USA,MSCI World Ex USA,MIWOU0000PUS,USD,other_indices,global_indices
+1185,world,MSCI World Ex UK,MSCI World Ex UK,MIWOG0000PUS,USD,other_indices,global_indices
+1186,world,MSCI World Ex Australia,MSCI World Ex Australia,MIWOO0000PUS,USD,other_indices,global_indices
+1187,world,MSCI World Ex Europe,MSCI World Ex Europe,MIWOE0000PUS,USD,other_indices,global_indices
+1188,world,MSCI EM Far East,MSCI EM Far East,MIMF00000PUS,USD,other_indices,global_indices
+1189,world,MSCI World Ex EMU,MSCI World Ex EMU,MIWOM0000PUS,USD,other_indices,global_indices
+1190,world,MSCI North America,MSCI North America,MINA00000PUS,USD,other_indices,global_indices
+1191,world,MSCI Nordic Countries,MSCI Nordic Countries,MIND00000PEU,EUR,other_indices,global_indices
+1192,world,MSCI Pacific,MSCI Pacific,MIPC00000PUS,USD,other_indices,global_indices
+1193,world,MSCI Kokusai World Ex Japan,MSCI Kokusai World Ex Japan,MIKO00000PUS,USD,other_indices,global_indices
+1194,world,MSCI G7,MSCI G7,MIGS00000PUS,USD,other_indices,global_indices
+1195,world,MSCI Far East,MSCI Far East,MIFA00000PUS,USD,other_indices,global_indices
+1196,world,MSCI EASEA Eafe Ex Japan,MSCI EASEA Eafe Ex Japan,MIEAJ0000PUS,USD,other_indices,global_indices
+1197,world,MSCI EAFE Ex UK,MSCI EAFE Ex UK,MIEAG0000PUS,USD,other_indices,global_indices
+1198,world,MSCI EAFE,MSCI EAFE,MIEA00000PUS,USD,other_indices,global_indices
+1199,world,MSCI Pacific Ex Japan,MSCI Pacific Ex Japan,MIPCJ0000PUS,USD,other_indices,global_indices
+1200,world,MSCI MSCI EFM,MSCI MSCI EFM,MI7900000PUS,USD,other_indices,global_indices
+1201,world,MSCI ACWI Large Cap,MSCI ACWI Large Cap,MIWD000L0PUS,USD,other_indices,global_indices
+1202,world,MSCI ACWI Mid Cap,MSCI ACWI Mid Cap,MIWD000M0PUS,USD,other_indices,global_indices
+1203,world,MSCI ACWI IT,MSCI ACWI IT,MIWD0IT00PUS,USD,other_indices,global_indices
+1204,world,MSCI ACWI Financials,MSCI ACWI Financials,MIWD0FN00PUS,USD,other_indices,global_indices
+1205,world,MSCI ACWI Energy,MSCI ACWI Energy,MIWD0EN00PUS,USD,other_indices,global_indices
+1206,world,MSCI ACWI Consumer Staples,MSCI ACWI Consumer Staples,MIWD0CS00PUS,USD,other_indices,global_indices
+1207,world,MSCI ACWI Consumer Disc,MSCI ACWI Consumer Disc,MIWD0CD00PUS,USD,other_indices,global_indices
+1208,world,MSCI EM IMI,MSCI EM IMI,MIEF000I0PUS,USD,other_indices,global_indices
+1209,world,MSCI EM SMID,MSCI EM SMID,MIEF000D0PUS,USD,other_indices,global_indices
+1210,world,MSCI EM Small Cap,MSCI EM Small Cap,MIEF000S0PUS,USD,other_indices,global_indices
+1211,world,MSCI EM Mid Cap,MSCI EM Mid Cap,MIEF000M0PUS,USD,other_indices,global_indices
+1212,world,MSCI EM Large Cap,MSCI EM Large Cap,MIEF000L0PUS,USD,other_indices,global_indices
+1213,world,MSCI EAFE IMI,MSCI EAFE IMI,MIEA000I0PUS,USD,other_indices,global_indices
+1214,world,MSCI EAFE SMID,MSCI EAFE SMID,MIEA000D0PUS,USD,other_indices,global_indices
+1215,world,MSCI EAFE Mid Cap,MSCI EAFE Mid Cap,MIEA000M0PUS,USD,other_indices,global_indices
+1216,world,MSCI EAFE Large Cap,MSCI EAFE Large Cap,MIEA000L0PUS,USD,other_indices,global_indices
+1217,world,MSCI World SMID,MSCI World SMID,MIWO000D0PUS,USD,other_indices,global_indices
+1218,world,MSCI World Small Cap,MSCI World Small Cap,MIWO000S0PUS,USD,other_indices,global_indices
+1219,world,MSCI World Mid Cap,MSCI World Mid Cap,MIWO000M0PUS,USD,other_indices,global_indices
+1220,world,MSCI World Large Cap,MSCI World Large Cap,MIWO000L0PUS,USD,other_indices,global_indices
+1221,world,MSCI ACWI SMID,MSCI ACWI SMID,MIWD000D0PUS,USD,other_indices,global_indices
+1222,world,MSCI ACWI IMI,MSCI ACWI IMI,MIWD000I0PUS,USD,other_indices,global_indices
+1223,world,MSCI ACWI Small Cap,MSCI ACWI Small Cap,MIWD000S0PUS,USD,other_indices,global_indices
+1224,world,ESTX PR,ESTX PR,STOXXE,EUR,other_indices,global_indices
+1225,world,STOXX Global 1800 ex Asia/Pacific Technology USD P,STOXX Global 1800 ex Asia/Pacific Technology USD Price,SXW9TEC,USD,primary_sectors,global_indices
+1226,world,EMTX Aaa G. 1100,EMTX Aaa G. 1100,EM3AGO=,EUR,other_indices,global_indices
+1227,world,EMTX Govt RT,EMTX Govt RT,EMTT6CR=,EUR,other_indices,global_indices
+1228,world,MSCI World Net EUR,MSCI World Net EUR,MIWO00000NEU,EUR,other_indices,global_indices
+1229,world,Acwi Risk Weighted NR USD,Acwi Risk Weighted NR USD,MIWD000PlNUS,USD,other_indices,global_indices
+1230,world,MSCI ACWI Investable Net USD,MSCI ACWI Investable Net USD,MIWD000I0NUS,USD,other_indices,global_indices
+1231,world,MSCI ACWI Net USD,MSCI ACWI Net USD,MIWD00000NUS,USD,other_indices,global_indices
+1232,world,MSCI Intl Pan Euro Net EUR,MSCI Intl Pan Euro Net EUR,MIPO00000NEU,EUR,other_indices,global_indices
+1233,world,MSCI Pacific ex Japan Net USD,MSCI Pacific ex Japan Net USD,MIPCJ0000NUS,USD,other_indices,global_indices
+1234,world,MSCI Pacific Net USD,MSCI Pacific Net USD,MIPC00000NUS,USD,other_indices,global_indices
+1235,world,MSCI Nordic countries Net EUR,MSCI Nordic countries Net EUR,MIND00000NEU,EUR,other_indices,global_indices
+1236,world,MSCI North America Net USD,MSCI North America Net USD,MINA00000NUS,USD,other_indices,global_indices
+1237,world,MSCI World Net USD,MSCI World Net USD,MIWO00000NUS,USD,other_indices,global_indices
+1238,world,MSCI EM Asia Net USD,MSCI EM Asia Net USD,MIMS00000NUS,USD,other_indices,global_indices
+1239,world,MSCI EM Latin America Net USD,MSCI EM Latin America Net USD,MILA00000NUS,USD,other_indices,global_indices
+1240,world,MSCI Far East ex Japan Gross USD,MSCI Far East ex Japan Gross USD,MIFX000S0GUS,USD,other_indices,global_indices
+1241,world,MSCI Far East ex Japan Price USD,MSCI Far East ex Japan Price USD,MIFX00000PUS,USD,other_indices,global_indices
+1242,world,EU MINIMUM VOLA,EU MINIMUM VOLA,MIEU0000YNEU,EUR,other_indices,global_indices
+1243,world,MSCI EM Materials Sector Net USD,MSCI EM Materials Sector Net USD,MIEF0MT00NUS,USD,other_indices,global_indices
+1244,world,MSCI EM Energy Sector Net USD,MSCI EM Energy Sector Net USD,MIEF0EN00NUS,USD,other_indices,global_indices
+1245,world,MSCI EM Consumer Staples Net USD,MSCI EM Consumer Staples Net USD,MIEF0CS00NUS,USD,other_indices,global_indices
+1246,world,MSCI EM Consumer Discret Net USD,MSCI EM Consumer Discret Net USD,MIEF0CD00NUS,USD,other_indices,global_indices
+1247,world,MSCI EM Small Net USD,MSCI EM Small Net USD,MIEF000S0NUS,USD,other_indices,global_indices
+1248,world,MSCI EM Far East Net USD,MSCI EM Far East Net USD,MIMF00000NUS,USD,other_indices,global_indices
+1249,world,MSCI EM Short Gross USD,MSCI EM Short Gross USD,MIEF00000SUS,USD,other_indices,global_indices
+1250,world,MSCI World Low Volatility Factor Price USD,MSCI World Low Volatility Factor Price USD,MIWO0000IPUS,USD,other_indices,global_indices
+1251,world,MSCI World Consumer Discretionary Net USD,MSCI World Consumer Discretionary Net USD,MIWO0CD00NUS,USD,other_indices,global_indices
+1252,world,UBS Multi Asset Portfolio EUR,UBS Multi Asset Portfolio EUR,IM7EUAS,EUR,other_indices,global_indices
+1253,world,STOXX 600 Travel Leisure EUR NR,STOXX 600 Travel Leisure EUR NR,SXTR,EUR,other_indices,global_indices
+1254,world,STOXX 600 Personal Household Goods EUR NR,STOXX 600 Personal Household Goods EUR NR,SXQR,EUR,other_indices,global_indices
+1255,world,STOXX 600 Basic Resources Daily Short EUR GR,STOXX 600 Basic Resources Daily Short EUR GR,SXPRS,EUR,other_indices,global_indices
+1256,world,STOXX 600 Basic Resources EUR NR,STOXX 600 Basic Resources EUR NR,SXPR,EUR,other_indices,global_indices
+1257,world,STOXX 600 Optimised Travel Leisure,STOXX 600 Optimised Travel Leisure,SXOTR,EUR,other_indices,global_indices
+1258,world,STOXX 600 Opt Personal Household Goods,STOXX 600 Opt Personal Household Goods,SXOQR,EUR,other_indices,global_indices
+1259,world,STOXX 600 Opt Basic Resources EUR NR,STOXX 600 Opt Basic Resources EUR NR,SXOPR,EUR,other_indices,global_indices
+1260,world,STOXX 600 Opt Construction Materials EUR NR,STOXX 600 Opt Construction Materials EUR NR,SXOOR,EUR,other_indices,global_indices
+1261,world,MSCI World Hedged Net EUR,MSCI World Hedged Net EUR,MIWO000P0ZEU,EUR,other_indices,global_indices
+1262,world,STOXX 600 Opt Industrial Goods Services,STOXX 600 Opt Industrial Goods Services,SXONR,EUR,other_indices,global_indices
+1263,world,STOXX 600 Industrial Goods Srvcs Short EUR GR,STOXX 600 Industrial Goods Srvcs Short EUR GR,SXNRS,EUR,other_indices,global_indices
+1264,world,STOXX 600 Industrial Goods Services EUR NR,STOXX 600 Industrial Goods Services EUR NR,SXNR,EUR,other_indices,global_indices
+1265,world,STOXX Industrial Goods Services EUR Price,STOXX Industrial Goods Services EUR Price,SXNE,EUR,other_indices,global_indices
+1266,world,STOXX Media EUR Price,STOXX Media EUR Price,SXME,EUR,other_indices,global_indices
+1267,world,STOXX Sustainability 40 EUR Price,STOXX Sustainability 40 EUR Price,SUBE,EUR,other_indices,global_indices
+1268,world,SMI Cum Div,SMI Cum Div,SMIC,CHF,other_indices,global_indices
+1269,world,MSCI World Price USD,MSCI World Price USD,MSCIWO,USD,other_indices,global_indices
+1270,world,MSCI World Materials Net USD,MSCI World Materials Net USD,MIWO0MT00NUS,USD,other_indices,global_indices
+1271,world,MSCI World Consumer Staples Net USD,MSCI World Consumer Staples Net USD,MIWO0CS00NUS,USD,other_indices,global_indices
+1272,world,STOXX 600 Optim Automobiles Parts EUR NR,STOXX 600 Optim Automobiles Parts EUR NR,SXOAR,EUR,other_indices,global_indices
+1273,world,MSCI EM Net USD,MSCI EM Net USD,MIEF00000NUS,USD,other_indices,global_indices
+1274,world,MSCI EM EMEA Net USD,MSCI EM EMEA Net USD,MIEE00000NUS,USD,other_indices,global_indices
+1275,world,MSCI BRIC Net USD,MSCI BRIC Net USD,MIBC00000NUS,USD,other_indices,global_indices
+1276,world,LPX Major Market Listed Private Equity,LPX Major Market Listed Private Equity,LPXMMTR,EUR,other_indices,global_indices
+1277,world,FTSE Macquarie 100,FTSE Macquarie 100,FTMGII100,USD,other_indices,global_indices
+1278,world,FTSE RAFI All-World 3000,FTSE RAFI All-World 3000,FTFRAW3,USD,other_indices,global_indices
+1279,world,EB REXX Money Market,EB REXX Money Market,EBREXXMMP,EUR,other_indices,global_indices
+1280,world,DJ Global Titans,DJ Global Titans,DJGT,USD,other_indices,global_indices
+1281,world,DJ EM Select Div TR USD,DJ EM Select Div TR USD,DJEMDIVR,USD,other_indices,global_indices
+1282,world,DJ Emerging Markets Select Div EUR,DJ Emerging Markets Select Div EUR,DJEMDIVE,EUR,other_indices,global_indices
+1283,world,DJ Asia/Pacific Sel Div 30 EUR,DJ Asia/Pacific Sel Div 30 EUR,DJAPSDE,EUR,other_indices,global_indices
+1284,world,DJ Asia/Pacific Sel Div 30 USD,DJ Asia/Pacific Sel Div 30 USD,DJAPSD,USD,other_indices,global_indices
+1285,world,Morningstar MLP Composite TR,Morningstar MLP Composite TR,MSMLPCT,USD,other_indices,global_indices
+1286,world,DAX BRIC PF,DAX BRIC PF,DAXBRIC,EUR,other_indices,global_indices
+1287,world,DAX global Alternative Energy Perform,DAX global Alternative Energy Perform,DAXAE,EUR,other_indices,global_indices
+1288,world,EMTX Global RT,EMTX Global RT,EMTXIGRT=,EUR,other_indices,global_indices
+1289,world,IG exAAA 1100,IG exAAA 1100,EMTSIGO=,USD,other_indices,global_indices
+1290,world,EMTX AAA Global RT,EMTX AAA Global RT,EM3AGRT=,USD,other_indices,global_indices
+1291,world,STOXX Global Select Div 100 NR EUR,STOXX Global Select Div 100 NR EUR,SDGR,EUR,other_indices,global_indices
+1292,world,FTSE RAFI Developed ex US1000 CAD,FTSE RAFI Developed ex US1000 CAD,FTFRX1C,CAD,other_indices,global_indices
+1293,world,FTSE BRIC 50,FTSE BRIC 50,FTFBRIC,USD,other_indices,global_indices
+1294,world,FTSE EPRA NAREIT Developed Div,FTSE EPRA NAREIT Developed Div,FTENGD,USD,other_indices,global_indices
+1295,world,FTSE EPRA NAREIT Developed Asia Div,FTSE EPRA NAREIT Developed Asia Div,FTENAD,USD,other_indices,global_indices
+1296,world,DAX global Asia Kursindex,DAX global Asia Kursindex,DAXASIA,EUR,other_indices,global_indices
+1297,world,WilderHill New Energy Glbl Innovation EUR,WilderHill New Energy Glbl Innovation EUR,NEXEU,EUR,other_indices,global_indices
+1298,world,NMX30 Infrastructure Global,NMX30 Infrastructure Global,NMXI30T,EUR,other_indices,global_indices
+1299,world,SG Glbl Quality Income Net TR,SG Glbl Quality Income Net TR,SGQINTR,EUR,other_indices,global_indices
+1300,world,MSCI Asia ex Japan RE USD,MSCI Asia ex Japan RE USD,MIAX0RE00PUS,USD,other_indices,global_indices
+1301,world,MSCI Asia ex Japan Net USD,MSCI Asia ex Japan Net USD,MIAX00000NUS,USD,other_indices,global_indices
+1302,world,Europe Middle East Sri NR EUR,Europe Middle East Sri NR EUR,MI960000mNEU,EUR,other_indices,global_indices
+1303,world,MSCI EFM Africa Ex South Africa NR USD,MSCI EFM Africa Ex South Africa NR USD,MI8600000NUS,USD,other_indices,global_indices
+1304,world,MSCI FM Frontier Markets USD,MSCI FM Frontier Markets USD,MI7400000NUS,USD,other_indices,global_indices
+1305,world,DAXglobal Shipping USD TR,DAXglobal Shipping USD TR,DXSHIPUT,USD,other_indices,global_indices
+1306,world,DAXglobal Gold Miners USD TR,DAXglobal Gold Miners USD TR,DXGOLDUT,USD,other_indices,global_indices
+1307,world,DAXplus Maximum Div Preis,DAXplus Maximum Div Preis,DAXMDIVPR,EUR,other_indices,global_indices
+1308,world,World Water,World Water,WOWAXP,USD,other_indices,global_indices
+1309,world,World Water TR CW,World Water TR CW,WOWAXC,EUR,other_indices,global_indices
+1310,world,WNA Nuclear Energy EURO,WNA Nuclear Energy EURO,WNAIE,EUR,other_indices,global_indices
+1311,world,ThinkTotal MT IO,ThinkTotal MT IO,TTMTIOF,EUR,other_indices,global_indices
+1312,world,ThinkTotal MT IN,ThinkTotal MT IN,TTMTINL,EUR,other_indices,global_indices
+1313,world,ThinkTotal MT ID,ThinkTotal MT ID,TTMTIDF,EUR,other_indices,global_indices
+1314,world,TOPIX Euro Hedged TR,TOPIX Euro Hedged TR,TOPXDVEH,EUR,other_indices,global_indices
+1315,world,FTSE EPRA/NAREIT Global Net Tri,FTSE EPRA/NAREIT Global Net Tri,TFTRNHGU,USD,other_indices,global_indices
+1316,world,SP New Frontiers NR,SP New Frontiers NR,SPSFN,USD,other_indices,global_indices
+1317,world,2 for 1,2 for 1,SPLITS,USD,other_indices,global_indices
+1318,world,SP Glbl Timber Forestry Net TR USD,SP Glbl Timber Forestry Net TR USD,SPGTTFN,USD,other_indices,global_indices
+1319,world,S&P Global Clean Energy EURO TR,S&P Global Clean Energy EURO TR,SPGTCTRE,EUR,other_indices,global_indices
+1320,world,SP Emerging Markets Infrastructure Net TR,SP Emerging Markets Infrastructure Net TR,SPGEIFDN,USD,other_indices,global_indices
+1321,world,Ig Global 1100,Ig Global 1100,EMIGGO=,EUR,other_indices,global_indices
+1322,world,MSCI AC Pacific Ex Japan Ex Hk,MSCI AC Pacific Ex Japan Ex Hk,MIPXH0000PUS,USD,other_indices,global_indices
+1323,world,MSCI EAFE & EM,MSCI EAFE & EM,MIE200000PUS,USD,other_indices,global_indices
+1324,world,MSCI AC Pacific,MSCI AC Pacific,MIPF00000PUS,USD,other_indices,global_indices
+1325,world,DJ EM Consumer Services Titans 30 TR EUR,Dow Jones Emerging Markets Consumer Services Titans 30 TR EUR,DJECNET,EUR,primary_sectors,global_indices
+1326,world,DJ EM Consumer Goods Titans 30 TR EUR,Dow Jones Emerging Markets Consumer Goods Titans 30 TR EUR,DJECGET,EUR,primary_sectors,global_indices
+1327,world,DJ EM Basic Materials Titans 30 TR EUR,Dow Jones Emerging Markets Basic Materials Titans 30 TR EUR,DJEBMET,EUR,primary_sectors,global_indices
+1328,world,DJ Composite REIT TR,DowJones Composite REIT TR,RCIT,USD,primary_sectors,global_indices
+1329,world,DJ Basic Resources Titans 30 TR EUR,DJ Basic Resources Titans 30 TR EUR,DJTBASR,EUR,primary_sectors,global_indices
+1330,world,DJ Banks Titans 30 TR EUR,DJ Banks Titans 30 TR EUR,DJTBAKR,EUR,primary_sectors,global_indices
+1331,world,DJ Automobiles & Parts Titans 30 TR EUR,DJ Automobiles & Parts Titans 30 TR EUR,DJTATOR,EUR,primary_sectors,global_indices
+1332,world,STOXX North America 600 Retail USD Price,STOXX North America 600 Retail USD Price,SXA1RTS,USD,primary_sectors,global_indices
+1333,world,STOXX North America 600 REIT USD,STOXX North America 600 REIT USD,S8737AL,USD,primary_sectors,global_indices
+1334,world,DJ EM Financials Titans 30 TR EUR,Dow Jones Emerging Markets Financials Titans 30 TR EUR,DJEFNET,EUR,primary_sectors,global_indices
+1335,world,STOXX North America 600 REIT EUR,STOXX North America 600 REIT EUR,S8737AP,EUR,primary_sectors,global_indices
+1336,world,STOXX North America 600 Banks USD Price,STOXX North America 600 Banks USD Price,SXA1BNK,USD,primary_sectors,global_indices
+1337,world,STOXX North America 600 Utilities USD Price,STOXX North America 600 Utilities USD Price,SXA1UTI,USD,primary_sectors,global_indices
+1338,world,STOXX North America 600 Travel & Leisure USD Price,STOXX North America 600 Travel & Leisure USD Price,SXA1CGS,USD,primary_sectors,global_indices
+1339,world,STOXX North America 600 Telecommunications USD Pri,STOXX North America 600 Telecommunications USD Price,SXA1TLS,USD,primary_sectors,global_indices
+1340,world,STOXX North America 600 Technology USD Price,STOXX North America 600 Technology USD Price,SXA1TEC,USD,primary_sectors,global_indices
+1341,world,STOXX North America 600 Personal & Household Goods,STOXX North America 600 Personal & Household Goods USD Price,SXA1NCG,USD,primary_sectors,global_indices
+1342,world,STOXX North America 600 Oil & Gas USD Price,STOXX North America 600 Oil & Gas USD Price,SXA1ENE,USD,primary_sectors,global_indices
+1343,world,STOXX North America 600 Insurance USD Price,STOXX North America 600 Insurance USD Price,SXA1INS,USD,primary_sectors,global_indices
+1344,world,STOXX North America 600 Industrial Goods & Service,STOXX North America 600 Industrial Goods & Services USD Price,SXA1IGS,USD,primary_sectors,global_indices
+1345,world,STOXX North America 600 Media USD Price,STOXX North America 600 Media USD Price,SXA1MDI,USD,primary_sectors,global_indices
+1346,world,STOXX North America 600 Health Care USD Price,STOXX North America 600 Health Care USD Price,SXA1HCR,USD,primary_sectors,global_indices
+1347,world,DJ EM Health Care Titans 30 TR EUR,Dow Jones Emerging Markets Health Care Titans 30 TR EUR,DJEHKET,EUR,primary_sectors,global_indices
+1348,world,DJ EM Metals & Mining Titans 30 TR EUR,Dow Jones Emerging Markets Metals & Mining Titans 30 TR EUR,DJEMTET,EUR,primary_sectors,global_indices
+1349,world,EMTX 15+Y Open,EMTX 15+Y Open,EMTXFO=,EUR,bonds,global_indices
+1350,world,EMTX 7-10 Y RT,EMTX 7-10 Y RT,EMTXDRT=,EUR,bonds,global_indices
+1351,world,EMTX 5-7Y RT,EMTX 5-7Y RT,EMTXCRT=,EUR,bonds,global_indices
+1352,world,EMTX 3-5 Y RT,EMTX 3-5 Y RT,EMTXBRT=,EUR,bonds,global_indices
+1353,world,Ig 10-15Y 1100,Ig 10-15Y 1100,EMIGEO=,EUR,bonds,global_indices
+1354,world,Ig 5-7Y 1100,Ig 5-7Y 1100,EMIGCO=,EUR,bonds,global_indices
+1355,world,Ig 3-5Y 1100,Ig 3-5Y 1100,EMIGBO=,EUR,bonds,global_indices
+1356,world,Short Ig 10-15Yo,Short Ig 10-15Yo,EM2SIEO=,EUR,bonds,global_indices
+1357,world,iBoxx EUR Liquid Corporates,iBoxx EUR Liquid Corporates,IBLEU0008,EUR,bonds,global_indices
+1358,world,DJ EM Metals & Mining Titans 30 TR,Dow Jones Emerging Markets Metals & Mining Titans 30 TR,DJEMTT,USD,primary_sectors,global_indices
+1359,world,iBoxx Liquid Non-Financials,iBoxx Liquid Non-Financials,IBLEU0009,EUR,bonds,global_indices
+1360,world,iBoxx Liquid Financials,iBoxx Liquid Financials,IBLEU0018,EUR,bonds,global_indices
+1361,world,Technology Select Sector TR,Technology Select Sector TR,IXTTR,USD,primary_sectors,global_indices
+1362,world,Financial Select Sector TR,Financial Select Sector TR,IXMTR,USD,primary_sectors,global_indices
+1363,world,DJ Financial Services Titans 30 TR,DJ Financial Services Titans 30 Total Return,DJTFVSR,EUR,primary_sectors,global_indices
+1364,world,DJ Food & Beverage Titans 30 TR,DJ Food & Beverage Titans 30 Total Return,DJTFOBR,EUR,primary_sectors,global_indices
+1365,world,DJ Equity REIT TR,DowJonesEquityREITTotalReturn,REIT,USD,primary_sectors,global_indices
+1366,world,DJ EM Utilities Titans 30 TR EUR,Dow Jones Emerging Markets Utilities Titans 30 TR EUR,DJEUTET,EUR,primary_sectors,global_indices
+1367,world,DJ EM Technology Titans 30 TR EUR,Dow Jones Emerging Markets Technology Titans 30 TR EUR,DJETXET,EUR,primary_sectors,global_indices
+1368,world,DJ EM Oil & Gas Titans 30 TR EUR,Dow Jones Emerging Markets Oil & Gas Titans 30 TR EUR,DJEEOET,EUR,primary_sectors,global_indices
+1369,world,iBoxx Liquid Corp Long Date TR,iBoxx Liquid Corp Long Date TR,IBLGB0001,GBP,bonds,global_indices
+1370,world,STOXX North America 600 Food & Beverage USD Price,STOXX North America 600 Food & Beverage USD Price,SXA1FOB,USD,primary_sectors,global_indices
+1371,world,STOXX North America 600 Financial Services USD Pri,STOXX North America 600 Financial Services USD Price,SXA1FSV,USD,primary_sectors,global_indices
+1372,world,STOXX North America 600 Construction & Materials U,STOXX North America 600 Construction & Materials USD Price,SXA1CNS,USD,primary_sectors,global_indices
+1373,world,STOXX Global 1800 ex Switzerland CHF,STOXX Global 1800 ex Switzerland CHF,SXWNCHC,CHF,primary_sectors,global_indices
+1374,world,STOXX Global 1800 ex North America Travel & Leisur,STOXX Global 1800 ex North America Travel & Leisure USD Price,SXW0CGS,USD,primary_sectors,global_indices
+1375,world,STOXX Global 1800 ex North America Telecommunicati,STOXX Global 1800 ex North America Telecommunications USD Price,SXW0TLS,USD,primary_sectors,global_indices
+1376,world,STOXX Global 1800 ex North America Technology USD,STOXX Global 1800 ex North America Technology USD Price,SXW0TEC,USD,primary_sectors,global_indices
+1377,world,STOXX Global 1800 ex North America Personal & Hous,STOXX Global 1800 ex North America Personal & Household Goods USD Price,SXW0NCG,USD,primary_sectors,global_indices
+1378,world,STOXX Global 1800 ex North America Insurance USD P,STOXX Global 1800 ex North America Insurance USD Price,SXW0INS,USD,primary_sectors,global_indices
+1379,world,STOXX Global 1800 ex North America Health Care USD,STOXX Global 1800 ex North America Health Care USD Price,SXW0HCR,USD,primary_sectors,global_indices
+1380,world,STOXX Global 1800 ex North America Basic Resources,STOXX Global 1800 ex North America Basic Resources USD Price,SXW0BAS,USD,primary_sectors,global_indices
+1381,world,STOXX Global 1800 ex Europe Oil & Gas USD Price,STOXX Global 1800 ex Europe Oil & Gas USD Price,SXW8ENE,USD,primary_sectors,global_indices
+1382,world,STOXX Global 1800 ex Switzerland EUR,STOXX Global 1800 ex Switzerland EUR,SXWNCHR,EUR,primary_sectors,global_indices
+1383,world,STOXX Global 1800 ex Europe Media USD Price,STOXX Global 1800 ex Europe Media USD Price,SXW8MDI,USD,primary_sectors,global_indices
+1384,world,STOXX Global 1800 ex Europe Technology USD Price,STOXX Global 1800 ex Europe Technology USD Price,SXW8TEC,USD,primary_sectors,global_indices
+1385,world,STOXX Global 1800 ex Europe Industrial Goods & Ser,STOXX Global 1800 ex Europe Industrial Goods & Services USD Price,SXW8IGS,USD,primary_sectors,global_indices
+1386,world,STOXX Global 1800 ex Europe Health Care USD Price,STOXX Global 1800 ex Europe Health Care USD Price,SXW8HCR,USD,primary_sectors,global_indices
+1387,world,STOXX Global 1800 ex Europe Food & Beverage USD Pr,STOXX Global 1800 ex Europe Food & Beverage USD Price,SXW8FOB,USD,primary_sectors,global_indices
+1388,world,STOXX Global 1800 ex Europe Financial Services USD,STOXX Global 1800 ex Europe Financial Services USD Price,SXW8FSV,USD,primary_sectors,global_indices
+1389,world,STOXX Global 1800 ex Europe Chemicals USD Price,STOXX Global 1800 ex Europe Chemicals USD Price,SXW8CHM,USD,primary_sectors,global_indices
+1390,world,STOXX Global 1800 ex Europe Basic Resources USD Pr,STOXX Global 1800 ex Europe Basic Resources USD Price,SXW8BAS,USD,primary_sectors,global_indices
+1391,world,STOXX Global 1800 ex Asia/Pacific Utilities USD Pr,STOXX Global 1800 ex Asia/Pacific Utilities USD Price,SXW9UTI,USD,primary_sectors,global_indices
+1392,world,STOXX Global 1800 ex Asia/Pacific Travel & Leisure,STOXX Global 1800 ex Asia/Pacific Travel & Leisure USD Price,SXW9CGS,USD,primary_sectors,global_indices
+1393,world,STOXX Global 1800 ex Europe Utilities USD Price,STOXX Global 1800 ex Europe Utilities USD Price,SXW8UTI,USD,primary_sectors,global_indices
+1394,world,STOXX Global 1800 Financial Services USD Price,STOXX Global 1800 Financial Services USD Price,SXW1FSV,USD,primary_sectors,global_indices
+1395,world,STOXX Global 1800 Personal & Household Goods USD P,STOXX Global 1800 Personal & Household Goods USD Price,SXW1NCG,USD,primary_sectors,global_indices
+1396,world,STOXX Global 1800 Real Estate EUR Gross Return,STOXX Global 1800 Real Estate EUR Gross Return,SXGRGR,EUR,primary_sectors,global_indices
+1397,world,STOXX North America 600 Chemicals USD Price,STOXX North America 600 Chemicals USD Price,SXA1CHM,USD,primary_sectors,global_indices
+1398,world,STOXX North America 600 Basic Resources USD Price,STOXX North America 600 Basic Resources USD Price,SXA1BAS,USD,primary_sectors,global_indices
+1399,world,STOXX North America 600 Automobiles & Parts USD Pr,STOXX North America 600 Automobiles & Parts USD Price,SXA1ATO,USD,primary_sectors,global_indices
+1400,world,STOXX Global 1800 Technology USD Price,STOXX Global 1800 Technology USD Price,SXW1TEC,USD,primary_sectors,global_indices
+1401,world,STOXX Global 1800 REIT USD,STOXX Global 1800 REIT USD,S8737GL,USD,primary_sectors,global_indices
+1402,world,STOXX Global 1800 REIT EUR,STOXX Global 1800 REIT EUR,S8737GP,EUR,primary_sectors,global_indices
+1403,world,STOXX Global 1800 Real Estate USD Price,STOXX Global 1800 Real Estate USD Price,SXGREL,USD,primary_sectors,global_indices
+1404,world,STOXX Global 1800 Oil & Gas USD Price,STOXX Global 1800 Oil & Gas USD Price,SXW1ENE,USD,primary_sectors,global_indices
+1405,world,STOXX Global 1800 Insurance USD Price,STOXX Global 1800 Insurance USD Price,SXW1INS,USD,primary_sectors,global_indices
+1406,world,STOXX Global 1800 Health Care USD Price,STOXX Global 1800 Health Care USD Price,SXW1HCR,USD,primary_sectors,global_indices
+1407,world,STOXX Global 1800 Food & Beverage USD Price,STOXX Global 1800 Food & Beverage USD Price,SXW1FOB,USD,primary_sectors,global_indices
+1408,world,STOXX Global 1800 ex Switzerland NR,STOXX Global 1800 ex Switzerland NR,SXWNCHD,CHF,primary_sectors,global_indices
+1409,world,STOXX Global 1800 ex North America Oil & Gas USD P,STOXX Global 1800 ex North America Oil & Gas USD Price,SXW0ENE,USD,primary_sectors,global_indices
+1410,world,STOXX Global 1800 ex North America Media USD Price,STOXX Global 1800 ex North America Media USD Price,SXW0MDI,USD,primary_sectors,global_indices
+1411,world,STOXX Global 1800 ex North America Banks USD Price,STOXX Global 1800 ex North America Banks USD Price,SXW0BNK,USD,primary_sectors,global_indices
+1412,world,STOXX Global 1800 ex Asia/Pacific Retail USD Price,STOXX Global 1800 ex Asia/Pacific Retail USD Price,SXW9RTS,USD,primary_sectors,global_indices
+1413,world,STOXX Global 1800 Chemicals USD Price,STOXX Global 1800 Chemicals USD Price,SXW1CHM,USD,primary_sectors,global_indices
+1414,world,STOXX Global 1800 Banks USD Price,STOXX Global 1800 Banks USD Price,SXW1BNK,USD,primary_sectors,global_indices
+1415,world,STOXX Global 1800 Travel & Leisure USD Price,STOXX Global 1800 Travel & Leisure USD Price,SXW1CGS,USD,primary_sectors,global_indices
+1416,world,STOXX Global 1800 Telecommunications USD Price,STOXX Global 1800 Telecommunications USD Price,SXW1TLS,USD,primary_sectors,global_indices
+1417,world,STOXX Global 1800 Real Estate USD Gross Return,STOXX Global 1800 Real Estate USD Gross Return,SXGRGV,USD,primary_sectors,global_indices
+1418,world,MSCI AC Pacific Ex Japan,MSCI AC Pacific Ex Japan,MIPFJ0000PUS,USD,other_indices,global_indices
+1419,world,EMTX 1 3 Y RT,EMTX 1 3 Y RT,EMTXART=,EUR,bonds,global_indices
+1420,world,IG 1-3Y 1100,IG 1-3Y 1100,EMIGAO=,USD,bonds,global_indices
+1421,world,EMTX 15+ Y RT,EMTX 15+ Y RT,EMTXFRT=,EUR,bonds,global_indices
+1422,world,MSCI Asia xJP,MSCI All Country Asia Pacific ex Japan,MIAPJ0000PUS,USD,other_indices,global_indices
+1423,world,MSCI Emerging Markets,MSCI Emerging Markets,MSCIEF,USD,other_indices,global_indices
+1424,world,FTSE Mediterranean 100,FTSE Mediterranean 100,FTMED1,USD,other_indices,global_indices
+1425,world,HFRX MLP,HFRX MLP,HFRXMLP,USD,other_indices,global_indices
+1426,world,HFRX Macro EUR,HFRX Macro EUR,HFRXME,EUR,other_indices,global_indices
+1427,world,HFRX Equity Hedge EUR,HFRX Equity Hedge EUR,HFRXEHE,EUR,other_indices,global_indices
+1428,world,HFRX Fixed Income Credit,HFRX Fixed Income Credit,HFRXFIC,USD,other_indices,global_indices
+1429,world,HFRX EM Composite,HFRX Emerging Markets Composite,HFRXEMC,USD,other_indices,global_indices
+1430,world,HFRX Relative Value Arbitrage,HFRX Relative Value Arbitrage EUR,HFRXRVAE,EUR,other_indices,global_indices
+1431,world,MSCI Asia Apex 50 USD TR,MSCI Asia Apex 50 USD TR,ASIAAPEXN,USD,other_indices,global_indices
+1432,world,FTSE North America,FTSE North America,FTAWNAMERSU,USD,other_indices,global_indices
+1433,world,FTSE APCIMS Income,FTSE APCIMS Income,FTIP,USD,other_indices,global_indices
+1434,world,FTSE APCIMS Growth,FTSE APCIMS Growth,FTGP,USD,other_indices,global_indices
+1435,world,FTSE APCIMS Balance,FTSE APCIMS Balance,FTBP,USD,other_indices,global_indices
+1436,world,L&S DAX,L&S DAX,DAX=LUSG,EUR,additional_indices,global_indices
+1437,world,FTSE CNBC Global 300,FTSE CNBC Global 300,FTFCNBCG,USD,additional_indices,global_indices
+1438,world,FTSE All World North America,FTSE All World North America,FTAWNAMERS,USD,additional_indices,global_indices
+1439,world,FTSE/ASEAN 40,FTSE/ASEAN 40,FTASEAN40,USD,additional_indices,global_indices
+1440,world,BNY Mellon International 100 ADR TR,BNY Mellon International 100 ADR Total Return,BKTADRT,USD,additional_indices,global_indices
+1441,world,EMTX 10-15 Y RT,EMTX 10-15 Y RT,EMTXERT=,EUR,bonds,global_indices
+1442,world,FTSE Gold Mines,FTSE Gold Mines,FTGM,USD,other_indices,global_indices
+1443,world,BNY Mellon Asia DR TR,BNY Mellon Asia DR Total Return,BKDAST,USD,additional_indices,global_indices
+1444,world,MSCI Asia Apex Mid Cap 50 TR,MSCI Asia Apex Mid Cap 50 TR,ASIAMCAPEXN,USD,other_indices,global_indices
+1445,world,MSCI Asia Apex Small Cap 200,MSCI Asia Apex Small Cap 200,ASIASCAPEX,USD,other_indices,global_indices
+1446,world,MSCI AC Far East Ex JP Ex HK,MSCI AC Far East Ex JP Ex HK,MIFXH0000PUS,USD,other_indices,global_indices
+1447,world,MSCI AC Far East,MSCI AC Far East,MIFE00000PUS,USD,other_indices,global_indices
+1448,world,MSCI AC Asia Pacific,MSCI AC Asia Pacific,MIAP00000PUS,USD,other_indices,global_indices
+1449,world,MSCI AC Americas,MSCI AC Americas,MIAM00000PUS,USD,other_indices,global_indices
+1450,world,MSCI AC Europe & Middle East,MSCI AC Europe & Middle East,MIUM00000PUS,USD,other_indices,global_indices
+1451,world,MSCI AC Asia,MSCI AC Asia,MIAS00000PUS,USD,other_indices,global_indices
+1452,world,MSCI ACWI Ex Japan,MSCI ACWI Ex Japan,MIWDJ0000PUS,USD,other_indices,global_indices
+1453,world,MSCI ACWI Ex Europe,MSCI ACWI Ex Europe,MIWDE0000PUS,USD,other_indices,global_indices
+1454,world,MSCI ACWI Ex EMU,MSCI ACWI Ex EMU,MIWDM0000PUS,USD,other_indices,global_indices
+1455,world,MSCI Asia Apex Small Cap 200 TR,MSCI Asia Apex Small Cap 200 TR,ASIASCAPEXN,USD,other_indices,global_indices
+1456,world,World Water CW,World Water CW,WOWAXPC,EUR,other_indices,global_indices
+1457,world,SGI Pan Africa,SGI Pan Africa,SGIXPAPE,EUR,other_indices,global_indices
+1458,world,FTSE EPRA/NAREIT Dev EU,FTSE EPRA/NAREIT Dev EU,FTEPRA,EUR,other_indices,global_indices
+1459,world,FTSE Environmental Opp 100,FTSE Environmental Opp 100,FTEO100,USD,other_indices,global_indices
+1460,world,KBW Premium Yield Eq. REIT,KBW Premium Yield Eq. REIT,KYX,USD,other_indices,global_indices
+1461,world,KBW Property & Casualty Insurance,KBW Property & Casualty Insurance,KPX,USD,other_indices,global_indices
+1462,world,KBW Capital Markets,KBW Capital Markets,KSX,USD,other_indices,global_indices
+1463,world,KBW Regional Banking,KBW Regional Banking,KRX,USD,other_indices,global_indices
+1464,world,MSCI GCC Ex SA 10-40,MSCI GCC Ex SA 10-40,MIGX00005PUS,USD,other_indices,global_indices
+1465,world,MSCI Asia Apex Mid 50 USD,MSCI Asia Apex Mid 50 USD,ASIAMCAPEX,USD,other_indices,global_indices
+1466,world,FTSE EPRA NAREIT Asia exJapan,FTSE EPRA NAREIT Asia exJapan,TFTRNAAU,USD,other_indices,global_indices
+1467,world,BNY Mellon Latin America 35 ADR TR,BNY Mellon Latin America 35 ADR Total Return,BKTLAT,USD,additional_indices,global_indices
+1468,world,BNY Mellon Kazakhstan GDR TR,BNY Mellon Kazakhstan GDR Total Return,BKGKZT,USD,additional_indices,global_indices
+1469,world,BNY Mellon Asia Classic ADR,BNY Mellon Asia Classic ADR,BKCAS,USD,additional_indices,global_indices
+1470,world,OMRX Treasury Bill 60 day,OMRX Treasury Bill 60 day,OMRXTBILL60,SEK,bonds,global_indices
+1471,world,OMRX Treasury Bill 30 day,OMRX Treasury Bill 30 day,OMRXTBILL30,SEK,bonds,global_indices
+1472,world,OMRX Treasury Bill 180 day,OMRX Treasury Bill 180 day,OMRXTBILL180,SEK,bonds,global_indices
+1473,world,OMRX Municipal Bond,OMRX Municipal Bond,OMRXMUNI,SEK,bonds,global_indices
+1474,world,OMRX Mortgage Bond All,OMRX Mortgage Bond All,OMRXMORTALL,SEK,bonds,global_indices
+1475,world,OMRX Mortgage Bond 5- y,OMRX Mortgage Bond 5- y,OMRXMORT5,SEK,bonds,global_indices
+1476,world,OMRX Mortgage Bond 3-5 y,OMRX Mortgage Bond 3-5 y,OMRXMORT35,SEK,bonds,global_indices
+1477,world,OMRX Mortgage Bond 1-3 y,OMRX Mortgage Bond 1-3 y,OMRXMORT13,SEK,bonds,global_indices
+1478,world,OMRX All,OMRX All,OMRXALL,SEK,bonds,global_indices
+1479,world,BNY Mellon Asia ADR TR,BNY Mellon Asia ADR Total Return,BKAST,USD,additional_indices,global_indices
+1480,world,Ryan/NQ 1 30 Year Laddered Treasury,Ryan/NASDAQ 1 30 Year Laddered Treasury,MRTSYA,USD,bonds,global_indices
+1481,world,NQ BulletShares High Yield Corporate Bond 2022,NASDAQ BulletShares High Yield Corporate Bond 2022,BSJKM,USD,bonds,global_indices
+1482,world,NQ BulletShares High Yield Corporate Bond 2020,NASDAQ BulletShares High Yield Corporate Bond 2020,BSJKK,USD,bonds,global_indices
+1483,world,NQ BulletShares Corporate Bond 2022,NASDAQ BulletShares Corporate Bond 2022,BSCBM,USD,bonds,global_indices
+1484,world,NQ BulletShares Corporate Bond 2020,NASDAQ BulletShares Corporate Bond 2020,BSCBK,USD,bonds,global_indices
+1485,world,EuroMTS Covered Bond Aggregate,EuroMTS Covered Bond Aggregate,EXCGO=,EUR,bonds,global_indices
+1486,world,EuroMTS Global,EuroMTS Global,EMTXGRT=,EUR,bonds,global_indices
+1487,world,SBI Foreign AAA-BBB 5-10 TR,SBI Foreign AAA-BBB 5-10 TR,SF51T,CHF,bonds,global_indices
+1488,world,SBI Foreign AAA-BBB 1-5 TR,SBI Foreign AAA-BBB 1-5 TR,SF15T,CHF,bonds,global_indices
+1489,world,iBoxx EUR Liquid Sover Divers 3m-1,iBoxx EUR Liquid Sover Divers 3m-1,IBOXSD3T,EUR,bonds,global_indices
+1490,world,NQ LadderRite 0 5 Year USD Corporate Bond,NASDAQ LadderRite 0 5 Year USD Corporate Bond,LDRIG05,USD,bonds,global_indices
+1491,world,USD Overnight Domest Interest Rate,US Dollar Overnight Domestic Interest Rate,USONFF=GCMN,USD,bonds,global_indices
+1492,world,OMRX Treasury Bill 90 day,OMRX Treasury Bill 90 day,OMRXTBILL90,SEK,bonds,global_indices
+1493,world,iBoxx USD Liquid Investment Grade Ultrashort,Markit iBoxx USD Liquid Investment Grade Ultrashort,IBXXUSU1,USD,bonds,global_indices
+1494,world,BNY Mellon Latin America 35 ADR,BNY Mellon Latin America 35 ADR,BKTLA,USD,additional_indices,global_indices
+1495,world,BNY Mellon Asia 50 ADR,BNY Mellon Asia 50 ADR,BKTAS,USD,additional_indices,global_indices
+1496,world,BNY Mellon Developed Markets ADR,BNY Mellon Developed Markets ADR,BKDM,USD,additional_indices,global_indices
+1497,world,BNY Mellon Emerging Markets ADR,BNY Mellon Emerging Markets ADR,BKEM,USD,additional_indices,global_indices
+1498,world,BNY Mellon Latin America ADR,BNY Mellon Latin America ADR,BKLA,USD,additional_indices,global_indices
+1499,world,BNY Mellon Asia ADR,BNY Mellon Asia ADR,BKAS,USD,additional_indices,global_indices
+1500,world,DJ Tiger Titans 50,Dow Jones Tiger Titans 50,DJTGR,USD,additional_indices,global_indices
+1501,world,DJ Islam International Titans 100,Dow Jones Islamic Market International Titans 100,DJI100X,USD,additional_indices,global_indices
+1502,world,iBoxx Global Dev High Yield Capped,Markit iBoxx Global Dev High Yield Capped,IBXXGH11,USD,bonds,global_indices
+1503,world,The Asia Dow JPY,The Asia Dow JPY,ADOWJ,JPY,additional_indices,global_indices
+1504,world,DJ Arabia Titans 50,Dow Jones Arabia Titans 50,DJARB50,USD,additional_indices,global_indices
+1505,world,The Asia Dow EUR,The Asia Dow EUR,ADOWE,EUR,additional_indices,global_indices
+1506,world,The Asia Dow AUD,The Asia Dow AUD,ADOWA,AUD,additional_indices,global_indices
+1507,world,The Asia Dow USD,The Asia Dow USD,ADOW,USD,additional_indices,global_indices
+1508,world,DJ Africa Titans 50 PR USD,Dow Jones Africa Titans 50 Price Return USD,DJAFK,USD,additional_indices,global_indices
+1509,world,MSCI Bangladesh IMI NR USD,MSCI Bangladesh IMI NR USD,MIBD000I0NUS,USD,additional_indices,global_indices
+1510,world,Dow Jones Gl Titan 50 EUR,Dow Jones Gl Titan 50 EUR,DJGTE,EUR,additional_indices,global_indices
+1511,world,MSCI World IMI,MSCI World IMI,MIWO000I0PUS,USD,additional_indices,global_indices
+1512,world,MSCI EM Asia,MSCI EM Asia,MIMS00000PUS,USD,additional_indices,global_indices
+1513,world,MSCI Asia Apex 50 USD,MSCI Asia Apex 50 USD,ASIAAPEX,USD,additional_indices,global_indices
+1514,world,TR Convertible - Qualified Global Convertible,Thomson Reuters Convertible - Qualified Global ConvertibleUSD,UCBINDEXW1663,USD,bonds,global_indices
