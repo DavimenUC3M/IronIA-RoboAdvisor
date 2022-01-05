@@ -77,8 +77,7 @@ def test_rolling(weights_dict,test,budget=1,verbose=True):
         print(f"Money obtained during test year: {round(returns[-1]*budget,2)}$")
         print(f"Distributed in {len(weights_dict)} funds:")
         print(weights_dict) 
-        info_dict = {'test_volatility':round(np.std(choosen_funds_df.sum(axis=1)*np.sqrt(len(test)+1)),3),
-        'test_return':round(returns[-1]*100,2),'money_test_year':round(returns[-1]*budget,2)}
+
 
         returns2.plot_bokeh.line(
             figsize=(900, 500),
@@ -88,7 +87,9 @@ def test_rolling(weights_dict,test,budget=1,verbose=True):
             panning=False,
             zooming=False,
             legend="top_left")
-
+            
+    info_dict = {'test_volatility':round(np.std(choosen_funds_df.sum(axis=1)*np.sqrt(len(test)+1)),3),
+    'test_return':round(returns[-1]*100,2),'money_test_year':round(returns[-1]*budget,2)}
     return returns,returns2,info_dict
 
 def test_pipeline(train,test,samples=0,min_weight=0,add_leftovers=True,method="CVaR",market_neutral=False,risk=0.05,budget=100000,gamma=0.5,rs=40,verbose=True):
