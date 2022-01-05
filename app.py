@@ -158,7 +158,7 @@ def main():
             option_risk,risk_lvl,budget = controllers2()
 
 
-            weights,returns2,info_dict = test_pipeline(train,test,market_neutral=False,samples=500,min_weight=0.05,add_leftovers=False,method=option_risk,risk=risk_lvl,budget=budget,gamma=0.1,rs=40) #Methods = CDaR, CVaR, sharpe, MAD, ML
+            weights,returns2,info_dict = test_pipeline(train,test,market_neutral=False,samples=500,min_weight=0.05,add_leftovers=True,method=option_risk,risk=risk_lvl,budget=budget,gamma=0.1,rs=40) #Methods = CDaR, CVaR, sharpe, MAD, ML
             
             # In order to show aditional info of the choosen funds
             funds_inversion = [i * budget for i in list(weights.values())]
@@ -190,14 +190,12 @@ def main():
             def place_value(number):
                 return ("{:,}".format(number))
             
-            # print(place_value(1000000))
 
-            col1, col2, col3,col4,col5 = st.columns(5)
+            col1, col2, col3,col4 = st.columns(4)
             col1.metric("Invested Budget", place_value(round(total_investment,2))+'$')
-            col2.metric("Remaining Budget", place_value(round(remaining_budget,2))+'$')
-            col3.metric("Volatility",str(info_dict['test_volatility']))
-            col4.metric("Total Returns", str(info_dict['test_return'])+ '%' )
-            col5.metric("Money Obtained", place_value(info_dict['money_test_year'])+'$')
+            col2.metric("Volatility",str(info_dict['test_volatility']))
+            col3.metric("Total Returns", str(info_dict['test_return'])+ '%' )
+            col4.metric("Money Obtained", place_value(info_dict['money_test_year'])+'$')
 
             st.markdown("<h3 style='text-align: center;'></h3>",unsafe_allow_html=True)
             st.markdown("<h3 style='text-align: center;'></h3>",unsafe_allow_html=True)
