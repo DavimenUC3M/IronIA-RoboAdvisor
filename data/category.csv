@@ -1,0 +1,172 @@
+subcategory,morningstar_category_id,benchmark,benchmark_finametrix_id,category
+Mixtos Flexibles EUR,EUCA000864,EQUILIBRADO,5c4f24e25a1a3f2383f3f51c,Mixtos
+Mixtos Moderadamente Defensivos GBP,EUCA000917,EQUILIBRADO,5c4f24e25a1a3f2383f3f51c,Mixtos
+Mixtos Moderados GBP,EUCA000796,EQUILIBRADO,5c4f24e25a1a3f2383f3f51c,Mixtos
+Mixtos Flexibles USD,EUCA000746,EQUILIBRADO,5c4f24e25a1a3f2383f3f51c,Mixtos
+Mixtos Moderados SEK,EUCA000898,EQUILIBRADO,5c4f24e25a1a3f2383f3f51c,Mixtos
+Mixtos Moderados CHF,EUCA000738,EQUILIBRADO,5c4f24e25a1a3f2383f3f51c,Mixtos
+Mixtos Moderados EUR,EUCA000865,EQUILIBRADO,5c4f24e25a1a3f2383f3f51c,Mixtos
+Mixtos Flexibles GBP,EUCA000740,EQUILIBRADO,5c4f24e25a1a3f2383f3f51c,Mixtos
+Mixtos Gran China,EUCA000919,EQUILIBRADO,5c4f24e25a1a3f2383f3f51c,Mixtos
+Mixtos Flexibles EUR - Global,EUCA000739,EQUILIBRADO,5c4f24e25a1a3f2383f3f51c,Mixtos
+Mixtos Flexibles SEK,EUCA000745,EQUILIBRADO,5c4f24e25a1a3f2383f3f51c,Mixtos
+Mixtos Global Emergentes,EUCA000741,EQUILIBRADO,5c4f24e25a1a3f2383f3f51c,Mixtos
+Mixtos Moderados NOK,EUCA000566,EQUILIBRADO,5c4f24e25a1a3f2383f3f51c,Mixtos
+Mixtos Moderados EUR - Global,EUCA000565,EQUILIBRADO,5c4f24e25a1a3f2383f3f51c,Mixtos
+Mixtos Moderadamente Agresivos GBP,EUCA000916,EQUILIBRADO,5c4f24e25a1a3f2383f3f51c,Mixtos
+Mixtos Moderados USD,EUCA000694,EQUILIBRADO,5c4f24e25a1a3f2383f3f51c,Mixtos
+Mixtos Defensivos EUR,EUCA000863,MODERADO,5c4f2aa85a1a3f2383f3f53c,Mixtos
+Mixtos Defensivos USD,EUCA000695,MODERADO,5c4f2aa85a1a3f2383f3f53c,Mixtos
+Mixtos Defensivos GBP,EUCA000621,MODERADO,5c4f2aa85a1a3f2383f3f53c,Mixtos
+Mixtos Defensivos EUR - Global,EUCA000564,MODERADO,5c4f2aa85a1a3f2383f3f53c,Mixtos
+Mixtos Defensivos CHF,EUCA000619,MODERADO,5c4f2aa85a1a3f2383f3f53c,Mixtos
+Mixtos Defensivos SEK,EUCA000617,MODERADO,5c4f2aa85a1a3f2383f3f53c,Mixtos
+Mixtos Agresivos SEK,EUCA000616,AGRESIVO,5c4f2b3e5a1a3f2383f3f54c,Mixtos
+Mixtos Agresivos GBP,EUCA000620,AGRESIVO,5c4f2b3e5a1a3f2383f3f54c,Mixtos
+Mixtos Agresivos CHF,EUCA000618,AGRESIVO,5c4f2b3e5a1a3f2383f3f54c,Mixtos
+Mixtos Agresivos EUR - Global,EUCA000563,AGRESIVO,5c4f2b3e5a1a3f2383f3f54c,Mixtos
+Mixtos Agresivos EUR,EUCA000862,AGRESIVO,5c4f2b3e5a1a3f2383f3f54c,Mixtos
+Mixtos Asia,EUCA000559,AGRESIVO,5c4f2b3e5a1a3f2383f3f54c,Mixtos
+Mixtos Agresivos USD,EUCA000693,AGRESIVO,5c4f2b3e5a1a3f2383f3f54c,Mixtos
+Mixtos Otros,EUCA000743,MSCI ACWI Net Total Return USD Index,5e80996bbb592c4d830f3cd3,Mixtos
+RF Bonos Alto Rendimiento Global,EUCA000766,Bloomberg Barclays Global High Yield Total Return Index Value Unhedge,593817a715c9967ff557705a,Renta Fija
+RF Bonos Alto Rendimiento Global - EUR Cubierto,EUCA000854,Bloomberg Barclays Global High Yield Total Return Index Value Unhedge,593817a715c9967ff557705a,Renta Fija
+RF Bonos Alto Rendimiento Global - GBP Cubierto,EUCA000855,Bloomberg Barclays Global High Yield Total Return Index Value Unhedge,593817a715c9967ff557705a,Renta Fija
+RF Global - EUR Cubierto,EUCA000624,Bloomberg Barclays Global-Aggregate Total Return Index Value Hedged EUR,5addb770ff442d74888305e1,Renta Fija
+RF Diversificada EUR,EUCA000587,Bloomberg Barclays Global-Aggregate Total Return Index Value Hedged EUR,5addb770ff442d74888305e1,Renta Fija
+RF Flexible Global-EUR Cubierto,EUCA000901,Bloomberg Barclays Global-Aggregate Total Return Index Value Hedged EUR,5addb770ff442d74888305e1,Renta Fija
+RF Deuda Corporativa EUR,EUCA000690,Bloomberg Barclays Euro Aggregate Corporate Total Return Index Value Unhedged EU,5c41ef3d62d151772de0801b,Renta Fija
+RF Deuda Corporativa Global,EUCA000889,Bloomberg Barclays Global Agg Corporate Total Return Index Value Unhedged USD,5c41f0fd62d151772de08029,Renta Fija
+RF Global Emergente - Moneda Local,EUCA000765,Bloomberg Barclays EM Local Currency Government TR Index Unhedged USD,5e80e63a9ef6b65332cf887a,Renta Fija
+RF Global Emergente,EUCA000586,J.P. Morgan EMBI Global Diversified Composite,5e80e6639ef6b65332cf887c,Renta Fija
+RF Deuda Corporativa Global Emergente,EUCA000878,J.P. Morgan EMBI Global Diversified Composite,5e80e6639ef6b65332cf887c,Renta Fija
+RF Flexible Global-USD Cubierto,EUCA000902,Bloomberg Barclays Global-Aggregate Total Return Index Value Hedged USD,5e80e68eee0c714d9dbf8622,Renta Fija
+RF Global - USD Cubierto,EUCA000763,Bloomberg Barclays Global-Aggregate Total Return Index Value Hedged USD,5e80e68eee0c714d9dbf8622,Renta Fija
+RF Diversificada USD,EUCA000580,Bloomberg Barclays Global-Aggregate Total Return Index Value Unhedged USD,5e80ea686de77f531ae1a6af,Renta Fija
+RF Global,EUCA000759,Bloomberg Barclays Global-Aggregate Total Return Index Value Unhedged USD,5e80ea686de77f531ae1a6af,Renta Fija
+RF Flexible USD,EUCA000775,Bloomberg Barclays Global-Aggregate Total Return Index Value Unhedged USD,5e80ea686de77f531ae1a6af,Renta Fija
+RF Flexible Global,EUCA000899,Bloomberg Barclays Global-Aggregate Total Return Index Value Unhedged USD,5e80ea686de77f531ae1a6af,Renta Fija
+RF Deuda Corporativa Global - USD Cubierto,EUCA000893,Bloomberg Barclays Global Aggregate Corporate Total Return Index   Hedged USD,5e80ea8b6de77f531ae1a6b1,Renta Fija
+RF Deuda Corporativa Global - EUR Cubierto,EUCA000891,Bloomberg Barclays Global Aggregate Corporate Total Return Index   Hedged EUR,5e80eaab6de77f531ae1a6b3,Renta Fija
+RF Convertibles Global - USD Cubierto,EUCA000823,Bloomberg Barclays Global Convertibles: Composite Total Return Index Hedged USD,5e80eac76de77f531ae1a6b5,Renta Fija
+RF Convertibles Global - EUR Cubierto,EUCA000750,Bloomberg Barclays Global Convertibles EUR Total Return Hedged EUR,5e80ff667755e65314e0de00,Renta Fija
+RF Convertibles - Otros,EUCA000751,Bloomberg Barclays Global Convertibles Composite Total Return Unhedged USD,5e80ff8dbb592c4d830f3cdf,Renta Fija
+RF Convertibles Global,EUCA000749,Bloomberg Barclays Global Convertibles Composite Total Return Unhedged USD,5e80ff8dbb592c4d830f3cdf,Renta Fija
+RF Convertibles Europa,EUCA000748,Bloomberg Barclays EMEA Convertibles Europe Total Return Hedged EUR,5e80ffb46de77f531ae1a6b7,Renta Fija
+RF Bonos Alto Rendimiento USD,EUCA000583,Bloomberg Barclays US Corporate High Yield Total Return Index Value Unhedged USD,5e80ffd66de77f531ae1a6b9,Renta Fija
+RF Bonos Alto Rendimiento EUR,EUCA000590,Bloomberg Barclays Pan-European High Yield Total Return Index Value U,5e810403ee0c714d9dbf8624,Renta Fija
+RF Asia - Moneda Local,EUCA000897,Bloomberg Barclays EM Asia USD Credit Total Return Index Value Unhedged USD,5e810428ee0c714d9dbf8626,Renta Fija
+RF Asia,EUCA000570,Bloomberg Barclays EM Asia USD Credit Total Return Index Value Unhedged USD,5e810428ee0c714d9dbf8626,Renta Fija
+RF Flexible EUR,EUCA000754,BB EuroAgg Total Return Index Value Unhedged EUR,5f5f84040e4901860189f4e7,Renta Fija
+RF Diversificada Corto Plazo USD,EUCA000585,BB US Agg 1-3 Year TR Value Unhedged USD,5f60ab1036ade5cdfeac1745,Renta Fija
+RF Diversificada Corto Plazo EUR,EUCA000593,BB EuroAgg 1-3 Year TR Index Value Unhedged EUR,5f60abeea2871d8612946896,Renta Fija
+RF Deuda Pública USD,EUCA000582,BB US Agency Intermediate TR Unhedged USD,5f60ac9ebb5f1ece0cdf5bfb,Renta Fija
+RF Deuda Pública EUR,EUCA000589,BB EuroAgg Treasury TR Index Value Unhedged EUR,5f60ad7736ade5cdfeac1749,Renta Fija
+RF Deuda Corporativa USD,EUCA000691,BB US Corporate TR Value Unhedged USD,5f60ae1f36ade5cdfeac174b,Renta Fija
+EUR Deuda Subordinada,EUCA000922,Markit iBoxx EUR Liquid High Yield Subordinated TRI,5f60e56a36ade5cdfeac1752,Renta Fija
+RF Global Bonos Ligados Inflación - EUR Cubierto,EUCA000859,BBarclays Global Inflation Linked TR Hedged EUR,6001c90266c43c2dbd85c5b7,Renta Fija
+RF Bonos Ligados Inflación EUR,EUCA000625,BBarclays Euro Govt Infl Linked Bond TR Index,6001ca937826282dd172a7df,Renta Fija
+RF Global Bonos Ligados Inflación,EUCA000858,BBarclays Global Inflation Linked TR USD,6026669c82aeb9d058d4b7a6,Renta Fija
+RF Deuda Corporativa Corto Plazo EUR,EUCA000819,BBarclays Euro Aggregate Corporate 1-3 Year,6037d7d035aa4fc254859178,Renta Fija
+Alt - Long/Short RV Global,EUCA000808,Hedge Fund Research HFRX Global Hedge Fund Index,5887a12ec11e3870353bca5e,Alternativos
+Alt - Long/Short RV USA,EUCA000810,Hedge Fund Research HFRX Global Hedge Fund Index,5887a12ec11e3870353bca5e,Alternativos
+Alt - Event Driven,EUCA000800,Hedge Fund Research HFRX Global Hedge Fund Index,5887a12ec11e3870353bca5e,Alternativos
+Alt - Futuros Gestionados,EUCA000813,Hedge Fund Research HFRX Global Hedge Fund Index,5887a12ec11e3870353bca5e,Alternativos
+Alt - Long/Short RV Europa,EUCA000807,Hedge Fund Research HFRX Global Hedge Fund Index,5887a12ec11e3870353bca5e,Alternativos
+Alt - Global Macro,EUCA000804,Hedge Fund Research HFRX Global Hedge Fund Index,5887a12ec11e3870353bca5e,Alternativos
+Alt - Market Neutral - RV,EUCA000811,Hedge Fund Research HFRX Global Hedge Fund Index,5887a12ec11e3870353bca5e,Alternativos
+Alt - Long/Short RV RU,EUCA000809,Hedge Fund Research HFRX Global Hedge Fund Index,5887a12ec11e3870353bca5e,Alternativos
+Alt - Volatilidad,EUCA000814,Hedge Fund Research HFRX Global Hedge Fund Index,5887a12ec11e3870353bca5e,Alternativos
+Alt - Multiestrategia,EUCA000812,Hedge Fund Research HFRX Global Hedge Fund Index,5887a12ec11e3870353bca5e,Alternativos
+Alt - Arbitraje Valor-Relativo,EUCA000798,Hedge Fund Research HFRX Global Hedge Fund Index,5887a12ec11e3870353bca5e,Alternativos
+Alt - Crédito Long/Short,EUCA000805,Hedge Fund Research HFRX Global Hedge Fund Index,5887a12ec11e3870353bca5e,Alternativos
+Alt - Divisas,EUCA000797,Hedge Fund Research HFRX Global Hedge Fund Index,5887a12ec11e3870353bca5e,Alternativos
+Alt - Otros,EUCA000881,Hedge Fund Research HFRX Global Hedge Fund Index,5887a12ec11e3870353bca5e,Alternativos
+Alt - Long/Short RV Otros,EUCA000880,Hedge Fund Research HFRX Global Hedge Fund Index,5887a12ec11e3870353bca5e,Alternativos
+RV España,EUCA000643,Ibex 35,58878f27c11e3870353bca03,Renta Variable
+RV Sector Tecnología,EUCA000542,NASDAQ Composite Index,5e32b9f59fd58c15144cdcfa,Renta Variable
+RV Zona Euro Cap. Pequeña,EUCA000518,EURO STOXX Small Net Total Return Index EUR,5e7fdca57755e65314e0ddfa,Renta Variable
+RV Zona Euro Cap. Mediana,EUCA000851,EURO STOXX Mid Price EUR,5e7fde55bb592c4d830f3cc9,Renta Variable
+RV Zona Euro Cap. Grande,EUCA000516,EURO STOXX 50 Net Return EUR,5e7fe62f9ef6b65332cf886c,Renta Variable
+RV Zona Euro Cap. Flexible,EUCA000517,EURO STOXX 50 Net Return EUR,5e7fe62f9ef6b65332cf886c,Renta Variable
+RV USA Cap. Pequeña,EUCA000530,Russell 2000 Total Return Index,5e7fe8c67755e65314e0ddfc,Renta Variable
+RV USA Cap. Mediana,EUCA000853,Russell 1000 Index Total Return,5e7feb456de77f531ae1a6a9,Renta Variable
+RV USA Cap. Grande Value,EUCA000528,S&P 500 Value Index,5e7fee5bc6805b4d89f16865,Renta Variable
+RV USA Cap. Grande Growth,EUCA000527,S&P 500 Growth Index,5e7ff052bb592c4d830f3ccb,Renta Variable
+RV USA Cap. Grande Blend,EUCA000526,S&P 500 Net Total Return Index,5e7ff3d5bb592c4d830f3ccd,Renta Variable
+RV USA Cap. Flexible,EUCA000529,S&P 500 Net Total Return Index,5e7ff3d5bb592c4d830f3ccd,Renta Variable
+RV Sector Salud,EUCA000537,MSCI World Health Care Net Total Return USD Index,5e8081babb592c4d830f3ccf,Renta Variable
+RV Sector Recursos Naturales,EUCA000704,S&P Global Natural Resources Net Total Return Index,5e808531c6805b4d89f16867,Renta Variable
+RV Sector Oro y Metales preciosos,EUCA000646,EMIX Global Mining Global Gold,5e8085e1c6805b4d89f16869,Renta Variable
+RV Sector Infraestructura,EUCA000707,S&P Global Infrastructure Total Return Index,5e8086b99ef6b65332cf886e,Renta Variable
+RV Sector Finanzas,EUCA000536,MSCI World Financials Net Total Return USD Index,5e808768bb592c4d830f3cd1,Renta Variable
+RV Sector Energía Alternativa,EUCA000705,S&P Global Clean Energy Net TR,5e8088539ef6b65332cf8870,Renta Variable
+RV Sector Energía,EUCA000535,MSCI World Energy Sector Net Total Return USD Index,5e8098edee0c714d9dbf8616,Renta Variable
+RV Global Cap. Flexible,EUCA000558,MSCI ACWI Net Total Return USD Index,5e80996bbb592c4d830f3cd3,Renta Variable
+RV Otros,EUCA000539,MSCI ACWI Net Total Return USD Index,5e80996bbb592c4d830f3cd3,Renta Variable
+RV Global Alto Dividendo,EUCA000876,MSCI ACWI Net Total Return USD Index,5e80996bbb592c4d830f3cd3,Renta Variable
+RV Global Cap. Grande Blend,EUCA000555,MSCI ACWI Net Total Return USD Index,5e80996bbb592c4d830f3cd3,Renta Variable
+RV Sector Ecología,EUCA000706,MSCI ACWI Net Total Return USD Index,5e80996bbb592c4d830f3cd3,Renta Variable
+RV Sector Consumo,EUCA000534,MSCI World Consumer Staples Net Total Return USD Index,5e8099e49ef6b65332cf8872,Renta Variable
+RV Sector Biotecnología,EUCA000532,NASDAQ Biotechnology Total Return Index,5e809a5e6de77f531ae1a6ab,Renta Variable
+RV Sector Agua,EUCA000828,S&P Global Water Index,5e809bd7ee0c714d9dbf8618,Renta Variable
+RV Sector Agricultura,EUCA000827,S&P Global Agribusiness Equity Index,5e809bf5ee0c714d9dbf861a,Renta Variable
+RV RU Cap. Grande,EUCA000550,FTSE 100 Net Tax Index,5e809c4dbb592c4d830f3cd5,Renta Variable
+RV RU Cap. Pequeña,EUCA000554,FTSE 100 Net Tax Index,5e809c4dbb592c4d830f3cd5,Renta Variable
+RV RU Cap. Flexible,EUCA000553,FTSE 100 Net Tax Index,5e809c4dbb592c4d830f3cd5,Renta Variable
+RV RU Cap. Mediana,EUCA000852,FTSE 100 Net Tax Index,5e809c4dbb592c4d830f3cd5,Renta Variable
+RV RU Alto Dividendo,EUCA000846,FTSE 100 Net Tax Index,5e809c4dbb592c4d830f3cd5,Renta Variable
+RV Latinoamérica,EUCA000524,MSCI EM Latin America Net Total Return USD Index,5e809c91c6805b4d89f1686b,Renta Variable
+RV Japón Cap. Med/Peq,EUCA000522,TOPIX Small Index,5e80a9d69ef6b65332cf8874,Renta Variable
+RV Japón Cap. Grande,EUCA000521,TOPIX Net Total Return,5e80a9fcee0c714d9dbf861c,Renta Variable
+RV Japón Cap. Flexible,EUCA000915,TOPIX Net Total Return,5e80a9fcee0c714d9dbf861c,Renta Variable
+RV Italia,EUCA000640,FTSE MIB Net Total Return Index,5e80aa1aee0c714d9dbf861e,Renta Variable
+RV India,EUCA000520,MSCI India Net Total Return USD Index,5e80aa439ef6b65332cf8876,Renta Variable
+RV Gran China,EUCA000500,MSCI China Net Total Return USD Index,5e80aea99ef6b65332cf8878,Renta Variable
+RV China,EUCA000504,MSCI China Net Total Return USD Index,5e80aea99ef6b65332cf8878,Renta Variable
+RV China - A Shares,EUCA000896,MSCI China Net Total Return USD Index,5e80aea99ef6b65332cf8878,Renta Variable
+RV Global Emergente,EUCA000507,MSCI Emerging Markets Net Total Return USD Index,5e80aecac6805b4d89f1686d,Renta Variable
+RV Global Cap. Pequeña,EUCA000836,MSCI ACWI Small Cap Net Return USD Index,5e80aeebc6805b4d89f1686f,Renta Variable
+RV Global Cap. Grande Value,EUCA000557,MSCI ACWI Value Net Total Return USD Index,5e80af077755e65314e0ddfe,Renta Variable
+RV Global Cap. Grande Growth,EUCA000556,MSCI ACWI Growth Net Total Return USD Index,5e80b226c6805b4d89f16871,Renta Variable
+RV Francia Cap. Peq/Mediana,EUCA000637,CAC 40 Net Total Return Index,5e80b247c6805b4d89f16873,Renta Variable
+RV Francia Cap. Grande,EUCA000636,CAC 40 Net Total Return Index,5e80b247c6805b4d89f16873,Renta Variable
+RV Europa ex-RU Cap. Grande,EUCA000509,MSCI Europe ex UK Net Return EUR Index,5e80b262ee0c714d9dbf8620,Renta Variable
+RV Europa ex-RU Cap. Med/Peq,EUCA000510,MSCI Europe ex UK Net Return EUR Index,5e80b262ee0c714d9dbf8620,Renta Variable
+RV Europa Cap. Pequeña,EUCA000515,MSCI Europe Small Cap Net TR EUR,5e80b27bbb592c4d830f3cd7,Renta Variable
+RV Europa Cap. Grande Blend,EUCA000511,MSCI Europe Net Total Return,5e80b608bb592c4d830f3cd9,Renta Variable
+RV Europa Cap. Flexible,EUCA000514,MSCI Europe Net Total Return,5e80b608bb592c4d830f3cd9,Renta Variable
+RV Europa Alto Dividendo,EUCA000875,MSCI Europe Net Total Return,5e80b608bb592c4d830f3cd9,Renta Variable
+RV Europa Cap. Mediana,EUCA000850,MSCI Europe Net Total Return,5e80b608bb592c4d830f3cd9,Renta Variable
+RV Europa Cap. Grande Value,EUCA000513,MSCI Europe Value Net Total Return EUR Index,5e80b628bb592c4d830f3cdb,Renta Variable
+RV Europa Cap. Grande Growth,EUCA000512,MSCI Europe Growth Net Total Return EUR Index,5e80b6476de77f531ae1a6ad,Renta Variable
+RV Asia (ex-Japón),EUCA000779,MSCI AC Asia ex Japan Net Total Return USD Index,5e80b662bb592c4d830f3cdd,Renta Variable
+RV Asia Pacífico (ex-Japón),EUCA000501,MSCI AC Asia ex Japan Net Total Return USD Index,5e80b662bb592c4d830f3cdd,Renta Variable
+RV Asia (ex-Japón) Cap. Peq/Mediana,EUCA000907,MSCI AC Asia ex Japan Net Total Return USD Index,5e80b662bb592c4d830f3cdd,Renta Variable
+RV Asia Pacífico (ex-Japón) Alto Dividendo,EUCA000918,MSCI AC Asia ex Japan Net Total Return USD Index,5e80b662bb592c4d830f3cdd,Renta Variable
+RV Alemania Cap. Grande,EUCA000638,DAX,5e80e5fbc6805b4d89f16875,Renta Variable
+RV Alemania Cap. Peq/Mediana,EUCA000639,DAX,5e80e5fbc6805b4d89f16875,Renta Variable
+RV Rusia,EUCA000642,MSCI Russia Net Total Return USD Index,5f5f7c410e4901860189f4df,Renta Variable
+RV Global Mercados Frontera,EUCA000845,MSCI Frontier Markets Net Return USD Index,5f5f7d79bb5f1ece0cdf5bdd,Renta Variable
+RV Global Emergente Cap. Peq/Med,EUCA000910,MSCI Emerging Markets SMID Cap Net Total Return USD Index,5f5f7e2cbb5f1ece0cdf5bdf,Renta Variable
+RV Europa Emergente,EUCA000508,MSCI Emerging Markets Europe Net Total Return USD Index,5f5f7f9ba2871d861294687d,Renta Variable
+RV Corea,EUCA000523,MSCI Korea Net USD Index,5f5f805aa2871d861294687f,Renta Variable
+RV BRIC,EUCA000700,MSCI BRIC NETR USD Index,5f5f80f4a2871d8612946882,Renta Variable
+RV Brasil,EUCA000699,MSCI Brazil Net Total Return USD Index,5f5f81bba2871d8612946884,Renta Variable
+RV Asia Pacífico (incl. Japón),EUCA000502,MSCI AC Asia Pacific Net Total Return USD Index,5f5f82730e4901860189f4e3,Renta Variable
+RV Asia,EUCA000669,MSCI AC ASEAN USD Net,5f5f8309a2871d8612946887,Renta Variable
+Materias Primas - Diversificado,EUCA000785,Bloomberg Commodity Index Total Return,5f60e40a36ade5cdfeac1750,Renta Variable
+Inmobiliario - Indirecto Global,EUCA000541,FTSE EPRA/NAREIT Global Index TR USD,5f60e4cabb5f1ece0cdf5c05,Renta Variable
+RV Suiza Cap. Peq/Mediana,EUCA000644,Swiss Exchange Swiss Performance Index,5f917318cad2fecda45d93ed,Renta Variable
+RV Suiza Cap. Grande,EUCA000548,Swiss Exchange Swiss Performance Index,5f917318cad2fecda45d93ed,Renta Variable
+RV Nórdica Cap. Med/Peq,EUCA000920,MSCI NORDIC COUNTRIES NR EUR,5fae7a5b1b05ed35c34f41aa,Renta Variable
+RV Nórdica,EUCA000525,MSCI NORDIC COUNTRIES NR EUR,5fae7a5b1b05ed35c34f41aa,Renta Variable
+RV Sector Materiales Insustriales,EUCA000538,MSCI World Materials Net Total Return USD Index,6001c78414ff97fddc56d0c6,Renta Variable
+RV África,EUCA000697,S&P Pan Africa Total Return Index,602664316202c78cc396f74b,Renta Variable
+Mercado Monetario EUR,EUCA000591,EUROPEAN CENTRAL BANK EONIA INDEX 7 DAY,5ef5b2aa5abfac59ebf195a7,Activo Monetario
+Mercado Monetario Corto Plazo EUR,EUCA000830,EUROPEAN CENTRAL BANK EONIA INDEX 7 DAY,5ef5b2aa5abfac59ebf195a7,Activo Monetario
+RF Ultra Corto Plazo EUR,EUCA000592,EUROPEAN CENTRAL BANK EONIA INDEX 7 DAY,5ef5b2aa5abfac59ebf195a7,Activo Monetario
+Mercado Monetario Corto Plazo USD,EUCA000832,BB U.S. Tr Bills: 1-3 Months TR Index Value Unhedged,5f60e1050e4901860189f4f9,Activo Monetario
+Mercado Monetario USD,EUCA000584,BB U.S. Tr Bills: 1-3 Months TR Index Value Unhedged,5f60e1050e4901860189f4f9,Activo Monetario
+Mercado Monetario GBP,EUCA000608,FTSE 3-Month UK Sterling Eurodeposit LCL,5f60e1e8bb5f1ece0cdf5bff,Activo Monetario
+Mercado Monetario Corto Plazo GBP,EUCA000831,FTSE 3-Month UK Sterling Eurodeposit LCL,5f60e1e8bb5f1ece0cdf5bff,Activo Monetario
