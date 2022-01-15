@@ -92,9 +92,9 @@ def test_rolling(weights_dict,test,budget=1,verbose=True):
     'test_return':round(returns[-1]*100,2),'money_test_year':round(returns[-1]*budget,2)}
     return returns,returns2,info_dict
 
-def test_pipeline(train,test,samples=0,min_weight=0,add_leftovers=True,method="CVaR",market_neutral=False,risk=0.05,budget=100000,gamma=0.5,rs=40,verbose=True):
+def test_pipeline(train,test,samples=0,min_weight=0,add_leftovers=True,method="CVaR",market_neutral=False,risk=0.05,risk_level=0,budget=5000,gamma=0.2,rs=40,verbose=True,solver='ECOS_BB'):
     
-    if samples !=0:
+    if samples != 0:
         train_ = train.sample(n=samples,axis=1,random_state=rs)
     else:
         train_ = train.copy()
@@ -106,14 +106,16 @@ def test_pipeline(train,test,samples=0,min_weight=0,add_leftovers=True,method="C
     opt_time_start = time.time()
     if method == "CVaR":
         if market_neutral==True:
-            cleaned_weights = pyomo(train_,"CVaR",risk=risk,verbose=verbose)
+            cleaned_weights = CVaR_method(train_,risk=risk,risk_level=risk_level,budget=budget,gamma=gamma,verbose=verbose,market_neutral=True,solver=solver) 
+             #cleaned_weights = pyomo(train_,"CVaR",risk=risk,verbose=verbose)
         else:
-            cleaned_weights = CVaR_method(train_,risk=risk,budget=budget,gamma=gamma,verbose=verbose) 
+            cleaned_weights = CVaR_method(train_,risk=risk,risk_level=risk_level,budget=budget,gamma=gamma,verbose=verbose,market_neutral=False,solver=solver) 
     elif method == "CDaR":
         if market_neutral==True:
-            cleaned_weights = pyomo(train_,"CDaR",risk=risk,verbose=verbose)
+            cleaned_weights = CDaR_method(train_,risk=risk,risk_level=risk_level,budget=budget,gamma=gamma,verbose=verbose,market_neutral=True,solver=solver)
+            #cleaned_weights = pyomo(train_,"CDaR",risk=risk,verbose=verbose)
         else:
-            cleaned_weights = CDaR_method(train_,risk=risk,budget=budget,gamma=gamma,verbose=verbose)  
+            cleaned_weights = CDaR_method(train_,risk=risk,risk_level=risk_level,budget=budget,gamma=gamma,verbose=verbose,market_neutral=False,solver=solver)  
     elif method == "sharpe":
         cleaned_weights = sharpe_method(train_,budget=budget,verbose=verbose)  
     
@@ -153,7 +155,7 @@ def test_pipeline(train,test,samples=0,min_weight=0,add_leftovers=True,method="C
 
 
 def Hierarchical_Computing(train,test,n_steps=2,min_weight=0,add_leftovers=True,split_size=100,print_every=50,
-                           market_neutral=False,method="CVaR",budget=100,risk=0.005,gamma=0.2,verbose=True):
+                           market_neutral=False,method="CVaR",budget=100,risk=0.05,risk_level=0,gamma=0.2,verbose=True,solver = 'ECOS_BB'):
     
     for step in range(0,n_steps):
           
@@ -175,14 +177,14 @@ def Hierarchical_Computing(train,test,n_steps=2,min_weight=0,add_leftovers=True,
                 if verbose and (counter+1)%print_every == 0:
                     print(f"{counter+1} out of {n_splits}")
                 try:
-                    weights = test_pipeline(train_,test,market_neutral=False,method=method,
-                                            min_weight=min_weight,add_leftovers=True,risk=risk,
-                                            budget=budget,gamma=gamma,verbose=False)
+                    weights = test_pipeline(train_,test,market_neutral=market_neutral,method=method,
+                                            min_weight=min_weight,add_leftovers=add_leftovers,risk=risk,
+                                            risk_level=risk_level,budget=budget,gamma=gamma,verbose=False,solver=solver)[0]
                 except:
                     print("Error at position:",counter, "solving with gamma=0 for this partition")
-                    weights = test_pipeline(train_,test,market_neutral=False,method=method,
-                                            min_weight=min_weight,add_leftovers=True,risk=risk
-                                            ,budget=budget,gamma=0,verbose=False)
+                    weights = test_pipeline(train_,test,market_neutral=market_neutral,method=method,
+                                            min_weight=min_weight,add_leftovers=add_leftovers,risk=risk
+                                            ,risk_level=risk_level,budget=budget,gamma=0,verbose=False,solver=solver)[0]
 
                 for i in weights.keys():
                     selected_funds.append(i)
@@ -209,14 +211,14 @@ def Hierarchical_Computing(train,test,n_steps=2,min_weight=0,add_leftovers=True,
                     print(f"{counter+1} out of {n_splits}")
                     
                 try:
-                    weights = test_pipeline(train_,test,market_neutral=False,method=method,
-                                            min_weight=min_weight,add_leftovers=True,risk=risk,
-                                            budget=budget,gamma=gamma,verbose=False)
+                    weights = test_pipeline(train_,test,market_neutral=market_neutral,method=method,
+                                            min_weight=min_weight,add_leftovers=add_leftovers,risk=risk,
+                                            risk_level=risk_level, budget=budget,gamma=gamma,verbose=False,solver=solver)[0]
                 except:
                     print("Error at position:",counter)
-                    weights = test_pipeline(train_,test,market_neutral=False,method=method,
-                                            min_weight=min_weight,add_leftovers=True,risk=risk,
-                                            budget=budget,gamma=0,verbose=False)
+                    weights = test_pipeline(train_,test,market_neutral=market_neutral,method=method,
+                                            min_weight=min_weight,add_leftovers=add_leftovers,risk=risk,
+                                            risk_level = risk_level, budget=budget,gamma=0,verbose=False,solver=solver)[0]
 
                 for i in weights.keys():
                     selected_funds.append(i) 
