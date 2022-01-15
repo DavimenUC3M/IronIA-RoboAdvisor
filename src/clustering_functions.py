@@ -76,14 +76,14 @@ def calculate_cluster_variables(start,end,colnames,terminations,dfs,gdps,inflati
     
     return clustering_df
 
-def plot_elbow_graph(df,use_PCA=False,n_pca_components=2,verbose=False):
+def plot_elbow_graph(df,use_PCA=False,n_pca_components=2,verbose=False,n_clusters=10):
 
     if use_PCA:
         pca = PCA(n_components=n_pca_components)
         pca.fit(df)
         df = pca.transform(df)
     
-    num_clusters = range(1, 11)
+    num_clusters = range(1, n_clusters+1)
     kmeans = [KMeans(n_clusters=i) for i in num_clusters]
     score = np.array([kmeans[i].fit(df).score(df) for i in range(len(kmeans))])*-1
     if verbose:
