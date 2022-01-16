@@ -289,10 +289,9 @@ def header():
 
                 st.markdown("<h3 style='text-align: center;'></h3>",unsafe_allow_html=True)
                 st.markdown("<h3 style='text-align: center;'></h3>",unsafe_allow_html=True)
-                # agree = st.checkbox('Have you finished filling the Questionarie?')
-                st.subheader('Have you finished filling the Questionarie?')
-
-                if st.button('Yes?   Press Me'):
+                agree = st.checkbox('Have you finished filling the Questionarie?')
+        
+                if agree:
                     if score in range(21,29):
                        
                         lower_limit= 1     
