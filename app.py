@@ -74,7 +74,7 @@ def data_loader():
         test.set_index("Unnamed: 0",inplace=True)
         test.index.name= 'date'
 
-        with open('data/different_funds_10.pkl', 'rb') as f: #Cleaning duplicated name funds
+        with open('data/different_funds_7.pkl', 'rb') as f: #Cleaning duplicated name funds
             DifferentNameFunds = pickle.load(f)
             
         train = train[DifferentNameFunds]
