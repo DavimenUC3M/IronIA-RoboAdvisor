@@ -157,7 +157,8 @@ def header():
                     <h5 style="color:#008080; text-align:center;font-family:Georgia"> We will ask you 6 questions with the aim 
                     of getting to know you better <br> and in this way discard certain funds.</h3> <br>
                 """
-
+                st.markdown("<h3 style='text-align: center;'></h3>",unsafe_allow_html=True)                
+                st.markdown("<h3 style='text-align: center;'></h3>",unsafe_allow_html=True)
                 st.markdown(html_header1, unsafe_allow_html=True)
                 st.markdown("<h3 style='text-align: center;'></h3>",unsafe_allow_html=True)
 
@@ -470,14 +471,14 @@ def user_portfolio(weights,returns2):
 
 ### Computations
 @st.cache
-def perform_test_pipe(option_risk,risk_lvl,budget,train, test,lower_limit):
+def perform_test_pipe(option_risk,budget,train, test,lower_limit):
     
     selected_funds = Hierarchical_Computing(train,test,market_neutral=False,n_steps=2,split_size=500,print_every=20,
-                                        min_weight=0.001,add_leftovers=False,method=option_risk,risk_level=lower_limit,risk=risk_lvl,gamma=0.2)
+                                        min_weight=0.001,add_leftovers=False,method=option_risk,risk_level=lower_limit,risk=0.05,gamma=0.2)
 
     weights,returns2,info_dict = test_pipeline(train[selected_funds],test,market_neutral=False,
                         min_weight=0.04,add_leftovers=True,samples=0,method=option_risk,risk_level=lower_limit,
-                        risk=risk_lvl,budget=budget,gamma=0.15,rs=40) #Methods = CDaR, CVaR, sharpe, MAD, ML
+                        risk=0.05,budget=budget,gamma=0.15,rs=40) #Methods = CDaR, CVaR, sharpe, MAD, ML
 
     return weights,returns2,info_dict
 
@@ -497,7 +498,14 @@ def controllers2():
     #     on the financial world. This app is for those who have the basic ideas of how they want to invert, but don't have 
     #     enough knowledge to make their own investment portfolio.</p>""",unsafe_allow_html=True)
     st.sidebar.image("data/complete_logo.png")
-    st.sidebar.markdown("<h1 style='text-align: center;'>User Demands</h1>",unsafe_allow_html=True)
+
+    st.sidebar.markdown("<h3 style='text-align: center;'></h3>",unsafe_allow_html=True)
+    st.sidebar.markdown('''
+                    <h1 style='text-align: center;'>Choose the following Measures</h1>
+                    
+                    - <h3>Risk Evaluation Method </h3> Method that the Algorithm will use in order to perform the Risk Optimization (we recommend to use CVaR or CDaR).
+                    - <h3>Budget        </h3> Amount of money the Client is willing to invest.              
+                    ''',unsafe_allow_html=True)
 
     option_risk = st.sidebar.selectbox('Select a risk Measure',['CVaR', 'CDaR', 'MAD','ML','sharpe'],help=""" 
                 - Conditional Value at Risk (CVaR) :  Risk assessment measure that quantifies the amount of tail risk an investment portfolio has.
@@ -506,25 +514,20 @@ def controllers2():
                 - Mean Absolute Deviation (MAD)
                 - Sharpe Ratio (sharpe) : Average return earned in excess of the risk-free rate per unit of volatility or total risk.""")
 
-    st.sidebar.markdown('''
-                    <h2 style='text-align: center;'>Choose the following Measures: </h2>
-                    
-                    - Risk Level        : Percentageo of Risk the Client is willing to accept
-                    - Budget           : Amount of money the Client is willing to invest                
-                    ''',unsafe_allow_html=True)
-
-                    
-    risk_lvl = st.sidebar.slider(label="Risk Level",min_value=0.0,max_value=1.0,value=0.2,step=0.005,help="Between 0 and 1, choose a value. Keep in mind that the lower the value you choose the lower risk you are taking and thus you are being more conservative. ")
+      
+    # risk_lvl = st.sidebar.slider(label="Risk Level",min_value=0.0,max_value=1.0,value=0.2,step=0.005,help="Between 0 and 1, choose a value. Keep in mind that the lower the value you choose the lower risk you are taking and thus you are being more conservative. ")
     budget  = st.sidebar.number_input('Insert your Investment Budget',min_value=0,value=2000,help="Total amount of money the you want to expend in this Portfolio" )
     
     st.sidebar.markdown("<h1 style='text-align: center;'></h1>",unsafe_allow_html=True)
+    st.sidebar.markdown("<h1 style='text-align: center;'>PARTNERED WITH</h1>",unsafe_allow_html=True)
     st.sidebar.markdown("<h1 style='text-align: center;'></h1>",unsafe_allow_html=True)
     st.sidebar.image("data/uc3m_logo.png")
-    st.sidebar.markdown("<h1 style='text-align: center;'></h1>",unsafe_allow_html=True)
-    st.sidebar.markdown("<h1 style='text-align: center;'></h1>",unsafe_allow_html=True)
+    st.sidebar.markdown("<h3 style='text-align: center;'></h3>",unsafe_allow_html=True)
+    st.sidebar.image("data/aliance.png")
+    st.sidebar.markdown("<h3 style='text-align: center;'></h3>",unsafe_allow_html=True)
     st.sidebar.image("data/ironia.png")
     
-    return option_risk,risk_lvl,budget
+    return option_risk,budget
 
 
 # Setting commas 
@@ -541,10 +544,10 @@ def main():
             complete_df,betas,category,train,test,train_risk_1,train_risk_2,train_risk_3,train_risk_4,train_risk_5=data_loader()
             
             # Reuse the Controllers output
-            option_risk,risk_lvl,budget = controllers2()
+            option_risk,budget = controllers2()
             
             # Call our Function for performing all the computations
-            weights,returns2,info_dict = perform_test_pipe(option_risk,risk_lvl,budget,train,test,lower_limit)
+            weights,returns2,info_dict = perform_test_pipe(option_risk,budget,train,test,lower_limit)
 
 
             
