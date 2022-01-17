@@ -289,7 +289,7 @@ def header():
 
                 st.markdown("<h3 style='text-align: center;'></h3>",unsafe_allow_html=True)
                 st.markdown("<h3 style='text-align: center;'></h3>",unsafe_allow_html=True)
-                agree = st.checkbox('Have you finished filling the Questionarie?')
+                agree = st.checkbox('Have you finished filling the Questionarie?',help='If you want to modify several answers (after having cliked this checkbox), we recommend you tu unclick the checkbox so that the program doesnt recalculate when you are modifying the Questionarie.')
         
                 if agree:
                     if score in range(21,29):
