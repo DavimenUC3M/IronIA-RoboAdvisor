@@ -80,32 +80,7 @@ def data_loader():
         train = train[DifferentNameFunds]
         test = test[DifferentNameFunds]
 
-        train_risk_1 = pd.read_csv("data/Risk Dataframes/train_1_risk.csv")
-        train_risk_1.set_index("date",inplace=True)
-        train_risk_1 = train_risk_1.reindex(columns=DifferentNameFunds)
-        train_risk_1.dropna(axis=1,inplace=True)
-
-        train_risk_2 = pd.read_csv("data/Risk Dataframes/train_2_risk.csv")
-        train_risk_2.set_index("date",inplace=True)
-        train_risk_2 = train_risk_2.reindex(columns=DifferentNameFunds)
-        train_risk_2.dropna(axis=1,inplace=True)
-
-        train_risk_3 = pd.read_csv("data/Risk Dataframes/train_3_risk.csv")
-        train_risk_3 = train_risk_3.reindex(columns=DifferentNameFunds)
-        train_risk_3.dropna(axis=1,inplace=True)
-
-        train_risk_4 = pd.read_csv("data/Risk Dataframes/train_4_risk.csv")
-        train_risk_4.set_index("date",inplace=True)
-        train_risk_4 = train_risk_4.reindex(columns=DifferentNameFunds)
-        train_risk_4.dropna(axis=1,inplace=True)
-
-        train_risk_5 = pd.read_csv("data/Risk Dataframes/train_5_risk.csv")
-        train_risk_5.set_index("date",inplace=True)
-        train_risk_5 = train_risk_5.reindex(columns=DifferentNameFunds)
-        train_risk_5.dropna(axis=1,inplace=True)
-
-        print('ready')
-        return complete_df,betas,category,train,test,train_risk_1,train_risk_2,train_risk_3,train_risk_4,train_risk_5
+        return complete_df,betas,category,train,test
 
 
 
@@ -541,7 +516,7 @@ def main():
             lower_limit=header()
             
     #### LOAD THE DATA AND PERFORM THE OPERATIONS 
-            complete_df,betas,category,train,test,train_risk_1,train_risk_2,train_risk_3,train_risk_4,train_risk_5=data_loader()
+            complete_df,betas,category,train,test=data_loader()
             
             # Reuse the Controllers output
             option_risk,budget = controllers2()
