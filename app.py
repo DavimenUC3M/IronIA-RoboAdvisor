@@ -120,11 +120,11 @@ def header():
             # </style> """, unsafe_allow_html=True)
             html_header1="""
 
-                <h2 style="font-size:300%; color:#008080; font-family:Georgia">Risk Level Questionarie</h2>
+                <h2 style="font-size:300%; color:#008080; font-family:Georgia">Risk Level Questionnaire</h2>
             """
 
             st.markdown(html_header1, unsafe_allow_html=True)
-            with st.expander('If you have low financial knowledge, we recommend you to fill this Questionaire'):
+            with st.expander('If you have low financial knowledge, we recommend you to fill this Questionnaire'):
                 
                 
 
@@ -265,7 +265,7 @@ def header():
 
                 st.markdown("<h3 style='text-align: center;'></h3>",unsafe_allow_html=True)
                 st.markdown("<h3 style='text-align: center;'></h3>",unsafe_allow_html=True)
-                agree = st.checkbox('Have you finished filling the Questionarie?',help='If you want to modify several answers (after having cliked this checkbox), we recommend you tu unclick the checkbox so that the program doesnt recalculate when you are modifying the Questionarie.')
+                agree = st.checkbox('Have you finished filling the Questionnaire?',help='If you want to modify several answers (after having clicked this checkbox), we recommend you to unclick the checkbox so that the program does not recalculate when you are modifying the Questionnaire.')
         
                 if agree:
                     if score in range(21,29):
@@ -482,7 +482,7 @@ def controllers2():
                     - <h3>Budget        </h3> Amount of money the Client is willing to invest.              
                     ''',unsafe_allow_html=True)
 
-    option_risk = st.sidebar.selectbox('Select a risk Measure',['CVaR', 'CDaR', 'MAD','ML','sharpe'],help=""" 
+    option_risk = st.sidebar.selectbox('Select a Risk Measure',['CVaR', 'CDaR', 'MAD','ML','sharpe'],help=""" 
                 - Conditional Value at Risk (CVaR) :  Risk assessment measure that quantifies the amount of tail risk an investment portfolio has.
                 - Conditional Drawdown at Risk (CDaR) : Risk measure which quantifies in aggregated format the number and magnitude of the portfolio drawdowns over some period of time.
                 - MaxLoss (ML) 
@@ -542,9 +542,9 @@ def main():
             initial_metrics(info_dict,budget)
         
             
-            ### Aditional Funds Information ##########################################################################
+            ### Additional Funds Information ##########################################################################
             #COMPUTATIONS
-            # In order to show aditional info of the choosen funds
+            # In order to show additional info of the choosen funds
             funds_inversion = [str(round(i*budget,3))+'$' for i in list(weights.values())]   # [str(round(i * 100,2))+'%' for i in list(weights.values())]
             choosen_funds = list(returns2.columns[:-1])
             choosen_funds_info = complete_df.loc[complete_df['names'].isin(choosen_funds)]
@@ -555,7 +555,7 @@ def main():
 
             st.markdown("<h3 style='text-align: center;'></h3>",unsafe_allow_html=True)
             html_subtitle="""
-            <h2 style="color:#008080; font-family:Georgia;"> Aditional Fund's Information</h2>
+            <h2 style="color:#008080; font-family:Georgia;"> Additional Fund's Information</h2>
             """
             st.markdown(html_subtitle, unsafe_allow_html=True) 
             # st.dataframe(choosen_funds_info)
