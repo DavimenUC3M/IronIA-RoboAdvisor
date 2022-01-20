@@ -134,9 +134,10 @@ def header():
                 """
                 st.markdown("<h3 style='text-align: center;'></h3>",unsafe_allow_html=True)                
                 st.markdown("<h3 style='text-align: center;'></h3>",unsafe_allow_html=True)
+                
                 st.markdown(html_header1, unsafe_allow_html=True)
                 st.markdown("<h3 style='text-align: center;'></h3>",unsafe_allow_html=True)
-
+                st.markdown("<h3 style='text-align: center;'></h3>",unsafe_allow_html=True)
                 score = 0
 
                 col1, col2,col3,col4,col5= st.columns([3,10,5,10,3])
@@ -162,11 +163,11 @@ def header():
                     st.write("") 
                 with col4:
                     q4 = st.radio(
-                    "4. Your current age is:",
-                    ('A. Over 50', 
-                    'B. Between 35 and 49', 
-                    'C. Between 25 and 34',
-                    'D. Under 25'))
+                    "4. Which of the statements better reflect the way you feel in situations in which you have little to no control over the outcome?",
+                    ('A. I tend to panic and start making bad decisions.', 
+                    'B. I feel powerless and start overthinking.', 
+                    'C. I get a bit nervous but I let the situation develop.',
+                    'D. I remain completely calm.'))
                     if 'A.' in  q4:
                         score += 4
                     elif 'B.' in  q4:
@@ -221,7 +222,8 @@ def header():
                     st.write("")   
 
 
-                
+                st.markdown("<h3 style='text-align: center;'></h3>",unsafe_allow_html=True)
+                st.markdown("<h3 style='text-align: center;'></h3>",unsafe_allow_html=True)
                 col1, col2,col3,col4,col5= st.columns([3,10,5,10,3])
                 
                 with col1:
@@ -262,6 +264,33 @@ def header():
                         score += 1   
                 with col5:
                     st.write("")   
+
+
+                st.markdown("<h3 style='text-align: center;'></h3>",unsafe_allow_html=True)
+                
+                 
+                col1, col2,col3 = st.columns([12,10,7])
+                
+                with col1:
+                    st.write("")
+                with col2:
+                    q7 = st.radio(
+                    "7. Your current age is:",
+                    ('A. Over 50', 
+                    'B. Between 35 and 49', 
+                    'C. Between 25 and 34',
+                    'D. Under 25'))
+                    if 'A.' in  q7:
+                        score += 4
+                    elif 'B.' in  q7:
+                        score += 3
+                    elif 'C.' in  q7:
+                        score += 2
+                    elif 'D.' in  q7:
+                        score += 1   
+                with col3:
+                    st.write("")
+ 
 
                 st.markdown("<h3 style='text-align: center;'></h3>",unsafe_allow_html=True)
                 st.markdown("<h3 style='text-align: center;'></h3>",unsafe_allow_html=True)
