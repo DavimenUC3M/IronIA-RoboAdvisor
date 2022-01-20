@@ -412,7 +412,7 @@ def user_portfolio(weights,returns2):
             st.markdown("<h3 style='text-align: center;'></h3>",unsafe_allow_html=True)
             st.markdown("<h3 style='text-align: center;'></h3>",unsafe_allow_html=True)
             with st.container():
-                col1, col2, col3 = st.columns([15,3,12])
+                col1, col2, col3 = st.columns([12,0.5,9])
                 with col1:
                         p = returns2.plot_bokeh.line(
                         figsize=(650, 500),
@@ -420,14 +420,15 @@ def user_portfolio(weights,returns2):
                         xlabel="Date",
                         ylabel="Your budget [$]",
                         panning=False,
-                        zooming=False,
+                        zooming=True,
                         legend="top_left")
+                        p.legend.label_text_font_size = '8pt'
                         st.bokeh_chart(p)
                 with col2:
                     st.write("")
                 with col3:
                     
-                    st.markdown("<h3 style='text-align: center;'>Your Investments</h3>",unsafe_allow_html=True)
+                    st.markdown("<h3 style='text-align: center;color:#008080; font-family:Georgia;'>Your Investments</h3>",unsafe_allow_html=True)
                     #PIE
                     f_names= []
                     data = []
@@ -474,15 +475,11 @@ def controllers2():
     #     enough knowledge to make their own investment portfolio.</p>""",unsafe_allow_html=True)
     st.sidebar.image("data/complete_logo.png")
 
-    st.sidebar.markdown("<h3 style='text-align: center;'></h3>",unsafe_allow_html=True)
-    st.sidebar.markdown('''
-                    <h1 style='text-align: center;'>Choose the following Measures</h1>
-                    
-                    - <h3>Risk Evaluation Method </h3> Method that the Algorithm will use in order to perform the Risk Optimization (we recommend to use CVaR or CDaR).
-                    - <h3>Budget        </h3> Amount of money the Client is willing to invest.              
-                    ''',unsafe_allow_html=True)
+    st.sidebar.markdown("<h1 style='text-align: center;'>Choose the following Measures</h1>",unsafe_allow_html=True)
 
     option_risk = st.sidebar.selectbox('Select a Risk Measure',['CVaR', 'CDaR', 'MAD','ML','sharpe'],help=""" 
+                WARNING --> ¡Leave CVaR if you are not used to these terms!
+
                 - Conditional Value at Risk (CVaR) :  Risk assessment measure that quantifies the amount of tail risk an investment portfolio has.
                 - Conditional Drawdown at Risk (CDaR) : Risk measure which quantifies in aggregated format the number and magnitude of the portfolio drawdowns over some period of time.
                 - MaxLoss (ML) 
@@ -493,6 +490,13 @@ def controllers2():
     # risk_lvl = st.sidebar.slider(label="Risk Level",min_value=0.0,max_value=1.0,value=0.2,step=0.005,help="Between 0 and 1, choose a value. Keep in mind that the lower the value you choose the lower risk you are taking and thus you are being more conservative. ")
     budget  = st.sidebar.number_input('Insert your Investment Budget',min_value=0,value=2000,help="Total amount of money the you want to expend in this Portfolio" )
     
+    st.sidebar.markdown("<h3 style='text-align: center;'></h3>",unsafe_allow_html=True)
+    st.sidebar.markdown('''
+                    
+                    - <h3>Risk Evaluation Method </h3> Method that the Algorithm will use in order to perform the Risk Optimization (we recommend to use CVaR or CDaR).
+                    - <h3>Budget        </h3> Amount of money the Client is willing to invest.              
+                    ''',unsafe_allow_html=True)
+
     st.sidebar.markdown("<h1 style='text-align: center;'></h1>",unsafe_allow_html=True)
     st.sidebar.markdown("<h1 style='text-align: center;'>PARTNERED WITH</h1>",unsafe_allow_html=True)
     st.sidebar.markdown("<h1 style='text-align: center;'></h1>",unsafe_allow_html=True)
