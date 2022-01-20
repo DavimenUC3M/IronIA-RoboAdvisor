@@ -129,7 +129,7 @@ def header():
                 
 
                 html_header1="""
-                    <h5 style="color:#008080; text-align:center;font-family:Georgia"> We will ask you 6 questions with the aim 
+                    <h5 style="color:#008080; text-align:center;font-family:Georgia"> We will ask you 7 questions with the aim 
                     of getting to know you better <br> and in this way discard certain funds.</h3> <br>
                 """
                 st.markdown("<h3 style='text-align: center;'></h3>",unsafe_allow_html=True)                
