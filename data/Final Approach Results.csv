@@ -1,0 +1,11 @@
+Method,Expected annual return %,Number of funds,Test return %,Volatility %
+CVaR Stock,17.7,9,26.17,13.69
+CDaR Stock,16.9,8,23.24,12.78
+Risk 1 CVaR,9.1,6,09.03,6.19
+Risk 1 CDaR,7.8,6,10.65,4.86
+Risk 2 CVaR,13.3,10,12.26,7.2
+Risk 2 CDaR,12.8,10,12.66,7.47
+Risk 3 CVaR,15.8,11,16.02,10.11
+Risk 3 CDaR,15.7,10,18.05,11.11
+Risk 4 CVaR,17.6,8,26.39,13.73
+Risk 4 CDaR,16.9,8,23.24,12.78
