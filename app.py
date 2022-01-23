@@ -92,12 +92,12 @@ def header():
             <head>
             <title>PControlDB</title>
             <meta charset="utf-8">
-            <meta name="keywords" content="IroAdvisor , Your Personal Fund Manager">
-            <meta name="description" content="IroAdvisor Your Personal Fund Manage">
+            <meta name="keywords" content="IroAdvisor , Your personal fund portfolio optimizer">
+            <meta name="description" content="IroAdvisor Your personal fund portfolio optimizer">
             <meta name="viewport" content="width=device-width, initial-scale=1">
             </head>
-            <h1 style="font-size:300%; color:#008080; font-family:Georgia"> IROADVISOR <br>
-            <h2 style="color:#008080; font-family:Georgia"> Your Personal Fund Manager</h3> <br>
+            <h1 style="font-size:300%; color:#008080; font-family:Georgia"> IROADVISOR (Beta)<br>
+            <h2 style="color:#008080; font-family:Georgia"> Your personal fund portfolio optimizer</h3> <br>
             <hr style= "  display: block;
             margin-top: 0.5em;
             margin-bottom: 0.5em;
@@ -107,7 +107,7 @@ def header():
             border-width: 1.5px;"></h1>
         """
             st.set_page_config(
-                page_title = "IroAdvisor — Your Personal Fund Manager",
+                page_title = "IroAdvisor — Your personal fund portfolio optimizer",
                 page_icon = Image.open('./data/crop_circle.png')   , 
                 layout = "wide",
                 initial_sidebar_state = "auto")
@@ -120,7 +120,7 @@ def header():
             # </style> """, unsafe_allow_html=True)
             html_header1="""
 
-                <h2 style="font-size:300%; color:#008080; font-family:Georgia">Risk Level Questionnaire</h2>
+                <h2 style="font-size:300%; color:#008080; font-family:Georgia">Risk Assessment Questionnaire</h2>
             """
 
             st.markdown(html_header1, unsafe_allow_html=True)
@@ -357,7 +357,7 @@ def initial_metrics(info_dict,budget):
             <div class="card">
             <div class="card-body" style="border-radius: 10px 10px 0px 0px; background: #eef9ea; padding-top: 5px; width: 300px;
             height: 50px;">
-                <h3 class="card-title" style="background-color:#eef9ea; color:#008080; font-family:Georgia; text-align: center; padding: 0px 0;">Money Obtained</h3>
+                <h3 class="card-title" style="background-color:#eef9ea; color:#008080; font-family:Georgia; text-align: center; padding: 0px 0;">Capital Earned</h3>
             </div>
             </div>
             """
@@ -365,7 +365,7 @@ def initial_metrics(info_dict,budget):
             <div class="card">
             <div class="card-body" style="border-radius: 10px 10px 0px 0px; background: #eef9ea; padding-top: 5px; width: 300px;
             height: 50px;">
-                <h3 class="card-title" style="background-color:#eef9ea; color:#008080; font-family:Georgia; text-align: center; padding: 0px 0;">Total Money</h3>
+                <h3 class="card-title" style="background-color:#eef9ea; color:#008080; font-family:Georgia; text-align: center; padding: 0px 0;">Capital after 1 Year</h3>
             </div>
             </div>
             """
