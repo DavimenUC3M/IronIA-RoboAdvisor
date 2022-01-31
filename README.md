@@ -14,8 +14,8 @@ Robo Advisor algorithm design for drawdown-based optimization of investment port
 This project has been carried out by 4th year students of the Degree in Data Science and Engineering of the University Carlos III de Madrid (UC3M) within the framework of the subject Data Science Project in Madrid, Spain, January 2022.
 
 * **Bernardo Bouzas** ([Linkedin](https://www.linkedin.com/in/bbouzas/)) ([Twitter](https://www.twitter.com/berniBZS/)) ([Github](https://github.com/berniBZS))
-* **David Méndez** ([Linkedin](https://www.linkedin.com/in/david-m%C3%A9ndez-encinas-4313221b4/)) ([Github](https://github.com/berniBZS))
-* **Claudio Sotillos** ([Linkedin](https://www.linkedin.com/in/claudio-sotillos-peceroso-a1a240217/)) ([Github](https://github.com/berniBZS))
+* **David Méndez** ([Linkedin](https://www.linkedin.com/in/david-m%C3%A9ndez-encinas-4313221b4/)) ([Github](https://github.com/DavimenUC3M))
+* **Claudio Sotillos** ([Linkedin](https://www.linkedin.com/in/claudio-sotillos-peceroso-a1a240217/)) ([Github](https://github.com/claudio-sotillos))
 * **Laura Torregrosa**
 
 ## Partner
@@ -26,7 +26,7 @@ IronIA was faced with the need to build a Robo Advisor to suggest fund investmen
 
 
 ## Installation
-Create a **Python 3.9** virtual environment and run the following command:
+Create a **Python 3.8** virtual environment and run the following command:
 ```
 pip install -r requirements.txt
 ```
@@ -56,10 +56,11 @@ A 48-page technical report is also attached, which exhaustively details the appr
 
 Said document covers the following contents:
 
-###Introduction
+**Introduction**
 * Introduction to the partner 
 * Introduction to the project
-###Initial thoughts
+
+**Initial thoughts**
 * Historical background
 * Available data overview
 * Working in a cloud environment
@@ -67,9 +68,11 @@ Said document covers the following contents:
 * Categories dataframe
 * Ratios dataframe
 * Overcoming main dataset challenges
-###Initial portfolio allocation
+
+**Initial portfolio allocation**
 * Linear vs nonlinear programming algorithms
-###Risk management optimization
+
+**Risk management optimization**
 * Conditional Value-At-Risk
 * Conditional Drawdown-at-risk
 * Mean-Absolute Deviation
@@ -78,32 +81,42 @@ Said document covers the following contents:
 * Inherited assumptions
 * Core approach
 * Linearization
-###Technical methodology
+
+**Technical methodology**
 * pyportfolioopt library
 * pyomo library
 * Experiment
 * Results 
-###Phase 2: Model refinement
+
+**Phase 2: Model refinement**
 * Fund classes adjustment
 * Hierarchical computation
 * Betas challenges
 * Risk-balanced portfolio adjustment
-###Multi-characterization of global markets 
+
+**Multi-characterization of global markets** 
 * Introduction and key ideas
 * Market evaluation
 * Variables selection
 * Scraping methodology
 * Data preprocessing and tuning
-###Proximity-based portfolio assimilation 
+
+**Proximity-based portfolio assimilation**
 * Clustering: 1st approach
 * Distance matching: 2nd approach 
 * Comparing approaches
-###IroAdvisor_v1.01: Minimum Viable Product 
+
+**IroAdvisor_v1.01: Minimum Viable Product** 
 * Aim of the MVP
 * Risk aversion assessment
 * Tool deployment
-###Final results
-###Future improvements
-###Final conclusions
-###References
-###Extra bibliography consulted
+
+**Final results**
+
+**Future improvements**
+
+**Final conclusions**
+
+**References**
+
+**Extra bibliography consulted**
